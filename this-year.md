@@ -38,6 +38,8 @@
 
 2024-05-26, @36kr, [今年一季度我国清洁能源完成投资超千亿元](https://36kr.com/newsflashes/2792122536313735?f=rss)
 
+2024-05-26, @V2EX, [[Apple] iPhone 手机，跨区安装 app 失败](https://www.v2ex.com/t/1044076#reply0)
+
 2024-05-26, @PTT(台湾论坛), [[LIVE] AXN 21:00 隱世英雄-撒瑪利亞](https://www.ptt.cc/bbs/movie/M.1716715373.A.4FA.html)
 
 2024-05-26, @V2EX, [[分享创造] 开发者阅读优质 RSS 分享](https://www.v2ex.com/t/1044074#reply0)
@@ -493,7 +495,7 @@
 
 2024-05-26, @少数派, [找不到好听的新歌？从这些地方扩充你的华语曲库](https://sspai.com/post/89093)
 
-2024-05-26, @V2EX, [[Google Play] 大佬们知道哪些国内 APP 的 google play 版本是可用且没有体验下降的吗](https://www.v2ex.com/t/1044007#reply21)
+2024-05-26, @V2EX, [[Google Play] 大佬们知道哪些国内 APP 的 google play 版本是可用且没有体验下降的吗](https://www.v2ex.com/t/1044007#reply22)
 
 2024-05-26, @方圆小站, [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
 
@@ -502,8 +504,6 @@
 2024-05-26, @IT之家, [搭载 Sailfish OS 旗鱼系统 5.0，Jolla“S19 MAX PRO S”定制手机“买一送一”售 10800 里拉](https://www.ithome.com/0/770/754.htm)
 
 2024-05-26, @V2EX, [[macOS] 苹果是不是每次都要在输入法整点活出来](https://www.v2ex.com/t/1044006#reply3)
-
-2024-05-26, @V2EX, [[Steam] 关于游戏下载走直连不走代理](https://www.v2ex.com/t/1044005#reply14)
 
 2024-05-26, @LimeTorrents, [PornMegaLoad 24 05 25 Stella Luxx Solo 40355 XXX 480p MP4-XXX [](https://www.limetorrents.lol/PornMegaLoad-24-05-25-Stella-Luxx-Solo-40355-XXX-480p-MP4-XXX-[-torrent-18484542.html)
 
