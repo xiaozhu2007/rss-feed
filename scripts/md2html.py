@@ -36,10 +36,6 @@ if __name__ == "__main__":
                     f.write(md2html(content))
                 index.append(f"- [{tname}]({base_url}/{tname})")
 
-    index.append(
-        "- [github-action-rss](https://github.com/rogeryoungh/github-action-rss)"
-    )
-
     index.append(this_year)
 
     with open("./build/index.html", "w") as f:
