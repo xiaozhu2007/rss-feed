@@ -17,6 +17,7 @@
     </outline>
     <outline text="Other" title="Other">
       <outline text="36氪" title="36氪" type="rss" xmlUrl="https://www.36kr.com/feed" htmlUrl="https://www.36kr.com/feed"/>
+      <outline text="潮流周刊" title="潮流周刊" type="rss" xmlUrl="https://weekly.tw93.fun/rss.xml" htmlUrl="https://weekly.tw93.fun/rss.xml"/>
       <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://feeds.feedburner.com/ruanyifeng"/>
       <outline text="蓝点网" title="蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed" htmlUrl="https://www.landiannews.com/feed"/>
       <outline text="开源中国资讯" title="开源中国资讯" type="rss" xmlUrl="https://rsshub.app/oschina/news" htmlUrl="https://rsshub.app/oschina/news"/>
