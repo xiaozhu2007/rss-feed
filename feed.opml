@@ -11,7 +11,7 @@
       <outline text="字节跳动团队技术博客" title="字节跳动团队技术博客" type="rss" xmlUrl="https://blog.csdn.net/ByteDanceTech/rss/list" htmlUrl="https://blog.csdn.net/ByteDanceTech/rss/list"/>
       <outline text="美团技术团队博客" title="美团技术团队博客" type="rss" xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"/>
       <outline text="百度 FEX 团队" title="百度 FEX 团队" type="rss" xmlUrl="https://fex.baidu.com/feed.xml" htmlUrl="https://fex.baidu.com/feed.xml"/>
-      <outline text="iDese" title="iDese" type="rss" xmlUrl="https://www.36kr.com/feed" htmlUrl="https://idese.co/feed/"/>
+      <outline text="iDese" title="iDese" type="rss" xmlUrl="https://idese.co/feed/" htmlUrl="https://idese.co/feed/"/>
     </outline>
     <outline text="Other" title="Other">
       <outline text="36氪" title="36氪" type="rss" xmlUrl="https://www.36kr.com/feed" htmlUrl="https://www.36kr.com/feed"/>
