@@ -13,9 +13,13 @@
       <outline text="美团技术团队博客" title="美团技术团队博客" type="rss" xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"/>
       <outline text="云音乐大前端专栏" title="云音乐大前端专栏" type="rss" xmlUrl="https://musicfe.dev/rss" htmlUrl="https://musicfe.dev/rss"/>
       <outline text="百度 FEX 团队" title="百度 FEX 团队" type="rss" xmlUrl="https://fex.baidu.com/feed.xml" htmlUrl="https://fex.baidu.com/feed.xml"/>
+      <outline text="iDese" title="iDese" type="rss" xmlUrl="https://www.36kr.com/feed" htmlUrl="https://idese.co/feed/"/>
     </outline>
     <outline text="Other" title="Other">
       <outline text="36氪" title="36氪" type="rss" xmlUrl="https://www.36kr.com/feed" htmlUrl="https://www.36kr.com/feed"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://feeds.feedburner.com/ruanyifeng"/>
+      <outline text="蓝点网" title="蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed" htmlUrl="https://www.landiannews.com/feed"/>
+      <outline text="开源中国资讯" title="开源中国资讯" type="rss" xmlUrl="https://rsshub.app/oschina/news" htmlUrl="https://rsshub.app/oschina/news"/>
       <outline text="不死鸟" title="不死鸟" type="rss" xmlUrl="https://iao.su/feed" htmlUrl="https://iao.su/feed"/>
       <outline text="小众软件" title="小众软件" type="rss" xmlUrl="https://www.appinn.com/feed/" htmlUrl="https://www.appinn.com/feed/"/>
       <outline text="少数派" title="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/feed"/>
