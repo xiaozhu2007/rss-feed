@@ -7,11 +7,9 @@
     <outline text="DevBlog" title="DevBlog">
       <outline text="Awesome Rust Weekly" title="Awesome Rust Weekly" type="rss" xmlUrl="https://rust.libhunt.com/newsletter/feed" htmlUrl="https://rust.libhunt.com/newsletter/feed"/>
       <outline text="This Week in Rust" title="This Week in Rust" type="rss" xmlUrl="http://this-week-in-rust.org/atom.xml" htmlUrl="http://this-week-in-rust.org/"/>
-      <outline text="liuzhen932 的小窝" title="liuzhen932 的小窝" type="rss" xmlUrl="https://www-api.liuzhen932.top/feed" htmlUrl="https://www-api.liuzhen932.top/feed"/>
       <outline text="淘系前端团队" title="淘系前端团队" type="rss" xmlUrl="https://fed.taobao.org/atom.xml" htmlUrl="https://fed.taobao.org/atom.xml"/>
       <outline text="字节跳动团队技术博客" title="字节跳动团队技术博客" type="rss" xmlUrl="https://blog.csdn.net/ByteDanceTech/rss/list" htmlUrl="https://blog.csdn.net/ByteDanceTech/rss/list"/>
       <outline text="美团技术团队博客" title="美团技术团队博客" type="rss" xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"/>
-      <outline text="云音乐大前端专栏" title="云音乐大前端专栏" type="rss" xmlUrl="https://musicfe.dev/rss" htmlUrl="https://musicfe.dev/rss"/>
       <outline text="百度 FEX 团队" title="百度 FEX 团队" type="rss" xmlUrl="https://fex.baidu.com/feed.xml" htmlUrl="https://fex.baidu.com/feed.xml"/>
       <outline text="iDese" title="iDese" type="rss" xmlUrl="https://www.36kr.com/feed" htmlUrl="https://idese.co/feed/"/>
     </outline>
@@ -20,7 +18,6 @@
       <outline text="CN@Flipboard" title="CN@Flipboard" type="rss" xmlUrl="https://flipboard.com/topic/china.rss" htmlUrl="https://flipboard.com/topic/china.rss"/>
       <outline text="潮流周刊" title="潮流周刊" type="rss" xmlUrl="https://weekly.tw93.fun/rss.xml" htmlUrl="https://weekly.tw93.fun/rss.xml"/>
       <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://feeds.feedburner.com/ruanyifeng"/>
-      <outline text="蓝点网" title="蓝点网" type="rss" xmlUrl="https://www.landiannews.com/feed" htmlUrl="https://www.landiannews.com/feed"/>
       <outline text="开源中国资讯" title="开源中国资讯" type="rss" xmlUrl="https://rsshub.app/oschina/news" htmlUrl="https://rsshub.app/oschina/news"/>
       <outline text="不死鸟" title="不死鸟" type="rss" xmlUrl="https://iao.su/feed" htmlUrl="https://iao.su/feed"/>
       <outline text="小众软件" title="小众软件" type="rss" xmlUrl="https://www.appinn.com/feed/" htmlUrl="https://www.appinn.com/feed/"/>
@@ -28,7 +25,6 @@
       <outline text="奇舞周刊" title="奇舞周刊" type="rss" xmlUrl="https://weekly.75.team/rss" htmlUrl="https://weekly.75.team/rss"/>
       <outline text="Apple新闻" title="Apple新闻" type="rss" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" htmlUrl="https://www.apple.com/newsroom/rss-feed.rss"/>
       <outline text="知乎" title="知乎" type="rss" xmlUrl="https://www.zhihu.com/rss" htmlUrl="https://www.zhihu.com/rss"/>
-      <outline text="爱范儿" title="爱范儿" type="rss" xmlUrl="https://www.ifanr.com/feed" htmlUrl="https://www.ifanr.com/feed"/>
       <outline text="IT之家" title="IT之家" type="rss" xmlUrl="https://www.ithome.com/rss" htmlUrl="https://www.ithome.com/rss"/>
       <outline text="HelloGitHub 月刊" title="HelloGitHub 月刊" type="rss" xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com/rss"/>
       <outline text="蠎周刊" title="蠎周刊" type="rss" xmlUrl="https://weekly.pychina.org/feeds/all.atom.xml" htmlUrl="https://weekly.pychina.org/feeds/all.atom.xml"/>
@@ -37,8 +33,7 @@
       <outline text="豆瓣" title="豆瓣" type="rss" xmlUrl="https://www.douban.com/feed/review/book" htmlUrl="https://www.douban.com/feed/review/book"/>
       <outline text="豆瓣" title="豆瓣" type="rss" xmlUrl="https://www.douban.com/feed/review/music" htmlUrl="https://www.douban.com/feed/review/music"/>
       <outline text="开源中国" title="开源中国" type="rss" xmlUrl="https://www.oschina.net/blog/rss" htmlUrl="https://www.oschina.net/blog/rss"/>
-      <outline text="博客园" title="博客园" type="rss" xmlUrl="http://feed.cnblogs.com/blog/picked/rss" htmlUrl="http://feed.cnblogs.com/blog/picked/rss"/>
-      <outline text="博客园" title="博客园" type="rss" xmlUrl="http://feed.cnblogs.com/blog/sitehome/rss" htmlUrl="http://feed.cnblogs.com/blog/sitehome/rss"/>
+      <outline text="博客园" title="博客园" type="rss" xmlUrl="http://feed.cnblogs.com/blog/sitehome/rss" htmlUrl="https://feed.cnblogs.com/blog/sitehome/rss"/>
       <outline text="cnBeta" title="cnBeta" type="rss" xmlUrl="https://feedx.net/rss/cnbetatop.xml" htmlUrl="https://feedx.net/rss/cnbetatop.xml"/>
       <outline text="China Daily News" title="China Daily News" type="rss" xmlUrl="http://www.chinadaily.com.cn/rss/cndy_rss.xml" htmlUrl="http://www.chinadaily.com.cn/rss/cndy_rss.xml"/>
       <outline text="游戏葡萄" title="游戏葡萄" type="rss" xmlUrl="https://rsshub.v2fy.com/gamegrape/13" htmlUrl="https://rsshub.v2fy.com/gamegrape/13"/>
