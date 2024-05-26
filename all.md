@@ -38,15 +38,39 @@
 
 2024-05-26, @36kr, [今年一季度我国清洁能源完成投资超千亿元](https://36kr.com/newsflashes/2792122536313735?f=rss)
 
+2024-05-26, @PTT(台湾论坛), [[正妹] Cosplay 915 中國 連身](https://www.ptt.cc/bbs/Beauty/M.1716715843.A.860.html)
+
 2024-05-26, @V2EX, [[Apple] iPhone 手机，跨区安装 app 失败](https://www.v2ex.com/t/1044076#reply0)
 
 2024-05-26, @PTT(台湾论坛), [[LIVE] AXN 21:00 隱世英雄-撒瑪利亞](https://www.ptt.cc/bbs/movie/M.1716715373.A.4FA.html)
+
+2024-05-26, @Torlock, [3DMGAME-The.Quintessential.Quintuplets.Five.Memories.Spent.With.You-P2P](https://www.torlock.com/torrent/67084543/3dmgame-the-quintessential-quintuplets-five-memories-spent-with-you.html)
+
+2024-05-26, @Torlock, [3DMGAME-DEVIL.BLADE.REBOOT-Chronos](https://www.torlock.com/torrent/67084542/3dmgame-devil-blade-reboot-chronos.html)
+
+2024-05-26, @Torlock, [www.SceneTime.com   -    On Patrol Live S01E86 480p x264-mSD](https://www.torlock.com/torrent/67084540/on-patrol-live-s01e86-480p.html)
+
+2024-05-26, @Torlock, [www.SceneTime.com   -    On Patrol Live S01E85 480p x264-mSD](https://www.torlock.com/torrent/67084539/on-patrol-live-s01e85-480p.html)
+
+2024-05-26, @Torlock, [The.1.Percent.Club.S03E12.1080p.WEB.h264-CODSWALLOP[EZTVx.to].mkv](https://www.torlock.com/torrent/67084538/the-1-percent-club-s03e12-1080p-web-h264-codswallop.html)
+
+2024-05-26, @Torlock, [Britains.Got.Talent.S17E07.1080p.WEB.h264-CODSWALLOP[EZTVx.to].mkv](https://www.torlock.com/torrent/67084537/britains-got-talent-s17e07-1080p-web-h264-codswallop.html)
 
 2024-05-26, @V2EX, [[分享创造] 开发者阅读优质 RSS 分享](https://www.v2ex.com/t/1044074#reply0)
 
 2024-05-26, @IT之家, [宝马 Skytop 概念车亮相，采用可手动拆卸硬顶设计](https://www.ithome.com/0/770/820.htm)
 
 2024-05-26, @IT之家, [LG 冰趣系列 508L 敲一敲十字四门冰箱上市：透视窗、三合一制冰，13599 元](https://www.ithome.com/0/770/819.htm)
+
+2024-05-26, @Torlock, [James.Martins.Saturday.Morning.S07E21.1080p.WEB.h264-CODSWALLOP[EZTVx.to].mkv](https://www.torlock.com/torrent/67084535/james-martins-saturday-morning-s07e21-1080p-web-h264-codswallop.html)
+
+2024-05-26, @Torlock, [www.SceneTime.com   -    On Patrol Live S01E84 XviD-AFG](https://www.torlock.com/torrent/67084534/on-patrol-live-s01e84.html)
+
+2024-05-26, @Torlock, [www.SceneTime.com   -    On Patrol Live S01E87 480p x264-mSD](https://www.torlock.com/torrent/67084533/on-patrol-live-s01e87-480p.html)
+
+2024-05-26, @Torlock, [3DMGAME-SCHiM.Build.14442474-P2P](https://www.torlock.com/torrent/67084532/3dmgame-schim-build-14442474.html)
+
+2024-05-26, @Torlock, [3DMGAME-Brothers_A_Tale_of_Two_Sons_Remake_v20240417-Razor1911](https://www.torlock.com/torrent/67084531/3dmgame-brothers_a_tale_of_two_sons_remake_v20240417-razor1911.html)
 
 2024-05-26, @bang's blog, [理解 Stable Diffusion UNet 网络](http://blog.cnbang.net/tech/3823/)
 
@@ -114,29 +138,7 @@
 
 2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】破茧2[高码版][第13集][国语配音+中文字幕].Insect.Detective.S02.2024.2160p.HQ.WEB-DL.H265.AAC.2Audio-BlackTV](https://www.torlock.com/torrent/67084454/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E7%A0%B4%E8%8C%A72%5B%E9%AB%98%E7%A0%81%E7%89%88%5D%5B%E7%AC%AC13%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D-insect-detective.html)
 
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】请和搞笑的我谈恋爱[第11集][国语配音+中文字幕].2024.2160p.WEB-DL.H265.DDP2.0-ZeroTV](https://www.torlock.com/torrent/67084453/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E8%AF%B7%E5%92%8C%E6%90%9E%E7%AC%91%E7%9A%84%E6%88%91%E8%B0%88%E6%81%8B%E7%88%B1%5B%E7%AC%AC11%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D-2024-21.html)
-
-2024-05-26, @Torlock, [www.SceneTime.com   -    On Patrol Live S01E90 480p x264-mSD](https://www.torlock.com/torrent/67084452/on-patrol-live-s01e90-480p.html)
-
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】哈哈哈哈哈 第四季[60帧率版本][第21集][国语配音+中文字幕].2020.2160p.WEB-DL.H265.60fps.AAC-LelveTV](https://www.torlock.com/torrent/67084451/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88-%E7%AC%AC%E5%9B%9B%E5%AD%A3%5B60%E5%B8%A7%E7%8E%87%E7%89%88%E6%9C%AC%5D%5B%E7%AC%AC21%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5.html)
-
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】五十公里桃花坞4[第02集][国语配音+中文字幕].50.km.Taohuawu.S04.2024.1080p.WEB-DL.H264.AAC-LelveTV](https://www.torlock.com/torrent/67084450/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E4%5B%E7%AC%AC02%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D-50-km-taohua.html)
-
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】战队大失格[第07集][简繁英字幕].Sentai.Daishikkaku.S01.2024.1080p.DSNP.WEB-DL.H264.AAC-ZeroTV](https://www.torlock.com/torrent/67084449/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E6%88%98%E9%98%9F%E5%A4%A7%E5%A4%B1%E6%A0%BC%5B%E7%AC%AC07%E9%9B%86%5D%5B%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%5D-sentai-daishikkaku-s01-2024-1.html)
-
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】哈哈哈哈哈 第四季[第21集][国语配音+中文字幕].Ha.Ha.Ha.Ha.Ha.S04.2020.2160p.WEB-DL.H265.EDR.AAC-LelveTV](https://www.torlock.com/torrent/67084448/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88-%E7%AC%AC%E5%9B%9B%E5%AD%A3%5B%E7%AC%AC21%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D-ha-ha-ha-.html)
-
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】斗破苍穹 年番[第98集][国语配音+中文字幕].Fights.Break.Sphere.S05.2022.2160p.WEB-DL.H265.DDP2.0-ZeroTV](https://www.torlock.com/torrent/67084447/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9-%E5%B9%B4%E7%95%AA%5B%E7%AC%AC98%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D-fights-break-sp.html)
-
-2024-05-26, @Torlock, [Britains.Got.Talent.S17E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv](https://www.torlock.com/torrent/67084446/britains-got-talent-s17e07-1080p-hevc-x265.html)
-
 2024-05-26, @PTT(台湾论坛), [[討論] 星際效應--未來人為何不直接把蟲洞開好](https://www.ptt.cc/bbs/movie/M.1716712858.A.E3B.html)
-
-2024-05-26, @Torlock, [Later.with.Jools.Holland.S64E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv](https://www.torlock.com/torrent/67084444/later-with-jools-holland-s64e02-1080p-hevc-x265.html)
-
-2024-05-26, @Torlock, [Teorey T. Database Modeling and Design. Logical Design 5ed 2011](https://www.torlock.com/torrent/67084443/teorey-t-database-modeling-and-design-logical-design-5ed.html)
-
-2024-05-26, @Torlock, [FBI Most Wanted S02E04 Anonymous REPACK 720p AMZN WEB-DL DDP5 1 H 264-NTb[TGx]](https://www.torlock.com/torrent/67084442/fbi-most-wanted-s02e04-anonymous-repack-720p-amzn-web-dl-ddp5-1-h-264.html)
 
 2024-05-26, @IT之家, [消息称代号“Chronicle”的《皇牌空战 8》为万代南梦宫下一个大规模游戏项目](https://www.ithome.com/0/770/812.htm)
 
@@ -190,7 +192,7 @@
 
 2024-05-26, @V2EX, [[程序员] 求推荐：一个语音识别的 API 聚合工具](https://www.v2ex.com/t/1044059#reply0)
 
-2024-05-26, @V2EX, [[Android] 安卓使用第三方 ROM 或是 root 时，如何保证安全？](https://www.v2ex.com/t/1044058#reply2)
+2024-05-26, @V2EX, [[Android] 安卓使用第三方 ROM 或是 root 时，如何保证安全？](https://www.v2ex.com/t/1044058#reply3)
 
 2024-05-26, @V2EX, [[问与答] 求一张用户体验的表情包](https://www.v2ex.com/t/1044057#reply1)
 
@@ -295,7 +297,7 @@
 
 2024-05-26, @IT之家, [极氪 001 车主称被困车内 10 分钟打不开门，客服回应：正在跟进处理](https://www.ithome.com/0/770/779.htm)
 
-2024-05-26, @V2EX, [[程序员] 程序员们，人体工学椅 西昊 S300 和有谱蝴蝶 2.0，选哪个？](https://www.v2ex.com/t/1044038#reply4)
+2024-05-26, @V2EX, [[程序员] 程序员们，人体工学椅 西昊 S300 和有谱蝴蝶 2.0，选哪个？](https://www.v2ex.com/t/1044038#reply5)
 
 2024-05-26, @雪球, [电力体制改革专家详细解读（万字长文纪要）](http://xueqiu.com/8674986766/291437289)
 
@@ -307,7 +309,7 @@
 
 2024-05-26, @博客园, [Windows Server 2022 NTP服务器 - 筱崋](https://www.cnblogs.com/nc086/p/18213575)
 
-2024-05-26, @V2EX, [[程序员] 阿里云轻量应用服务器 ,大佬们都用什么客户端同步网页脚本啊?](https://www.v2ex.com/t/1044036#reply3)
+2024-05-26, @V2EX, [[程序员] 阿里云轻量应用服务器 ,大佬们都用什么客户端同步网页脚本啊?](https://www.v2ex.com/t/1044036#reply4)
 
 2024-05-26, @YTS, [Asphalt City (2023) [720p] [BluRay] [YTS.MX]](https://yts.mx/movies/asphalt-city-2023)
 
@@ -487,7 +489,7 @@
 
 2024-05-26, @IT之家, [消息称微软将开放第三方厂商制造“OEM 授权版”Xbox 主机](https://www.ithome.com/0/770/755.htm)
 
-2024-05-26, @V2EX, [[Windows] 微软即将推出“召回”功能来帮助 Windows 用户回溯操作](https://www.v2ex.com/t/1044009#reply16)
+2024-05-26, @V2EX, [[Windows] 微软即将推出“召回”功能来帮助 Windows 用户回溯操作](https://www.v2ex.com/t/1044009#reply17)
 
 2024-05-26, @LimeTorrents, [XevUnleashed 22 05 11 A Cops Ruined Orgasm XXX 2160p MP4-GAYME](https://www.limetorrents.lol/XevUnleashed-22-05-11-A-Cops-Ruined-Orgasm-XXX-2160p-MP4-GAYME-torrent-18484546.html)
 
@@ -690,8 +692,6 @@
 2024-05-25, @Pixiv(艺术家社区), [アイマス4コマまとめ修正①](https://www.pixiv.net/artworks/119046702)
 
 2024-05-25, @Pixiv(艺术家社区), [カフェは私服の破壊力が高すぎる・・・(ただの布教)](https://www.pixiv.net/artworks/119046587)
-
-2024-05-25, @PTT(台湾论坛), [[正妹] AV女優 山手梨愛（NSFW）](https://www.ptt.cc/bbs/Beauty/M.1716644188.A.C5F.html)
 
 2024-05-25, @博客园, [博客园众包平台：嵌入式开发任务悬赏5万，招募开发者接单 - 博客园团队](https://www.cnblogs.com/cmt/p/18212995)
 
@@ -2987,8 +2987,6 @@
 
 2023-09-23, @搞笑談軟工, [練好基本功](https://teddy-chen-tw.blogspot.com/feeds/3323865525876904683/comments/default)
 
-2023-09-22, @黑果小兵的部落阁, [使用OpenCore Legacy Patcher工具在macOS Sonoma中重新打开不被支持的博通Wi-Fi无线网卡的正确插入姿势](https://blog.daliansky.net/OCLP.html)
-
 2023-09-22, @搞笑談軟工, [改行寫網路小說算了(25)](https://teddy-chen-tw.blogspot.com/feeds/5222637518286992510/comments/default)
 
 2023-09-20, @数字尾巴, [以「双面屏」开启数字牙刷时代：usmile 笑容加数字牙刷 F10 PRO 体验](http://www.dgtle.com/article-1692071-1.html)
@@ -3120,10 +3118,6 @@
 2023-07-06, @依云's Blog, [btrfs 翻车记](https://blog.lilydjwg.me/posts/216658.html)
 
 2023-07-06, @依云, [btrfs 翻车记](https://blog.lilydjwg.me/posts/216658.html)
-
-2023-07-05, @黑果小兵的部落阁, [RichVision未来视野 RV100 5K 果粉屏](https://blog.daliansky.net/RichVision-RV100-5K.html)
-
-2023-07-05, @黑果小兵的部落阁, [Intel NUC9黑苹果兼Sonoma安装教程](https://blog.daliansky.net/Intel-NUC9-Hackintosh-and-macOS-Sonoma-Installation-Tutorial.html)
 
 2023-07-05, @蠎周刊, [蠎周刊(PyCoder)584](https://weekly.pychina.org/issue/issue-584.html)
 
@@ -3743,8 +3737,6 @@
 
 2022-10-25, @cnBeta, [小米发布奥特曼定制版手表：799元 支持微信、QQ](https://m.cnbeta.com/view/1330127.htm)
 
-2022-10-25, @黑果小兵的部落阁, [minisforum HX80G/HX90G/HX99G兼Ventura安装教程](https://blog.daliansky.net/minisforum-HX90G-and-HX99G-macOS-Ventura-Installation-Tutorial.html)
-
 2022-10-24, @清竹茶馆, [【1024献礼】生成可掌握钱包和揭秘NFT和token被盗案例以及如何预防被盗](https://blog.vadxq.com/article/generate-wallet-anti-theft/)
 
 2022-10-24, @cnBeta, [“韩版腾讯“一场大火：韩国一夜退回石器时代 沦陷整整4天](https://m.cnbeta.com/view/1329759.htm)
@@ -3846,8 +3838,6 @@
 2022-09-07, @依云's Blog, [让离线软件真正离线](https://blog.lilydjwg.me/posts/216461.html)
 
 2022-09-07, @依云, [让离线软件真正离线](https://blog.lilydjwg.me/posts/216461.html)
-
-2022-09-07, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Monterey 12.5.1 21G83 Installer for OpenCore 0.8.4 and CLOVER 5148 and FirPE 三EFI分区原版镜像](https://blog.daliansky.net/macOS-Monterey-12.5.1-21G83-Release-version-with-OC-0.8.4-CLOVER-5148-and-FirPE-original-image.html)
 
 2022-09-07, @蠎周刊, [PyCoder 541](https://weekly.pychina.org/issue/issue-541.html)
 
@@ -4115,8 +4105,6 @@
 
 2022-06-08, @腾讯CDC, [CDC夜校回顾NO.25｜如何利用大数据文本分析为研究赋能、应用迭代路上的三重门](https://cdc.tencent.com/2022/06/08/cdc%e5%a4%9c%e6%a0%a1%e5%9b%9e%e9%a1%beno-25%ef%bd%9c%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e5%a4%a7%e6%95%b0%e6%8d%ae%e6%96%87%e6%9c%ac%e5%88%86%e6%9e%90%e4%b8%ba%e7%a0%94%e7%a9%b6%e8%b5%8b%e8%83%bd-2/)
 
-2022-06-08, @黑果小兵的部落阁, [macOS Ventura 13.0安装中常见的问题及解决方法](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Ventura-13.0-installation.html)
-
 2022-06-07, @Her Blue, [小剧场「家里的哈根达斯八个幸福故事 」](https://her.blue/xiao-ju-chang-jia-li-de-ha-gen-da-si-ba-ge-xing-fu-gu-shi/)
 
 2022-06-07, @腾讯CDC, [主旋“绿”｜六一&十六](https://cdc.tencent.com/2022/06/07/%e4%b8%bb%e6%97%8b%e7%bb%bf%ef%bd%9c%e5%85%ad%e4%b8%80%e5%8d%81%e5%85%ad/)
@@ -4168,8 +4156,6 @@
 2022-05-23, @Behance官方博客, [A New Home for the Behance Blog](https://medium.com/behance-blog/a-new-home-for-the-behance-blog-8261c8e49c2b?source=rss-f5272b7f3182------2)
 
 2022-05-23, @代码家, [Flash Loans (闪电贷) 是什么？](https://www.daimajia.com/2022/05/23/what-is-flash-loans)
-
-2022-05-17, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Big Sur 11.6.6 20G624 Installer for OpenCore 0.8.0 and CLOVER 5142 and PE 三 EFI 分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.6.6-20G624-Release-version-with-OC-0.8.0-and-Clover-5142-and-PE-original-image.html)
 
 2022-05-16, @Behance官方博客, [Make Monthly Income with Your Behance Content Through Subscriptions](https://medium.com/behance-blog/make-monthly-income-with-your-behance-content-through-subscriptions-2071ac795d4d?source=rss-f5272b7f3182------2)
 
@@ -4463,13 +4449,9 @@
 
 2021-12-13, @Matrix67, [一些有趣的环面多面体](http://www.matrix67.com/blog/archives/7048)
 
-2021-12-13, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Monterey 12.1 21C52 Installer for OpenCore 0.7.6 and CLOVER 5143 and WEPE 三 EFI 分区原版镜像](https://blog.daliansky.net/macOS-Monterey-12.1-21C52-Release-version-with-OC-0.7.6-CLOVER-5143-and-FirPE-original-image.html)
-
 2021-12-10, @爪哇堂 JavaTang, [Ubuntu使用Recovery Mode修复系统](https://www.javatang.com/archives/2021/12/10/49233654.html)
 
 2021-12-08, @清竹茶馆, [【Swift】Swift学习计划与资料](https://blog.vadxq.com/article/juan-swift-study-plan/)
-
-2021-12-06, @黑果小兵的部落阁, [](https://blog.daliansky.net/undefined.html)
 
 2021-12-06, @黄琦雲的博客, [后记：菠菜站点的攻克之旅](https://knightyun.github.io/2021/12/06/exploit-penetrate-bocai-website)
 
@@ -4531,12 +4513,6 @@
 
 2021-10-26, @wenzi, [<![CDATA[如何在 nodejs 的原生http服务中获取请求参数]]>](https://www.xiabingbao.com/post/nodejs/nodejs-http-getquery-qwurz4.html)
 
-2021-10-25, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Monterey 12.0.1 21A559 Installer for OpenCore 0.7.5 and CLOVER 5141 and WEPE 三 EFI 分区原版镜像](https://blog.daliansky.net/macOS-Monterey-12.0.1-21A559-Release-version-with-OC-0.7.5-CLOVER-5141-and-PE-original-image.html)
-
-2021-10-25, @黑果小兵的部落阁, [morefine S500兼Monterey安装教程](https://blog.daliansky.net/Morefine-S500-and-macOS-Monterey-Installation-Tutorial.html)
-
-2021-10-25, @黑果小兵的部落阁, [macOS Monterey 12.0安装中常见的问题及解决方法](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Monterey-12.0-installation.html)
-
 2021-10-24, @清竹茶馆, [【前端工程化】Vite关于Vue3/React项目工程化总结（献给2021-1024的礼物）](https://blog.vadxq.com/article/vite-engineering-project/)
 
 2021-10-24, @ZMonster's Blog, [闲言碎语(2021/10/11-2021/10/24)](http://www.zmonster.me/2021/10/24/lifelog.html)
@@ -4579,13 +4555,9 @@
 
 2021-09-25, @ZMonster's Blog, [我的生活记录经验及个人工具与方法](http://www.zmonster.me/2021/09/25/record-life-with-org.html)
 
-2021-09-23, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Monterey 12.0 Beta 7 21A5522h Installer for OpenCore 0.7.4 and WEPE 双 EFI 分区原版镜像](https://blog.daliansky.net/macOS-Monterey-12.0-Beta7-21A5522h-Release-version-with-OC-0.7.4-and-WEPE-original-image.html)
-
 2021-09-22, @清竹茶馆, [【图解算法】前端思维学习图解算法数据结构笔记(一)之算法复杂度](https://blog.vadxq.com/article/illustration-of-algorithm-01/)
 
 2021-09-21, @扔物线, [为什么要成为 GDE（谷歌认证开发专家）？我发现了盲点](https://rengwuxian.com/gde-sense/)
-
-2021-09-18, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Big Sur 11.6 20G165 Installer for OpenCore 0.7.3 and CLOVER 5139 and PE 三 EFI 分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.6-20G165-Release-version-with-OC-0.7.3-and-Clover-5139-and-PE-original-image.html)
 
 2021-09-15, @代码家, [Q&A：技术人如何转投资？](https://www.daimajia.com/2021/09/15/coder-to-investor)
 
@@ -4624,8 +4596,6 @@
 2021-08-12, @wenzi, [<![CDATA[NextJs 如何按服务端或浏览器端的类型分别打包]]>](https://www.xiabingbao.com/post/react/nextjs-server-client-build-qxpzwi.html)
 
 2021-08-12, @wenzi, [<![CDATA[阿里这个不是瓜，是犯罪！]]>](https://www.xiabingbao.com/post/f2e/ali-wangchengwen-qxpi3d.html)
-
-2021-08-12, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Big Sur 11.5.2 20G95 Installer for OpenCore 0.7.1 and CLOVER 5138 and PE 三 EFI 分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.5.2-20G95-Release-version-with-OC-0.7.1-and-Clover-5138-and-PE-original-image.html)
 
 2021-08-12, @wenzi, [<![CDATA[如何打造一个react技术栈的多页面的框架应用]]>](https://www.xiabingbao.com/post/react/create-react-app-multiple-page-qxphi7.html)
 
@@ -4749,8 +4719,6 @@
 
 2021-05-26, @王子亭的博客, [我们并不需要 Deno](https://jysperm.me/2021/05/we-dont-need-deno/)
 
-2021-05-26, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Big Sur 11.4 20F71 Installer for OpenCore 0.6.9 and CLOVER 5134 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.4-20F71-Release-version-with-OC-0.6.9-and-Clover-5134-and-PE-original-image.html)
-
 2021-05-23, @ZMonster's Blog, [闲言碎语(2021/05/17-2021/05/23)](http://www.zmonster.me/2021/05/23/2021-w20.html)
 
 2021-05-23, @ZMonster's Blog, [（已修复）对微信公众号 RSS 停止更新的说明](http://www.zmonster.me/2021/05/23/fix-huginn-rss.html)
@@ -4779,8 +4747,6 @@
 
 2021-05-04, @构建我的被动收入, [家庭资产配置的阶段 # 组合月报(202104)](https://www.bmpi.dev/money/passive-income-protfolio/202104/)
 
-2021-05-03, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Big Sur 11.3.1 20E241 Installer for OpenCore 0.6.8 and CLOVER 5134 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.3.1-20E241-Release-version-with-OC-0.6.8-and-Clover-5134-and-PE-original-image.html)
-
 2021-05-02, @ZMonster's Blog, [闲言碎语(2021/04/26 - 2021/05/02)](http://www.zmonster.me/2021/05/02/2021-w17.html)
 
 2021-04-29, @wenzi, [<![CDATA[JS 中一些高效的魔法运算符]]>](https://www.xiabingbao.com/post/js/js-magic-operators.html)
@@ -4791,13 +4757,9 @@
 
 2021-04-27, @构建我的被动收入, [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)
 
-2021-04-26, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Big Sur 11.3 20E232 Installer for OpenCore 0.6.8 and CLOVER 5133 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.3-20E232-Release-version-with-OC-0.6.8-and-Clover-5133-and-PE-original-image.html)
-
 2021-04-26, @Cal Paterson, [We were promised Strong AI, but instead we got metadata analysis](https://calpaterson.com/metadata.html)
 
 2021-04-24, @ZMonster's Blog, [闲言碎语(2021/04/19 - 2021/04/24)](http://www.zmonster.me/2021/04/24/2021-w16.html)
-
-2021-04-21, @黑果小兵的部落阁, [【小兵推荐】【内有福利】黑苹果远程桌面第一利器：ToDesk](https://blog.daliansky.net/Recommended-by-Xiaobing-Benefits-included-Hackintosh-remote-%20desktop-first-choice-ToDesk.html)
 
 2021-04-19, @wenzi, [<![CDATA[公众号改名叫“前端小茶馆”啦]]>](https://www.xiabingbao.com/post/wechat/wechat-official-account.html)
 
@@ -4828,8 +4790,6 @@
 2021-04-03, @黄琦雲的博客, [TypeScript 中类型 any，void，unknown，never之间的区别](https://knightyun.github.io/2021/04/03/js-ts-type-compare)
 
 2021-04-01, @千古壹号的博客, [互联网公司晋升必备的高级词汇（互联网黑话大全2021年版）](https://www.qianguyihao.com/post/2021-04-01-words/)
-
-2021-03-31, @黑果小兵的部落阁, [【小兵推荐】【内有福利】ToDesk - 国人开发的另一款免费不限速远程控制软件](https://blog.daliansky.net/ToDesk-another-free-unlimited-speed-remote-control-software-developed-by-Chinese.html)
 
 2021-03-30, @Mobility, [户口?大厂?高薪?生活?聊聊应届程序员的职业选择](http://lichuanyang.top/posts/34931/)
 
@@ -4919,10 +4879,6 @@
 
 2021-03-01, @轶哥, [ESXi宿主机联网配置](https://www.wyr.me/post/664)
 
-2021-03-01, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Big Sur 11.2.3 20D91 Installer for OpenCore 0.6.7 and CLOVER 5131 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.2.3-20D91-Release-version-with-OC-0.6.7-and-Clover-5131-and-PE-original-image.html)
-
-2021-03-01, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Big Sur 11.2.2 20D80 Installer for OpenCore 0.6.7 and CLOVER 5131 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.2.2-20D80-Release-version-with-OC-0.6.7-and-Clover-5131-and-PE-original-image.html)
-
 2021-02-28, @HelloGitHub 月刊, [HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59)
 
 2021-02-24, @diss带码, [牛年开篇：网站拜年](https://dumplingbao.github.io/2021/02/24/web-niu/)
@@ -4979,8 +4935,6 @@
 
 2021-02-02, @轶哥, [JavaScript练习题](https://www.wyr.me/post/657)
 
-2021-02-02, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Big Sur 11.2.1 20D75 Installer for OpenCore 0.6.6 and CLOVER 5129 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.2.1-20D75-Release-version-with-OC-0.6.6-and-Clover-5129-and-PE-original-image.html)
-
 2021-02-02, @开源实验室, [Gradle 6.X 上传 aar 到 Nexus 私服](https://www.kymjs.com/pay/2021/02/02/01)
 
 2021-02-01, @Mobility, [我提升开发效率的经验](http://lichuanyang.top/posts/3423/)
@@ -5010,8 +4964,6 @@
 2021-01-17, @黄琦雲的博客, [JavaScript 经典设计模式](https://knightyun.github.io/2021/01/17/js-design-pattern)
 
 2021-01-17, @构建我的被动收入, [构建终身学习体系进行自我提升](https://www.bmpi.dev/self/build-personal-knowledge-system/)
-
-2021-01-14, @黑果小兵的部落阁, [【黑果小兵独家】BCM94360Z4/BCM94360Z3 m.2 NGFF接口四天线笔记本/小主机专用黑苹果无线网卡驱动教程](https://blog.daliansky.net/BCM94360Z4-m.2-NGFF-interface-four-antenna-notebook_small-host-dedicated-black-Apple-wireless-network-card-driver-tutorial.html)
 
 2021-01-14, @构建我的被动收入, [我的家庭理财规划](https://www.bmpi.dev/self/my-financial-planning/)
 
@@ -5065,10 +5017,6 @@
 
 2020-12-16, @Livid, [Ecosia](https://livid.v2ex.com/essays/2020/12/16/ecosia.html)
 
-2020-12-15, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Big Sur 11.1 20C69 Installer for CLOVER 5127 and OpenCore 0.6.4 and PE三EFI分区原版镜像](https://blog.daliansky.net/macOS-BigSur-11.1-20C69-Release-version-with-Clover-5127-and-OC-0.6.4-and-PE-original-image.html)
-
-2020-12-15, @黑果小兵的部落阁, [【黑果小兵】macOS BigSur 11.1 20C69 正式版 with Clover 5127原版镜像[双EFI版][UEFI and MBR]](https://blog.daliansky.net/macOS-BigSur-11.1-20C69-Release-version-with-Clover-5127-original-image-Double-EFI-Version-UEFI-and-MBR.html)
-
 2020-12-12, @Mobility, [看房小记-2020北京学区](http://lichuanyang.top/posts/5236/)
 
 2020-12-12, @Mobility, [读书感悟：文明、现代化、价值投资与中国](http://lichuanyang.top/posts/44866/)
@@ -5095,8 +5043,6 @@
 
 2020-11-22, @ZMonster's Blog, [本周每日写作尝试总结](http://www.zmonster.me/2020/11/22/review-of-thisweek.html)
 
-2020-11-20, @黑果小兵的部落阁, [【黑果小兵】macOS BigSur 11.0.1 20B50 正式版 with Clover 5126原版镜像[双EFI版][UEFI and MBR]](https://blog.daliansky.net/macOS-BigSur-11.0.1-20B29-Release-version-with-Clover-5126-original-image-Double-EFI-Version-UEFI-and-MBR.html)
-
 2020-11-20, @ZMonster's Blog, [2020-11-20: 柏拉图立体](http://www.zmonster.me/2020/11/20/daily-post-of-20201120.html)
 
 2020-11-19, @ZMonster's Blog, [2020-11-19: Neo4j 多 DB, 笔记的目的](http://www.zmonster.me/2020/11/19/daily-post-of-20201119.html)
@@ -5118,10 +5064,6 @@
 2020-11-12, @轶哥, [适用于嵌入式设备的高性能PDF在线预览方案](https://www.wyr.me/post/654)
 
 2020-11-12, @wenzi, [<![CDATA[如何判断一个原生方法是否被重写]]>](https://www.xiabingbao.com/post/fe/check-function-be-rewrited.html)
-
-2020-11-12, @黑果小兵的部落阁, [天逸510s Mini兼macOS BigSur安装教程](https://blog.daliansky.net/Lenovo-Tianyi-510s-Mini-and-macOS-BigSur-Installation-Tutorial.html)
-
-2020-11-12, @黑果小兵的部落阁, [【微信首发】macOS Catalina 10.15.7 19H15 正式版 Clover 5126/OC/PE三分区支持Intel及AMD双平台原版镜像](https://blog.daliansky.net/WeChat-First-macOS-Catalina-10.15.7-19H15-official-version-Clover-5126-OC-WEPE-supports-both-INTEL-and-AMD-original-images.html)
 
 2020-11-11, @清竹茶馆, [【Flutter】参与别人flutter项目踩坑填坑记录](https://blog.vadxq.com/article/flutter-run-other-project/)
 
@@ -5179,15 +5121,9 @@
 
 2020-09-26, @轶哥, [昆明社保卡使用攻略](https://www.wyr.me/post/647)
 
-2020-09-25, @黑果小兵的部落阁, [【黑果小兵】macOS Catalina 10.15.7 19H15 正式版 with Clover 5127原版镜像[双EFI版][UEFI and MBR]](https://blog.daliansky.net/macOS-Catalina-10.15.7-19H2-Release-version-with-Clover-5122-original-image-Double-EFI-Version-UEFI-and-MBR.html)
-
-2020-09-24, @黑果小兵的部落阁, [【微信首发】macOS Catalina 10.15.7 19H2 正式版 Clover 5122/OC/PE三分区支持Intel及AMD双平台原版镜像](https://blog.daliansky.net/WeChat-First-macOS-Catalina-10.15.7-19H2-official-version-Clover-5122-OC-WEPE-supports-both-INTEL-and-AMD-original-images.html)
-
 2020-09-22, @千古壹号的博客, [七牛云+PicGo+Typora配置图床](https://www.qianguyihao.com/post/2020-09-22-tuchuang/)
 
 2020-09-22, @Cal Paterson, [Firefox usage is down 85% despite Mozilla's top exec pay going up 400%](https://calpaterson.com/mozilla.html)
-
-2020-09-21, @黑果小兵的部落阁, [【黑果小兵】Lenovo 天逸 510s Mini 黑苹果小主机](https://blog.daliansky.net/Hackintosh-on-Lenovo-Tianyi-510s-Mini-PC.html)
 
 2020-09-21, @千古壹号的博客, [hexo 博客的常见配置](https://www.qianguyihao.com/post/2020-09-21-hexo-config/)
 
@@ -5319,8 +5255,6 @@
 
 2020-07-30, @失眠海峡, [当一个小镇青年](https://blog.imalan.cn/archives/be-a-young-man-in-town/)
 
-2020-07-30, @黑果小兵的部落阁, [macOS BigSur 11.0安装中常见的问题及解决方法](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-BigSur-11.0-installation.html)
-
 2020-07-29, @淘系前端团队, [业务前端如何突破困境](https://fed.taobao.org/blog/taofed/do71ct/front-end-problems)
 
 2020-07-28, @HelloGitHub 月刊, [HelloGitHub 第 52 期](https://hellogithub.com/periodical/volume/52)
@@ -5339,11 +5273,7 @@
 
 2020-07-19, @轶哥, [玩客云刷OpenWRT](https://www.wyr.me/post/628)
 
-2020-07-16, @黑果小兵的部落阁, [【微信首发】macOS Catalina 10.15.6 19G2021 正式版 Clover 5120/OC/PE三分区支持Intel及AMD双平台原版镜像](https://blog.daliansky.net/WeChat-First-macOS-Catalina-10.15.6-19G73-official-version-Clover-5119-OC-WEPE-supports-both-INTEL-and-AMD-original-images.html)
-
 2020-07-15, @Beyond the Void, [日本漫遊：安房鋸山](https://byvoid.com/zht/blog/jp-roaming-aha-nokogiri/)
-
-2020-07-15, @黑果小兵的部落阁, [【黑果小兵】macOS Catalina 10.15.6 19G2021 正式版 with Clover 5120原版镜像[双EFI版][UEFI and MBR]](https://blog.daliansky.net/macOS-Catalina-10.15.6-19G73-Release-version-with-Clover-5119-original-image-Double-EFI-Version-UEFI-and-MBR.html)
 
 2020-07-15, @淘系前端团队, [基于 React 打造高自由度的 IDE 布局系统](https://fed.taobao.org/blog/taofed/do71ct/hlxur7)
 
@@ -5419,8 +5349,6 @@
 
 2020-06-04, @龚成博客, [2020-06-04-关于故乡](https://laogongshuo.com/archives/437)
 
-2020-06-02, @黑果小兵的部落阁, [【微信首发】macOS Catalina 10.15.5 19F2200 正式版 Clover 5119/OC/WEPE同时支持INTEL及AMD原版镜像](https://blog.daliansky.net/WeChat-First-macOS-Catalina-10.15.5-19F101-official-version-Clover-5118-OC-WEPE-supports-both-INTEL-and-AMD-original-images.html)
-
 2020-05-31, @轶哥, [快速对比Word文档差异小程序](https://www.wyr.me/post/626)
 
 2020-05-30, @Seven's blog, [monthly-202005](https://blog.diqigan.cn/posts/note/monthly/monthly-202005.html)
@@ -5430,10 +5358,6 @@
 2020-05-28, @轶哥, [斐讯N1刷OpenWrt及开启旁路由/单臂路由教程(Mac&Win)](https://www.wyr.me/post/625)
 
 2020-05-28, @HelloGitHub 月刊, [HelloGitHub 第 50 期](https://hellogithub.com/periodical/volume/50)
-
-2020-05-27, @黑果小兵的部落阁, [【微信首发】macOS Catalina 10.15.5 19F96 正式版 Clover 5118/OC/WEPE同时支持INTEL及AMD原版镜像](https://blog.daliansky.net/WeChat-First-macOS-Catalina-10.15.5-19F96-official-version-Clover-5118-OC-WEPE-supports-both-INTEL-and-AMD-original-images.html)
-
-2020-05-27, @黑果小兵的部落阁, [【黑果小兵】macOS Catalina 10.15.5 19F101 正式版 with Clover 5118原版镜像[双EFI版][UEFI and MBR]](https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html)
 
 2020-05-24, @轶哥, [MacOS安装无线网卡驱动通用方法](https://www.wyr.me/post/624)
 
@@ -5466,8 +5390,6 @@
 2020-05-10, @轶哥, [树莓派4使用OTG功能变身有线网卡](https://www.wyr.me/post/620)
 
 2020-05-10, @轶哥, [小米路由器4免拆机刷OpenWrt教程](https://www.wyr.me/post/619)
-
-2020-05-08, @黑果小兵的部落阁, [【黑果小兵】【微信首发】macOS Catalina 10.15.4 19E2269 正式版 Clover 5116原版镜像重构版](https://blog.daliansky.net/WeChat_First-macOS-Catalina-10.15.4-19E2269-official-version-Clover-5116-original-image-reconstruction-version.html)
 
 2020-05-05, @轶哥, [MacOS Chrome信任自签名证书](https://www.wyr.me/post/618)
 
@@ -5506,8 +5428,6 @@
 2020-04-15, @黄琦雲的博客, [Kali Linux系统设置中文语言环境](https://knightyun.github.io/2020/04/15/linux-chinese)
 
 2020-04-14, @Beyond the Void, [日本漫遊：吉備與關西](https://byvoid.com/zht/blog/jp-roaming-kibi-kansai/)
-
-2020-04-14, @黑果小兵的部落阁, [【转载】从Clover到OpenCore](https://blog.daliansky.net/From-Clover-To-OpenCore.html)
 
 2020-04-14, @透明创业实验, [Feeds Pub 小范围发布半个月, 分享一些数据和感想](https://blog.t9t.io/feeds-pub-2-2020-04-14/)
 
@@ -5564,8 +5484,6 @@
 2020-03-27, @ZMonster's Blog, [基于 Github Pages 的博客快速启用 HTTPS](http://www.zmonster.me/2020/03/27/enable-https.html)
 
 2020-03-25, @风雪之隅, [Yac 2.1 升级说明](https://www.laruence.com/2020/03/25/5657.html)
-
-2020-03-25, @黑果小兵的部落阁, [【黑果小兵】macOS Catalina 10.15.4 19E2269 正式版 with Clover 5116原版镜像[双EFI版][UEFI and MBR]](https://blog.daliansky.net/macOS-Catalina-10.15.4-19E266-Release-version-with-Clover-5107-original-image-Double-EFI-Version-UEFI-and-MBR.html)
 
 2020-03-23, @风雪之隅, [深入理解PHP7内核之OBJECT](https://www.laruence.com/2020/03/23/5605.html)
 
@@ -5713,15 +5631,11 @@
 
 2020-02-02, @Seven's blog, [月刊-202002](https://blog.diqigan.cn/posts/note/monthly/monthly-202002.html)
 
-2020-02-01, @黑果小兵的部落阁, [联想小新PRO 13 2019/2020兼macOS Catalina安装教程](https://blog.daliansky.net/Lenovo-Xiaoxin-PRO-13-2019-and-macOS-Catalina-Installation-Tutorial.html)
-
 2020-01-31, @数字移民, [译自《自然》杂志网站：新型冠状病毒疫情暴发，接下来会怎样](https://blog.shuziyimin.org/903)
 
 2020-01-31, @Cal Paterson, [Applying mypy to real world projects](https://calpaterson.com/mypy-hints.html)
 
 2020-01-30, @王子亭的博客, [2019 年度小结（技术方面）](https://jysperm.me/2020/01/programming-of-2019/)
-
-2020-01-29, @黑果小兵的部落阁, [【黑果小兵】macOS Catalina 10.15.3 19D76 正式版 with Clover 5103原版镜像[双EFI版]](https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html)
 
 2020-01-29, @Seven's blog, [年](https://blog.diqigan.cn/posts/life/spring-festival-2020.html)
 
@@ -5827,8 +5741,6 @@
 
 2019-12-12, @Cal Paterson, [The Amazon premium](https://calpaterson.com/amazon-premium.html)
 
-2019-12-11, @黑果小兵的部落阁, [【黑果小兵】macOS Catalina 10.15.2 19C57 正式版 with Clover 5100原版镜像[双EFI双平台版]](https://blog.daliansky.net/macOS-Catalina-10.15.2-19C57-Release-version-with-Clover-5100-original-image-Double-EFI-Version.html)
-
 2019-12-09, @Seven's blog, [ARTS-No.8](https://blog.diqigan.cn/posts/note/arts/ARTS-8.html)
 
 2019-12-09, @Seven's blog, [ARTS-No.9](https://blog.diqigan.cn/posts/note/arts/ARTS-9.html)
@@ -5923,8 +5835,6 @@
 
 2019-10-31, @wenzi, [<![CDATA[周末的动物园之旅]]>](https://www.xiabingbao.com/post/life/zoo.html)
 
-2019-10-30, @黑果小兵的部落阁, [【黑果小兵】macOS Catalina 10.15.1 19B88 正式版 with Clover 5098原版镜像[双EFI双平台版]](https://blog.daliansky.net/macOS-Catalina-10.15.1-19B88-Release-version-with-Clover-5098-original-image-Double-EFI-Version.html)
-
 2019-10-30, @1 Byte, [WeWork 的兴衰和创投的游戏](https://1byte.io/fall-of-wework/)
 
 2019-10-29, @Hawstein's Blog, [AlgoCasts 2019 年 9 月小结](http://hawstein.com/2019/10/29/algocasts-monthly-report-2019-09/)
@@ -5974,8 +5884,6 @@
 2019-10-09, @庭说, [除了健康，都是小事](https://tingtalk.me/health/)
 
 2019-10-09, @CRIMX BLOG, [利用 Webpack API 获取资源清单](https://blog.crimx.com/2019/10/09/利用-webpack-api-获取资源清单/)
-
-2019-10-08, @黑果小兵的部落阁, [【黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5096原版镜像[双EFI双平台版]](https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html)
 
 2019-10-07, @黄琦雲的博客, [JavaScript 类型转换的有趣应用](https://knightyun.github.io/2019/10/07/js-magic-expression)
 
@@ -6045,8 +5953,6 @@
 
 2019-08-12, @开源实验室, [Beta 6 现已发布，Android Q 正式版即将面世！](https://www.kymjs.com/news/2019/08/12/01)
 
-2019-08-08, @黑果小兵的部落阁, [DW1820A/BCM94350ZAE/BCM94356ZEPA50DX插入的正确姿势](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)
-
 2019-08-07, @ZMonster's Blog, [论文笔记：Reading Wikipedia to Answer Open-Domain Questions](http://www.zmonster.me/2019/08/07/drqa.html)
 
 2019-08-02, @黄琦雲的博客, [async 与 await 的用法详解](https://knightyun.github.io/2019/08/02/js-async-await)
@@ -6058,8 +5964,6 @@
 2019-07-28, @HelloGitHub 月刊, [HelloGitHub 第 40 期](https://hellogithub.com/periodical/volume/40)
 
 2019-07-26, @Hawstein's Blog, [AlgoCasts 2019 年 6 月小结](http://hawstein.com/2019/07/26/algocasts-monthly-report-2019-06/)
-
-2019-07-23, @黑果小兵的部落阁, [【黑果小兵】macOS Mojave 10.14.6 18G103 正式版 with Clover 5091原版镜像[双EFI双平台终极版]](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html)
 
 2019-07-18, @Randy's Blog, [未来属于声明式编程](https://lutaonan.com/blog/declarative-programming-is-the-future/)
 
@@ -6137,8 +6041,6 @@
 
 2019-06-12, @Randy's Blog, [为你写的一首诗](https://lutaonan.com/blog/a-poem-for-you/)
 
-2019-06-11, @黑果小兵的部落阁, [精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)
-
 2019-06-11, @Randy's Blog, [博客近期的变化](https://lutaonan.com/blog/nearly-blog-change/)
 
 2019-06-09, @Just lepture, [ 談談獨立播客 ](https://lepture.com/zh/2019/indie-podcasts)
@@ -6184,8 +6086,6 @@
 2019-05-14, @庭说, [美区苹果账号（Apple ID）注册指南](https://tingtalk.me/us-apple-id/)
 
 2019-05-14, @庭说, [如何寻找共享美区苹果账号（Apple ID）](https://tingtalk.me/us-apple-id-share/)
-
-2019-05-14, @黑果小兵的部落阁, [【黑果小兵】macOS Mojave 10.14.5 18F132 正式版 with Clover 4928原版镜像](https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html)
 
 2019-05-13, @wenzi, [<![CDATA[能用js重写的都会被typescript重写]]>](https://www.xiabingbao.com/post/typescript/typescript-forward.html)
 
@@ -6273,13 +6173,9 @@
 
 2019-03-27, @庭说, [eBay Listing（刊登）指南](https://tingtalk.me/ebay-listing/)
 
-2019-03-25, @黑果小兵的部落阁, [【黑果小兵】macOS Mojave 10.14.4 18E226 正式版 with Clover 4903原版镜像](https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html)
-
 2019-03-24, @Ryu Zheng 郑泽鑫的博客, [静态编译 Tmux](https://zhengzexin.com/archives/Tmux_static_compilation/)
 
 2019-03-23, @轶哥, [Node.js打印PDF文件](https://www.wyr.me/post/610)
-
-2019-03-21, @黑果小兵的部落阁, [【黑果小兵】Hackintosh黑苹果长期维护机型整理清单](https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html)
 
 2019-03-19, @庭说, [互联网百宝箱](https://tingtalk.me/digital-life-tips/)
 
@@ -6304,8 +6200,6 @@
 2019-03-03, @Seven's blog, [IDEA 下为 Spring Boot 项目开启热部署](https://blog.diqigan.cn/posts/coding/java/hot-deployment-springboot-in-idea.html)
 
 2019-03-01, @风雪之隅, [print不是函数](https://www.laruence.com/2019/03/01/4904.html)
-
-2019-03-01, @黑果小兵的部落阁, [教程：利用Hackintool打开第8代核显HDMI/DVI输出的正确姿势](https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html)
 
 2019-02-28, @HelloGitHub 月刊, [HelloGitHub 第 35 期](https://hellogithub.com/periodical/volume/35)
 
@@ -6371,11 +6265,7 @@
 
 2019-01-23, @Seven's blog, [Java 逐行读取文本文件的几种方式以及效率对比](https://blog.diqigan.cn/posts/coding/java/java-read-file-by-line.html)
 
-2019-01-22, @黑果小兵的部落阁, [【黑果小兵】macOS Mojave 10.14.3 18D42 正式版 with Clover 4859原版镜像](https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html)
-
 2019-01-21, @千古壹号的博客, [Github是目前唯一的还有流量红利的写作平台](https://www.qianguyihao.com/post/2019-01-21-github/)
-
-2019-01-21, @黑果小兵的部落阁, [Slide值获取及计算](https://blog.daliansky.net/Slide-value-acquisition-and-calculation.html)
 
 2019-01-19, @MouT.me, [关于奶奶的记忆](https://ghost.mout.me/memories-of-grandma/)
 
@@ -6449,8 +6339,6 @@
 
 2018-12-22, @轶哥, [桌面字幕——实时语音识别](https://www.wyr.me/post/602)
 
-2018-12-21, @黑果小兵的部落阁, [Hackintool(Intel FB Patcher) USB定制视频](https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html)
-
 2018-12-20, @千古壹号的博客, [找工作面试会遇到哪些坑（社招篇）](https://www.qianguyihao.com/post/2018-12-20-interview/)
 
 2018-12-20, @千古壹号的博客, [学会使用Markdown，因为它是为写作而生](https://www.qianguyihao.com/post/2016-07-02-markdown/)
@@ -6465,11 +6353,7 @@
 
 2018-12-16, @数字移民, [利器：如何批量下载 Tumblr 博客内容](https://blog.shuziyimin.org/459)
 
-2018-12-13, @黑果小兵的部落阁, [联想小新Air 13安装黑苹果兼macOS Mojave安装教程](https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html)
-
 2018-12-12, @DeveWork, [江西婺源，一次不怎么成功的赏秋](https://devework.com/2018-wuyuan.html)
-
-2018-12-08, @黑果小兵的部落阁, [Catalina/Mojave硬件支持列表（持续更新中）](https://blog.daliansky.net/Mojave-Hardware-Support-List.html)
 
 2018-12-08, @黄琦雲的博客, [电脑固态硬盘接口辨析](https://knightyun.github.io/2018/12/08/ssd)
 
@@ -6477,13 +6361,9 @@
 
 2018-12-07, @Limboy's HQ, [一个 Demo 入门 Flutter](https://limboy.me/posts/flutter-demo/)
 
-2018-12-06, @黑果小兵的部落阁, [【黑果小兵】macOS Mojave 10.14.2 18C54 正式版 with Clover 4792原版镜像](https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html)
-
 2018-12-05, @Seven's blog, [为 Hexo 主题 next 添加图片背景](https://blog.diqigan.cn/posts/coding/frontend/add-background-picture-for-next.html)
 
 2018-12-05, @比特客栈的文艺复兴, [你是利兹还是青鸟？](https://bitinn.net/11611/)
-
-2018-12-04, @黑果小兵的部落阁, [扫马支持群升级](https://blog.daliansky.net/Scan-code-support-QQ-group-upgrade.html)
 
 2018-12-03, @数字移民, [「数字移民」简介与文章列表](https://blog.shuziyimin.org/431)
 
@@ -6575,8 +6455,6 @@
 
 2018-11-05, @Grayson's Blog, [rails 安装指定的版本](http://blog.grayson.org.cn/blog/2018/11/05/rails-installs-the-specified-version)
 
-2018-10-31, @黑果小兵的部落阁, [【黑果小兵】macOS Mojave 10.14.1 18B75 正式版 with Clover 4726原版镜像](https://blog.daliansky.net/macOS-Mojave-10.14.1-18B75-official-version-with-Clover-4726-original-image.html)
-
 2018-10-30, @DeveWork, [国庆菲律宾宿务-薄荷岛航拍之旅](https://devework.com/2018-philippines.html)
 
 2018-10-30, @比特客栈的文艺复兴, [关于社交网络与媒体的一点思考](https://bitinn.net/11608/)
@@ -6617,8 +6495,6 @@
 
 2018-10-19, @轶哥, [MacOS Mojave 10.14 (18A391) Nvidia Web Driver Notice](https://www.wyr.me/post/591)
 
-2018-10-17, @黑果小兵的部落阁, [【黑果小兵】CoffeeLake UHD 630黑屏、直接亮屏及亮度调整的正确插入姿势](https://blog.daliansky.net/CoffeeLake-UHD-630-black-screen-direct-bright-screen-and-correct-adjustment-of-brightness-adjustment.html)
-
 2018-10-17, @ShrekShao, [Dual Depth Peeling Implementation in WebGL](http://shrekshao.github.io/2018/10/17/dual-depth-peeling/)
 
 2018-10-16, @开源实验室, [Android Studio 3.2 更新重点](https://www.kymjs.com/news/2018/10/16/01)
@@ -6639,17 +6515,11 @@
 
 2018-09-28, @HelloGitHub 月刊, [HelloGitHub 第 30 期](https://hellogithub.com/periodical/volume/30)
 
-2018-09-24, @黑果小兵的部落阁, [【黑果小兵】macOS Mojave 10.14 18A391 正式版 with Clover 4674原版镜像](https://blog.daliansky.net/macOS-Mojave-10.14-18A391-official-version-with-Clover-4674-original-image.html)
-
-2018-09-23, @黑果小兵的部落阁, [Hackintool(原Intel FB-Patcher)使用教程及插入姿势](https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html)
-
 2018-09-22, @开源实验室, [Android 十年，还有哪些可以做的](https://www.kymjs.com/pay/2018/09/22/01)
 
 2018-09-21, @文三娃, [老年人的“坏”习惯](https://wentommy.wordpress.com/2018/09/21/%e8%80%81%e5%b9%b4%e4%ba%ba%e7%9a%84%e5%9d%8f%e4%b9%a0%e6%83%af/)
 
 2018-09-21, @开源实验室, [IPv6 地址格式](https://www.kymjs.com/note/2018/09/21/01)
-
-2018-09-20, @黑果小兵的部落阁, [不借助任何工具将CLOVER引导添加进UEFI的正确姿势](https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html)
 
 2018-09-20, @开源实验室, [addOnDrawListener 方法的兼容性问题](https://www.kymjs.com/note/2018/09/20/01)
 
@@ -6664,8 +6534,6 @@
 2018-09-14, @Limboy's HQ, [操作系统是如何管理内存的](https://limboy.me/posts/os-memory/)
 
 2018-09-14, @开源实验室, [如何成为优秀的技术主管？你要做到这三点](https://www.kymjs.com/pay/2018/09/14/01)
-
-2018-09-13, @黑果小兵的部落阁, [【黑果小兵】macOS Mojave 10.14(18A389) with Clover 4670原版镜像](https://blog.daliansky.net/macOS-Mojave-10.14-18A389-Release-with-Clover-4670-original-mirror.html)
 
 2018-09-13, @开源实验室, [Android P 加载 dex 失败](https://www.kymjs.com/note/2018/09/13/01)
 
@@ -6719,10 +6587,6 @@
 
 2018-08-05, @三省吾身, [webpack入坑之旅（零）简介与升级](http://guowenfh.github.io/2018/08/05/vue-webpack-00/)
 
-2018-08-05, @黑果小兵的部落阁, [macOS Catalina 10.15安装中常见的问题及解决方法](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html)
-
-2018-08-05, @黑果小兵的部落阁, [macOS Mojave 10.14安装中常见的问题及解决方法](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html)
-
 2018-08-02, @Not LSD, [阿里巴巴 & 腾讯 -「新时代」的摩根 & 洛克菲勒](http://notlsd.com/2018/08/03/alibaba-tencent-morgan-rockefeller/)
 
 2018-07-31, @风雪之隅, [令人困惑的strtotime](https://www.laruence.com/2018/07/31/3207.html)
@@ -6734,8 +6598,6 @@
 2018-07-25, @DeveWork, [微信“小程序云”（云开发）简介与初体验](https://devework.com/tcb-wxapp-cloud.html)
 
 2018-07-24, @数字移民, [美国深夜脱口秀概述及观看下载方法](https://blog.shuziyimin.org/234)
-
-2018-07-22, @黑果小兵的部落阁, [Coffee Lake帧缓冲区补丁及UHD630 Coffee Lake ig-platform-id数据整理](https://blog.daliansky.net/Coffee-Lake-frame-buffer-patch-and-UHD630-Coffee-Lake-ig-platform-id-data-finishing.html)
 
 2018-07-19, @文三娃, [追忆『疫苗之殇』](https://wentommy.wordpress.com/2018/07/20/%e8%bf%bd%e5%bf%86%e3%80%8e%e7%96%ab%e8%8b%97%e4%b9%8b%e6%ae%87%e3%80%8f/)
 
@@ -6749,8 +6611,6 @@
 
 2018-07-18, @YTS, [Mr. Smith Goes to Washington (1939) [720p] [BluRay] [YTS.MX]](https://yts.mx/movies/mr-smith-goes-to-washington-1939)
 
-2018-07-18, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13.6(17G2112)特别版 with Clover 4606原版镜像](https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G2112-Release-Special-with-Clover-4606-original-mirror.html)
-
 2018-07-18, @小非的物理小站, [如何问问题?](https://xiaophy.com/2018/07/18/method6.html)
 
 2018-07-16, @1 Byte, [Docker 和 Kubernetes 从听过到略懂：给程序员的旋风教程](https://1byte.io/developer-guide-to-docker-and-kubernetes/)
@@ -6762,8 +6622,6 @@
 2018-07-13, @文三娃, [张记者与火书记](https://wentommy.wordpress.com/2018/07/13/%e5%bc%a0%e8%ae%b0%e8%80%85%e4%b8%8e%e7%81%ab%e4%b9%a6%e8%ae%b0/)
 
 2018-07-13, @比特客栈的文艺复兴, [我与macOS、exFAT、妖精帝國的一场约会](https://bitinn.net/11584/)
-
-2018-07-10, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13.6(17G65)正式版 with Clover 4596原版镜像](https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html)
 
 2018-07-06, @DeveWork, [2018 端午郴州游：雾漫小东江与高崎岭](https://devework.com/chenzhou-travel.html)
 
@@ -6801,8 +6659,6 @@
 
 2018-06-03, @三省吾身, [学习 Promise，掌握未来世界 JS 异步编程基础](http://guowenfh.github.io/2018/06/04/2018/learning-Promise/)
 
-2018-06-01, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13.5(17F77)正式版 with Clover 4512原版镜像](https://blog.daliansky.net/macOS-High-Sierra-10.13.5-17F77-Release-Version-with-Clover-4512-original-mirror.html)
-
 2018-06-01, @黄琦雲的博客, [jQuery 初识之安装与语法简介](https://knightyun.github.io/2018/06/01/jq-syntax)
 
 2018-06-01, @黄琦雲的博客, [JavaScript 逻辑运算符 “&&” 和 “||” 短路原则的应用](https://knightyun.github.io/2018/06/01/js-logic-compute)
@@ -6837,8 +6693,6 @@
 
 2018-05-10, @文三娃, [在潘刚董事长带领下的大V们](https://wentommy.wordpress.com/2018/05/10/%e5%9c%a8%e6%bd%98%e5%88%9a%e8%91%a3%e4%ba%8b%e9%95%bf%e5%b8%a6%e9%a2%86%e4%b8%8b%e7%9a%84%e5%a4%a7v%e4%bb%ac/)
 
-2018-05-09, @黑果小兵的部落阁, [Webmin的Mysql模块中警告缺少DBI和DBD::mysql的处理方法](https://blog.daliansky.net/Webmin-Mysql-module-warns-of-the-lack-of-DBI-and-DBD-mysql-processing.html)
-
 2018-05-06, @开源实验室, [套路博弈背后的代码](https://www.kymjs.com/stickies/2018/05/06/01)
 
 2018-05-04, @黄琦雲的博客, [CSS 布局模型详细介绍](https://knightyun.github.io/2018/05/04/css-layout-model)
@@ -6871,15 +6725,11 @@
 
 2018-04-19, @比特客栈的文艺复兴, [关于中国能不能有3A游戏的额外思考](https://bitinn.net/11574/)
 
-2018-04-19, @黑果小兵的部落阁, [[转载][原创：草原企鹅]Clover Configurator中文汉化版](https://blog.daliansky.net/Clover-Configurator-Chinese-Version.html)
-
 2018-04-16, @比特客栈的文艺复兴, [4月新番快速预览套餐](https://bitinn.net/11552/)
 
 2018-04-15, @黄琦雲的博客, [Linux 初识之 Kali Linux 系统安装详细教程（虚拟机）](https://knightyun.github.io/2018/04/15/kali-linux-install)
 
 2018-04-15, @Limboy's HQ, [You and Your Career](https://limboy.me/posts/you-and-your-career/)
-
-2018-04-13, @黑果小兵的部落阁, [【黑果小兵】CLOVER v2.4 r4438集成小米笔记本PRO EFI安装说明](https://blog.daliansky.net/CLOVER-v2-4-r4438-Integrated-Millet-Notebook-PRO-EFI-Installation-Instructions.html)
 
 2018-04-12, @ID公社, [在知乎想法上的一些即时分享](https://www.hi-id.com/?p=4340)
 
@@ -6901,8 +6751,6 @@
 
 2018-04-04, @黄琦雲的博客, [十进制负数的二进制表示法](https://knightyun.github.io/2018/04/04/negative-binary)
 
-2018-04-03, @黑果小兵的部落阁, [[翻译][指南]英特尔IGPU HDMI/DP音频(Sandy/Ivy/Haswell/Broadwell/Skylake/Kabylake)](https://blog.daliansky.net/translate-guide-intel-igpu-hdmi-dp-audio-sandy-ivy-haswell-broadwell-skylake-kabylake.html)
-
 2018-04-01, @黄琦雲的博客, [搭建 Github Pages 个人博客网站](https://knightyun.github.io/2018/04/01/github-pages-blog)
 
 2018-03-30, @黄琦雲的博客, [C 语言统计闰年](https://knightyun.github.io/2018/03/30/c-leap-year)
@@ -6921,11 +6769,7 @@
 
 2018-03-26, @ZMonster's Blog, [NLP哪里跑: 开篇及一些碎碎念](http://www.zmonster.me/2018/03/26/nlp-thinking-1.html)
 
-2018-03-24, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13.4 17E199 正式版 with Clover 4418原版镜像](https://blog.daliansky.net/macOS-High-Sierra-10.13.4-17E199-Release-Version-and-Clover-4418-Original-Image.html)
-
 2018-03-23, @Mobility, [设计一个开源的北京地铁路线规划小工具 java版本](http://lichuanyang.top/posts/13793/)
-
-2018-03-15, @黑果小兵的部落阁, [修改DSDT实现电量显示方法【转载】](https://blog.daliansky.net/Modify-DSDT-to-achieve-power-display-method.html)
 
 2018-03-15, @ShrekShao, [glTF Avatar in Three.js](http://shrekshao.github.io/2018/03/15/gltf-avatar/)
 
@@ -6969,10 +6813,6 @@
 
 2018-01-28, @HelloGitHub 月刊, [HelloGitHub 第 22 期](https://hellogithub.com/periodical/volume/22)
 
-2018-01-24, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13.3 17D47 正式版 with Clover 4391原版镜像](https://blog.daliansky.net/macOS-High-Sierra-10.13.3-(17D47)-official-version-and-Clover-4391-original-image.html)
-
-2018-01-23, @黑果小兵的部落阁, [【黑果小兵】AMD Ryzen安装macOS High Sierra(10.13)指南[授权翻译]](https://blog.daliansky.net/Fresh-installing-macOS-High-Sierra(10.13)-on-AMD-Ryzen-Hackintosh-Guide.html)
-
 2018-01-22, @Mobility, [activemq系列-概述](http://lichuanyang.top/posts/12035/)
 
 2018-01-22, @开源实验室, [企业级 Android 模块化平台建设](https://www.kymjs.com/pay/2018/01/22/01)
@@ -7007,10 +6847,6 @@
 
 2017-12-24, @小非的物理小站, [什么是开放研究?](https://xiaophy.com/2017/12/24/OR1.html)
 
-2017-12-21, @黑果小兵的部落阁, [LNMP环境下正确配置HTTP强制跳转HTTPS的方法](https://blog.daliansky.net/Method-for-correctly-configuring-HTTP-forced-HTTPS-in-LNMP-environment.html)
-
-2017-12-21, @黑果小兵的部落阁, [自用next自定义引用格式表](https://blog.daliansky.net/Self-use-next-theme-custom-reference-format-table.html)
-
 2017-12-20, @DeveWork, [Stylelint 在提升企业微信 CSS 代码质量上的实践](https://devework.com/stylelint-in-wechat-work-css.html)
 
 2017-12-17, @庭说, [Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程](https://tingtalk.me/windows/)
@@ -7021,17 +6857,11 @@
 
 2017-12-10, @DeveWork, [Gulp 工作流中Sass 增量编译功能的探索](https://devework.com/sass-incremental-builds-in-gulp.html)
 
-2017-12-06, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13.2(17C88)正式版 with Clover 4333原版镜像](https://blog.daliansky.net/macOS-High-Sierra-10.13.2-(17C88)-official-version-and-Clover-4333-original-image.html)
-
 2017-12-04, @庭说, [文案风格指南：中英混排和标点符号的用法](https://tingtalk.me/style-guide/)
-
-2017-12-01, @黑果小兵的部落阁, [显示器接口数据及显存等参数修改](https://blog.daliansky.net/Display-interface-data-and-parameter-changes.html)
 
 2017-11-28, @HelloGitHub 月刊, [HelloGitHub 第 20 期](https://hellogithub.com/periodical/volume/20)
 
 2017-11-27, @wenzi, [<![CDATA[移动端里的逐帧动画]]>](https://www.xiabingbao.com/post/animation/phone-animation-steps.html)
-
-2017-11-25, @黑果小兵的部落阁, [macOS安装教程兼小米Pro安装过程记录](https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html)
 
 2017-11-24, @开源实验室, [Kotlin Primer·第七章·协程库（上篇）](https://www.kymjs.com/code/2017/11/24/01)
 
@@ -7039,37 +6869,19 @@
 
 2017-11-22, @小非的物理小站, [文件修改忘记改了什么怎么办?使用git](https://xiaophy.com/2017/11/22/method1.html)
 
-2017-11-13, @黑果小兵的部落阁, [借助VoodooHDA自带的getdump找出有效节点和路径](https://blog.daliansky.net/With-VoodooHDA-comes-getdump-find-valid-nodes-and-paths.html)
-
-2017-11-10, @黑果小兵的部落阁, [MacOS下使用dd命令制作Ubuntu安装USB盘](https://blog.daliansky.net/MacOS-use-the-dd-command-to-make-Ubuntu-install-USB-disk.html)
-
-2017-11-09, @黑果小兵的部落阁, [使用HIDPI解决睡眠唤醒黑屏、花屏及连接外部显示器的正确姿势](https://blog.daliansky.net/Use-HIDPI-to-solve-sleep-wake-up-black-screen,-Huaping-and-connect-the-external-monitor-the-correct-posture.html)
-
-2017-11-09, @黑果小兵的部落阁, [使用AppleALC声卡仿冒驱动AppleHDA的正确姿势](https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html)
-
-2017-11-07, @黑果小兵的部落阁, [使用CloverALC给AppleHDA打补丁，适用于台式机](https://blog.daliansky.net/Clover-Patched-Desktop-AppleHDA-Realtek-ALC-Audio.html)
-
 2017-11-05, @庭说, [好好牙刷，很有必要](https://tingtalk.me/teeth/)
 
 2017-11-03, @Grayson's Blog, [mackup configuration_files备份文件的问题](http://blog.grayson.org.cn/blog/2017/11/03/mackup-configuration-files-working)
 
 2017-11-02, @Just lepture, [ 三藩記 ](https://lepture.com/zh/2017/san-francisco-trip)
 
-2017-11-01, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13.1(17B48)正式版 with Clover 4278原版镜像](https://blog.daliansky.net/macOS-High-Sierra-10.13.1-(17B48)-official-version-and-Clover-4278-original-image.html)
-
 2017-10-28, @HelloGitHub 月刊, [HelloGitHub 第 19 期](https://hellogithub.com/periodical/volume/19)
 
 2017-10-27, @千古壹号的博客, [那些所谓的自媒体大咖们](https://www.qianguyihao.com/post/2017-10-27-zimeiti/)
 
-2017-10-26, @黑果小兵的部落阁, [一条命令教你如何确认自己的机型及如何开启HWP](https://blog.daliansky.net/A-command-to-teach-you-how-to-confirm-their-own-models-and-how-to-open-the-HWP.html)
-
-2017-10-26, @黑果小兵的部落阁, [MAC常用快捷键整理](https://blog.daliansky.net/MAC-commonly-used-shortcut-keys-finishing.html)
-
 2017-10-24, @三省吾身, [从零学习 canvas (一)](http://guowenfh.github.io/2017/10/24/2017/learn-canvas-01/)
 
 2017-10-21, @三省吾身, [浅谈 electron 中的 session 管理（隔离）](http://guowenfh.github.io/2017/10/21/2017/electron-multiple-session/)
-
-2017-10-20, @黑果小兵的部落阁, [clover使用教程](https://blog.daliansky.net/clover-user-manual.html)
 
 2017-10-17, @Limboy's HQ, [如何过好这一生](https://limboy.me/posts/live-well/)
 
@@ -7077,25 +6889,11 @@
 
 2017-10-12, @wenzi, [<![CDATA[支付宝推出租房平台的一点看法]]>](https://www.xiabingbao.com/post/za/zhifubao-renthouse.html)
 
-2017-10-11, @黑果小兵的部落阁, [惠普HP ENVY Laptop 13-ad1xx笔记本电脑安装MacOS手记及EFI分享](https://blog.daliansky.net/HP-HP-ENVY-Laptop-13-ad1xx-Notebook-PC-Mac-OS-Note-and-EFI-Share.html)
-
-2017-10-11, @黑果小兵的部落阁, [将CLOVER引导添加进UEFI BOOT Option Menu的正确姿势](https://blog.daliansky.net/Add-the-CLOVER-boot-to-the-correct-posture-of-the-UEFI-Boot-Option-Menu.html)
-
 2017-10-10, @庭说, [番茄种植指南（梯子搭建教程）](https://tingtalk.me/fq-diy/)
-
-2017-10-07, @黑果小兵的部落阁, [MacOS系统下使用gpt命令修复损坏的EFI分区以及dd命令的基本用法](https://blog.daliansky.net/Use-the-gpt-command-to-repair-a-damaged-EFI-partition-under-Mac-OS-As-well-as-the-basic-usage-of-the-dd-command.html)
-
-2017-10-06, @黑果小兵的部落阁, [MacOS多系统下蓝牙设备的自动连接](https://blog.daliansky.net/MacOS-multi-system-Bluetooth-device-automatically-connected.html)
-
-2017-10-06, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13正式版更新(17A405) with Clover 4238原版镜像](https://blog.daliansky.net/macOS-High-Sierra-10.13-official-version-update-17A405-with-Clover-4238-original-mirror.html)
 
 2017-10-03, @千古壹号的博客, [学习批判性思维，做一个独立思考的人](https://www.qianguyihao.com/post/2017-10-03-critical-thinking/)
 
 2017-10-01, @Just lepture, [ 週記，九月末 ](https://lepture.com/zh/2017/weekly-20170930)
-
-2017-09-30, @黑果小兵的部落阁, [High Sierra全新安装或者升级时禁止进行APFS转换](https://blog.daliansky.net/Guide-High-Sierra-prohibits-APFS-conversion-when-installing-or-upgrading.html)
-
-2017-09-28, @黑果小兵的部落阁, [macOS 10.13安装中常见的问题及解决方法](https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html)
 
 2017-09-28, @HelloGitHub 月刊, [HelloGitHub 第 18 期](https://hellogithub.com/periodical/volume/18)
 
@@ -7103,11 +6901,7 @@
 
 2017-09-27, @Limboy's HQ, [App 图片体验指标](https://limboy.me/posts/app-img-metrics/)
 
-2017-09-25, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13正式版 with Clover 4221原版镜像](https://blog.daliansky.net/macOS-High-Sierra-10.13-official-version-and-Clover-4221-original-image.html)
-
 2017-09-24, @Just lepture, [ 週記，九月三週 ](https://lepture.com/zh/2017/weekly-20170924)
-
-2017-09-23, @黑果小兵的部落阁, [小米笔记本Pro安装10.13随手记及EFI分享](https://blog.daliansky.net/XiaoMiPro-notebook-Installation-10.13-readily-remember-and-share-EFI.html)
 
 2017-09-22, @Just lepture, [ 像遊客一樣生活 ](https://lepture.com/zh/2017/live-better)
 
@@ -7121,73 +6915,35 @@
 
 2017-09-14, @wenzi, [<![CDATA[Vue组件实现tips的总结]]>](https://www.xiabingbao.com/vue/2017/09/14/vue-component-tips.html)
 
-2017-09-14, @黑果小兵的部落阁, [CPUFriend的安装与使用](https://blog.daliansky.net/CPUFriend-Installation-and-Usage.html)
-
 2017-09-12, @千古壹号的博客, [走进乔布斯，感受他的现实扭曲力场](https://www.qianguyihao.com/post/2017-09-12-Jobs/)
 
 2017-09-11, @小非的物理小站, [开始篇](https://xiaophy.com/2017/09/11/Regetting-Started.html)
-
-2017-09-09, @黑果小兵的部落阁, [Broadcom BCM94352z/DW1560驱动新姿势[新方法]](https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html)
-
-2017-09-08, @黑果小兵的部落阁, [AppleALC支持的Codecs列表及AppleALC的使用](https://blog.daliansky.net/AppleALC-Supported-codecs.html)
-
-2017-09-07, @黑果小兵的部落阁, [Broadcom WiFi/BlueTooth BCM94352z(DW1560)的正确驱动姿势[原始方法]](https://blog.daliansky.net/Broadcom-WiFi-BlueTooth-BCM94352z-DW1560-the%20correct-drive-posture.html)
-
-2017-09-07, @黑果小兵的部落阁, [[持续更新] 黑苹果常见问题（某些未解决的问题）](https://blog.daliansky.net/Updated-Frequently-Asked-Questions-in-Sierra-or-high-sierra.html)
 
 2017-09-06, @Mobility, [jstorm的监控metrics数据输出到第三方存储介质](http://lichuanyang.top/posts/13749/)
 
 2017-09-06, @Just lepture, [ 煙花八月 ](https://lepture.com/zh/2017/hanabi)
 
-2017-09-04, @黑果小兵的部落阁, [hda-verb参数详表](https://blog.daliansky.net/hda-verb-parameter-detail-table.html)
-
 2017-09-03, @DeveWork, [DeveMobile/EaseMobile/Mindia/Devework 四款收费主题“去授权补丁”下载](https://devework.com/wp-theme-rm-license-path.html)
-
-2017-09-02, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13DB9 17A360a with Clover 4189原版镜像](https://blog.daliansky.net/macOS-High-Sierra-10-13DB9-17A360a-with-Clover-4189.html)
-
-2017-09-02, @黑果小兵的部落阁, [MacOS各版本Sierra(10.12.6)/High Sierra(10.13)/Mojave(10.14)/Catalina(10.15)安装文件下载](https://blog.daliansky.net/Mac-Sierra-and-High-Sierra-Installer-App-Download.html)
-
-2017-08-31, @黑果小兵的部落阁, [黑苹果必备：Intel核显platform ID整理及smbios速查表](https://blog.daliansky.net/Intel-core-display-platformID-finishing.html)
 
 2017-08-31, @Limboy's HQ, [工作缺少劲头怎么办](https://limboy.me/posts/work-exhaust/)
 
 2017-08-30, @DeveWork, [WordPress 网站开发“微信小程序”实战(五)](https://devework.com/wordpress-weapp-5.html)
 
-2017-08-29, @黑果小兵的部落阁, [Windows下使用diskpart建立EFI分区及挂载EFI分区](https://blog.daliansky.net/Under-Windows-using-DISKPART-to-create-EFI-points.html)
-
-2017-08-29, @黑果小兵的部落阁, [【黑果小兵】macOS High Sierra 10.13DB8 17A358a with Clover 4189原版镜像](https://blog.daliansky.net/MacOS-High-Sierra-10.13DB8-17A358a-and-Clover-4189.html)
-
 2017-08-28, @HelloGitHub 月刊, [HelloGitHub 第 17 期](https://hellogithub.com/periodical/volume/17)
 
 2017-08-27, @wenzi, [<![CDATA[如何在windows安装php redis扩展]]>](https://www.xiabingbao.com/php/2017/08/27/window-php-redis.html)
 
-2017-08-25, @黑果小兵的部落阁, [Lilu插件列表[持续更新]](https://blog.daliansky.net/Existing-Lilu-Plugins.html)
-
 2017-08-25, @Randy's Blog, [我的地下刊物](https://lutaonan.com/blog/my-underground-publication/)
-
-2017-08-22, @黑果小兵的部落阁, [macOS High Sierra 10.13DB7 17A352a with Clover 4182原版镜像](https://blog.daliansky.net/MacOS-High-Sierra-10-13DB7-17A352a-and-Clover-4182.html)
-
-2017-08-20, @黑果小兵的部落阁, [如何在macOS Sierra中运行CORE Keygen破解程序](https://blog.daliansky.net/How-macOS-Sierra-mid-operation-CORE-Keygen-breaks-down.html)
 
 2017-08-20, @Randy's Blog, [养猫随想](https://lutaonan.com/blog/cat-capriccio/)
 
-2017-08-18, @黑果小兵的部落阁, [使用CodecCommander解决ALC1220唤醒无声](https://blog.daliansky.net/Use-CodecCommander-to-solve-ALC1220-sleep-wake-up-silentr.html)
-
-2017-08-17, @黑果小兵的部落阁, [Mac常用到的命令[持续更新]](https://blog.daliansky.net/Mac-frequently-used-to-the-command---continuous-update.html)
-
-2017-08-16, @黑果小兵的部落阁, [不需要制作安装盘！教你在MacOS系统下安装High Sierra系统到另一个分区](https://blog.daliansky.net/Do-not-need-to-make-installation-disk-Teach-you-to-install-the-High-Sierra-system-on-another-MacOS-system-to-another-partition.html)
-
 2017-08-16, @wenzi, [<![CDATA[从0到1学习node(五)之mysql数据库的操作]]>](https://www.xiabingbao.com/node/2017/01/23/node-mysql.html)
-
-2017-08-16, @黑果小兵的部落阁, [【黑果小兵】macOS Sierra 10.12.6 16G29 with Clover 4133原版镜像带多驱动](https://blog.daliansky.net/macOS-Sierra-10-12-6-16G29-with-Clover-4133-original-mirror-with-multi-drive.html)
 
 2017-08-16, @wenzi, [<![CDATA[https的研究与总结]]>](https://www.xiabingbao.com/jitiao/2016/09/14/http-https.html)
 
 2017-08-16, @wenzi, [<![CDATA[视频video标签在移动端的播放总结]]>](https://www.xiabingbao.com/video/2016/09/03/phone-video.html)
 
 2017-08-16, @wenzi, [<![CDATA[对gulp-changed插件的一点思考]]>](https://www.xiabingbao.com/gulp/2016/01/20/gulp-changed-ponder.html)
-
-2017-08-16, @黑果小兵的部落阁, [hotpatch详解](https://blog.daliansky.net/hotpatch-detailed-solution.html)
 
 2017-08-16, @wenzi, [<![CDATA[jshint在gulp中的使用]]>](https://www.xiabingbao.com/gulp/2015/10/15/gulp-jshint.html)
 
@@ -7931,8 +7687,6 @@
 
 2015-03-09, @sunnyxx, [Notification Once](http://blog.sunnyxx.com/2015/03/09/notification-once/)
 
-2015-03-04, @黑果小兵的部落阁, [出现nginx 405 Not Allowed错误的解决方法](https://blog.daliansky.net/an-nginx-405-not-allowed-error-solution.html)
-
 2015-03-03, @wenzi, [<![CDATA[2015年2月份总结]]>](https://www.xiabingbao.com/summary/2015/03/03/february-summary.html)
 
 2015-03-02, @ZMonster's Blog, [Python触发按键事件](http://www.zmonster.me/2015/03/02/keyboard-control-with-python.html)
@@ -8525,8 +8279,6 @@
 
 2010-08-25, @Limboy's HQ, [使用github作为博客引擎](https://limboy.me/posts/make-github-as-blog-engine/)
 
-2010-06-18, @黑果小兵的部落阁, [8个好习惯叱咤职场](https://blog.daliansky.net/8-good-habit-chi-zha-in-the-workplace.html)
-
 2010-04-18, @Grayson's Blog, [[转载]ruby 正则笔记](http://blog.grayson.org.cn/blog/2010/04/18/ruby-regular-note)
 
 2010-04-03, @Grayson's Blog, [ruby struct用法](http://blog.grayson.org.cn/blog/2010/04/03/ruby-struct-yong-fa)
@@ -8538,8 +8290,6 @@
 2009-12-04, @Grayson's Blog, [压力测试apache-ab-使用方法](http://blog.grayson.org.cn/blog/2009/12/04/ya-li-ce-shi-apache-ab-shi-yong-fang-fa)
 
 2009-11-30, @Grayson's Blog, [没有找到libmysql.dll](http://blog.grayson.org.cn/blog/2009/11/30/mei-you-zhao-dao-libmysql-dot-dll)
-
-2009-11-04, @黑果小兵的部落阁, [10个 Google 有意思的事情](https://blog.daliansky.net/10-interesting-things-that-google.html)
 
 2009-10-12, @Grayson's Blog, [用socks代理使用apt-get命令](http://blog.grayson.org.cn/blog/2009/10/12/tong-guo-apt-get-shi-yong-socks-dai-li)
 

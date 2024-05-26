@@ -38,15 +38,39 @@
 
 2024-05-26, @36kr, [今年一季度我国清洁能源完成投资超千亿元](https://36kr.com/newsflashes/2792122536313735?f=rss)
 
+2024-05-26, @PTT(台湾论坛), [[正妹] Cosplay 915 中國 連身](https://www.ptt.cc/bbs/Beauty/M.1716715843.A.860.html)
+
 2024-05-26, @V2EX, [[Apple] iPhone 手机，跨区安装 app 失败](https://www.v2ex.com/t/1044076#reply0)
 
 2024-05-26, @PTT(台湾论坛), [[LIVE] AXN 21:00 隱世英雄-撒瑪利亞](https://www.ptt.cc/bbs/movie/M.1716715373.A.4FA.html)
+
+2024-05-26, @Torlock, [3DMGAME-The.Quintessential.Quintuplets.Five.Memories.Spent.With.You-P2P](https://www.torlock.com/torrent/67084543/3dmgame-the-quintessential-quintuplets-five-memories-spent-with-you.html)
+
+2024-05-26, @Torlock, [3DMGAME-DEVIL.BLADE.REBOOT-Chronos](https://www.torlock.com/torrent/67084542/3dmgame-devil-blade-reboot-chronos.html)
+
+2024-05-26, @Torlock, [www.SceneTime.com   -    On Patrol Live S01E86 480p x264-mSD](https://www.torlock.com/torrent/67084540/on-patrol-live-s01e86-480p.html)
+
+2024-05-26, @Torlock, [www.SceneTime.com   -    On Patrol Live S01E85 480p x264-mSD](https://www.torlock.com/torrent/67084539/on-patrol-live-s01e85-480p.html)
+
+2024-05-26, @Torlock, [The.1.Percent.Club.S03E12.1080p.WEB.h264-CODSWALLOP[EZTVx.to].mkv](https://www.torlock.com/torrent/67084538/the-1-percent-club-s03e12-1080p-web-h264-codswallop.html)
+
+2024-05-26, @Torlock, [Britains.Got.Talent.S17E07.1080p.WEB.h264-CODSWALLOP[EZTVx.to].mkv](https://www.torlock.com/torrent/67084537/britains-got-talent-s17e07-1080p-web-h264-codswallop.html)
 
 2024-05-26, @V2EX, [[分享创造] 开发者阅读优质 RSS 分享](https://www.v2ex.com/t/1044074#reply0)
 
 2024-05-26, @IT之家, [宝马 Skytop 概念车亮相，采用可手动拆卸硬顶设计](https://www.ithome.com/0/770/820.htm)
 
 2024-05-26, @IT之家, [LG 冰趣系列 508L 敲一敲十字四门冰箱上市：透视窗、三合一制冰，13599 元](https://www.ithome.com/0/770/819.htm)
+
+2024-05-26, @Torlock, [James.Martins.Saturday.Morning.S07E21.1080p.WEB.h264-CODSWALLOP[EZTVx.to].mkv](https://www.torlock.com/torrent/67084535/james-martins-saturday-morning-s07e21-1080p-web-h264-codswallop.html)
+
+2024-05-26, @Torlock, [www.SceneTime.com   -    On Patrol Live S01E84 XviD-AFG](https://www.torlock.com/torrent/67084534/on-patrol-live-s01e84.html)
+
+2024-05-26, @Torlock, [www.SceneTime.com   -    On Patrol Live S01E87 480p x264-mSD](https://www.torlock.com/torrent/67084533/on-patrol-live-s01e87-480p.html)
+
+2024-05-26, @Torlock, [3DMGAME-SCHiM.Build.14442474-P2P](https://www.torlock.com/torrent/67084532/3dmgame-schim-build-14442474.html)
+
+2024-05-26, @Torlock, [3DMGAME-Brothers_A_Tale_of_Two_Sons_Remake_v20240417-Razor1911](https://www.torlock.com/torrent/67084531/3dmgame-brothers_a_tale_of_two_sons_remake_v20240417-razor1911.html)
 
 2024-05-26, @bang's blog, [理解 Stable Diffusion UNet 网络](http://blog.cnbang.net/tech/3823/)
 
@@ -114,29 +138,7 @@
 
 2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】破茧2[高码版][第13集][国语配音+中文字幕].Insect.Detective.S02.2024.2160p.HQ.WEB-DL.H265.AAC.2Audio-BlackTV](https://www.torlock.com/torrent/67084454/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E7%A0%B4%E8%8C%A72%5B%E9%AB%98%E7%A0%81%E7%89%88%5D%5B%E7%AC%AC13%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D-insect-detective.html)
 
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】请和搞笑的我谈恋爱[第11集][国语配音+中文字幕].2024.2160p.WEB-DL.H265.DDP2.0-ZeroTV](https://www.torlock.com/torrent/67084453/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E8%AF%B7%E5%92%8C%E6%90%9E%E7%AC%91%E7%9A%84%E6%88%91%E8%B0%88%E6%81%8B%E7%88%B1%5B%E7%AC%AC11%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D-2024-21.html)
-
-2024-05-26, @Torlock, [www.SceneTime.com   -    On Patrol Live S01E90 480p x264-mSD](https://www.torlock.com/torrent/67084452/on-patrol-live-s01e90-480p.html)
-
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】哈哈哈哈哈 第四季[60帧率版本][第21集][国语配音+中文字幕].2020.2160p.WEB-DL.H265.60fps.AAC-LelveTV](https://www.torlock.com/torrent/67084451/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88-%E7%AC%AC%E5%9B%9B%E5%AD%A3%5B60%E5%B8%A7%E7%8E%87%E7%89%88%E6%9C%AC%5D%5B%E7%AC%AC21%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5.html)
-
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】五十公里桃花坞4[第02集][国语配音+中文字幕].50.km.Taohuawu.S04.2024.1080p.WEB-DL.H264.AAC-LelveTV](https://www.torlock.com/torrent/67084450/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E4%5B%E7%AC%AC02%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D-50-km-taohua.html)
-
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】战队大失格[第07集][简繁英字幕].Sentai.Daishikkaku.S01.2024.1080p.DSNP.WEB-DL.H264.AAC-ZeroTV](https://www.torlock.com/torrent/67084449/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E6%88%98%E9%98%9F%E5%A4%A7%E5%A4%B1%E6%A0%BC%5B%E7%AC%AC07%E9%9B%86%5D%5B%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%5D-sentai-daishikkaku-s01-2024-1.html)
-
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】哈哈哈哈哈 第四季[第21集][国语配音+中文字幕].Ha.Ha.Ha.Ha.Ha.S04.2020.2160p.WEB-DL.H265.EDR.AAC-LelveTV](https://www.torlock.com/torrent/67084448/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88-%E7%AC%AC%E5%9B%9B%E5%AD%A3%5B%E7%AC%AC21%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D-ha-ha-ha-.html)
-
-2024-05-26, @Torlock, [【高清剧集网发布 www.DDHDTV.com】斗破苍穹 年番[第98集][国语配音+中文字幕].Fights.Break.Sphere.S05.2022.2160p.WEB-DL.H265.DDP2.0-ZeroTV](https://www.torlock.com/torrent/67084447/%E3%80%90%E9%AB%98%E6%B8%85%E5%89%A7%E9%9B%86%E7%BD%91%E5%8F%91%E5%B8%83-%E3%80%91%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9-%E5%B9%B4%E7%95%AA%5B%E7%AC%AC98%E9%9B%86%5D%5B%E5%9B%BD%E8%AF%AD%E9%85%8D%E9%9F%B3%2B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D-fights-break-sp.html)
-
-2024-05-26, @Torlock, [Britains.Got.Talent.S17E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv](https://www.torlock.com/torrent/67084446/britains-got-talent-s17e07-1080p-hevc-x265.html)
-
 2024-05-26, @PTT(台湾论坛), [[討論] 星際效應--未來人為何不直接把蟲洞開好](https://www.ptt.cc/bbs/movie/M.1716712858.A.E3B.html)
-
-2024-05-26, @Torlock, [Later.with.Jools.Holland.S64E02.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv](https://www.torlock.com/torrent/67084444/later-with-jools-holland-s64e02-1080p-hevc-x265.html)
-
-2024-05-26, @Torlock, [Teorey T. Database Modeling and Design. Logical Design 5ed 2011](https://www.torlock.com/torrent/67084443/teorey-t-database-modeling-and-design-logical-design-5ed.html)
-
-2024-05-26, @Torlock, [FBI Most Wanted S02E04 Anonymous REPACK 720p AMZN WEB-DL DDP5 1 H 264-NTb[TGx]](https://www.torlock.com/torrent/67084442/fbi-most-wanted-s02e04-anonymous-repack-720p-amzn-web-dl-ddp5-1-h-264.html)
 
 2024-05-26, @IT之家, [消息称代号“Chronicle”的《皇牌空战 8》为万代南梦宫下一个大规模游戏项目](https://www.ithome.com/0/770/812.htm)
 
@@ -190,7 +192,7 @@
 
 2024-05-26, @V2EX, [[程序员] 求推荐：一个语音识别的 API 聚合工具](https://www.v2ex.com/t/1044059#reply0)
 
-2024-05-26, @V2EX, [[Android] 安卓使用第三方 ROM 或是 root 时，如何保证安全？](https://www.v2ex.com/t/1044058#reply2)
+2024-05-26, @V2EX, [[Android] 安卓使用第三方 ROM 或是 root 时，如何保证安全？](https://www.v2ex.com/t/1044058#reply3)
 
 2024-05-26, @V2EX, [[问与答] 求一张用户体验的表情包](https://www.v2ex.com/t/1044057#reply1)
 
@@ -295,7 +297,7 @@
 
 2024-05-26, @IT之家, [极氪 001 车主称被困车内 10 分钟打不开门，客服回应：正在跟进处理](https://www.ithome.com/0/770/779.htm)
 
-2024-05-26, @V2EX, [[程序员] 程序员们，人体工学椅 西昊 S300 和有谱蝴蝶 2.0，选哪个？](https://www.v2ex.com/t/1044038#reply4)
+2024-05-26, @V2EX, [[程序员] 程序员们，人体工学椅 西昊 S300 和有谱蝴蝶 2.0，选哪个？](https://www.v2ex.com/t/1044038#reply5)
 
 2024-05-26, @雪球, [电力体制改革专家详细解读（万字长文纪要）](http://xueqiu.com/8674986766/291437289)
 
@@ -307,7 +309,7 @@
 
 2024-05-26, @博客园, [Windows Server 2022 NTP服务器 - 筱崋](https://www.cnblogs.com/nc086/p/18213575)
 
-2024-05-26, @V2EX, [[程序员] 阿里云轻量应用服务器 ,大佬们都用什么客户端同步网页脚本啊?](https://www.v2ex.com/t/1044036#reply3)
+2024-05-26, @V2EX, [[程序员] 阿里云轻量应用服务器 ,大佬们都用什么客户端同步网页脚本啊?](https://www.v2ex.com/t/1044036#reply4)
 
 2024-05-26, @YTS, [Asphalt City (2023) [720p] [BluRay] [YTS.MX]](https://yts.mx/movies/asphalt-city-2023)
 
@@ -487,7 +489,7 @@
 
 2024-05-26, @IT之家, [消息称微软将开放第三方厂商制造“OEM 授权版”Xbox 主机](https://www.ithome.com/0/770/755.htm)
 
-2024-05-26, @V2EX, [[Windows] 微软即将推出“召回”功能来帮助 Windows 用户回溯操作](https://www.v2ex.com/t/1044009#reply16)
+2024-05-26, @V2EX, [[Windows] 微软即将推出“召回”功能来帮助 Windows 用户回溯操作](https://www.v2ex.com/t/1044009#reply17)
 
 2024-05-26, @LimeTorrents, [XevUnleashed 22 05 11 A Cops Ruined Orgasm XXX 2160p MP4-GAYME](https://www.limetorrents.lol/XevUnleashed-22-05-11-A-Cops-Ruined-Orgasm-XXX-2160p-MP4-GAYME-torrent-18484546.html)
 
@@ -690,8 +692,6 @@
 2024-05-25, @Pixiv(艺术家社区), [アイマス4コマまとめ修正①](https://www.pixiv.net/artworks/119046702)
 
 2024-05-25, @Pixiv(艺术家社区), [カフェは私服の破壊力が高すぎる・・・(ただの布教)](https://www.pixiv.net/artworks/119046587)
-
-2024-05-25, @PTT(台湾论坛), [[正妹] AV女優 山手梨愛（NSFW）](https://www.ptt.cc/bbs/Beauty/M.1716644188.A.C5F.html)
 
 2024-05-25, @博客园, [博客园众包平台：嵌入式开发任务悬赏5万，招募开发者接单 - 博客园团队](https://www.cnblogs.com/cmt/p/18212995)
 
@@ -2987,8 +2987,6 @@
 
 2023-09-23, @搞笑談軟工, [練好基本功](https://teddy-chen-tw.blogspot.com/feeds/3323865525876904683/comments/default)
 
-2023-09-22, @黑果小兵的部落阁, [使用OpenCore Legacy Patcher工具在macOS Sonoma中重新打开不被支持的博通Wi-Fi无线网卡的正确插入姿势](https://blog.daliansky.net/OCLP.html)
-
 2023-09-22, @搞笑談軟工, [改行寫網路小說算了(25)](https://teddy-chen-tw.blogspot.com/feeds/5222637518286992510/comments/default)
 
 2023-09-20, @数字尾巴, [以「双面屏」开启数字牙刷时代：usmile 笑容加数字牙刷 F10 PRO 体验](http://www.dgtle.com/article-1692071-1.html)
@@ -3120,10 +3118,6 @@
 2023-07-06, @依云's Blog, [btrfs 翻车记](https://blog.lilydjwg.me/posts/216658.html)
 
 2023-07-06, @依云, [btrfs 翻车记](https://blog.lilydjwg.me/posts/216658.html)
-
-2023-07-05, @黑果小兵的部落阁, [RichVision未来视野 RV100 5K 果粉屏](https://blog.daliansky.net/RichVision-RV100-5K.html)
-
-2023-07-05, @黑果小兵的部落阁, [Intel NUC9黑苹果兼Sonoma安装教程](https://blog.daliansky.net/Intel-NUC9-Hackintosh-and-macOS-Sonoma-Installation-Tutorial.html)
 
 2023-07-05, @蠎周刊, [蠎周刊(PyCoder)584](https://weekly.pychina.org/issue/issue-584.html)
 
