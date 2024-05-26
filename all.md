@@ -1,82 +1,42 @@
 # 2024
 
-2024-05-26, @iDese, [中际旭创：目前确有400G和800G的硅光产品出货并预计会持续上量](https://36kr.com/newsflashes/2792568029512576?f=rss)
-
 2024-05-26, @36氪, [赛力斯汽车与中国汽研共建智能安全联合实验室](https://36kr.com/newsflashes/2792566687302786?f=rss)
-
-2024-05-26, @iDese, [赛力斯汽车与中国汽研共建智能安全联合实验室](https://36kr.com/newsflashes/2792566687302786?f=rss)
 
 2024-05-26, @36氪, [中国电建中标国内最大构网型混合储能项目](https://36kr.com/newsflashes/2792566251832449?f=rss)
 
-2024-05-26, @iDese, [中国电建中标国内最大构网型混合储能项目](https://36kr.com/newsflashes/2792566251832449?f=rss)
-
 2024-05-26, @36氪, [云南白药：提名郭昕、游光辉为公司第十届董事会非独立董事候选人](https://36kr.com/newsflashes/2792510932010116?f=rss)
-
-2024-05-26, @iDese, [云南白药：提名郭昕、游光辉为公司第十届董事会非独立董事候选人](https://36kr.com/newsflashes/2792510932010116?f=rss)
 
 2024-05-26, @36氪, [赛力斯汽车与中国汽研共建智能安全联合实验室](https://36kr.com/newsflashes/2792509119415174?f=rss)
 
-2024-05-26, @iDese, [赛力斯汽车与中国汽研共建智能安全联合实验室](https://36kr.com/newsflashes/2792509119415174?f=rss)
-
 2024-05-26, @36氪, [日本研究用干细胞培育出可分化成精子和卵子的细胞](https://36kr.com/newsflashes/2792508579923079?f=rss)
-
-2024-05-26, @iDese, [日本研究用干细胞培育出可分化成精子和卵子的细胞](https://36kr.com/newsflashes/2792508579923079?f=rss)
 
 2024-05-26, @36氪, [埃安：向泰国孔敬国际机场交付AION ES出租车](https://36kr.com/newsflashes/2792507698840710?f=rss)
 
-2024-05-26, @iDese, [埃安：向泰国孔敬国际机场交付AION ES出租车](https://36kr.com/newsflashes/2792507698840710?f=rss)
-
 2024-05-26, @36氪, [中国最长跨城地铁今天首发，横跨广东5城](https://36kr.com/newsflashes/2792506661667719?f=rss)
-
-2024-05-26, @iDese, [中国最长跨城地铁今天首发，横跨广东5城](https://36kr.com/newsflashes/2792506661667719?f=rss)
 
 2024-05-26, @36氪, [宜家中国首家设计订购中心落地深圳](https://36kr.com/newsflashes/2792504915936130?f=rss)
 
-2024-05-26, @iDese, [宜家中国首家设计订购中心落地深圳](https://36kr.com/newsflashes/2792504915936130?f=rss)
-
 2024-05-26, @36氪, [中国移动咪咕发布AI能力品牌“仝舟”](https://36kr.com/newsflashes/2792503759684738?f=rss)
-
-2024-05-26, @iDese, [中国移动咪咕发布AI能力品牌“仝舟”](https://36kr.com/newsflashes/2792503759684738?f=rss)
 
 2024-05-26, @36氪, [生态环境部党组书记孙金龙赴山西省调研生态环境保护工作](https://36kr.com/newsflashes/2792390530581378?f=rss)
 
-2024-05-26, @iDese, [生态环境部党组书记孙金龙赴山西省调研生态环境保护工作](https://36kr.com/newsflashes/2792390530581378?f=rss)
-
 2024-05-26, @36氪, [百亿级私募数量92家 相比于一季度末减少8家](https://36kr.com/newsflashes/2792390116328322?f=rss)
-
-2024-05-26, @iDese, [百亿级私募数量92家 相比于一季度末减少8家](https://36kr.com/newsflashes/2792390116328322?f=rss)
 
 2024-05-26, @36氪, [日本研究用干细胞培育出可分化成精子和卵子的细胞](https://36kr.com/newsflashes/2792389645812614?f=rss)
 
-2024-05-26, @iDese, [日本研究用干细胞培育出可分化成精子和卵子的细胞](https://36kr.com/newsflashes/2792389645812614?f=rss)
-
 2024-05-26, @36氪, [华为联合发改委创新驱动发展中心发布《企业数字化转型投入产出关系研究报告》](https://36kr.com/newsflashes/2792273745560712?f=rss)
-
-2024-05-26, @iDese, [华为联合发改委创新驱动发展中心发布《企业数字化转型投入产出关系研究报告》](https://36kr.com/newsflashes/2792273745560712?f=rss)
 
 2024-05-26, @36氪, [北京今年家庭新能源指标“分数线”揭晓](https://36kr.com/newsflashes/2792272947627136?f=rss)
 
-2024-05-26, @iDese, [北京今年家庭新能源指标“分数线”揭晓](https://36kr.com/newsflashes/2792272947627136?f=rss)
-
 2024-05-26, @36氪, [行业龙头发函！消费电子“热”了？](https://36kr.com/newsflashes/2792272189604745?f=rss)
-
-2024-05-26, @iDese, [行业龙头发函！消费电子“热”了？](https://36kr.com/newsflashes/2792272189604745?f=rss)
 
 2024-05-26, @36氪, [北京市医保局：在京东、美团平台开展非处方药品线上支付测试，可用支付宝支付](https://36kr.com/newsflashes/2792271228650372?f=rss)
 
-2024-05-26, @iDese, [北京市医保局：在京东、美团平台开展非处方药品线上支付测试，可用支付宝支付](https://36kr.com/newsflashes/2792271228650372?f=rss)
-
 2024-05-26, @36氪, [新“国九条”落地月余 超230家上市公司计划中期分红](https://36kr.com/newsflashes/2792212162282374?f=rss)
-
-2024-05-26, @iDese, [新“国九条”落地月余 超230家上市公司计划中期分红](https://36kr.com/newsflashes/2792212162282374?f=rss)
 
 2024-05-26, @36氪, [司美格鲁肽又一3期试验达终点，诺和诺德计划24年递交监管申请](https://36kr.com/newsflashes/2792173837304708?f=rss)
 
-2024-05-26, @iDese, [司美格鲁肽又一3期试验达终点，诺和诺德计划24年递交监管申请](https://36kr.com/newsflashes/2792173837304708?f=rss)
-
 2024-05-26, @36氪, [我国已有24个省份出台省级控烟相关法规](https://36kr.com/newsflashes/2792172021630088?f=rss)
-
-2024-05-26, @iDese, [我国已有24个省份出台省级控烟相关法规](https://36kr.com/newsflashes/2792172021630088?f=rss)
 
 2024-05-26, @IT之家, [Bungie 起诉《命运 2》作弊器网站 AimJunkies 胜诉，获赔 63210 美元](https://www.ithome.com/0/770/825.htm)
 
@@ -110,9 +70,9 @@
 
 2024-05-26, @IT之家, [初代苹果 Siri 配音员揭秘：最早的声音录制于 2005 年](https://www.ithome.com/0/770/816.htm)
 
-2024-05-26, @V2EX, [[程序员] 为什么国内的网站几乎都不支持 TOTP 验证?](https://www.v2ex.com/t/1044071#reply11)
+2024-05-26, @V2EX, [[程序员] 为什么国内的网站几乎都不支持 TOTP 验证?](https://www.v2ex.com/t/1044071#reply12)
 
-2024-05-26, @V2EX, [[音乐] 说说个人的 HiFi 经验](https://www.v2ex.com/t/1044070#reply1)
+2024-05-26, @V2EX, [[音乐] 说说个人的 HiFi 经验](https://www.v2ex.com/t/1044070#reply2)
 
 2024-05-26, @IT之家, [松下全新远程相机控制应用“LUMIX Lab”5 月 29 日上线，支持最新 S9 机型 LUT 滤镜功能](https://www.ithome.com/0/770/815.htm)
 
@@ -383,8 +343,6 @@
 
 2024-05-25, @36氪, [北京2024首拍宅地项目产品曝光](https://36kr.com/p/2790985159967624?f=rss)
 
-2024-05-25, @iDese, [北京2024首拍宅地项目产品曝光](https://36kr.com/p/2790985159967624?f=rss)
-
 2024-05-25, @博客园, [C#的奇技淫巧：利用WinRM来远程操控其他服务器上的进程 - WeskyNet](https://www.cnblogs.com/weskynet/p/18213135)
 
 2024-05-25, @CN@Flipboard, [China Slammed in G-7 Show of Unity Threatening Trade Escalation](https://www.bloomberg.com/news/articles/2024-05-25/china-slammed-in-g-7-show-of-unity-threatening-trade-escalation)
@@ -415,8 +373,6 @@
 
 2024-05-25, @36氪, [9点1氪｜库迪咖啡称已做好“全场9.9元促销”三年的准备；阿里巴巴宣布对大公司病开刀；黄仁勋身家达913亿美元](https://36kr.com/p/2790203517354883?f=rss)
 
-2024-05-25, @iDese, [9点1氪｜库迪咖啡称已做好“全场9.9元促销”三年的准备；阿里巴巴宣布对大公司病开刀；黄仁勋身家达913亿美元](https://36kr.com/p/2790203517354883?f=rss)
-
 2024-05-25, @CN@Flipboard, [The United States used to have cachet in China. Not anymore.](https://www.washingtonpost.com/world/2024/05/14/china-united-states-soft-power/)
 
 2024-05-25, @小众软件, [siftrss – 二次过滤处理 RSS，并生成新的 RSS 地址[在线工具]](https://www.appinn.com/siftrss/)
@@ -433,35 +389,19 @@
 
 2024-05-24, @36氪, [贝壳财报：感知市场变化，为拥抱新可能做好准备](https://36kr.com/p/2790007117054851?f=rss)
 
-2024-05-24, @iDese, [贝壳财报：感知市场变化，为拥抱新可能做好准备](https://36kr.com/p/2790007117054851?f=rss)
-
 2024-05-24, @36氪, [趣丸科技副总裁兼CTO谢睿：多模态智能激发应用新场景 | 新质生产力·AI Partner大会](https://36kr.com/p/2789735136871300?f=rss)
-
-2024-05-24, @iDese, [趣丸科技副总裁兼CTO谢睿：多模态智能激发应用新场景 | 新质生产力·AI Partner大会](https://36kr.com/p/2789735136871300?f=rss)
 
 2024-05-24, @36氪, [百度副总裁、文库事业部负责人王颖：创作新纪元，人人都是内容创作者 | 新质生产力·AI Partner大会](https://36kr.com/p/2789602773107842?f=rss)
 
-2024-05-24, @iDese, [百度副总裁、文库事业部负责人王颖：创作新纪元，人人都是内容创作者 | 新质生产力·AI Partner大会](https://36kr.com/p/2789602773107842?f=rss)
-
 2024-05-24, @36氪, [未来家居周刊| 5台家电4个App，智能家居操作系统能统一吗？](https://36kr.com/p/2789781314454403?f=rss)
-
-2024-05-24, @iDese, [未来家居周刊| 5台家电4个App，智能家居操作系统能统一吗？](https://36kr.com/p/2789781314454403?f=rss)
 
 2024-05-24, @36氪, [36氪独家｜抖音电商2024年GMV目标是4万亿，非常接近去年的拼多多](https://36kr.com/p/2778396432384899?f=rss)
 
-2024-05-24, @iDese, [36氪独家｜抖音电商2024年GMV目标是4万亿，非常接近去年的拼多多](https://36kr.com/p/2778396432384899?f=rss)
-
 2024-05-24, @36氪, [BEYOND Expo 2024 在澳门开幕，拥抱未知](https://36kr.com/p/2789754419250309?f=rss)
-
-2024-05-24, @iDese, [BEYOND Expo 2024 在澳门开幕，拥抱未知](https://36kr.com/p/2789754419250309?f=rss)
 
 2024-05-24, @36氪, [焦点分析｜B站在好转，但是没那么快](https://36kr.com/p/2789564227208066?f=rss)
 
-2024-05-24, @iDese, [焦点分析｜B站在好转，但是没那么快](https://36kr.com/p/2789564227208066?f=rss)
-
 2024-05-24, @36氪, [体量小但增速快，国内OTA平台与国际巨头差在哪？](https://36kr.com/p/2789722232832897?f=rss)
-
-2024-05-24, @iDese, [体量小但增速快，国内OTA平台与国际巨头差在哪？](https://36kr.com/p/2789722232832897?f=rss)
 
 2024-05-24, @开源中国资讯, [开源日报 | Altman七宗罪；微软必应全球宕机；美国限制AI出口；淘汰VBScript；PostgreSQL 17](https://www.oschina.net/news/294117)
 
@@ -470,6 +410,8 @@
 2024-05-24, @少数派, [关于代糖，你应该多了解的几个问题](https://sspai.com/prime/story/sweeteners-faq)
 
 2024-05-24, @少数派, [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/89070)
+
+2024-05-24, @iDese, [从手机网页版功能的阉割看中文互联网现状](https://idese.co/mobile/)
 
 2024-05-24, @小众软件, [最简单：用 FFmpeg 制作延时摄影视频｜Timelapse](https://www.appinn.com/ffmpeg-timelapse-video/)
 
@@ -626,6 +568,8 @@
 2024-05-13, @潮流周刊, [第176期 - 车外风景](https://weekly.tw93.fun/posts/176-%E8%BD%A6%E5%A4%96%E9%A3%8E%E6%99%AF/)
 
 2024-05-12, @不死鸟, [国内好用的AI工具推荐](https://iui.su/3010/)
+
+2024-05-12, @iDese, [关于维基百科条目的一个小实验](https://idese.co/wikipedia/)
 
 2024-05-11, @不死鸟, [imFile全平台下载软件](https://iui.su/3156/)
 

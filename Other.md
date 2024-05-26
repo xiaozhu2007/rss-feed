@@ -70,9 +70,9 @@
 
 2024-05-26, @IT之家, [初代苹果 Siri 配音员揭秘：最早的声音录制于 2005 年](https://www.ithome.com/0/770/816.htm)
 
-2024-05-26, @V2EX, [[程序员] 为什么国内的网站几乎都不支持 TOTP 验证?](https://www.v2ex.com/t/1044071#reply11)
+2024-05-26, @V2EX, [[程序员] 为什么国内的网站几乎都不支持 TOTP 验证?](https://www.v2ex.com/t/1044071#reply12)
 
-2024-05-26, @V2EX, [[音乐] 说说个人的 HiFi 经验](https://www.v2ex.com/t/1044070#reply1)
+2024-05-26, @V2EX, [[音乐] 说说个人的 HiFi 经验](https://www.v2ex.com/t/1044070#reply2)
 
 2024-05-26, @IT之家, [松下全新远程相机控制应用“LUMIX Lab”5 月 29 日上线，支持最新 S9 机型 LUT 滤镜功能](https://www.ithome.com/0/770/815.htm)
 
