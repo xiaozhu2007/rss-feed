@@ -1129,8 +1129,6 @@
 
 2024-05-23, @199IT, [世界经济论坛：2024年旅游业发展指数报告](http://www.199it.com/archives/1698127.html)
 
-2024-05-23, @Awesome Rust Weekly, [💻 Issue 413 - "100 exercises to learn Rust", a new learn-by-doing course to get started with Rust](https://rust.libhunt.com/newsletter/413)
-
 2024-05-23, @199IT, [中国贸促会：2023东盟营商环境报告](http://www.199it.com/archives/1698126.html)
 
 2024-05-23, @199IT, [Couchbase：2025年数字现代化报告](http://www.199it.com/archives/1696746.html)
@@ -1361,8 +1359,6 @@
 2024-05-22, @极客公园, [阿里云大模型空前降价，开始超摩尔定律的狂奔](http://www.geekpark.net/news/335425)
 
 2024-05-22, @Behance, [La Plage No.14 - Restaurant &amp; Cocktail Bar / Branding](https://www.behance.net/gallery/195893059/La-Plage-No14-Restaurant-Cocktail-Bar-Branding)
-
-2024-05-22, @This Week in Rust, [This Week in Rust 548](https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/)
 
 2024-05-22, @维基萌, [给博客加上了【文章目录】和【类型筛选】2个新功能，可以在博客右下角找到按钮。](https://www.wikimoe.com/post/vw1sg6ep)
 
@@ -1648,8 +1644,6 @@
 
 2024-05-16, @FLiNG Trainer, [Ghost of Tsushima Trainer](https://flingtrainer.com/trainer/ghost-of-tsushima-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=ghost-of-tsushima-trainer)
 
-2024-05-16, @Awesome Rust Weekly, [💻 Issue 412 - Translation of the Rust's core and alloc crates to Coq for formal verification](https://rust.libhunt.com/newsletter/412)
-
 2024-05-16, @海交史, [资源 | 香港理工大学近代中国珍稀文献全文影像数据库](https://www.haijiaoshi.com/archives/11689?utm_source=rss&utm_medium=rss&utm_campaign=%25e8%25b5%2584%25e6%25ba%2590-%25e9%25a6%2599%25e6%25b8%25af%25e7%2590%2586%25e5%25b7%25a5%25e5%25a4%25a7%25e5%25ad%25a6%25e8%25bf%2591%25e4%25bb%25a3%25e4%25b8%25ad%25e5%259b%25bd%25e7%258f%258d%25e7%25a8%2580%25e6%2596%2587%25e7%258c%25ae%25e5%2585%25a8%25e6%2596%2587%25e5%25bd%25b1%25e5%2583%258f%25e6%2595%25b0)
 
 2024-05-16, @老左笔记, [HostDare日本VPS八折优惠 日本软银线路 $18.39/半年起](https://www.laozuo.org/29043.html)
@@ -1706,8 +1700,6 @@
 2024-05-15, @老左笔记, [免费体验三个月亚马逊云Lightsail虚拟服务器开通Windows远程桌面](https://www.laozuo.org/29015.html)
 
 2024-05-15, @產品經理 x 成長駭客 - Mr. PM下午先生, [用 Mixpanel 的免費功能，來做回訪率提升的研究](https://mrpm.cc/?p=1646)
-
-2024-05-15, @This Week in Rust, [This Week in Rust 547](https://this-week-in-rust.org/blog/2024/05/15/this-week-in-rust-547/)
 
 2024-05-15, @Limboy's HQ, [我与地坛](https://limboy.me/books/me-and-altar-of-earth/)
 
@@ -1791,8 +1783,6 @@
 
 2024-05-09, @鸟窝, [“测试 Rust 的 I/O 性能”](https://colobu.com/2024/05/10/Linux-File-IO-using-Rust/)
 
-2024-05-09, @Awesome Rust Weekly, [💻 Issue 411 - Microsoft's $1M Vote of Confidence in Rust's Future](https://rust.libhunt.com/newsletter/411)
-
 2024-05-09, @卢昌海个人主页, [YouTube 频道一月记](https://www.changhai.org/articles/youtube/myChannel2.php)
 
 2024-05-09, @WordPress大学, [Gutenberg 18.3 在站点编辑器中添加发布流程](https://www.wpdaxue.com/gutenberg-18-3.html)
@@ -1816,8 +1806,6 @@
 2024-05-08, @扯氮集, [这届百度公关 专业丢分了](http://weiwuhui.com/10675.html)
 
 2024-05-08, @不死鸟, [猫阅读：Windows可换源的小说阅读器](https://iui.su/3560/)
-
-2024-05-08, @This Week in Rust, [This Week in Rust 546](https://this-week-in-rust.org/blog/2024/05/08/this-week-in-rust-546/)
 
 2024-05-08, @WordPress大学, [WordPress 首选语言功能是什么，何时可用？](https://www.wpdaxue.com/preferred-languages.html)
 
@@ -1880,8 +1868,6 @@
 
 2024-05-03, @云风的 BLOG, [大批量动画模型的优化](https://blog.codingnow.com/2024/05/skinmesh_instancing.html)
 
-2024-05-02, @Awesome Rust Weekly, [💻 Issue 410 - Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://rust.libhunt.com/newsletter/410)
-
 2024-05-02, @Apple新闻, [Apple reports second quarter results
 ](https://www.apple.com/newsroom/2024/05/apple-reports-second-quarter-results/)
 
@@ -1893,8 +1879,6 @@
 ](https://www.apple.com/newsroom/2024/05/meet-three-swift-student-challenge-winners-changing-the-future-through-coding/)
 
 2024-05-01, @V2方圆, [在M系芯片的macOS上安装App Store无法直接安装的iOS app(以雅思哥为例) 并请管理员喝杯咖啡](https://v2fy.com/p/2024-05-01-15-38-43-ipa/)
-
-2024-05-01, @This Week in Rust, [This Week in Rust 545](https://this-week-in-rust.org/blog/2024/05/01/this-week-in-rust-545/)
 
 2024-05-01, @书格, [豳风十二月图说](https://www.shuge.org/view/bin_feng_shi_er_yue_tu_shuo/)
 
@@ -1986,8 +1970,6 @@
 
 2024-04-26, @构建我的被动收入, [策引全球投资组合：A股1号](https://www.bmpi.dev/money/portfolios/myinvestpilot_cn_1/)
 
-2024-04-25, @Awesome Rust Weekly, [💻 Issue 409 - Sized, DynSized, and Unsized by Niko Matsakis](https://rust.libhunt.com/newsletter/409)
-
 2024-04-26, @Pixiv(艺术家社区), [Crown](https://www.pixiv.net/artworks/118159358)
 
 2024-04-26, @Pixiv(艺术家社区), [白バニーミカ](https://www.pixiv.net/artworks/118158803)
@@ -2073,8 +2055,6 @@
 
 2024-04-19, @水八口的冥想盆, [北京转机，小游一番](https://shuiba.co/layover-in-beijing)
 
-2024-04-18, @Awesome Rust Weekly, [💻 Issue 408 - Curl: Hyper, is it worth it?](https://rust.libhunt.com/newsletter/408)
-
 2024-04-18, @知乎, [大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙](http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-04-18, @知乎, [双重A的我：ADHD、ASD以及人生滑稽剧](http://zhuanlan.zhihu.com/p/692301130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -2141,8 +2121,6 @@
 
 2024-04-12, @水八口的冥想盆, [龙年行大运](https://shuiba.co/happy-new-year-of-the-dragon)
 
-2024-04-11, @Awesome Rust Weekly, [💻 Issue 407 - A graphical IRC Client for UEFI written in Rust](https://rust.libhunt.com/newsletter/407)
-
 2024-04-11, @张鑫旭的博客, [SVG滤镜系列之搞懂<feBlend>元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/)
 
 2024-04-11, @美团技术团队博客, [美团外卖基于GPU的向量检索系统实践](https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html)
@@ -2181,8 +2159,6 @@
 
 2024-04-04, @卢昌海个人主页, [微言小义 (2024.03)](https://www.changhai.org/articles/miscellaneous/blog/202403.php)
 
-2024-04-04, @Awesome Rust Weekly, [💻 Issue 406 - Dioxus 0.5: Huge Signal Rewrite, Remove lifetimes, Zero-Unsafe Core, CSS Hotreloading, and so much more!](https://rust.libhunt.com/newsletter/406)
-
 2024-04-04, @Xieisabug, [减肥计划（第一季度）](https://www.xiejingyang.com/2024/04/04/%e5%87%8f%e8%82%a5%e8%ae%a1%e5%88%92%e7%ac%ac%e4%b8%80%e5%ad%a3%e5%ba%a6/)
 
 2024-04-03, @书伴, [[2024.04.03] Kindle 阅读器固件升级至 5.16.8](https://bookfere.com/post/1102.html)
@@ -2216,8 +2192,6 @@
 2024-03-29, @扯氮集, [一则关于游戏行业的小消息](http://weiwuhui.com/10693.html)
 
 2024-03-29, @美团技术团队博客, [百亿大规模图在广告场景的应用](https://tech.meituan.com/2024/03/29/large-scale-graph-application.html)
-
-2024-03-28, @Awesome Rust Weekly, [💻 Issue 405 - 2024 Edition Update](https://rust.libhunt.com/newsletter/405)
 
 2024-03-28, @知乎, [对于吉他来说，该如何学习音阶？](http://www.zhihu.com/question/28183674/answer/3433303413?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -2258,8 +2232,6 @@
 2024-03-22, @云风的 BLOG, [重构 ltask 的任务调度器](https://blog.codingnow.com/2024/03/ltask_schedule.html)
 
 2024-03-22, @扔物线, [【榨干 Kotlin】把函数当类用，Compose 风骚的作用域机制](https://rengwuxian.com/dslmarker/)
-
-2024-03-21, @Awesome Rust Weekly, [💻 Issue 404 - Red Hat considering using Rust for Nova, the successor to the Noveau drivers for Nvidia GPUs on linux](https://rust.libhunt.com/newsletter/404)
 
 2024-03-21, @张鑫旭的博客, [CSS initial-letter属性，嗯……也就这样吧](https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/)
 
