@@ -1,9 +1,9 @@
-name: github pages
+name: Pages Build
 
 on:
   push:
-    branches:
-      - main  # Set a branch to deploy
+  schedule:
+    - cron: "0 */6 * * *"
 
 env:
   CARGO_TERM_COLOR: always
@@ -13,31 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
           cache: 'pip' # caching pip dependencies
 
       - run: |
-          wget https://github.com/rogeryoungh/github-action-rss/releases/download/latest/github-action-rss
-          chmod +x ./github-action-rss
           mkdir build
           cargo run --release ./feed.opml ./build/
           pip install -r requirements.txt
-          python3 ./scripts/md2html.py "https://rogeryoungh.github.io/github-action-rss"
-
-      - name: Send mail
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: '${{ secrets.MAIL_HOST }}'
-          server_port: 465
-          username: '${{ secrets.MAIL_USER }}'
-          password: '${{ secrets.MAIL_PASS }}'
-          subject: GitHub Action RSS
-          html_body: file://build/index.html
-          to: '${{ secrets.RECEIVERS }}'
-          from: GitHub Actions
+          python3 ./scripts/md2html.py "https://xiaozhu2007.github.io/rss-feed"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
@@ -45,13 +30,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-
-      - run: strip -s target/release/github-action-rss
-
-      - uses: "marvinpinto/action-automatic-releases@latest"
-        with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "latest"
-          prerelease: true
-          title: "Development Build"
-          files: target/release/github-action-rss
