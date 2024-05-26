@@ -1,5 +1,11 @@
 # 2024
 
+2024-05-26, @36氪, [赛力斯汽车与中国汽研共建智能安全联合实验室](https://36kr.com/newsflashes/2792566687302786?f=rss)
+
+2024-05-26, @36氪, [中国电建中标国内最大构网型混合储能项目](https://36kr.com/newsflashes/2792566251832449?f=rss)
+
+2024-05-26, @36氪, [云南白药：提名郭昕、游光辉为公司第十届董事会非独立董事候选人](https://36kr.com/newsflashes/2792510932010116?f=rss)
+
 2024-05-26, @36氪, [赛力斯汽车与中国汽研共建智能安全联合实验室](https://36kr.com/newsflashes/2792509119415174?f=rss)
 
 2024-05-26, @36氪, [日本研究用干细胞培育出可分化成精子和卵子的细胞](https://36kr.com/newsflashes/2792508579923079?f=rss)
@@ -32,12 +38,6 @@
 
 2024-05-26, @36氪, [我国已有24个省份出台省级控烟相关法规](https://36kr.com/newsflashes/2792172021630088?f=rss)
 
-2024-05-26, @36氪, [国家数据局推动24家数据交易机构发布互认互通倡议](https://36kr.com/newsflashes/2792171114677127?f=rss)
-
-2024-05-26, @36氪, [9万列！中欧班列“跑”出开行新纪录](https://36kr.com/newsflashes/2792123488584581?f=rss)
-
-2024-05-26, @36氪, [今年一季度我国清洁能源完成投资超千亿元](https://36kr.com/newsflashes/2792122536313735?f=rss)
-
 2024-05-26, @V2EX, [[iOS] 个人 iOS APP ，大家会选择兼容到哪个版本？](https://www.v2ex.com/t/1044077#reply1)
 
 2024-05-26, @IT之家, [21 款 / 23 款比亚迪海豚推送 V1.3.1 OTA 更新，优化对外放电、智能充电等功能](https://www.ithome.com/0/770/822.htm)
@@ -58,11 +58,11 @@
 
 2024-05-26, @V2EX, [[计算机] 小白初次装机，大佬们帮看看这个配置有哪些可以优化的](https://www.v2ex.com/t/1044072#reply0)
 
-2024-05-26, @IT之家, [初代苹果 Siri 配音员揭秘：一开始为 Siri 配音没有报酬](https://www.ithome.com/0/770/816.htm)
+2024-05-26, @IT之家, [初代苹果 Siri 配音员揭秘：最早的声音录制于 2005 年](https://www.ithome.com/0/770/816.htm)
 
-2024-05-26, @V2EX, [[程序员] 为什么国内的网站几乎都不支持 TOTP 验证?](https://www.v2ex.com/t/1044071#reply10)
+2024-05-26, @V2EX, [[程序员] 为什么国内的网站几乎都不支持 TOTP 验证?](https://www.v2ex.com/t/1044071#reply11)
 
-2024-05-26, @V2EX, [[音乐] 说说个人的 HiFi 经验](https://www.v2ex.com/t/1044070#reply0)
+2024-05-26, @V2EX, [[音乐] 说说个人的 HiFi 经验](https://www.v2ex.com/t/1044070#reply1)
 
 2024-05-26, @IT之家, [松下全新远程相机控制应用“LUMIX Lab”5 月 29 日上线，支持最新 S9 机型 LUT 滤镜功能](https://www.ithome.com/0/770/815.htm)
 
@@ -171,7 +171,7 @@
 
 2024-05-26, @V2EX, [[Node.js] 用 vue 部署的 这个不知道怎么解决了 代码里也没找到使用 websocket 请求的地方，不知道为什么会请求到内网地址](https://www.v2ex.com/t/1044046#reply0)
 
-2024-05-26, @V2EX, [[职场话题] 外包需求变更该不该重新收费？](https://www.v2ex.com/t/1044045#reply11)
+2024-05-26, @V2EX, [[职场话题] 外包需求变更该不该重新收费？](https://www.v2ex.com/t/1044045#reply12)
 
 2024-05-26, @V2EX, [[分享创造] CozyLife 点阵像屏支持 6 屏串联和并联](https://www.v2ex.com/t/1044044#reply0)
 
@@ -283,7 +283,11 @@
 
 2024-05-26, @少数派, [找不到好听的新歌？从这些地方扩充你的华语曲库](https://sspai.com/post/89093)
 
-2024-05-26, @V2EX, [[Google Play] 大佬们知道哪些国内 APP 的 google play 版本是可用且没有体验下降的吗](https://www.v2ex.com/t/1044007#reply22)
+2024-05-26, @V2EX, [[Google Play] 大佬们知道哪些国内 APP 的 google play 版本是可用且没有体验下降的吗](https://www.v2ex.com/t/1044007#reply23)
+
+2024-05-26, @开源中国资讯, [中国电信发布首个支持 30 种方言混说语音大模型](https://www.oschina.net/news/294277)
+
+2024-05-26, @开源中国资讯, [研究：ChatGPT 回答编程问题时错误率高达 52%](https://www.oschina.net/news/294272/stack-overflow-questions-chatgpt-answers)
 
 2024-05-25, @博客园, [关于对于Java中Entity以及VO,以及DTO中Request对象序列化的学习 - 海山了-](https://www.cnblogs.com/seamount3/p/18213124)
 
@@ -295,9 +299,13 @@
 
 2024-05-25, @博客园, [鸿蒙HarmonyOS实战-Stage模型（进程模型） - 蜀道山QAQ](https://www.cnblogs.com/shudaoshan/p/18213077)
 
+2024-05-25, @开源中国资讯, [这是Linus最忍不了的一集——虚幻引擎代码规范禁止使用脏话、禁止slave、master](https://www.oschina.net/news/294243)
+
 2024-05-25, @博客园, [博客园众包平台：嵌入式开发任务悬赏5万，招募开发者接单 - 博客园团队](https://www.cnblogs.com/cmt/p/18212995)
 
 2024-05-25, @博客园, [Ceph配置与认证授权 - FuShudi](https://www.cnblogs.com/fsdstudy/p/18212958)
+
+2024-05-25, @开源中国资讯, [JS 网页全自动翻译 v3.4 发布，开放对 html 文件的翻译能力](https://www.oschina.net/news/294228/leiming-3-4-released)
 
 2024-05-25, @不死鸟, [2024 年 5 月 每日分享](https://iui.su/185/)
 
@@ -315,6 +323,10 @@
 
 2024-05-25, @小众软件, [互联网活化石 ICQ 将于 2024年6月26日起停止服务](https://www.appinn.com/icq-ends-service-in-20240626/)
 
+2024-05-25, @开源中国资讯, [RustRover 正式发布，提供新的许可模式](https://www.oschina.net/news/294169/rustrover-is-released)
+
+2024-05-25, @开源中国资讯, [GNOME MRE 不再覆盖 Mutter/GNOME Shell](https://www.oschina.net/news/294166)
+
 2024-05-24, @36氪, [贝壳财报：感知市场变化，为拥抱新可能做好准备](https://36kr.com/p/2790007117054851?f=rss)
 
 2024-05-24, @36氪, [趣丸科技副总裁兼CTO谢睿：多模态智能激发应用新场景 | 新质生产力·AI Partner大会](https://36kr.com/p/2789735136871300?f=rss)
@@ -331,23 +343,53 @@
 
 2024-05-24, @36氪, [体量小但增速快，国内OTA平台与国际巨头差在哪？](https://36kr.com/p/2789722232832897?f=rss)
 
+2024-05-24, @开源中国资讯, [开源日报 | Altman七宗罪；微软必应全球宕机；美国限制AI出口；淘汰VBScript；PostgreSQL 17](https://www.oschina.net/news/294117)
+
+2024-05-24, @开源中国资讯, [Ubuntu 24.04 LTS 正式“开放升级”](https://www.oschina.net/news/294102/ubuntu-24-04-upgrades-officially-open)
+
 2024-05-24, @少数派, [关于代糖，你应该多了解的几个问题](https://sspai.com/prime/story/sweeteners-faq)
 
 2024-05-24, @少数派, [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/89070)
 
 2024-05-24, @小众软件, [最简单：用 FFmpeg 制作延时摄影视频｜Timelapse](https://www.appinn.com/ffmpeg-timelapse-video/)
 
+2024-05-24, @开源中国资讯, [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
+
+2024-05-24, @开源中国资讯, [复旦 MOSS 团队谈最新进展：从大语言模型到多模态大模型](https://www.oschina.net/news/294071)
+
 2024-05-24, @少数派, [App+1 | 在 Android 平台，找到「好像在哪里见过」的你：Snapseek](https://sspai.com/post/89059)
+
+2024-05-24, @开源中国资讯, [微软将于 2024 下半年开始淘汰 VBScript](https://www.oschina.net/news/294062/vbscript-deprecation-timelines)
+
+2024-05-24, @开源中国资讯, [微软必应昨天全球宕机，波及 ChatGPT、Copilot、DuckDuckGo 等服务](https://www.oschina.net/news/294051/ms-bing-search-outage-copilot-duckduckgo-chatgpt)
 
 2024-05-24, @小众软件, [Dola – AI 日历助手：与机器人聊天，自动设置日历](https://www.appinn.com/dola-ai-calendar/)
 
+2024-05-24, @开源中国资讯, [Mesa 3D 图形库 24.1.0 发布，开源的 NVIDIA Vulkan 驱动来了](https://www.oschina.net/news/294031/mesa-3d-24-1-0-released)
+
 2024-05-24, @少数派, [理解睡眠，破除焦虑，让我睡得更好](https://sspai.com/post/88390)
+
+2024-05-24, @开源中国资讯, [美国限制 AI 出口立法进程又进一步](https://www.oschina.net/news/294029)
+
+2024-05-24, @开源中国资讯, [PostgreSQL 17 Beta 1](https://www.oschina.net/news/294016/postgresql-17-beta-1-released)
+
+2024-05-24, @开源中国资讯, [阿里披露对月之暗面投资详情：8 亿美元购入约 36% 股权](https://www.oschina.net/news/294008)
+
+2024-05-24, @开源中国资讯, [山东一芯加入 openKylin，为社区 RISC-V 生态贡献力量](https://www.oschina.net/news/294005)
 
 2024-05-24, @少数派, [派早报：微软向 Release Preview 发布 Windows 11 24H2 预览版等](https://sspai.com/post/89048)
 
+2024-05-24, @阮一峰的网络日志, [科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html)
+
+2024-05-23, @开源中国资讯, [开源日报 | Kotlin 2.0.0；简体中文压缩数据只有6TB；AI不是核弹；全球首个开源大规模](https://www.oschina.net/news/293918)
+
 2024-05-23, @少数派, [新玩意 182｜少数派的编辑们最近买了啥？](https://sspai.com/post/89031)
 
+2024-05-23, @开源中国资讯, [如何优雅地编写缓存代码](https://my.oschina.net/u/4662964/blog/11104135)
+
 2024-05-23, @少数派, [到手即用的「高配」客制化键盘：少数派定制版 Keychron Q1 Max 体验](https://sspai.com/post/89030)
+
+2024-05-23, @开源中国资讯, [OpenAI、谷歌、微软等共同签署前沿人工智能安全承诺](https://www.oschina.net/news/293895)
 
 2024-05-23, @少数派, [从光机电算到软硬芯云，华为影像 XMAGE 希望继续为移动影像做些什么？](https://sspai.com/post/88977)
 
@@ -406,6 +448,8 @@
 
 2024-05-17, @不死鸟, [GPT-4o模型，2倍速度，免费向所有ChatGPT用户开放。如何使用？](https://iui.su/3897/)
 
+2024-05-17, @阮一峰的网络日志, [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)
+
 2024-05-16, @知乎, [看完《长安三万里》，各位脑洞一波，宋朝拍谁，明朝拍谁，怎么拍?](http://www.zhihu.com/question/613500879/answer/3141290416?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-05-15, @Apple新闻, [The redesigned iPad Air and new iPad Pro are available today
@@ -461,6 +505,8 @@
 
 2024-05-10, @不死鸟, [Windows11开启BBR算法](https://iui.su/536/)
 
+2024-05-10, @阮一峰的网络日志, [科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html)
+
 2024-05-08, @书格, [夏荷夏槐八景图册](https://www.shuge.org/view/xia_he_xia_huai_ba_jing_tu_ce/)
 
 2024-05-08, @不死鸟, [百度法行保：免费AI线上律师](https://iui.su/3040/)
@@ -510,6 +556,8 @@
 
 2024-04-28, @HelloGitHub 月刊, [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97)
 
+2024-04-26, @阮一峰的网络日志, [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html)
+
 2024-04-24, @Apple新闻, [Apple launches “Made for Business” in select stores around the world
 ](https://www.apple.com/newsroom/2024/04/apple-launches-made-for-business-in-select-stores-around-the-world/)
 
@@ -520,6 +568,8 @@
 2024-04-22, @蠎周刊, [上周蠎快讯 2024/16](https://weekly.pychina.org/pyrecap/pyrw-2416.html)
 
 2024-04-19, @知乎, [什么叫中国人的浪漫？](http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+
+2024-04-19, @阮一峰的网络日志, [科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)
 
 2024-04-18, @知乎, [大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙](http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -548,6 +598,8 @@
 2024-04-15, @蠎周刊, [上周蠎快讯 2024/15](https://weekly.pychina.org/pyrecap/pyrw-2415.html)
 
 2024-04-12, @书伴, [[网友投稿] 为 KPW3/KV 的 KOReader 添加远程遥控翻页](https://bookfere.com/post/1103.html)
+
+2024-04-12, @阮一峰的网络日志, [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html)
 
 2024-04-10, @知乎, [中国西安《小果酱》画稿展](http://zhuanlan.zhihu.com/p/690008063?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
