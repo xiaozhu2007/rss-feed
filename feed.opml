@@ -22,7 +22,6 @@
       <outline text="不死鸟" title="不死鸟" type="rss" xmlUrl="https://iao.su/feed" htmlUrl="https://iao.su/feed"/>
       <outline text="小众软件" title="小众软件" type="rss" xmlUrl="https://www.appinn.com/feed/" htmlUrl="https://www.appinn.com/feed/"/>
       <outline text="少数派" title="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/feed"/>
-      <outline text="奇舞周刊" title="奇舞周刊" type="rss" xmlUrl="https://weekly.75.team/rss" htmlUrl="https://weekly.75.team/rss"/>
       <outline text="Apple新闻" title="Apple新闻" type="rss" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" htmlUrl="https://www.apple.com/newsroom/rss-feed.rss"/>
       <outline text="知乎" title="知乎" type="rss" xmlUrl="https://www.zhihu.com/rss" htmlUrl="https://www.zhihu.com/rss"/>
       <outline text="IT之家" title="IT之家" type="rss" xmlUrl="https://www.ithome.com/rss" htmlUrl="https://www.ithome.com/rss"/>
@@ -35,7 +34,7 @@
       <outline text="开源中国" title="开源中国" type="rss" xmlUrl="https://www.oschina.net/blog/rss" htmlUrl="https://www.oschina.net/blog/rss"/>
       <outline text="博客园" title="博客园" type="rss" xmlUrl="http://feed.cnblogs.com/blog/sitehome/rss" htmlUrl="https://feed.cnblogs.com/blog/sitehome/rss"/>
       <outline text="cnBeta" title="cnBeta" type="rss" xmlUrl="https://feedx.net/rss/cnbetatop.xml" htmlUrl="https://feedx.net/rss/cnbetatop.xml"/>
-      <outline text="China Daily News" title="China Daily News" type="rss" xmlUrl="http://www.chinadaily.com.cn/rss/cndy_rss.xml" htmlUrl="http://www.chinadaily.com.cn/rss/cndy_rss.xml"/>
+      <outline text="China Daily News" title="China Daily News" type="rss" xmlUrl="https://www.chinadaily.com.cn/rss/china_rss.xml" htmlUrl="https://www.chinadaily.com.cn/rss/china_rss.xml"/>
       <outline text="游戏葡萄" title="游戏葡萄" type="rss" xmlUrl="https://rsshub.v2fy.com/gamegrape/13" htmlUrl="https://rsshub.v2fy.com/gamegrape/13"/>
       <outline text="书格" title="书格" type="rss" xmlUrl="https://www.shuge.org/feed/" htmlUrl="https://www.shuge.org/feed/"/>
       <outline text="书伴" title="书伴" type="rss" xmlUrl="https://feeds.feedburner.com/bookfere" htmlUrl="https://feeds.feedburner.com/bookfere"/>
