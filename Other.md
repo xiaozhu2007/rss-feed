@@ -38,6 +38,8 @@
 
 2024-05-26, @36氪, [我国已有24个省份出台省级控烟相关法规](https://36kr.com/newsflashes/2792172021630088?f=rss)
 
+2024-05-26, @IT之家, [OpenAI 又一吹哨人离职！拉响安全警报，风险隐患实在太大](https://www.ithome.com/0/770/823.htm)
+
 2024-05-26, @V2EX, [[iOS] 个人 iOS APP ，大家会选择兼容到哪个版本？](https://www.v2ex.com/t/1044077#reply1)
 
 2024-05-26, @IT之家, [21 款 / 23 款比亚迪海豚推送 V1.3.1 OTA 更新，优化对外放电、智能充电等功能](https://www.ithome.com/0/770/822.htm)
@@ -277,8 +279,6 @@
 
 2024-05-26, @博客园, [FFmpeg开发笔记（二十三）使用OBS Studio开启RTMP直播推流 - aqi00](https://www.cnblogs.com/aqi00/p/18199486)
 
-2024-05-26, @IT之家, [消息称微软将开放第三方厂商制造“OEM 授权版”Xbox 主机](https://www.ithome.com/0/770/755.htm)
-
 2024-05-26, @V2EX, [[Windows] 微软即将推出“召回”功能来帮助 Windows 用户回溯操作](https://www.v2ex.com/t/1044009#reply17)
 
 2024-05-26, @少数派, [找不到好听的新歌？从这些地方扩充你的华语曲库](https://sspai.com/post/89093)
@@ -436,6 +436,8 @@
 
 2024-05-20, @蠎周刊, [上周蠎快讯 2024/20](https://weekly.pychina.org/pyrecap/pyrw-2420.html)
 
+2024-05-20, @潮流周刊, [第177期 - 五彩花海](https://weekly.tw93.fun/posts/177-%E4%BA%94%E5%BD%A9%E8%8A%B1%E6%B5%B7/)
+
 2024-05-18, @知乎, [浅谈一下范闲前七集情绪变化起伏](http://zhuanlan.zhihu.com/p/698522987?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-05-18, @知乎, [如何评价范闲两季跪拜的变化？](http://zhuanlan.zhihu.com/p/698522675?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -491,6 +493,8 @@
 
 2024-05-13, @知乎, [当名画《拾穗者》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？](http://www.zhihu.com/question/655433872/answer/3495130121?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
+2024-05-13, @潮流周刊, [第176期 - 车外风景](https://weekly.tw93.fun/posts/176-%E8%BD%A6%E5%A4%96%E9%A3%8E%E6%99%AF/)
+
 2024-05-12, @不死鸟, [国内好用的AI工具推荐](https://iui.su/3010/)
 
 2024-05-11, @不死鸟, [imFile全平台下载软件](https://iui.su/3156/)
@@ -538,6 +542,8 @@
 
 2024-05-06, @蠎周刊, [上周蠎快讯 2024/18](https://weekly.pychina.org/pyrecap/pyrw-2418.html)
 
+2024-05-06, @潮流周刊, [第175期 - 有线耳机](https://weekly.tw93.fun/posts/175-%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA/)
+
 2024-05-05, @书格, [祖庭事苑](https://www.shuge.org/view/zu_ting_shi_yuan/)
 
 2024-05-02, @Apple新闻, [Apple reports second quarter results
@@ -551,6 +557,8 @@
 2024-04-29, @书格, [武备志](https://www.shuge.org/view/wu_bei_zhi/)
 
 2024-04-29, @蠎周刊, [上周蠎快讯 2024/17](https://weekly.pychina.org/pyrecap/pyrw-2417.html)
+
+2024-04-29, @潮流周刊, [第174期 - 新的园区](https://weekly.tw93.fun/posts/174-%E6%96%B0%E7%9A%84%E5%9B%AD%E5%8C%BA/)
 
 2024-04-28, @书伴, [时至 2024 对 Kindle 等电子书阅读器来说 8GB 还够用吗？](https://bookfere.com/post/1105.html)
 
@@ -566,6 +574,8 @@
 2024-04-22, @知乎, [火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？](http://www.zhihu.com/question/320439466/answer/3225146759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-04-22, @蠎周刊, [上周蠎快讯 2024/16](https://weekly.pychina.org/pyrecap/pyrw-2416.html)
+
+2024-04-22, @潮流周刊, [第173期 - 布面油画](https://weekly.tw93.fun/posts/173-%E5%B8%83%E9%9D%A2%E6%B2%B9%E7%94%BB/)
 
 2024-04-19, @知乎, [什么叫中国人的浪漫？](http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -597,6 +607,8 @@
 
 2024-04-15, @蠎周刊, [上周蠎快讯 2024/15](https://weekly.pychina.org/pyrecap/pyrw-2415.html)
 
+2024-04-15, @潮流周刊, [第172期 - 骑青山湖](https://weekly.tw93.fun/posts/172-%E9%AA%91%E9%9D%92%E5%B1%B1%E6%B9%96/)
+
 2024-04-12, @书伴, [[网友投稿] 为 KPW3/KV 的 KOReader 添加远程遥控翻页](https://bookfere.com/post/1103.html)
 
 2024-04-12, @阮一峰的网络日志, [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html)
@@ -607,11 +619,15 @@
 
 2024-04-08, @蠎周刊, [上周蠎快讯 2024/14](https://weekly.pychina.org/pyrecap/pyrw-2414.html)
 
+2024-04-08, @潮流周刊, [第171期 - 看虞美人](https://weekly.tw93.fun/posts/171-%E7%9C%8B%E8%99%9E%E7%BE%8E%E4%BA%BA/)
+
 2024-04-03, @书伴, [[2024.04.03] Kindle 阅读器固件升级至 5.16.8](https://bookfere.com/post/1102.html)
 
 2024-04-03, @书伴, [亚马逊 Kindle 锁屏正在为劣质 AI 生成电子书展示广告](https://bookfere.com/post/1101.html)
 
 2024-04-01, @蠎周刊, [上周蠎快讯 2024/13](https://weekly.pychina.org/pyrecap/pyrw-2413.html)
+
+2024-04-01, @潮流周刊, [第170期 - 杭州翠绿](https://weekly.tw93.fun/posts/170-%E6%9D%AD%E5%B7%9E%E7%BF%A0%E7%BB%BF/)
 
 2024-03-29, @不死鸟, [AI一键生成论文大纲和万字论文初稿，提供降重、降AI率、答辩PPT等一站式服务！](https://iui.su/3881/)
 
@@ -625,11 +641,15 @@
 
 2024-03-25, @蠎周刊, [上周蠎快讯 2024/12](https://weekly.pychina.org/pyrecap/pyrw-2412.html)
 
+2024-03-25, @潮流周刊, [第169期 - 路边繁花](https://weekly.tw93.fun/posts/169-%E8%B7%AF%E8%BE%B9%E7%B9%81%E8%8A%B1/)
+
 2024-03-21, @知乎, [最多可以找到几阶的汉字正交拉丁方阵？](http://www.zhihu.com/question/649069727/answer/3434869485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-03-20, @知乎, [技术神秘化的去魅：Sora关键技术逆向工程图解](http://zhuanlan.zhihu.com/p/687928845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-03-18, @蠎周刊, [上周蠎快讯 2024/11](https://weekly.pychina.org/pyrecap/pyrw-2411.html)
+
+2024-03-18, @潮流周刊, [第168期 - 想去现场](https://weekly.tw93.fun/posts/168-%E6%83%B3%E5%8E%BB%E7%8E%B0%E5%9C%BA/)
 
 2024-03-15, @知乎, [如何评价《沙丘 2》导演维伦纽瓦与陈思诚「造最真实的梦」主题对谈？](http://www.zhihu.com/question/648513817/answer/3430586920?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -640,6 +660,8 @@
 2024-03-11, @知乎, [电影《沙丘 2》怎么样，符合你的预期吗？](http://www.zhihu.com/question/647447394/answer/3424893873?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-03-11, @蠎周刊, [上周蠎快讯 2024/10](https://weekly.pychina.org/pyrecap/pyrw-2410.html)
+
+2024-03-11, @潮流周刊, [第167期 - 碧空雪涛](https://weekly.tw93.fun/posts/167-%E7%A2%A7%E7%A9%BA%E9%9B%AA%E6%B6%9B/)
 
 2024-03-07, @知乎, [芯片生态的竞争逻辑](http://zhuanlan.zhihu.com/p/672689713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -652,6 +674,8 @@
 2024-03-04, @知乎, [人可以在A4纸上以准确的比例尺画出太阳系所有的行星和相对距离吗？](http://www.zhihu.com/question/646411030/answer/3415990667?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-03-04, @蠎周刊, [上周蠎快讯 2024/9](https://weekly.pychina.org/pyrecap/pyrw-2409.html)
+
+2024-03-04, @潮流周刊, [第166期 - 猫晒太阳](https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/)
 
 2024-03-01, @知乎, [如何评价张艺谋的《第二十条》？](http://www.zhihu.com/question/639190230/answer/3394425243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
