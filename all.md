@@ -1,98 +1,192 @@
 # 2024
 
-2024-05-26, @V2EX, [[程序员] PVE 隔一天自动重启，卡死断流，有人遇到过吗](https://www.v2ex.com/t/1044150#reply0)
+2024-05-27, @36氪, [中信证券：金融系统积极推动房地产业融资支持，有助于房地产市场平稳健康发展](https://36kr.com/newsflashes/2793449325347717?f=rss)
 
-2024-05-26, @36氪, [中际旭创：目前确有400G和800G的硅光产品出货并预计会持续上量](https://36kr.com/newsflashes/2792568029512576?f=rss)
+2024-05-27, @36氪, [中信建投：铜板块终端消费仍保持健康增长，利于价格向上](https://36kr.com/newsflashes/2793427404866434?f=rss)
 
-2024-05-26, @36氪, [赛力斯汽车与中国汽研共建智能安全联合实验室](https://36kr.com/newsflashes/2792566687302786?f=rss)
+2024-05-27, @36氪, [申万宏源：美联储降息预期再现波折](https://36kr.com/newsflashes/2793421952828551?f=rss)
 
-2024-05-26, @36氪, [中国电建中标国内最大构网型混合储能项目](https://36kr.com/newsflashes/2792566251832449?f=rss)
+2024-05-27, @36氪, [8点1氪丨多地年薪60万至80万招聘聘任制公务员；张朝阳建议年轻人不要负债；英国一博物馆让游客随意触摸中国文物](https://36kr.com/p/2793407217615746?f=rss)
 
-2024-05-26, @V2EX, [[问与答] 求助懂网络的大神，我这个问题找不到根源](https://www.v2ex.com/t/1044149#reply6)
+2024-05-27, @36氪, [ICQ将于6月26日正式关闭](https://36kr.com/newsflashes/2793407544247172?f=rss)
+
+2024-05-27, @36氪, [A股并购重组呈现三大新趋势，“壳”资源价值下降](https://36kr.com/newsflashes/2793406846665605?f=rss)
+
+2024-05-27, @36氪, [聚焦遗传/罕见病精准防治，「赛福基因」获亿元C轮融资 | 36氪首发](https://36kr.com/p/2792523877713030?f=rss)
+
+2024-05-27, @36氪, [太阳系“远郊”天体上发现CO2和CO](https://36kr.com/newsflashes/2793405050733700?f=rss)
+
+2024-05-27, @36氪, [首个室温拓扑量子模拟器问世，有助研究物质和光的基本性质](https://36kr.com/newsflashes/2793404725314437?f=rss)
+
+2024-05-27, @36氪, [光大证券：有色、黄金价格长期趋势仍然向上](https://36kr.com/newsflashes/2793403970339971?f=rss)
+
+2024-05-27, @36氪, [招商证券：部分具备产品优势、服务优势及定价优势的房地产企业有望重获估值溢价](https://36kr.com/newsflashes/2793403808498817?f=rss)
+
+2024-05-27, @36氪, [软银寻求每年90亿美元的AI投资，同时寻求更大的交易](https://36kr.com/newsflashes/2793403413037953?f=rss)
+
+2024-05-27, @36氪, [A股重回箱体震荡，私募策略研判仍偏积极](https://36kr.com/newsflashes/2793403038057347?f=rss)
+
+2024-05-27, @36氪, [项目停产延期频现，光伏行业洗牌加速](https://36kr.com/newsflashes/2793402709361801?f=rss)
+
+2024-05-27, @36氪, [市场预期点燃电磁屏蔽行情，多家上市公司透露有关布局](https://36kr.com/newsflashes/2793396907950982?f=rss)
+
+2024-05-27, @36氪, [A股市场行情回暖，逾700只主动权益基金产品年内浮盈超10%](https://36kr.com/newsflashes/2793392533521280?f=rss)
+
+2024-05-27, @36氪, [“内卷”愈演愈烈，光伏组件招投标机制亟待完善](https://36kr.com/newsflashes/2793391155577731?f=rss)
+
+2024-05-27, @36氪, [深圳瑞捷：检测鉴定等服务需求正在加速释放，公司已积极跟进相关政策](https://36kr.com/newsflashes/2793389979616385?f=rss)
+
+2024-05-27, @36氪, [华西证券：高股息红利品种仍是后续重点配置方向](https://36kr.com/newsflashes/2793389329548161?f=rss)
+
+2024-05-27, @36氪, [商品型基金全面开花，白银超越黄金跃居第一](https://36kr.com/newsflashes/2793388974638216?f=rss)
+
+2024-05-27, @36氪, [华泰证券：多重因素有望共同驱动今年中国出口的结构性高增长](https://36kr.com/newsflashes/2793388019827592?f=rss)
+
+2024-05-27, @IT之家, [中传通报宿舍起火：疑充电宝引发，不存在“烟感器未报警”问题](https://www.ithome.com/0/770/885.htm)
+
+2024-05-27, @IT之家, [乘联会：“国产车崛起”造成进口车市场持续低迷，1-4 月中国汽车进口量降 8%](https://www.ithome.com/0/770/883.htm)
+
+2024-05-27, @V2EX, [[职场话题] 大家的睡眠怎么样，感觉我现在睡眠有时候多梦、有时候频繁醒来，有什么建议](https://www.v2ex.com/t/1044162#reply1)
+
+2024-05-27, @V2EX, [[嵌入式开发] 0 基础嵌入式开发学习](https://www.v2ex.com/t/1044161#reply0)
+
+2024-05-27, @V2EX, [[酷工作] [全职远程][20k-28k] Nextjs React 前端开发工程师](https://www.v2ex.com/t/1044159#reply0)
+
+2024-05-27, @博客园, [5分钟明白LangChain 的输出解析器和链 - 程序员半支烟](https://www.cnblogs.com/mangod/p/18214717)
+
+2024-05-27, @IT之家, [消息称 vivo S19 系列手机搭载新一代硅碳负极电池，能量密度比普通石墨负极电池高 20%](https://www.ithome.com/0/770/882.htm)
+
+2024-05-27, @博客园, [研二学妹面试字节，竟倒在了ThreadLocal上，这是不要应届生还是不要女生啊？ - JavaBuild](https://www.cnblogs.com/JavaBuild/p/18214706)
+
+2024-05-27, @博客园, [StackExchange.Redis跑起来，为什么这么溜？ - 萤火架构](https://www.cnblogs.com/bossma/p/18214702)
+
+2024-05-27, @V2EX, [[Ubuntu] ubuntu 2404 远程桌面 每次连接都会推出之前的登陆（所有桌面程序都会退出），重新登陆，是否可以保持原有登录？](https://www.v2ex.com/t/1044158#reply0)
+
+2024-05-27, @IT之家, [雷神 KQ27F240L 27 英寸显示器开售：2K 240Hz Fast-IPS，1699 元](https://www.ithome.com/0/770/881.htm)
+
+2024-05-27, @CN@Flipboard, [Spain Dismantles Two Criminal Organizations That Smuggled Hundreds Of Chinese Nationals](https://www.eurasiareview.com/27052024-spain-dismantles-two-criminal-organizations-that-smuggled-hundreds-of-chinese-nationals/)
+
+2024-05-27, @IT之家, [长城炮同款发动机？魏建军透露坦克 300 车型将推出 2.4T 柴油版](https://www.ithome.com/0/770/880.htm)
+
+2024-05-27, @V2EX, [[装修] 柜子内电子产品散热方案](https://www.v2ex.com/t/1044157#reply4)
+
+2024-05-27, @IT之家, [《命运 2》开发商 Bungie 诉讼 Phoenix Digital 外挂案获胜，将获赔 6.3 万美元](https://www.ithome.com/0/770/879.htm)
+
+2024-05-27, @V2EX, [[程序员] 以前的 darkkaode 虽然臃肿, 但是 daoker 跑起来快啊](https://www.v2ex.com/t/1044156#reply12)
+
+2024-05-27, @IT之家, [科技昨夜今晨 0527：刘强东回应京东严抓考勤；天涯社区回应出售域名；QQ 的“老大哥”，ICQ 聊天软件官宣 6 月 26 日关闭](https://www.ithome.com/0/770/878.htm)
+
+2024-05-27, @IT之家, [安克推出冰点快充 30W 充电器：适配苹果 iPhone 15 等，售价 59.9 元](https://www.ithome.com/0/770/877.htm)
+
+2024-05-27, @博客园, [【进阶篇】使用 Stream 流对比两个集合的常用操作分享 - CodeBlogMan](https://www.cnblogs.com/CodeBlogMan/p/18156081)
+
+2024-05-27, @CN@Flipboard, [India-Iran Agreement On Chabahar Port: Boost For Global Supply Chain – Analysis](https://www.eurasiareview.com/27052024-india-iran-agreement-on-chabahar-port-boost-for-global-supply-chain-analysis/)
+
+2024-05-27, @IT之家, [宜家中国首家设计订购中心落地深圳，可为顾客提供“一对一个性化设计服务”](https://www.ithome.com/0/770/876.htm)
+
+2024-05-27, @IT之家, [机械师 L7 Air 三模游戏鼠标 6 月 3 日开售：PAW3395、55 克，首发价 99 元起](https://www.ithome.com/0/770/875.htm)
+
+2024-05-27, @潮流周刊, [第178期 - 蜗牛蜗牛](https://weekly.tw93.fun/posts/178-%E8%9C%97%E7%89%9B%E8%9C%97%E7%89%9B/)
+
+2024-05-26, @博客园, [微软在Microsoft Build 2024 上 发布了.NET 9 预览版4 - 张善友](https://www.cnblogs.com/shanyou/p/18214692)
+
+2024-05-26, @IT之家, [iPhone 遇上人工智能：消息称苹果已与 OpenAI 正式达成协议，iOS 18 用上 ChatGPT](https://www.ithome.com/0/770/874.htm)
+
+2024-05-26, @IT之家, [小米米家空气炸锅 N1 5L 版开售：6.2 英寸透明视窗、烘烤免翻面，199 元](https://www.ithome.com/0/770/873.htm)
+
+2024-05-26, @V2EX, [[Netflix] 有什么 netflix 的替代品，封号太严重了](https://www.v2ex.com/t/1044154#reply10)
+
+2024-05-26, @IT之家, [摩托罗拉 G85 手机通过无线电核准，外观渲染图已曝光](https://www.ithome.com/0/770/872.htm)
+
+2024-05-26, @IT之家, [三星否认自家 HBM 内存芯片未通过英伟达测试，“正与商业伙伴合作持续改善产品质量可靠性”](https://www.ithome.com/0/770/871.htm)
+
+2024-05-26, @博客园, [一文带你了解.NET能做什么？ - 追逐时光者](https://www.cnblogs.com/Can-daydayup/p/18214473)
+
+2024-05-26, @IT之家, [荣耀 Earbuds A 蓝牙耳机开售：10mm 动圈 +“金耳朵”认证，129 元](https://www.ithome.com/0/770/870.htm)
+
+2024-05-26, @IT之家, [支持高清材质 / 60FPS，粉丝移植卡普空《生化危机：逃出生天 File 2》游戏至 PC 平台](https://www.ithome.com/0/770/869.htm)
+
+2024-05-26, @CN@Flipboard, [Maos tiananmen square red by Liu Wei](https://www.artnet.com/artists/liu-wei/maos-tiananmen-square-red-5SBdA4xoZNyI5p50Nh-M2A2)
+
+2024-05-26, @IT之家, [新款比亚迪唐 DM-i 伪装车曝光：有望搭载全新混动技术，现款售 17.98 万元起](https://www.ithome.com/0/770/868.htm)
+
+2024-05-26, @IT之家, [支持生成 Emoji 表情 / 整理未读通知等，苹果 iOS 18 有望获得七大 AI 功能特性](https://www.ithome.com/0/770/866.htm)
+
+2024-05-26, @CN@Flipboard, [China’s middle class still jittery about spending – especially on property, survey finds](https://www.scmp.com/economy/china-economy/article/3264152/chinas-middle-class-still-jittery-about-spending-especially-property-survey-finds)
+
+2024-05-26, @CN@Flipboard, [How Biden's tariff on Chinese-manufactured electric vehicles could impact the presidential race](https://flipboard.com/video/wttg/061aa26535)
+
+2024-05-26, @CN@Flipboard, [Opinion: It’s all hands on deck for USMCA, again](https://www.theglobeandmail.com/politics/opinion/article-its-all-hands-on-deck-for-usmca-again/)
+
+2024-05-26, @V2EX, [[硬件] 为什么 4k 性能相对较好的 SSD 大部分带缓存，更应该带缓存的 4k 性能很差的机械硬盘反而不带缓存？](https://www.v2ex.com/t/1044153#reply6)
+
+2024-05-26, @CN@Flipboard, [6.6 Magnitude Earthquake Reported](https://rock102memphis.iheart.com/content/2024-05-26-66-magnitude-earthquake-reported/)
+
+2024-05-26, @CN@Flipboard, [Xi’s China EV Dream Came True. 10 Years On, Walls Are Going Up](https://www.bloomberg.com/news/articles/2024-05-26/xi-s-china-ev-dream-came-true-10-years-on-walls-are-going-up)
+
+2024-05-26, @V2EX, [[程序员] 需要一个在浏览器内本地运行的名称分类模型（100MB 内），输入一个或者多个关键词，猜测返回他们的共同属性，有没有好的建议？](https://www.v2ex.com/t/1044152#reply5)
+
+2024-05-26, @V2EX, [[分享发现] 淡黄色才是牙医公认的健康色号](https://www.v2ex.com/t/1044151#reply0)
+
+2024-05-26, @V2EX, [[程序员] PVE 隔一天自动重启，卡死断流，有人遇到过吗](https://www.v2ex.com/t/1044150#reply13)
+
+2024-05-26, @V2EX, [[宽带症候群] 求助懂网络的大神，我这个问题找不到根源](https://www.v2ex.com/t/1044149#reply13)
 
 2024-05-26, @V2EX, [[Python] Python grpc aio client 连接管理](https://www.v2ex.com/t/1044148#reply0)
 
-2024-05-26, @V2EX, [[推广] [抽奖]加群每天抽橘子，评论每满 100 楼抽 2 箱 2 斤的橘子, 6.3,15： 00 截止,5.29, 5.31, 6.3 三次开奖](https://www.v2ex.com/t/1044147#reply0)
+2024-05-26, @V2EX, [[推广] [抽奖]加群每天抽橘子，评论每满 100 楼抽 2 箱 2 斤的橘子, 6.3,15： 00 截止,5.29, 5.31, 6.3 三次开奖](https://www.v2ex.com/t/1044147#reply1)
 
 2024-05-26, @V2EX, [[MacBook Pro] Apple 官方始终不处理 19 款 16 寸 MBP 外接显示器发热问题](https://www.v2ex.com/t/1044146#reply0)
 
 2024-05-26, @CN@Flipboard, [Migrant elderly parents tell of abuse by NZ children as study finds elder abuse rampant among Indian and Chinese communities](https://www.nzherald.co.nz/nz/migrant-elderly-parents-tell-of-abuse-by-nz-children-as-study-finds-elder-abuse-rampant-among-indian-and-chinese-communities/MH7I5AGNOJFDHLK3RSLYHBDL54/)
 
-2024-05-26, @V2EX, [[推广] 办流量卡或想做流量卡副业的可以进来看看](https://www.v2ex.com/t/1044145#reply2)
+2024-05-26, @V2EX, [[推广] 办流量卡或想做流量卡副业的可以进来看看](https://www.v2ex.com/t/1044145#reply3)
 
-2024-05-26, @V2EX, [[开源软件] 有人成功部署过 Qanything 吗？](https://www.v2ex.com/t/1044144#reply0)
+2024-05-26, @V2EX, [[开源软件] 有人成功部署过 Qanything 吗？](https://www.v2ex.com/t/1044144#reply1)
 
 2024-05-26, @博客园, [『手撕Vue-CLI』拉取模板名称 - BNTang](https://www.cnblogs.com/BNTang/p/18214644)
 
 2024-05-26, @V2EX, [[Apple] Alfred 是用什么构建的？](https://www.v2ex.com/t/1044143#reply0)
 
-2024-05-26, @V2EX, [[游戏] 有谁知道开发戴森球计划的柚子猫工作室近况怎么样了？](https://www.v2ex.com/t/1044142#reply1)
+2024-05-26, @V2EX, [[游戏] 有谁知道开发戴森球计划的柚子猫工作室近况怎么样了？](https://www.v2ex.com/t/1044142#reply2)
 
-2024-05-26, @36氪, [云南白药：提名郭昕、游光辉为公司第十届董事会非独立董事候选人](https://36kr.com/newsflashes/2792510932010116?f=rss)
-
-2024-05-26, @36氪, [赛力斯汽车与中国汽研共建智能安全联合实验室](https://36kr.com/newsflashes/2792509119415174?f=rss)
-
-2024-05-26, @36氪, [日本研究用干细胞培育出可分化成精子和卵子的细胞](https://36kr.com/newsflashes/2792508579923079?f=rss)
-
-2024-05-26, @36氪, [埃安：向泰国孔敬国际机场交付AION ES出租车](https://36kr.com/newsflashes/2792507698840710?f=rss)
-
-2024-05-26, @36氪, [中国最长跨城地铁今天首发，横跨广东5城](https://36kr.com/newsflashes/2792506661667719?f=rss)
-
-2024-05-26, @36氪, [宜家中国首家设计订购中心落地深圳](https://36kr.com/newsflashes/2792504915936130?f=rss)
-
-2024-05-26, @36氪, [中国移动咪咕发布AI能力品牌“仝舟”](https://36kr.com/newsflashes/2792503759684738?f=rss)
-
-2024-05-26, @V2EX, [[随想] 什么样的人应该称为最大的恶](https://www.v2ex.com/t/1044141#reply5)
-
-2024-05-26, @V2EX, [[问与答] 黑苹果+win 系统的硬盘别乱拔插，坑了](https://www.v2ex.com/t/1044140#reply1)
+2024-05-26, @V2EX, [[问与答] 黑苹果+win 系统的硬盘别乱拔插，坑了](https://www.v2ex.com/t/1044140#reply6)
 
 2024-05-26, @V2EX, [[分享创造] 说干就干系列：关于视频焦点关注的视频编辑器 [ffmpeg 练手]](https://www.v2ex.com/t/1044139#reply0)
 
 2024-05-26, @CN@Flipboard, [Government eyes land owned by Chinese drug lords](https://www.philstar.com/headlines/2024/05/27/2358129/government-eyes-land-owned-chinese-drug-lords)
 
-2024-05-26, @V2EX, [[问与答] 荨麻疹复发，咨询各位有经历或医生相关的朋友们！](https://www.v2ex.com/t/1044138#reply12)
+2024-05-26, @V2EX, [[健康] 荨麻疹复发，咨询各位有经历或医生相关的朋友们！](https://www.v2ex.com/t/1044138#reply20)
 
 2024-05-26, @CN@Flipboard, [Woman cycling in northern Hong Kong crashes into boom barrier, dies from chest injuries](https://www.scmp.com/news/hong-kong/society/article/3264182/woman-cycling-northern-hong-kong-crashes-boom-barrier-dies-chest-injuries)
 
 2024-05-26, @V2EX, [[分享创造] 成功将 Hugo 博客迁移到 Next.js,很清爽的一个博客主题](https://www.v2ex.com/t/1044137#reply1)
 
-2024-05-26, @CN@Flipboard, [Chinese chip industry leader asks companies to focus on building innovations using mature nodes](https://www.tomshardware.com/tech-industry/semiconductors/china-industry-leader-tells-semiconductor-companies-to-focus-on-back-end-innovations-and-mature-nodes-instead-of-racing-towards-3nm-and-smaller-nodes)
-
 2024-05-26, @V2EX, [[分享创造] 3 年前和同事一起弄的一个 flutter 弹幕库](https://www.v2ex.com/t/1044136#reply0)
 
 2024-05-26, @博客园, [Java 对象的揭秘 - fuxing．](https://www.cnblogs.com/fuxing/p/18214590)
 
-2024-05-26, @V2EX, [[Android] 求推荐红米手机，要求能刷机，屏幕好，不打游戏，只刷视频](https://www.v2ex.com/t/1044135#reply1)
+2024-05-26, @V2EX, [[Android] 求推荐红米手机，要求能刷机，屏幕好，不打游戏，只刷视频](https://www.v2ex.com/t/1044135#reply2)
 
 2024-05-26, @IT之家, [中国电信麦芒新款 TYH641M 手机入网：高通 5G 平台、40W 快充](https://www.ithome.com/0/770/865.htm)
 
 2024-05-26, @V2EX, [[OpenAI] chatgpt 这两天只要一段时间不操作就会跳 cf 验证, 你们有这个情况吗](https://www.v2ex.com/t/1044133#reply2)
 
-2024-05-26, @V2EX, [[问与答] 有人家长期尝试那种美式简餐生活吗？](https://www.v2ex.com/t/1044132#reply9)
+2024-05-26, @V2EX, [[问与答] 有人家长期尝试那种美式简餐生活吗？](https://www.v2ex.com/t/1044132#reply10)
 
 2024-05-26, @IT之家, [马斯克旗下隧道公司取得新里程碑：载客量突破 200 万](https://www.ithome.com/0/770/863.htm)
 
-2024-05-26, @V2EX, [[分享创造] 迫于腾讯云函数收费写了个 cdn 刷新 cli 小工具，有 docker cli 两种模式配合工作流或者 cron 使用](https://www.v2ex.com/t/1044131#reply0)
+2024-05-26, @V2EX, [[分享创造] 迫于腾讯云函数收费写了个 cdn 刷新 cli 小工具，有 docker cli 两种模式配合工作流或者 cron 使用](https://www.v2ex.com/t/1044131#reply1)
 
 2024-05-26, @V2EX, [[问与答] vue+ Python 实现一个系统](https://www.v2ex.com/t/1044130#reply1)
 
-2024-05-26, @CN@Flipboard, [HK$48,430 for roasted pork lunchbox: Taiwan fines passenger from Hong Kong for bringing in banned meat](https://www.scmp.com/news/hong-kong/health-environment/article/3264180/hk48430-roasted-pork-lunchbox-taiwan-fines-passenger-hong-kong-bringing-banned-meat)
-
 2024-05-26, @CN@Flipboard, [SUMMER READING LIST: Every New Mystery & Thriller Set to Hit Bookstores](https://therealbookspy.com/2024/05/26/summer-reading-list-every-new-mystery-thriller-set-to-hit-bookstores/)
 
-2024-05-26, @V2EX, [[程序员] 回老家出差了 1 个月，每天和亲人、同学、童年玩伴在一起，太爽了，真心想回来养老，可是已经在北京安家了，媳妇儿肯定不同意](https://www.v2ex.com/t/1044129#reply12)
+2024-05-26, @V2EX, [[生活] 回老家出差了 1 个月，每天和亲人、同学、童年玩伴在一起，太爽了，真心想回来养老，可是已经在北京安家了，媳妇儿肯定不同意](https://www.v2ex.com/t/1044129#reply23)
 
 2024-05-26, @V2EX, [[Linux] iptables 在 OUTPUT 里使用 cgroup 匹配的连接在-j MARK 后似乎没有重路由](https://www.v2ex.com/t/1044126#reply0)
 
 2024-05-26, @IT之家, [华为儿童手表 5 新耀版上市：离线定位、畅连通话、800mAh 电池，598 元](https://www.ithome.com/0/770/862.htm)
-
-2024-05-26, @36氪, [生态环境部党组书记孙金龙赴山西省调研生态环境保护工作](https://36kr.com/newsflashes/2792390530581378?f=rss)
-
-2024-05-26, @36氪, [百亿级私募数量92家 相比于一季度末减少8家](https://36kr.com/newsflashes/2792390116328322?f=rss)
-
-2024-05-26, @36氪, [日本研究用干细胞培育出可分化成精子和卵子的细胞](https://36kr.com/newsflashes/2792389645812614?f=rss)
-
-2024-05-26, @CN@Flipboard, [Chinese NYPD officer fired for allegedly spying for Chinese Communist Party, documents show](https://justthenews.com/nation/crime/chinese-nypd-officer-fired-allegedly-spying-chinese-communist-party-documents-show)
 
 2024-05-26, @IT之家, [特斯拉 FSD 酿险情：司机控诉系统未识别火车险些酿成事故](https://www.ithome.com/0/770/861.htm)
 
@@ -106,29 +200,25 @@
 
 2024-05-26, @V2EX, [[分享发现] 讨论分享一些全职宝妈适合做的远程岗位](https://www.v2ex.com/t/1044124#reply3)
 
-2024-05-26, @V2EX, [[iPhone] 网传 iPhone16 全系标配高刷是否值得等待？](https://www.v2ex.com/t/1044123#reply14)
-
-2024-05-26, @CN@Flipboard, [The F-22 Fighter Has 1 Problem That Is Impossible to Fix](https://nationalinterest.org/blog/buzz/f-22-fighter-has-1-problem-impossible-fix-211185)
+2024-05-26, @V2EX, [[iPhone] 网传 iPhone16 全系标配高刷是否值得等待？](https://www.v2ex.com/t/1044123#reply17)
 
 2024-05-26, @IT之家, [日本科学家研发出“可食用机器人”，创造全新饮食体验](https://www.ithome.com/0/770/857.htm)
 
 2024-05-26, @博客园, [Lakehouse 还是 Warehouse？(1/2) - leesf](https://www.cnblogs.com/leesf456/p/18214405)
 
-2024-05-26, @V2EX, [[分享创造] 邱邱词典终于和大家见面](https://www.v2ex.com/t/1044122#reply6)
+2024-05-26, @V2EX, [[分享创造] 邱邱词典终于和大家见面](https://www.v2ex.com/t/1044122#reply7)
 
 2024-05-26, @博客园, [Intel HDSLB 高性能四层负载均衡器 — 基本原理和部署配置 - 云物互联](https://www.cnblogs.com/jmilkfan-fanguiju/p/18214369)
 
-2024-05-26, @CN@Flipboard, [Op-Ed: The day sleeping American patriots woke up (copy)](https://www.thecentersquare.com/national/article_1c0b4ec6-1b6c-11ef-96e0-0bac419867e9.html?a)
+2024-05-26, @CN@Flipboard, [Op-Ed: The day sleeping American patriots woke up](https://www.thecentersquare.com/national/article_1c0b4ec6-1b6c-11ef-96e0-0bac419867e9.html?a)
 
 2024-05-26, @V2EX, [[macOS] windows 使用 vnc 客户端访问 mac 内置的屏幕共享进行远程访问能打开剪贴板共享么？](https://www.v2ex.com/t/1044121#reply0)
 
-2024-05-26, @V2EX, [[问与答] poe 订阅取消问题](https://www.v2ex.com/t/1044120#reply0)
-
-2024-05-26, @V2EX, [[职场话题] 分享一下最近招聘的感想](https://www.v2ex.com/t/1044119#reply30)
+2024-05-26, @V2EX, [[问与答] poe 订阅取消问题](https://www.v2ex.com/t/1044120#reply1)
 
 2024-05-26, @IT之家, [360 行车记录仪 V9 上架：支持行车运动双模式 / 4K 画质，预售 499 元](https://www.ithome.com/0/770/856.htm)
 
-2024-05-26, @V2EX, [[问与答] 被骗了很多钱，有骗子的 tg/推特/微博/币安账号， v 友们帮帮忙想想办法，跪谢！](https://www.v2ex.com/t/1044118#reply7)
+2024-05-26, @V2EX, [[问与答] 被骗了很多钱，有骗子的 tg/推特/微博/币安账号， v 友们帮帮忙想想办法，跪谢！](https://www.v2ex.com/t/1044118#reply10)
 
 2024-05-26, @IT之家, [漫步者 NeoBuds Evo 耳机通过蓝牙认证：圈铁混合单元、恒玄蓝牙方案](https://www.ithome.com/0/770/855.htm)
 
@@ -146,11 +236,11 @@
 
 2024-05-26, @IT之家, [宫崎骏之子宫崎吾朗：父亲正在制作一个创意项目，可能是怀旧冒险风格](https://www.ithome.com/0/770/853.htm)
 
-2024-05-26, @V2EX, [[路由器] 夏日路由器散热方案](https://www.v2ex.com/t/1044114#reply5)
+2024-05-26, @V2EX, [[路由器] 夏日路由器散热方案](https://www.v2ex.com/t/1044114#reply9)
 
 2024-05-26, @博客园, [基于深度学习的入侵检测系统综述文献概述——AI科研之路 - TE1KSUU=](https://www.cnblogs.com/TE1KSUU/p/18214304)
 
-2024-05-26, @V2EX, [[职场话题] 找了半年工作终于进厂了](https://www.v2ex.com/t/1044113#reply18)
+2024-05-26, @V2EX, [[职场话题] 找了半年工作终于进厂了](https://www.v2ex.com/t/1044113#reply24)
 
 2024-05-26, @IT之家, [古尔曼：苹果 iOS 18 的人工智能功能或将标记为测试版](https://www.ithome.com/0/770/852.htm)
 
@@ -158,19 +248,11 @@
 
 2024-05-26, @V2EX, [[职场话题] 失业半年的我，在求职过程中有一些发现，这肯定是南方经济比北方强的原因之一。](https://www.v2ex.com/t/1044112#reply10)
 
-2024-05-26, @V2EX, [[程序员] 有人用 4070、4060 显卡的笔记本测试过跑 llama3，问问题，或者读取文档做总结，需要多长时间吗？](https://www.v2ex.com/t/1044111#reply18)
+2024-05-26, @V2EX, [[程序员] 有人用 4070、4060 显卡的笔记本测试过跑 llama3，问问题，或者读取文档做总结，需要多长时间吗？](https://www.v2ex.com/t/1044111#reply20)
 
-2024-05-26, @V2EX, [[iPad] 本来想着 MiniLED 的 iPad Pro 是 LCD 最后的荣光了，结果是 PWM 调光，看来护眼和观看体验是不可以兼得的](https://www.v2ex.com/t/1044110#reply11)
+2024-05-26, @V2EX, [[iPad] 本来想着 MiniLED 的 iPad Pro 是 LCD 最后的荣光了，结果是 PWM 调光，看来护眼和观看体验是不可以兼得的](https://www.v2ex.com/t/1044110#reply12)
 
-2024-05-26, @V2EX, [[Vim] 用了一段时间 neovim，感觉良好](https://www.v2ex.com/t/1044109#reply0)
-
-2024-05-26, @36氪, [华为联合发改委创新驱动发展中心发布《企业数字化转型投入产出关系研究报告》](https://36kr.com/newsflashes/2792273745560712?f=rss)
-
-2024-05-26, @36氪, [北京今年家庭新能源指标“分数线”揭晓](https://36kr.com/newsflashes/2792272947627136?f=rss)
-
-2024-05-26, @36氪, [行业龙头发函！消费电子“热”了？](https://36kr.com/newsflashes/2792272189604745?f=rss)
-
-2024-05-26, @36氪, [北京市医保局：在京东、美团平台开展非处方药品线上支付测试，可用支付宝支付](https://36kr.com/newsflashes/2792271228650372?f=rss)
+2024-05-26, @V2EX, [[Vim] 用了一段时间 neovim，感觉良好](https://www.v2ex.com/t/1044109#reply1)
 
 2024-05-26, @V2EX, [[求职] [远程/全职上海/合肥/求职] 四年前端，技术栈 React/TS](https://www.v2ex.com/t/1044108#reply1)
 
@@ -188,7 +270,7 @@
 
 2024-05-26, @IT之家, [兴戈 SIMGOT 推出 SuperMix 4、EM10、EM10 钛马限量版多单元入耳式耳机](https://www.ithome.com/0/770/846.htm)
 
-2024-05-26, @V2EX, [[问与答] 指纹和人脸打卡普及的时代，请问东哥家的代打卡事件是怎么发生的？](https://www.v2ex.com/t/1044105#reply4)
+2024-05-26, @V2EX, [[问与答] 指纹和人脸打卡普及的时代，请问东哥家的代打卡事件是怎么发生的？](https://www.v2ex.com/t/1044105#reply5)
 
 2024-05-26, @CN@Flipboard, [Chinese Automaker Could Beat Everyone To Solid-State Battery Tech](https://carbuzz.com/chinese-automaker-could-beat-everyone-solid-state-battery-technology/)
 
@@ -200,21 +282,11 @@
 
 2024-05-26, @博客园, [解密Prompt系列30. LLM Agent之互联网冲浪智能体 - 风雨中的小七](https://www.cnblogs.com/gogoSandy/p/18214223)
 
-2024-05-26, @CN@Flipboard, [South Korean, Chinese and Japanese leaders discuss thorny topics and ways to boost cooperation](https://www.boston25news.com/news/world/south-korean-chinese/F2VAZXFV6B4YCQTRAHFUP5WPN4/)
-
 2024-05-26, @博客园, [微服务实践k8s&dapr开发部署实验（2）状态管理 - shiningrise](https://www.cnblogs.com/shiningrise/p/18214159)
-
-2024-05-26, @V2EX, [[宽带症候群] 上海联通，今天片区运维打电话要拍照了，说上传超标， PCDN 是不是只能停了？](https://www.v2ex.com/t/1044101#reply10)
-
-2024-05-26, @V2EX, [[Apple] HomePod 升级到最新版本后无法用 Siri 打开 Apple TV 了](https://www.v2ex.com/t/1044100#reply2)
 
 2024-05-26, @IT之家, [11000Pa 大吸力：科沃斯 T30 MAX 扫拖机器人 3004 元京东探新低](https://www.ithome.com/0/770/843.htm)
 
 2024-05-26, @IT之家, [恒大汽车：29% 股份将即时被收购](https://www.ithome.com/0/770/842.htm)
-
-2024-05-26, @V2EX, [[问与答] 如何最低成本持有一个域名，不在意后缀](https://www.v2ex.com/t/1044099#reply38)
-
-2024-05-26, @36氪, [新“国九条”落地月余 超230家上市公司计划中期分红](https://36kr.com/newsflashes/2792212162282374?f=rss)
 
 2024-05-26, @IT之家, [绿联发布可折叠二合一无线充电底座：支持苹果 MagSafe 磁吸，234 元](https://www.ithome.com/0/770/841.htm)
 
@@ -224,25 +296,11 @@
 
 2024-05-26, @博客园, [.NET集成DeveloperSharp实现http网络请求&与其它工具的比较 - 高级梦想家](https://www.cnblogs.com/digital-college/p/18214180)
 
-2024-05-26, @V2EX, [[奇思妙想] 开个脑洞：如果任天堂选择开放 switch 生态](https://www.v2ex.com/t/1044098#reply9)
-
-2024-05-26, @V2EX, [[分享创造] 分享一个网站——体外诊断 IVD 导航](https://www.v2ex.com/t/1044097#reply0)
-
-2024-05-26, @V2EX, [[问与答] 600 百万字的小说有哪个 ai 能继续续写下去](https://www.v2ex.com/t/1044096#reply0)
-
-2024-05-26, @V2EX, [[浏览器] 对于浏览器的多账号同时登录的会话隔离， 有没有比较好的方案](https://www.v2ex.com/t/1044095#reply24)
-
 2024-05-26, @CN@Flipboard, [Luxury-Leaning Arc’teryx Is Just Getting Started In The $400 Billion Outdoor Sportswear Market](https://www.forbes.com/sites/pamdanziger/2024/05/26/luxury-leaning-arcteryx-is-just-getting-started-in-the-400-billion-outdoor-sportswear-market/)
 
 2024-05-26, @IT之家, [南极洲巨型冰山再次脱离冰架，或与气候变化有关](https://www.ithome.com/0/770/837.htm)
 
-2024-05-26, @V2EX, [[投资] 理财产品的年化率是不是有套路？](https://www.v2ex.com/t/1044094#reply4)
-
-2024-05-26, @36氪, [司美格鲁肽又一3期试验达终点，诺和诺德计划24年递交监管申请](https://36kr.com/newsflashes/2792173837304708?f=rss)
-
 2024-05-26, @IT之家, [马斯克调侃称自己就是外星人，但没人相信](https://www.ithome.com/0/770/835.htm)
-
-2024-05-26, @36氪, [我国已有24个省份出台省级控烟相关法规](https://36kr.com/newsflashes/2792172021630088?f=rss)
 
 2024-05-26, @CN@Flipboard, [friendly fire ‘This is something that he’d be prepared to do’ John Bolton warns of Donald Trump and Nato – allies should take note](https://www.the-sun.com/news/11423808/john-bolton-donald-trump-nato-allies/)
 
@@ -266,8 +324,6 @@
 
 2024-05-26, @IT之家, [哪吒 L 纯电版开启预售：14 万元起 / 510 公里续航 / 6 月下旬上市，冰箱能冻冰淇淋](https://www.ithome.com/0/770/827.htm)
 
-2024-05-26, @博客园, [etcd MVCC 存储结构及流程 - daemon365](https://www.cnblogs.com/daemon365/p/18214071)
-
 2024-05-26, @IT之家, [2024 年 1-4 月中国汽车进口 21 万台，同比下降 8%](https://www.ithome.com/0/770/826.htm)
 
 2024-05-26, @IT之家, [Bungie 起诉《命运 2》作弊器网站 AimJunkies 胜诉，获赔 63210 美元](https://www.ithome.com/0/770/825.htm)
@@ -276,53 +332,7 @@
 
 2024-05-26, @IT之家, [OpenAI 又一吹哨人离职！拉响安全警报，风险隐患实在太大](https://www.ithome.com/0/770/823.htm)
 
-2024-05-26, @IT之家, [21 款 / 23 款比亚迪海豚推送 V1.3.1 OTA 更新，优化对外放电、智能充电等功能](https://www.ithome.com/0/770/822.htm)
-
-2024-05-26, @IT之家, [宝马 Skytop 概念车亮相，采用可手动拆卸硬顶设计](https://www.ithome.com/0/770/820.htm)
-
-2024-05-26, @IT之家, [LG 冰趣系列 508L 敲一敲十字四门冰箱上市：透视窗、三合一制冰，13599 元](https://www.ithome.com/0/770/819.htm)
-
-2024-05-26, @IT之家, [领克 ZERO 纯电轿车内饰谍照曝光，配嵌入式长条仪表 / 双辐方向盘](https://www.ithome.com/0/770/818.htm)
-
-2024-05-26, @IT之家, [Nothing Phone（2a）手机新配色预热：红色、黄色版本即将上市](https://www.ithome.com/0/770/817.htm)
-
-2024-05-26, @IT之家, [初代苹果 Siri 配音员揭秘：最早的声音录制于 2005 年](https://www.ithome.com/0/770/816.htm)
-
-2024-05-26, @IT之家, [松下全新远程相机控制应用“LUMIX Lab”5 月 29 日上线，支持最新 S9 机型 LUT 滤镜功能](https://www.ithome.com/0/770/815.htm)
-
-2024-05-26, @IT之家, [魏建军谈哈弗 H6 销量下滑：无序及恶意竞争给行业带来混乱，但长城不会参与](https://www.ithome.com/0/770/813.htm)
-
-2024-05-26, @IT之家, [消息称代号“Chronicle”的《皇牌空战 8》为万代南梦宫下一个大规模游戏项目](https://www.ithome.com/0/770/812.htm)
-
-2024-05-26, @博客园, [【ESP32】制作 Wi-fi 音箱（HTTP + I2S 协议） - 东邪独孤](https://www.cnblogs.com/tcjiaan/p/18212730)
-
-2024-05-26, @IT之家, [机械师曙光 15L 笔记本配置上新：i7-13620H + RTX4050 + 24G + 512G 售 5999 元](https://www.ithome.com/0/770/809.htm)
-
-2024-05-26, @IT之家, [苹果 CEO 库克：Vision Pro 首次使用者往往会感到“情感上的触动”](https://www.ithome.com/0/770/807.htm)
-
-2024-05-26, @IT之家, [微星官宣 MPG 341CQPX QD-OLED 显示器国行即将开售：240Hz、98W 充电](https://www.ithome.com/0/770/806.htm)
-
-2024-05-26, @博客园, [# [NOIP2011 提高组] 铺地毯 - 不AC不睡觉](https://www.cnblogs.com/6Luffy6/p/18213807)
-
-2024-05-26, @IT之家, [消息称微软正实施游戏多平台战略，《毁灭战士：黑暗时代》将同步登陆 PS5、Xbox Series X|S](https://www.ithome.com/0/770/805.htm)
-
-2024-05-26, @IT之家, [中兴新款 A2025HL 手机“证件照”公布：有望支持卫星通讯、6000mAh 电池](https://www.ithome.com/0/770/804.htm)
-
-2024-05-26, @博客园, [【操作系统】内存管理概述 - 学习，积累，成长](https://www.cnblogs.com/dongxb/p/18213783)
-
-2024-05-26, @博客园, [MySQL如何查询某个字段含有字母数字的值 - TechSynapse](https://www.cnblogs.com/TS86/p/18213763)
-
-2024-05-26, @IT之家, [全家一起看电视：腾讯视频年卡 128 元，SVIP 联合年卡 248 元官方发车](https://www.ithome.com/0/770/798.htm)
-
-2024-05-26, @博客园, [Python OpenCV #1 - OpenCV介绍 - J_ssst](https://www.cnblogs.com/jssst/p/18213733)
-
 2024-05-26, @CN@Flipboard, [Search not possible for British climber, Sherpa who went missing on Everest: Official](https://abcnews.go.com/International/wireStory/search-british-climber-sherpa-missing-everest-official-110569433)
-
-2024-05-26, @IT之家, [6699 元 → 3954 元：小天鹅水魔方 86+35 热泵洗烘套装 6 期免息](https://www.ithome.com/0/770/776.htm)
-
-2024-05-26, @IT之家, [EPP 超净系统：海尔 500L 零嵌法式冰箱 3523 元 6 期免息（日常 6299 元）](https://www.ithome.com/0/770/772.htm)
-
-2024-05-26, @IT之家, [双 Hi-Res 认证 + 66W 大功率：漫步者 N300 有源桌面音箱 617 元探新低](https://www.ithome.com/0/770/765.htm)
 
 2024-05-26, @CN@Flipboard, [After China drills, Taiwan president again offers talks](https://www.straitstimes.com/asia/after-china-drills-taiwan-president-again-offers-talks)
 
@@ -338,19 +348,17 @@
 
 2024-05-26, @CN@Flipboard, [These 5 Chinese Zodiac Signs Will Have The Luckiest Horoscopes All Week Starting May 27](https://www.yourtango.com/2024374615/chinese-zodiac-signs-luckiest-horocopes-may-27-june-2-2024)
 
-2024-05-25, @CN@Flipboard, [6.3 Magnitude Earthquake Reported](https://hits961.iheart.com/content/2024-05-25-63-magnitude-earthquake-reported/)
+2024-05-26, @CN@Flipboard, [Chinese NYPD officer fired for allegedly spying for Chinese Communist Party, documents show](https://justthenews.com/nation/crime/chinese-nypd-officer-fired-allegedly-spying-chinese-communist-party-documents-show)
+
+2024-05-25, @CN@Flipboard, [6.3 Magnitude Earthquake Reported](https://thekat.iheart.com/content/2024-05-25-63-magnitude-earthquake-reported/)
 
 2024-05-25, @CN@Flipboard, [Harvard scientist behind Justin Bieber’s NAD therapy resigns, leaving China’s booming anti-ageing industry in hot water](https://www.scmp.com/news/china/science/article/3263751/harvard-scientist-behind-justin-biebers-nad-therapy-resigns-leaving-chinas-booming-anti-ageing)
-
-2024-05-25, @CN@Flipboard, [Former CIA agent pleads guilty to spying for China](https://www.taipeitimes.com/News/world/archives/2024/05/26/2003818427)
 
 2024-05-25, @CN@Flipboard, [China rejects shipments of Guatemalan goods](https://www.taipeitimes.com/News/taiwan/archives/2024/05/26/2003818419)
 
 2024-05-25, @CN@Flipboard, [Hunter Biden Emails Show Father's 2013 China Trip Leveraged](https://www.newsmax.com/politics/hunter-biden-joe-biden-china/2024/05/25/id/1166167/)
 
 2024-05-25, @36氪, [北京2024首拍宅地项目产品曝光](https://36kr.com/p/2790985159967624?f=rss)
-
-2024-05-25, @CN@Flipboard, [China Slammed in G-7 Show of Unity Threatening Trade Escalation](https://www.bloomberg.com/news/articles/2024-05-25/china-slammed-in-g-7-show-of-unity-threatening-trade-escalation)
 
 2024-05-25, @开源中国资讯, [这是Linus最忍不了的一集——虚幻引擎代码规范禁止使用脏话、禁止slave、master](https://www.oschina.net/news/294243)
 
@@ -363,8 +371,6 @@
 2024-05-25, @知乎, [名画pk决赛：当名画《清明上河图》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？](http://www.zhihu.com/question/656999935/answer/3509102960?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-05-25, @少数派, [用计算机科学的方法优化个人任务管理](https://sspai.com/post/87071)
-
-2024-05-25, @CN@Flipboard, [Five Major Factors Why Russia’s Economy Is Verging on Chaos](https://www.kyivpost.com/post/33014)
 
 2024-05-25, @36氪, [9点1氪｜库迪咖啡称已做好“全场9.9元促销”三年的准备；阿里巴巴宣布对大公司病开刀；黄仁勋身家达913亿美元](https://36kr.com/p/2790203517354883?f=rss)
 
@@ -386,17 +392,11 @@
 
 2024-05-24, @36氪, [百度副总裁、文库事业部负责人王颖：创作新纪元，人人都是内容创作者 | 新质生产力·AI Partner大会](https://36kr.com/p/2789602773107842?f=rss)
 
-2024-05-24, @CN@Flipboard, [Man receives mystery seeds in post from China and decides to plant them](https://www.ladbible.com/community/weird/china-mystery-seeds-arkansas-plant-619096-20240521)
-
 2024-05-24, @36氪, [未来家居周刊| 5台家电4个App，智能家居操作系统能统一吗？](https://36kr.com/p/2789781314454403?f=rss)
 
 2024-05-24, @36氪, [36氪独家｜抖音电商2024年GMV目标是4万亿，非常接近去年的拼多多](https://36kr.com/p/2778396432384899?f=rss)
 
 2024-05-24, @36氪, [BEYOND Expo 2024 在澳门开幕，拥抱未知](https://36kr.com/p/2789754419250309?f=rss)
-
-2024-05-24, @36氪, [焦点分析｜B站在好转，但是没那么快](https://36kr.com/p/2789564227208066?f=rss)
-
-2024-05-24, @36氪, [体量小但增速快，国内OTA平台与国际巨头差在哪？](https://36kr.com/p/2789722232832897?f=rss)
 
 2024-05-24, @开源中国资讯, [开源日报 | Altman七宗罪；微软必应全球宕机；美国限制AI出口；淘汰VBScript；PostgreSQL 17](https://www.oschina.net/news/294117)
 
