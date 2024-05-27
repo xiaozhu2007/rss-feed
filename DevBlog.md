@@ -1,5 +1,7 @@
 # 2024
 
+2024-05-24, @iDese, [从手机网页版功能的阉割看中文互联网现状](https://idese.co/mobile/)
+
 2024-05-23, @Awesome Rust Weekly, [💻 Issue 413 - "100 exercises to learn Rust", a new learn-by-doing course to get started with Rust](https://rust.libhunt.com/newsletter/413)
 
 2024-05-22, @This Week in Rust, [This Week in Rust 548](https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/)
@@ -69,8 +71,6 @@
 2024-01-30, @字节跳动团队技术博客, [Kotlin 云端差分缓存技术](https://blog.csdn.net/ByteDanceTech/article/details/135944707)
 
 2024-01-25, @美团技术团队博客, [分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html)
-
-2024-01-19, @美团技术团队博客, [美团RASP大规模研发部署实践总结](https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html)
 
 2024-01-05, @字节跳动团队技术博客, [字节跳动基础架构SRE-Copilot获得2023 CCF国际AIOps挑战赛冠军](https://blog.csdn.net/ByteDanceTech/article/details/135420707)
 
