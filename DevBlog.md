@@ -1,5 +1,9 @@
 # 2024
 
+2024-05-29, @This Week in Rust, [This Week in Rust 549](https://this-week-in-rust.org/blog/2024/05/29/this-week-in-rust-549/)
+
+2024-05-27, @美团技术团队博客, [领域驱动设计DDD在B端营销系统的实践](https://tech.meituan.com/2024/05/27/ddd-in-business.html)
+
 2024-05-24, @iDese, [从手机网页版功能的阉割看中文互联网现状](https://idese.co/mobile/)
 
 2024-05-23, @Awesome Rust Weekly, [💻 Issue 413 - "100 exercises to learn Rust", a new learn-by-doing course to get started with Rust](https://rust.libhunt.com/newsletter/413)
@@ -21,8 +25,6 @@
 2024-05-08, @This Week in Rust, [This Week in Rust 546](https://this-week-in-rust.org/blog/2024/05/08/this-week-in-rust-546/)
 
 2024-05-02, @Awesome Rust Weekly, [💻 Issue 410 - Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://rust.libhunt.com/newsletter/410)
-
-2024-05-01, @This Week in Rust, [This Week in Rust 545](https://this-week-in-rust.org/blog/2024/05/01/this-week-in-rust-545/)
 
 2024-04-25, @Awesome Rust Weekly, [💻 Issue 409 - Sized, DynSized, and Unsized by Niko Matsakis](https://rust.libhunt.com/newsletter/409)
 
@@ -47,8 +49,6 @@
 2024-03-28, @Awesome Rust Weekly, [💻 Issue 405 - 2024 Edition Update](https://rust.libhunt.com/newsletter/405)
 
 2024-03-27, @字节跳动团队技术博客, [2024 抖音欢笑中国年(一)：招财神龙互动技术揭秘](https://blog.csdn.net/ByteDanceTech/article/details/137095408)
-
-2024-03-21, @Awesome Rust Weekly, [💻 Issue 404 - Red Hat considering using Rust for Nova, the successor to the Noveau drivers for Nvidia GPUs on linux](https://rust.libhunt.com/newsletter/404)
 
 2024-03-21, @美团技术团队博客, [大众点评内容搜索算法优化的探索与实践](https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html)
 
