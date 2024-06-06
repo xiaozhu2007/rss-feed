@@ -1,5 +1,7 @@
 # 2024
 
+2024-05-30, @Awesome Rust Weekly, [💻 Issue 414 - JetBrains releases RustRover IDE for Rust development](https://rust.libhunt.com/newsletter/414)
+
 2024-05-29, @This Week in Rust, [This Week in Rust 549](https://this-week-in-rust.org/blog/2024/05/29/this-week-in-rust-549/)
 
 2024-05-27, @美团技术团队博客, [领域驱动设计DDD在B端营销系统的实践](https://tech.meituan.com/2024/05/27/ddd-in-business.html)
@@ -21,8 +23,6 @@
 2024-05-09, @Awesome Rust Weekly, [💻 Issue 411 - Microsoft's $1M Vote of Confidence in Rust's Future](https://rust.libhunt.com/newsletter/411)
 
 2024-05-09, @美团技术团队博客, [DDD在大众点评交易系统演进中的应用](https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html)
-
-2024-05-08, @This Week in Rust, [This Week in Rust 546](https://this-week-in-rust.org/blog/2024/05/08/this-week-in-rust-546/)
 
 2024-05-02, @Awesome Rust Weekly, [💻 Issue 410 - Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://rust.libhunt.com/newsletter/410)
 
