@@ -1,5 +1,7 @@
 # 2024
 
+2024-06-05, @This Week in Rust, [This Week in Rust 550](https://this-week-in-rust.org/blog/2024/06/05/this-week-in-rust-550/)
+
 2024-05-30, @Awesome Rust Weekly, [💻 Issue 414 - JetBrains releases RustRover IDE for Rust development](https://rust.libhunt.com/newsletter/414)
 
 2024-05-29, @This Week in Rust, [This Week in Rust 549](https://this-week-in-rust.org/blog/2024/05/29/this-week-in-rust-549/)
@@ -45,8 +47,6 @@
 2024-04-02, @字节跳动团队技术博客, [2024 抖音欢笑中国年(二)：AnnieX互动容器创新玩法解析](https://blog.csdn.net/ByteDanceTech/article/details/137324306)
 
 2024-03-29, @美团技术团队博客, [百亿大规模图在广告场景的应用](https://tech.meituan.com/2024/03/29/large-scale-graph-application.html)
-
-2024-03-28, @Awesome Rust Weekly, [💻 Issue 405 - 2024 Edition Update](https://rust.libhunt.com/newsletter/405)
 
 2024-03-27, @字节跳动团队技术博客, [2024 抖音欢笑中国年(一)：招财神龙互动技术揭秘](https://blog.csdn.net/ByteDanceTech/article/details/137095408)
 
