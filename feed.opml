@@ -6,6 +6,7 @@
   <body>
     <outline text="DevBlog" title="DevBlog">
       <outline text="liuzhen932 的小窝" title="liuzhen932 的小窝" type="rss" xmlUrl="https://www.liuzhen932.top/feed" htmlUrl="https://www.liuzhen932.top/feed"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://feeds.feedburner.com/ruanyifeng"/>
     </outline>
     <outline text="News" title="News">
       <outline text="Awesome Rust Weekly" title="Awesome Rust Weekly" type="rss" xmlUrl="https://rust.libhunt.com/newsletter/feed" htmlUrl="https://rust.libhunt.com/newsletter/feed"/>
@@ -15,12 +16,11 @@
       <outline text="36氪" title="36氪" type="rss" xmlUrl="https://www.36kr.com/feed" htmlUrl="https://www.36kr.com/feed"/>
       <outline text="CN@Flipboard" title="CN@Flipboard" type="rss" xmlUrl="https://flipboard.com/topic/china.rss" htmlUrl="https://flipboard.com/topic/china.rss"/>
       <outline text="潮流周刊" title="潮流周刊" type="rss" xmlUrl="https://weekly.tw93.fun/rss.xml" htmlUrl="https://weekly.tw93.fun/rss.xml"/>
-      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://feeds.feedburner.com/ruanyifeng"/>
       <outline text="开源中国资讯" title="开源中国资讯" type="rss" xmlUrl="https://rsshub.app/oschina/news" htmlUrl="https://rsshub.app/oschina/news"/>
       <outline text="不死鸟" title="不死鸟" type="rss" xmlUrl="https://iao.su/feed" htmlUrl="https://iao.su/feed"/>
       <outline text="小众软件" title="小众软件" type="rss" xmlUrl="https://www.appinn.com/feed/" htmlUrl="https://www.appinn.com/feed/"/>
       <outline text="少数派" title="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/feed"/>
-      <outline text="Apple新闻" title="Apple新闻" type="rss" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" htmlUrl="https://www.apple.com/newsroom/rss-feed.rss"/>
+      <outline text="Apple 新闻" title="Apple 新闻" type="rss" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" htmlUrl="https://www.apple.com/newsroom/rss-feed.rss"/>
       <outline text="知乎" title="知乎" type="rss" xmlUrl="https://www.zhihu.com/rss" htmlUrl="https://www.zhihu.com/rss"/>
       <outline text="IT之家" title="IT之家" type="rss" xmlUrl="https://www.ithome.com/rss" htmlUrl="https://www.ithome.com/rss"/>
       <outline text="HelloGitHub 月刊" title="HelloGitHub 月刊" type="rss" xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com/rss"/>
