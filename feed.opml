@@ -7,6 +7,10 @@
     <outline text="DevBlog" title="DevBlog">
       <outline text="liuzhen932 的小窝" title="liuzhen932 的小窝" type="rss" xmlUrl="https://www.liuzhen932.top/feed" htmlUrl="https://www.liuzhen932.top/feed"/>
       <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://feeds.feedburner.com/ruanyifeng"/>
+      <outline text="HiFeng'Blog" title="HiFeng'Blog" type="rss" xmlUrl="https://rsshub.app/hicairo" htmlUrl="https://rsshub.app/hicairo"/>
+      <outline text="朽丘博" title="朽丘博" type="rss" xmlUrl="https://koxiuqiu.cn/rss.xml" htmlUrl="https://koxiuqiu.cn/rss.xml"/>
+      <outline text="张洪Heo" title="张洪Heo" type="rss" xmlUrl="https://blog.zhheo.com/rss.xml" htmlUrl="https://blog.zhheo.com/rss.xml"/>
+      <outline text="Zeruns 's Blog" title="Zeruns 's Blog" type="rss" xmlUrl="https://blog.zeruns.tech/feed/" htmlUrl="https://blog.zeruns.tech/feed/"/>
     </outline>
     <outline text="News" title="News">
       <outline text="Awesome Rust Weekly" title="Awesome Rust Weekly" type="rss" xmlUrl="https://rust.libhunt.com/newsletter/feed" htmlUrl="https://rust.libhunt.com/newsletter/feed"/>
