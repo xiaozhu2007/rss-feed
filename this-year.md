@@ -46,6 +46,10 @@
 
 2024-06-11, @36氪, [用药贵、用药难，罕见病患者如何与药企共寻出路？ | 行业观察](https://36kr.com/p/2814834825546246?f=rss)
 
+2024-06-11, @IT之家, [宏碁海外推出 ALG 游戏本：i5-12450H、1080P 144Hz，5.69 万印度卢比](https://www.ithome.com/0/774/548.htm)
+
+2024-06-11, @IT之家, [中兴、华为、银河航天中标中国移动试验星试制项目，涉及“透明转发试验星”“再生试验星”](https://www.ithome.com/0/774/547.htm)
+
 2024-06-11, @IT之家, [OPPO Pad Air2 平板电脑获推 ColorOS 14 正式版：新增流体云通知、智能抠图](https://www.ithome.com/0/774/546.htm)
 
 2024-06-11, @V2EX, [[问与答] 脱离健身教练后该怎么继续训练呢？](https://www.v2ex.com/t/1048688#reply0)
@@ -89,8 +93,6 @@
 2024-06-11, @V2EX, [[职场话题] 海外 Offer 比较 苹果项目经理](https://www.v2ex.com/t/1048679#reply0)
 
 2024-06-11, @IT之家, [微软被曝已将 AI 研发项目外包给 OpenAI，谷歌有望从中受益](https://www.ithome.com/0/774/537.htm)
-
-2024-06-11, @开源中国资讯, [首款配备骁龙X Elite处理器的Linux笔记本：采用KDE Plasma桌面环境、计划年底推出](https://osc.cool/FLqM5TjD)
 
 2024-06-11, @IT之家, [活用现有洁净室，英特尔与伙伴日企考虑租用夏普 LCD 工厂开发后端技术](https://www.ithome.com/0/774/536.htm)
 
@@ -168,8 +170,6 @@
 
 2024-06-11, @V2EX, [[Linux] Linux 下有哪些类似于 mobaxterm 的终端工具？](https://www.v2ex.com/t/1048657#reply6)
 
-2024-06-11, @开源中国资讯, [微软将 AI 工具和软件的研发工作外包给 OpenAI](https://www.oschina.net/news/296754)
-
 2024-06-11, @36氪, [高位贷款的买房人，每天都在盼着存量房贷利率下降](https://36kr.com/p/2814750506273289?f=rss)
 
 2024-06-11, @V2EX, [[Apple] Mac mini 是不是用不了 screen mirroring](https://www.v2ex.com/t/1048656#reply0)
@@ -222,7 +222,7 @@
 
 2024-06-11, @V2EX, [[酷工作] 需要 C++大佬，高并发、大数据项目](https://www.v2ex.com/t/1048639#reply0)
 
-2024-06-11, @V2EX, [[程序员] 高性能界面需求怎么选前端](https://www.v2ex.com/t/1048638#reply24)
+2024-06-11, @V2EX, [[程序员] 高性能界面需求怎么选前端](https://www.v2ex.com/t/1048638#reply25)
 
 2024-06-11, @IT之家, [乘联分会：5 月新能源车国内零售渗透率 47%，同比提升 14 个百分点](https://www.ithome.com/0/774/509.htm)
 
@@ -248,7 +248,7 @@
 
 2024-06-11, @V2EX, [[问与答] 用 VPS 的 postfix 收发邮件,本地 NAS 跑邮件服务器,有什么开源的方案推荐?](https://www.v2ex.com/t/1048629#reply2)
 
-2024-06-11, @V2EX, [[全球工单系统] iOS 的 QQ 聊天记录没办法迁移/备份到桌面端 QQ NT 上？](https://www.v2ex.com/t/1048628#reply1)
+2024-06-11, @V2EX, [[全球工单系统] iOS 的 QQ 聊天记录没办法迁移/备份到桌面端 QQ NT 上？](https://www.v2ex.com/t/1048628#reply2)
 
 2024-06-11, @V2EX, [[分享发现] 一次移动硬盘故障踩到了三家系统的坑](https://www.v2ex.com/t/1048626#reply2)
 
@@ -328,10 +328,6 @@
 
 2024-06-11, @IT之家, [澜起发布第六代津逮能效核 CPU，基于英特尔至强 6 能效核处理器](https://www.ithome.com/0/774/460.htm)
 
-2024-06-11, @IT之家, [苹果“Apple ID”将成历史，新名称“Apple 账户”已实装 iOS / iPadOS 18 开发者预览版](https://www.ithome.com/0/774/458.htm)
-
-2024-06-11, @IT之家, [199 元，小米蓝牙音箱 Mini 夏季限定“浅咖”新增配色今起首销](https://www.ithome.com/0/774/457.htm)
-
 2024-06-11, @CN@Flipboard, [Senators sound alarm after POGO raid unearths alleged Chinese army uniform](https://www.philstar.com/headlines/2024/06/11/2362063/senators-sound-alarm-after-pogo-raid-unearths-alleged-chinese-army-uniform)
 
 2024-06-11, @开源中国资讯, [macOS 15.0 支持 M3 芯片上的嵌套虚拟化](https://www.oschina.net/news/296716/macos-15-nested-virtualization)
@@ -364,7 +360,7 @@
 
 2024-06-11, @博客园, [开源高性能结构化日志模块NanoLog - 白菜园](https://www.cnblogs.com/BaiCai/p/18241681)
 
-2024-06-11, @Apple新闻, [WWDC24 Highlights
+2024-06-11, @Apple 新闻, [WWDC24 Highlights
 ](https://www.apple.com/newsroom/2024/06/wwdc24-highlights/)
 
 2024-06-11, @开源中国资讯, [Zadig 3.0 AI 版重磅发布，超越 DevOps，解锁未来](https://my.oschina.net/koderover/blog/11208715)
@@ -405,39 +401,39 @@
 
 2024-06-11, @少数派, [大步跨进 AI 时代，系统更新还有这些亮点：WWDC24 发布会回顾](https://sspai.com/post/89496)
 
-2024-06-10, @Apple新闻, [Apple extends its privacy leadership with new updates across its platforms
+2024-06-10, @Apple 新闻, [Apple extends its privacy leadership with new updates across its platforms
 ](https://www.apple.com/newsroom/2024/06/apple-extends-its-privacy-leadership-with-new-updates-across-its-platforms/)
 
-2024-06-10, @Apple新闻, [Apple empowers developers and fuels innovation with new tools and resources
+2024-06-10, @Apple 新闻, [Apple empowers developers and fuels innovation with new tools and resources
 ](https://www.apple.com/newsroom/2024/06/apple-empowers-developers-and-fuels-innovation-with-new-tools-and-resources/)
 
-2024-06-10, @Apple新闻, [Introducing Apple Intelligence for iPhone, iPad, and Mac
+2024-06-10, @Apple 新闻, [Introducing Apple Intelligence for iPhone, iPad, and Mac
 ](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
-2024-06-10, @Apple新闻, [iOS 18 makes iPhone more personal, capable, and intelligent than ever
+2024-06-10, @Apple 新闻, [iOS 18 makes iPhone more personal, capable, and intelligent than ever
 ](https://www.apple.com/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/)
 
-2024-06-10, @Apple新闻, [visionOS 2 brings new spatial computing experiences to Apple Vision Pro
+2024-06-10, @Apple 新闻, [visionOS 2 brings new spatial computing experiences to Apple Vision Pro
 ](https://www.apple.com/newsroom/2024/06/visionos-2-brings-new-spatial-computing-experiences-to-apple-vision-pro/)
 
-2024-06-10, @Apple新闻, [macOS Sequoia takes productivity and intelligence on Mac to new heights
+2024-06-10, @Apple 新闻, [macOS Sequoia takes productivity and intelligence on Mac to new heights
 ](https://www.apple.com/newsroom/2024/06/macos-sequoia-takes-productivity-and-intelligence-on-mac-to-new-heights/)
 
-2024-06-10, @Apple新闻, [iPadOS 18 introduces powerful intelligence features and apps for Apple Pencil
+2024-06-10, @Apple 新闻, [iPadOS 18 introduces powerful intelligence features and apps for Apple Pencil
 ](https://www.apple.com/newsroom/2024/06/ipados-18-introduces-powerful-intelligence-features-and-apps-for-apple-pencil/)
 
 2024-06-10, @CN@Flipboard, [China could be on the cusp of reversing hukou, a legacy Mao policy](https://www.semafor.com/article/06/10/2024/china-hukou-residency-registry-mao-city-governments-economy-reform)
 
-2024-06-10, @Apple新闻, [watchOS 11 brings powerful health and fitness insights
+2024-06-10, @Apple 新闻, [watchOS 11 brings powerful health and fitness insights
 ](https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/)
 
-2024-06-10, @Apple新闻, [Updates to the Home experience elevate entertainment and bring more convenience
+2024-06-10, @Apple 新闻, [Updates to the Home experience elevate entertainment and bring more convenience
 ](https://www.apple.com/newsroom/2024/06/updates-to-the-home-experience-elevate-entertainment-and-bring-more-convenience/)
 
-2024-06-10, @Apple新闻, [AirPods introduce convenient ways to communicate and interact
+2024-06-10, @Apple 新闻, [AirPods introduce convenient ways to communicate and interact
 ](https://www.apple.com/newsroom/2024/06/airpods-introduce-convenient-ways-to-communicate-and-interact/)
 
-2024-06-10, @Apple新闻, [Apple Vision Pro arrives in new countries and regions beginning June 28
+2024-06-10, @Apple 新闻, [Apple Vision Pro arrives in new countries and regions beginning June 28
 ](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/)
 
 2024-06-11, @不死鸟, [2024 年 6 月 每日分享](https://iui.su/186/)
@@ -498,7 +494,7 @@
 
 2024-06-07, @书伴, [Kindle Paperwhite 和入门版 Kindle 我应该买哪个？](https://bookfere.com/post/1113.html)
 
-2024-06-07, @Apple新闻, [Apple expands developer support and resources
+2024-06-07, @Apple 新闻, [Apple expands developer support and resources
 ](https://www.apple.com/newsroom/2024/06/apple-expands-developer-support-and-resources/)
 
 2024-06-07, @开源中国资讯, [开源日报 | Qwen2开源；SJTUG下架Docker Hub镜像；Kubernetes十周年；西工大发现RISC-V漏洞；国内的开源模型一直很行](https://www.oschina.net/news/296325)
@@ -507,11 +503,15 @@
 
 2024-06-07, @开源中国资讯, [MT-AUTH v1.20.0 发布，多租户权限系统](https://www.oschina.net/news/296320/mt-auth-1-20-0-released)
 
+2024-06-07, @开源中国资讯, [SJTUG下架Docker Hub镜像](https://osc.cool/8imqpfpg)
+
 2024-06-07, @少数派, [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/89444)
 
 2024-06-07, @小众软件, [有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？](https://www.appinn.com/fake-app-uploaded-app-store/)
 
 2024-06-07, @小众软件, [HPE ProLiant MicroServer Gen11 迷你服务器发布](https://www.appinn.com/hpe-proliant-microserver-gen11/)
+
+2024-06-07, @开源中国资讯, [让 AI 考 2024 广东高考作文题](https://www.oschina.net/news/296290)
 
 2024-06-07, @小众软件, [明天截止！618 活动 JetBrains PhpStorm 特惠 7.1 折快抢!](https://www.appinn.com/jetbrains-phpstorm/)
 
@@ -519,10 +519,10 @@
 
 2024-06-06, @Awesome Rust Weekly, [💻 Issue 415 - The borrow checker within](https://rust.libhunt.com/newsletter/415)
 
-2024-06-06, @Apple新闻, [Apple announces winners of the 2024 Apple Design Awards
+2024-06-06, @Apple 新闻, [Apple announces winners of the 2024 Apple Design Awards
 ](https://www.apple.com/newsroom/2024/06/apple-announces-winners-of-the-2024-apple-design-awards/)
 
-2024-06-06, @Apple新闻, [Seven new games launch on Apple Arcade, including Outlanders 2: Second Nature
+2024-06-06, @Apple 新闻, [Seven new games launch on Apple Arcade, including Outlanders 2: Second Nature
 ](https://www.apple.com/newsroom/2024/06/seven-new-games-launch-on-apple-arcade-including-outlanders-2-second-nature/)
 
 2024-06-06, @知乎, [[游戏中的破坏][GDC24]TheFinals的破坏系统](http://zhuanlan.zhihu.com/p/692442664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -541,7 +541,7 @@
 
 2024-06-06, @知乎, [哪一刻让你觉得保护海洋环境很重要？](http://www.zhihu.com/question/657361836/answer/3515393489?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
-2024-06-05, @Apple新闻, [Apple and Major League Baseball announce July “Friday Night Baseball” schedule
+2024-06-05, @Apple 新闻, [Apple and Major League Baseball announce July “Friday Night Baseball” schedule
 ](https://www.apple.com/newsroom/2024/06/apple-and-major-league-baseball-announce-july-friday-night-baseball-schedule/)
 
 2024-06-05, @书伴, [[2024.06.05] Kindle 阅读器固件升级至 5.16.9](https://bookfere.com/post/1111.html)
@@ -558,7 +558,7 @@
 
 2024-06-05, @极客日报, [大裁员影响产品研发测试，传理想汽车召回部分被裁员工；曝苹果与中国移动洽谈合作，Apple TV+ 有望进入中国市场 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139459538)
 
-2024-06-04, @Apple新闻, [Apple Books becomes official audiobook home for Reese’s Book Club
+2024-06-04, @Apple 新闻, [Apple Books becomes official audiobook home for Reese’s Book Club
 ](https://www.apple.com/newsroom/2024/06/apple-books-becomes-official-audiobook-home-for-reeses-book-club/)
 
 2024-06-04, @知乎, [考考你它在哪，拍摄者即将出发，他乘坐的车次是？](http://www.zhihu.com/question/658044838/answer/3519762355?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -615,12 +615,12 @@
 
 2024-05-29, @阮一峰的网络日志, [分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html)
 
-2024-05-28, @Apple新闻, [Apple’s Worldwide Developers Conference to kick off June 10 with Keynote address
+2024-05-28, @Apple 新闻, [Apple’s Worldwide Developers Conference to kick off June 10 with Keynote address
 ](https://www.apple.com/newsroom/2024/05/apples-worldwide-developers-conference-to-kick-off-june-10-with-keynote-address/)
 
 2024-05-28, @FreebufWeb, [DC:8](https://www.freebuf.com/articles/web/402122.html)
 
-2024-05-28, @Apple新闻, [Apple Hearing Study shares preliminary insights on tinnitus
+2024-05-28, @Apple 新闻, [Apple Hearing Study shares preliminary insights on tinnitus
 ](https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/)
 
 2024-05-28, @极客日报, [马斯克的xAI拿下60亿美元融资；微软取消Win11 TPM要求，仅限物联网企业版 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/139273951)
@@ -671,7 +671,7 @@
 
 2024-05-23, @极客日报, [360 客服回应弹窗广告关不完；拼多多市值再超阿里巴巴；我国发布全球首个开源大规模片上互联网络 IP「温榆河」|极客头条](https://blog.csdn.net/weixin_39786569/article/details/139151936)
 
-2024-05-22, @Apple新闻, [Apple Music reveals top 10 albums of all time on 100 Best list
+2024-05-22, @Apple 新闻, [Apple Music reveals top 10 albums of all time on 100 Best list
 ](https://www.apple.com/newsroom/2024/05/apple-music-reveals-top-10-albums-of-all-time-on-100-best-list/)
 
 2024-05-22, @This Week in Rust, [This Week in Rust 548](https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/)
