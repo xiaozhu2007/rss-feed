@@ -1,5 +1,7 @@
 # 2024
 
+2024-06-12, @张洪Heo, [如何开发iOS18的Controls控制组件？ControlWidget开发教程](https://blog.zhheo.com/p/5a7ca8cd.html)
+
 2024-06-12, @张洪Heo, [是NAT3还是NAT4？使用Mac测试你的网络类型](https://blog.zhheo.com/p/76f914a8.html)
 
 2024-06-11, @张洪Heo, [应用图标适配iOS18深色与有色图标变体，适配多色图标](https://blog.zhheo.com/p/91bb1b86.html)
@@ -52,6 +54,8 @@
 
 2024-05-22, @朽丘博, [利用服务器搭建QQ机器人](https://koxiuqiu.cn/2024/05/22/1716303082754)
 
+2024-05-18, @朽丘博, [记录-博主生活说](https://koxiuqiu.cn/2024/05/19/1716050552667)
+
 2024-05-17, @张洪Heo, [基于百度统计实现显示近一年的pv、uv数据的API搭建](https://blog.zhheo.com/p/2046d684.html)
 
 2024-05-17, @阮一峰的网络日志, [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)
@@ -91,10 +95,6 @@
 2024-04-06, @HiFeng'Blog, [使用 CloudFlare 源服务器证书时提示 issuer certificate not found 问题](https://www.hicairo.com/post/73.html)
 
 2024-04-06, @HiFeng'Blog, [通过 Jekyll 在 GitHub Pages 上搭建博客系统](https://www.hicairo.com/post/72.html)
-
-2024-04-05, @朽丘博, [为博客站点提供免费CDN](https://koxiuqiu.cn/2024/04/06/qiudn)
-
-2024-04-05, @朽丘博, [使用cdnfly自建CDN](https://koxiuqiu.cn/2024/04/05/13)
 
 2024-03-03, @HiFeng'Blog, [DartNode 无限流量 vps 注册申请教程](https://www.hicairo.com/post/71.html)
 
