@@ -1,5 +1,9 @@
 # 2024
 
+2024-06-12, @张洪Heo, [是NAT3还是NAT4？使用Mac测试你的网络类型](https://blog.zhheo.com/p/76f914a8.html)
+
+2024-06-11, @张洪Heo, [应用图标适配iOS18深色与有色图标变体，适配多色图标](https://blog.zhheo.com/p/91bb1b86.html)
+
 2024-06-10, @张洪Heo, [WWDC2024：苹果放下了偏执开始查漏补缺，AI部分差强人意](https://blog.zhheo.com/p/d19077.html)
 
 2024-06-11, @Zeruns 's Blog, [EG1151大功率同步整流可调升降压电源模块（支持TypeC PD快充输入）开源](https://blog.zeruns.tech/archives/794.html)
@@ -83,10 +87,6 @@
 2024-04-23, @张洪Heo, [Python一键检查Butterfly主题友情链接可用性脚本](https://blog.zhheo.com/p/baa6b18b.html)
 
 2024-04-23, @张洪Heo, [2024年设计师与前端后端开发的Mac电脑推荐](https://blog.zhheo.com/p/951e69eb.html)
-
-2024-04-23, @张洪Heo, [Redis中rdb文件键key过期了如何恢复并导入](https://blog.zhheo.com/p/cb819e64.html)
-
-2024-04-22, @张洪Heo, [HeoBlog存在大量网址尚未收录到Google的情况解决方案](https://blog.zhheo.com/p/4f121a04.html)
 
 2024-04-06, @HiFeng'Blog, [使用 CloudFlare 源服务器证书时提示 issuer certificate not found 问题](https://www.hicairo.com/post/73.html)
 
