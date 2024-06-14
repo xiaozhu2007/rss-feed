@@ -1,5 +1,13 @@
 # 2024
 
+2024-06-14, @张洪Heo, [是时候去体验下 Apple Vision Pro 了](https://blog.zhheo.com/p/802d5b6b.html)
+
+2024-06-14, @Zeruns 's Blog, [指点云 绍兴 14900K 高防云服务器性能测评，4核8G 15M 仅需124元/月](https://blog.zeruns.tech/archives/795.html)
+
+2024-06-14, @阮一峰的网络日志, [科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)
+
+2024-06-13, @朽丘博, [利用CDN和CF实现全球加速](https://koxiuqiu.cn/2024/06/13/1718249721361)
+
 2024-06-12, @朽丘博, [不要尝试改变你的梦境](https://koxiuqiu.cn/2024/06/12/1718194010419)
 
 2024-06-12, @张洪Heo, [如何开发iOS18的Controls控制组件？ControlWidget开发教程](https://blog.zhheo.com/p/5a7ca8cd.html)
@@ -66,13 +74,7 @@
 
 2024-05-12, @朽丘博, [使用CDN后如何保护源站不泄露](https://koxiuqiu.cn/2024/05/12/1715500241877)
 
-2024-05-11, @Zeruns 's Blog, [抖音商城2.6元的120W充电器测试和拆解](https://blog.zeruns.tech/archives/786.html)
-
 2024-05-11, @张洪Heo, [罗技 Master3s for Mac 上手：很惊艳的办公鼠标](https://blog.zhheo.com/p/cfe7f575.html)
-
-2024-05-10, @阮一峰的网络日志, [科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html)
-
-2024-05-07, @Zeruns 's Blog, [基于CH32V307的智能电子负载开源，嵌入式大赛作品开源](https://blog.zeruns.tech/archives/785.html)
 
 2024-05-07, @张洪Heo, [AE制作数字增长动画，数字变化动画制作教程](https://blog.zhheo.com/p/8e9d528f.html)
 
@@ -89,8 +91,6 @@
 2024-04-24, @张洪Heo, [Textout插件：将你的Sketch设计稿本地化，翻译，批量文本替换](https://blog.zhheo.com/p/80f4b396.html)
 
 2024-04-23, @张洪Heo, [Python一键检查Butterfly主题友情链接可用性脚本](https://blog.zhheo.com/p/baa6b18b.html)
-
-2024-04-23, @张洪Heo, [2024年设计师与前端后端开发的Mac电脑推荐](https://blog.zhheo.com/p/951e69eb.html)
 
 2024-04-06, @HiFeng'Blog, [使用 CloudFlare 源服务器证书时提示 issuer certificate not found 问题](https://www.hicairo.com/post/73.html)
 
@@ -118,4 +118,4 @@
 
 # 2020
 
-2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2024/5/30更新](https://blog.zeruns.tech/archives/383.html)
+2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2024/6/14更新](https://blog.zeruns.tech/archives/383.html)
