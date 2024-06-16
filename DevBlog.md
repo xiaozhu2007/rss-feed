@@ -1,5 +1,7 @@
 # 2024
 
+2024-06-15, @朽丘博, [养猫的意义是什么？](https://koxiuqiu.cn/2024/06/15/1718430979952)
+
 2024-06-14, @Zeruns 's Blog, [Linux搭建Minecraft乌托邦探险之旅3.2整合包服务端，我的世界开服教程](https://blog.zeruns.tech/archives/796.html)
 
 2024-06-14, @张洪Heo, [是时候去体验下 Apple Vision Pro 了](https://blog.zhheo.com/p/802d5b6b.html)
@@ -69,8 +71,6 @@
 2024-05-17, @张洪Heo, [基于百度统计实现显示近一年的pv、uv数据的API搭建](https://blog.zhheo.com/p/2046d684.html)
 
 2024-05-17, @阮一峰的网络日志, [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)
-
-2024-05-16, @Zeruns 's Blog, [Linux下MCSManager10面板的多种安装方式和搭建教程](https://blog.zeruns.tech/archives/787.html)
 
 2024-05-12, @朽丘博, [使用CDN后如何保护源站不泄露](https://koxiuqiu.cn/2024/05/12/1715500241877)
 
