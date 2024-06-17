@@ -1,5 +1,7 @@
 # 2024
 
+2024-06-16, @Zeruns 's Blog, [F7015TV3中兴2.5G光猫拆解](https://blog.zeruns.tech/archives/797.html)
+
 2024-06-15, @朽丘博, [养猫的意义是什么？](https://koxiuqiu.cn/2024/06/15/1718430979952)
 
 2024-06-14, @Zeruns 's Blog, [Linux搭建Minecraft乌托邦探险之旅3.2整合包服务端，我的世界开服教程](https://blog.zeruns.tech/archives/796.html)
@@ -61,8 +63,6 @@
 2024-05-26, @朽丘博, [[真|保姆级]搭建MineBBS同款](https://koxiuqiu.cn/2024/05/27/1716722508619)
 
 2024-05-24, @阮一峰的网络日志, [科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html)
-
-2024-05-23, @Zeruns 's Blog, [基于STM32F407的LVGL工程模板（MSP3526屏幕），包含FreeRTOS版和裸机版](https://blog.zeruns.tech/archives/788.html)
 
 2024-05-23, @张洪Heo, [B站总结免费版，GPT免费聊天等公益服务上线](https://blog.zhheo.com/p/67209d99.html)
 
