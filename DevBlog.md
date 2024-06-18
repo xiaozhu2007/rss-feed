@@ -1,5 +1,7 @@
 # 2024
 
+2024-06-17, @Zeruns 's Blog, [优利德UTi261M热成像仪开箱测评和拍摄效果展示](https://blog.zeruns.tech/archives/798.html)
+
 2024-06-17, @张洪Heo, [Mac安装java17（openjdk@17）支持M系列芯片和intel芯片](https://blog.zhheo.com/p/6243d392.html)
 
 2024-06-16, @Zeruns 's Blog, [F7015TV3中兴2.5G光猫拆解](https://blog.zeruns.tech/archives/797.html)
@@ -83,8 +85,6 @@
 2024-05-07, @张洪Heo, [Filmly上手：Vidhub的免费平替，网易下场做播放器了](https://blog.zhheo.com/p/5b6b7f4f.html)
 
 2024-05-04, @朽丘博, [一键安装脚本为CentOS 7 添加Swap交换分区](https://koxiuqiu.cn/2024/05/04/1714800798585)
-
-2024-04-29, @朽丘博, [如何在Linux中禁用IPv6](https://koxiuqiu.cn/2024/04/29/ipv6stop)
 
 2024-04-26, @HiFeng'Blog, [Juicity 协议手动安装教程](https://www.hicairo.com/post/74.html)
 
