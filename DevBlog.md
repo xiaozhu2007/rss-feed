@@ -1,5 +1,7 @@
 # 2024
 
+2024-06-17, @张洪Heo, [Mac安装java17（openjdk@17）支持M系列芯片和intel芯片](https://blog.zhheo.com/p/6243d392.html)
+
 2024-06-16, @Zeruns 's Blog, [F7015TV3中兴2.5G光猫拆解](https://blog.zeruns.tech/archives/797.html)
 
 2024-06-15, @朽丘博, [养猫的意义是什么？](https://koxiuqiu.cn/2024/06/15/1718430979952)
@@ -89,8 +91,6 @@
 2024-04-26, @张洪Heo, [新版iOS应用更换图标开发教程，用户自定义图标开发](https://blog.zhheo.com/p/9b28e469.html)
 
 2024-04-24, @张洪Heo, [Textout插件：将你的Sketch设计稿本地化，翻译，批量文本替换](https://blog.zhheo.com/p/80f4b396.html)
-
-2024-04-23, @张洪Heo, [Python一键检查Butterfly主题友情链接可用性脚本](https://blog.zhheo.com/p/baa6b18b.html)
 
 2024-04-06, @HiFeng'Blog, [使用 CloudFlare 源服务器证书时提示 issuer certificate not found 问题](https://www.hicairo.com/post/73.html)
 
