@@ -1,5 +1,9 @@
 # 2024
 
+2024-06-20, @张洪Heo, [解决iOS邮箱使用QQ邮箱账户无法发送邮件，连接发信服务器失败问题](https://blog.zhheo.com/p/cb3f5ed0.html)
+
+2024-06-19, @张洪Heo, [要排除的文件已经被上传到远程Git仓库怎么办](https://blog.zhheo.com/p/faf797ab.html)
+
 2024-06-17, @Zeruns 's Blog, [优利德UTi261M热成像仪开箱测评和拍摄效果展示](https://blog.zeruns.tech/archives/798.html)
 
 2024-06-17, @张洪Heo, [Mac安装java17（openjdk@17）支持M系列芯片和intel芯片](https://blog.zhheo.com/p/6243d392.html)
@@ -66,11 +70,7 @@
 
 2024-05-07, @张洪Heo, [AE制作数字增长动画，数字变化动画制作教程](https://blog.zhheo.com/p/8e9d528f.html)
 
-2024-05-07, @张洪Heo, [Filmly上手：Vidhub的免费平替，网易下场做播放器了](https://blog.zhheo.com/p/5b6b7f4f.html)
-
 2024-04-26, @HiFeng'Blog, [Juicity 协议手动安装教程](https://www.hicairo.com/post/74.html)
-
-2024-04-26, @张洪Heo, [新版iOS应用更换图标开发教程，用户自定义图标开发](https://blog.zhheo.com/p/9b28e469.html)
 
 2024-04-06, @HiFeng'Blog, [使用 CloudFlare 源服务器证书时提示 issuer certificate not found 问题](https://www.hicairo.com/post/73.html)
 
