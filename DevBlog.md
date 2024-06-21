@@ -1,5 +1,7 @@
 # 2024
 
+2024-06-21, @阮一峰的网络日志, [科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)
+
 2024-06-20, @张洪Heo, [新配了一个专门玩英雄联盟的台式机主机，分享下配置和过程](https://blog.zhheo.com/p/9a18f6bb.html)
 
 2024-06-20, @张洪Heo, [解决iOS邮箱使用QQ邮箱账户无法发送邮件，连接发信服务器失败问题](https://blog.zhheo.com/p/cb3f5ed0.html)
@@ -45,8 +47,6 @@
 2024-06-04, @张洪Heo, [Homekit通过Homeassistant接入米家空调伴侣显示21摄氏度解决方法](https://blog.zhheo.com/p/91fba4d1.html)
 
 2024-06-03, @Zeruns 's Blog, [雨云面板服搭建mc乌托邦探险之旅整合包服务端，Minecraft开服教程](https://blog.zeruns.tech/archives/790.html)
-
-2024-06-01, @Zeruns 's Blog, [雨云 宁波 8272CL 大带宽高防云服务器性能测评，最高500兆带宽和1TB云盘](https://blog.zeruns.tech/archives/789.html)
 
 2024-05-31, @张洪Heo, [实现全站图片使用avif格式，替代臃肿的webp教程](https://blog.zhheo.com/p/6a933575.html)
 
