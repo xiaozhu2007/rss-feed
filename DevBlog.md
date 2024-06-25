@@ -1,9 +1,5 @@
 # 2024
 
-2024-06-21, @Zeruns 's Blog, [什么是dB？dBm、dBc、dBi、dBd怎么计算，有什么区别？](https://blog.zeruns.tech/archives/799.html)
-
-2024-06-21, @阮一峰的网络日志, [科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)
-
 2024-06-20, @张洪Heo, [新配了一个专门玩英雄联盟的台式机主机，分享下配置和过程](https://blog.zhheo.com/p/9a18f6bb.html)
 
 2024-06-20, @张洪Heo, [解决iOS邮箱使用QQ邮箱账户无法发送邮件，连接发信服务器失败问题](https://blog.zhheo.com/p/cb3f5ed0.html)
@@ -12,19 +8,11 @@
 
 2024-06-18, @朽丘博, [cdnfly对比99cdn系统摸底测压](https://koxiuqiu.cn/2024/06/19/1718707242693)
 
-2024-06-17, @Zeruns 's Blog, [优利德UTi261M热成像仪开箱测评和拍摄效果展示](https://blog.zeruns.tech/archives/798.html)
-
 2024-06-17, @张洪Heo, [Mac安装java17（openjdk@17）支持M系列芯片和intel芯片](https://blog.zhheo.com/p/6243d392.html)
-
-2024-06-16, @Zeruns 's Blog, [F7015TV3中兴2.5G光猫拆解](https://blog.zeruns.tech/archives/797.html)
 
 2024-06-15, @朽丘博, [养猫的意义是什么？](https://koxiuqiu.cn/2024/06/15/1718430979952)
 
-2024-06-14, @Zeruns 's Blog, [Linux搭建Minecraft乌托邦探险之旅3.2整合包服务端，我的世界开服教程](https://blog.zeruns.tech/archives/796.html)
-
 2024-06-14, @张洪Heo, [是时候去体验下 Apple Vision Pro 了](https://blog.zhheo.com/p/802d5b6b.html)
-
-2024-06-14, @Zeruns 's Blog, [指点云 绍兴 14900K 高防云服务器性能测评，4核8G 15M 仅需124元/月](https://blog.zeruns.tech/archives/795.html)
 
 2024-06-14, @阮一峰的网络日志, [科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)
 
@@ -40,19 +28,11 @@
 
 2024-06-10, @张洪Heo, [WWDC2024：苹果放下了偏执开始查漏补缺，AI部分差强人意](https://blog.zhheo.com/p/d19077.html)
 
-2024-06-11, @Zeruns 's Blog, [EG1151大功率同步整流可调升降压电源模块（支持TypeC PD快充输入）开源](https://blog.zeruns.tech/archives/794.html)
-
-2024-06-08, @Zeruns 's Blog, [雨云 宁波 14900K 高防云服务器性能测评，4核8G 15M 仅需230元/月](https://blog.zeruns.tech/archives/793.html)
-
 2024-06-07, @张洪Heo, [小米人在传感器上手：不用插电的雷达传感器，很香](https://blog.zhheo.com/p/5e1c2af9.html)
 
 2024-06-07, @阮一峰的网络日志, [科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)
 
-2024-06-06, @Zeruns 's Blog, [雷迪司D1500不间断电源(UPS)拆解分析](https://blog.zeruns.tech/archives/792.html)
-
 2024-06-05, @张洪Heo, [绿联NAS翻车始末：动机值得鼓励，但表现像个草台班子](https://blog.zhheo.com/p/86b7ebc3.html)
-
-2024-06-05, @Zeruns 's Blog, [基于STM32的同步整流Buck-Boost数字电源 开源](https://blog.zeruns.tech/archives/791.html)
 
 2024-06-04, @张洪Heo, [Homekit通过Homeassistant接入米家空调伴侣显示21摄氏度解决方法](https://blog.zhheo.com/p/91fba4d1.html)
 
@@ -111,11 +91,3 @@
 2023-10-11, @HiFeng'Blog, [修改甲骨文免费主机 SSH 的登陆方式，用 ROOT 密码直接登陆](https://www.hicairo.com/post/66.html)
 
 2023-10-11, @HiFeng'Blog, [Windows 中 SSH 证书的 Permissions are too open 问题](https://www.hicairo.com/post/65.html)
-
-# 2021
-
-2021-03-11, @Zeruns 's Blog, [【福利】每月送网易云音乐黑胶VIP会员，先到先得！](https://blog.zeruns.tech/archives/620.html)
-
-# 2020
-
-2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2024/6/14更新](https://blog.zeruns.tech/archives/383.html)
