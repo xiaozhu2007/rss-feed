@@ -1,5 +1,7 @@
 # 2024
 
+2024-06-27, @朽丘博, [Minecraft-搭建Hypixel加速IP](https://koxiuqiu.cn/2024/06/27/1719475599760)
+
 2024-06-22, @Zeruns 's Blog, [七日杀(7 Days To Die)服务器搭建教程，七日杀开服教程](https://blog.zeruns.tech/archives/800.html)
 
 2024-06-21, @Zeruns 's Blog, [什么是dB？dBm、dBc、dBi、dBd怎么计算，有什么区别？](https://blog.zeruns.tech/archives/799.html)
@@ -75,8 +77,6 @@
 2024-05-28, @张洪Heo, [小舒同学上手：基于收藏夹的免折腾的新标签页插件](https://blog.zhheo.com/p/e09501f8.html)
 
 2024-05-26, @朽丘博, [[真|保姆级]搭建MineBBS同款](https://koxiuqiu.cn/2024/05/27/1716722508619)
-
-2024-05-24, @阮一峰的网络日志, [科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html)
 
 2024-05-23, @张洪Heo, [B站总结免费版，GPT免费聊天等公益服务上线](https://blog.zhheo.com/p/67209d99.html)
 
