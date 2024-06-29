@@ -1,5 +1,9 @@
 # 2024
 
+2024-06-28, @阮一峰的网络日志, [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)
+
+2024-06-27, @朽丘博, [Minecraft-搭建Hypixel加速IP](https://koxiuqiu.cn/2024/06/27/1719475599760)
+
 2024-06-22, @Zeruns 's Blog, [七日杀(7 Days To Die)服务器搭建教程，七日杀开服教程](https://blog.zeruns.tech/archives/800.html)
 
 2024-06-21, @Zeruns 's Blog, [什么是dB？dBm、dBc、dBi、dBd怎么计算，有什么区别？](https://blog.zeruns.tech/archives/799.html)
@@ -12,11 +16,15 @@
 
 2024-06-19, @张洪Heo, [要排除的文件已经被上传到远程Git仓库怎么办](https://blog.zhheo.com/p/faf797ab.html)
 
+2024-06-18, @朽丘博, [cdnfly对比99cdn系统摸底测压](https://koxiuqiu.cn/2024/06/19/1718707242693)
+
 2024-06-17, @Zeruns 's Blog, [优利德UTi261M热成像仪开箱测评和拍摄效果展示](https://blog.zeruns.tech/archives/798.html)
 
 2024-06-17, @张洪Heo, [Mac安装java17（openjdk@17）支持M系列芯片和intel芯片](https://blog.zhheo.com/p/6243d392.html)
 
 2024-06-16, @Zeruns 's Blog, [F7015TV3中兴2.5G光猫拆解](https://blog.zeruns.tech/archives/797.html)
+
+2024-06-15, @朽丘博, [养猫的意义是什么？](https://koxiuqiu.cn/2024/06/15/1718430979952)
 
 2024-06-14, @Zeruns 's Blog, [Linux搭建Minecraft乌托邦探险之旅3.2整合包服务端，我的世界开服教程](https://blog.zeruns.tech/archives/796.html)
 
@@ -25,6 +33,10 @@
 2024-06-14, @Zeruns 's Blog, [指点云 绍兴 14900K 高防云服务器性能测评，4核8G 15M 仅需124元/月](https://blog.zeruns.tech/archives/795.html)
 
 2024-06-14, @阮一峰的网络日志, [科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)
+
+2024-06-13, @朽丘博, [利用CDN和CF实现全球加速](https://koxiuqiu.cn/2024/06/13/1718249721361)
+
+2024-06-12, @朽丘博, [不要尝试改变你的梦境](https://koxiuqiu.cn/2024/06/12/1718194010419)
 
 2024-06-12, @张洪Heo, [如何开发iOS18的Controls控制组件？ControlWidget开发教程](https://blog.zhheo.com/p/5a7ca8cd.html)
 
@@ -50,6 +62,10 @@
 
 2024-06-04, @张洪Heo, [Homekit通过Homeassistant接入米家空调伴侣显示21摄氏度解决方法](https://blog.zhheo.com/p/91fba4d1.html)
 
+2024-06-03, @朽丘博, [搭建好用聊天系统附加APP](https://koxiuqiu.cn/2024/06/03/1717385392235)
+
+2024-06-02, @朽丘博, [快速入手QiuDN并推广白拿](https://koxiuqiu.cn/2024/06/03/qiucdn)
+
 2024-05-31, @张洪Heo, [实现全站图片使用avif格式，替代臃肿的webp教程](https://blog.zhheo.com/p/6a933575.html)
 
 2024-05-31, @张洪Heo, [ITGZ雷电4硬盘盒上手：速度惊喜，发热感人](https://blog.zhheo.com/p/39fb8620.html)
@@ -62,7 +78,11 @@
 
 2024-05-28, @张洪Heo, [小舒同学上手：基于收藏夹的免折腾的新标签页插件](https://blog.zhheo.com/p/e09501f8.html)
 
+2024-05-26, @朽丘博, [[真|保姆级]搭建MineBBS同款](https://koxiuqiu.cn/2024/05/27/1716722508619)
+
 2024-05-23, @张洪Heo, [B站总结免费版，GPT免费聊天等公益服务上线](https://blog.zhheo.com/p/67209d99.html)
+
+2024-05-22, @朽丘博, [利用服务器搭建QQ机器人](https://koxiuqiu.cn/2024/05/22/1716303082754)
 
 2024-05-17, @张洪Heo, [基于百度统计实现显示近一年的pv、uv数据的API搭建](https://blog.zhheo.com/p/2046d684.html)
 
