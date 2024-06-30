@@ -1,5 +1,7 @@
 # 2024
 
+2024-06-29, @朽丘博, [MC服务器开服全解](https://koxiuqiu.cn/2024/06/29/1719625179507)
+
 2024-06-28, @阮一峰的网络日志, [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)
 
 2024-06-27, @朽丘博, [Minecraft-搭建Hypixel加速IP](https://koxiuqiu.cn/2024/06/27/1719475599760)
@@ -57,8 +59,6 @@
 2024-06-06, @Zeruns 's Blog, [雷迪司D1500不间断电源(UPS)拆解分析](https://blog.zeruns.tech/archives/792.html)
 
 2024-06-05, @张洪Heo, [绿联NAS翻车始末：动机值得鼓励，但表现像个草台班子](https://blog.zhheo.com/p/86b7ebc3.html)
-
-2024-06-05, @Zeruns 's Blog, [基于STM32的同步整流Buck-Boost数字电源 开源](https://blog.zeruns.tech/archives/791.html)
 
 2024-06-04, @张洪Heo, [Homekit通过Homeassistant接入米家空调伴侣显示21摄氏度解决方法](https://blog.zhheo.com/p/91fba4d1.html)
 
