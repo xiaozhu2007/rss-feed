@@ -1,5 +1,7 @@
 # 2024
 
+2024-06-30, @Zeruns 's Blog, [开源 140W+65W升降压PD3.1快充模块(2C+1A口)，IP6557+IP6538，205W桌面充电器](https://blog.zeruns.tech/archives/801.html)
+
 2024-06-29, @朽丘博, [MC服务器开服全解](https://koxiuqiu.cn/2024/06/29/1719625179507)
 
 2024-06-28, @阮一峰的网络日志, [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)
@@ -55,8 +57,6 @@
 2024-06-07, @张洪Heo, [小米人在传感器上手：不用插电的雷达传感器，很香](https://blog.zhheo.com/p/5e1c2af9.html)
 
 2024-06-07, @阮一峰的网络日志, [科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)
-
-2024-06-06, @Zeruns 's Blog, [雷迪司D1500不间断电源(UPS)拆解分析](https://blog.zeruns.tech/archives/792.html)
 
 2024-06-05, @张洪Heo, [绿联NAS翻车始末：动机值得鼓励，但表现像个草台班子](https://blog.zhheo.com/p/86b7ebc3.html)
 
