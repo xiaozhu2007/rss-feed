@@ -1,5 +1,7 @@
 # 2024
 
+2024-07-03, @张洪Heo, [宝塔journalctl占用大量CPU解决方法](https://blog.zhheo.com/p/b975d220.html)
+
 2024-07-03, @阮一峰的网络日志, [AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)
 
 2024-07-02, @Zeruns 's Blog, [雨云 香港4区 混合软银线路 VPS测评，2核4G 50兆 仅需43元/月](https://blog.zeruns.tech/archives/802.html)
@@ -67,8 +69,6 @@
 2024-05-23, @张洪Heo, [B站总结免费版，GPT免费聊天等公益服务上线](https://blog.zhheo.com/p/67209d99.html)
 
 2024-05-17, @张洪Heo, [基于百度统计实现显示近一年的pv、uv数据的API搭建](https://blog.zhheo.com/p/2046d684.html)
-
-2024-05-11, @张洪Heo, [罗技 Master3s for Mac 上手：很惊艳的办公鼠标](https://blog.zhheo.com/p/cfe7f575.html)
 
 2024-04-26, @HiFeng'Blog, [Juicity 协议手动安装教程](https://www.hicairo.com/post/74.html)
 
