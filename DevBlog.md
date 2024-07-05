@@ -1,5 +1,7 @@
 # 2024
 
+2024-07-05, @阮一峰的网络日志, [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)
+
 2024-07-04, @张洪Heo, [电子PDF如何加盖骑缝章？电子骑缝章生成器](https://blog.zhheo.com/p/81ac681.html)
 
 2024-07-03, @张洪Heo, [宝塔journalctl占用大量CPU解决方法](https://blog.zhheo.com/p/b975d220.html)
@@ -67,8 +69,6 @@
 2024-05-28, @张洪Heo, [小舒同学上手：基于收藏夹的免折腾的新标签页插件](https://blog.zhheo.com/p/e09501f8.html)
 
 2024-05-23, @张洪Heo, [B站总结免费版，GPT免费聊天等公益服务上线](https://blog.zhheo.com/p/67209d99.html)
-
-2024-05-17, @张洪Heo, [基于百度统计实现显示近一年的pv、uv数据的API搭建](https://blog.zhheo.com/p/2046d684.html)
 
 2024-04-26, @HiFeng'Blog, [Juicity 协议手动安装教程](https://www.hicairo.com/post/74.html)
 
