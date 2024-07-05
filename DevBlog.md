@@ -1,5 +1,7 @@
 # 2024
 
+2024-07-04, @张洪Heo, [电子PDF如何加盖骑缝章？电子骑缝章生成器](https://blog.zhheo.com/p/81ac681.html)
+
 2024-07-03, @张洪Heo, [宝塔journalctl占用大量CPU解决方法](https://blog.zhheo.com/p/b975d220.html)
 
 2024-07-03, @阮一峰的网络日志, [AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)
@@ -59,8 +61,6 @@
 2024-05-31, @张洪Heo, [实现全站图片使用avif格式，替代臃肿的webp教程](https://blog.zhheo.com/p/6a933575.html)
 
 2024-05-31, @张洪Heo, [ITGZ雷电4硬盘盒上手：速度惊喜，发热感人](https://blog.zhheo.com/p/39fb8620.html)
-
-2024-05-31, @阮一峰的网络日志, [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html)
 
 2024-05-30, @张洪Heo, [在网页中展示HDR图像，用iPhone拍摄，用AVIF、JPG和HDRMP4展示](https://blog.zhheo.com/p/d939fa53.html)
 
