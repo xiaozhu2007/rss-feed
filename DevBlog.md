@@ -1,5 +1,7 @@
 # 2024
 
+2024-07-11, @Zeruns 's Blog, [我的世界1.21多种服务端开服教程，原版/Forge/Fabric/Paper/Mohist...，Minecraft开服教程](https://blog.zeruns.tech/archives/803.html)
+
 2024-07-11, @张洪Heo, [宝塔如何单独给一个网站设置nginx缓存目录，延长和持久化图床缓存](https://blog.zhheo.com/p/5754.html)
 
 2024-07-10, @张洪Heo, [如何查询大乱斗elo隐藏分？获取英雄联盟团队teamelo分数方法](https://blog.zhheo.com/p/3a85.html)
@@ -57,8 +59,6 @@
 2024-06-11, @Zeruns 's Blog, [EG1151大功率同步整流可调升降压电源模块（支持TypeC PD快充输入）开源](https://blog.zeruns.tech/archives/794.html)
 
 2024-06-07, @张洪Heo, [小米人在传感器上手：不用插电的雷达传感器，很香](https://blog.zhheo.com/p/5e1c2af9.html)
-
-2024-06-07, @阮一峰的网络日志, [科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)
 
 2024-06-05, @张洪Heo, [绿联NAS翻车始末：动机值得鼓励，但表现像个草台班子](https://blog.zhheo.com/p/86b7ebc3.html)
 
