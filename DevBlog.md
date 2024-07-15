@@ -1,5 +1,9 @@
 # 2024
 
+2024-07-15, @张洪Heo, [在Mac上使用微信输入法的最佳解决方案，避免错误切换到ABC输入法](https://blog.zhheo.com/p/998c.html)
+
+2024-07-12, @阮一峰的网络日志, [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)
+
 2024-07-11, @Zeruns 's Blog, [我的世界1.21多种服务端开服教程，原版/Forge/Fabric/Paper/Mohist...，Minecraft开服教程](https://blog.zeruns.tech/archives/803.html)
 
 2024-07-11, @张洪Heo, [宝塔如何单独给一个网站设置nginx缓存目录，延长和持久化图床缓存](https://blog.zhheo.com/p/5754.html)
@@ -65,10 +69,6 @@
 2024-06-04, @张洪Heo, [Homekit通过Homeassistant接入米家空调伴侣显示21摄氏度解决方法](https://blog.zhheo.com/p/91fba4d1.html)
 
 2024-05-31, @张洪Heo, [实现全站图片使用avif格式，替代臃肿的webp教程](https://blog.zhheo.com/p/6a933575.html)
-
-2024-05-31, @张洪Heo, [ITGZ雷电4硬盘盒上手：速度惊喜，发热感人](https://blog.zhheo.com/p/39fb8620.html)
-
-2024-05-30, @张洪Heo, [在网页中展示HDR图像，用iPhone拍摄，用AVIF、JPG和HDRMP4展示](https://blog.zhheo.com/p/d939fa53.html)
 
 2024-04-26, @HiFeng'Blog, [Juicity 协议手动安装教程](https://www.hicairo.com/post/74.html)
 
