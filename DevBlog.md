@@ -1,5 +1,7 @@
 # 2024
 
+2024-07-19, @阮一峰的网络日志, [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)
+
 2024-07-17, @朽丘博, [24年7月小结](https://koxiuqiu.cn/2024/07/17/1/)
 
 2024-07-15, @Zeruns 's Blog, [【学习笔记】三角函数（正弦、余弦、正切）](https://blog.zeruns.tech/archives/804.html)
@@ -85,8 +87,6 @@
 2024-06-03, @朽丘博, [搭建好用聊天系统附加APP](https://koxiuqiu.cn/2024/06/03/1717385392235/)
 
 2024-06-03, @朽丘博, [快速入手QiuDN并推广白拿](https://koxiuqiu.cn/2024/06/03/qiucdn/)
-
-2024-05-31, @张洪Heo, [实现全站图片使用avif格式，替代臃肿的webp教程](https://blog.zhheo.com/p/6a933575.html)
 
 2024-05-27, @朽丘博, [搭建MineBBS同款](https://koxiuqiu.cn/2024/05/27/1716722508619/)
 
