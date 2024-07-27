@@ -1,10 +1,14 @@
 # 2024
 
+2024-07-26, @阮一峰的网络日志, [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html)
+
 2024-07-24, @张洪Heo, [如何更改Mac上左上角的苹果图标样式，个性化自定义Mac美化菜单栏](https://blog.zhheo.com/p/a61a.html)
 
 2024-07-19, @阮一峰的网络日志, [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)
 
 2024-07-17, @朽丘博, [24年7月小结](https://koxiuqiu.cn/2024/07/17/1/)
+
+2024-07-16, @HiFeng'Blog, [玩客云盒子（OneCloud）刷 Armbian 系统](https://www.hicairo.com/post/76.html)
 
 2024-07-15, @Zeruns 's Blog, [【学习笔记】三角函数（正弦、余弦、正切）](https://blog.zeruns.tech/archives/804.html)
 
@@ -90,6 +94,8 @@
 
 2024-05-27, @朽丘博, [搭建MineBBS同款](https://koxiuqiu.cn/2024/05/27/1716722508619/)
 
+2024-05-03, @HiFeng'Blog, [斐讯 N1 盒子刷 Armbian 系统](https://www.hicairo.com/post/75.html)
+
 2024-04-26, @HiFeng'Blog, [Juicity 协议手动安装教程](https://www.hicairo.com/post/74.html)
 
 2024-04-06, @HiFeng'Blog, [使用 CloudFlare 源服务器证书时提示 issuer certificate not found 问题](https://www.hicairo.com/post/73.html)
@@ -105,12 +111,6 @@
 # 2023
 
 2023-11-27, @HiFeng'Blog, [电视家等网络直播 APP 被禁用下架，免费看 IPTV 的解决办法](https://www.hicairo.com/post/68.html)
-
-2023-10-11, @HiFeng'Blog, [更改 Oracle Cloud 实例主机名](https://www.hicairo.com/post/67.html)
-
-2023-10-11, @HiFeng'Blog, [修改甲骨文免费主机 SSH 的登陆方式，用 ROOT 密码直接登陆](https://www.hicairo.com/post/66.html)
-
-2023-10-11, @HiFeng'Blog, [Windows 中 SSH 证书的 Permissions are too open 问题](https://www.hicairo.com/post/65.html)
 
 # 2021
 
