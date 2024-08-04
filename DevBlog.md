@@ -1,8 +1,12 @@
 # 2024
 
+2024-08-02, @张洪Heo, [储蓄卡还会到期？学校学费卡到期，我在银行被硬控2小时](https://blog.zhheo.com/p/7003.html)
+
 2024-08-02, @张洪Heo, [私有部署问卷系统卷王surveyking搭建教程，腾讯问卷问卷星平替](https://blog.zhheo.com/p/b45f.html)
 
 2024-08-02, @阮一峰的网络日志, [科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html)
+
+2024-08-01, @朽丘博, [饿殍体验后感](https://koxiuqiu.cn/2024/8/1/1/)
 
 2024-07-27, @HiFeng'Blog, [在 Armbian 操作系统上使用 dae(大鹅) 搭建透明代理](https://www.hicairo.com/post/77.html)
 
@@ -12,6 +16,8 @@
 
 2024-07-19, @阮一峰的网络日志, [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)
 
+2024-07-17, @朽丘博, [24年7月小结](https://koxiuqiu.cn/2024/07/17/1/)
+
 2024-07-16, @HiFeng'Blog, [玩客云盒子（OneCloud）刷 Armbian 系统](https://www.hicairo.com/post/76.html)
 
 2024-07-15, @Zeruns 's Blog, [【学习笔记】三角函数（正弦、余弦、正切）](https://blog.zeruns.tech/archives/804.html)
@@ -20,6 +26,8 @@
 
 2024-07-15, @张洪Heo, [在Mac上使用微信输入法的最佳解决方案，避免错误切换到ABC输入法](https://blog.zhheo.com/p/998c.html)
 
+2024-07-14, @朽丘博, [上班&更新时间调整](https://koxiuqiu.cn/2024/07/14/1/)
+
 2024-07-12, @阮一峰的网络日志, [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)
 
 2024-07-11, @Zeruns 's Blog, [我的世界1.21多种服务端开服教程，原版/Forge/Fabric/Paper/Mohist...，Minecraft开服教程](https://blog.zeruns.tech/archives/803.html)
@@ -27,6 +35,10 @@
 2024-07-11, @张洪Heo, [宝塔如何单独给一个网站设置nginx缓存目录，延长和持久化图床缓存](https://blog.zhheo.com/p/5754.html)
 
 2024-07-10, @张洪Heo, [如何查询大乱斗elo隐藏分？获取英雄联盟团队teamelo分数方法](https://blog.zhheo.com/p/3a85.html)
+
+2024-07-09, @朽丘博, [关于主题的一些修改(正在篡写)](https://koxiuqiu.cn/2024/07/09/1/)
+
+2024-07-08, @朽丘博, [必看?我被恐吓和博客一些事](https://koxiuqiu.cn/2024/07/8/1/)
 
 2024-07-05, @张洪Heo, [使用Docker搭建Umami统计，显示近一年的pv、uv数据的API搭建](https://blog.zhheo.com/p/61e9.html)
 
@@ -41,6 +53,10 @@
 2024-07-02, @Zeruns 's Blog, [雨云 香港4区 混合软银线路 VPS测评，2核4G 50兆 仅需43元/月](https://blog.zeruns.tech/archives/802.html)
 
 2024-06-30, @Zeruns 's Blog, [开源 140W+65W升降压PD3.1快充模块(2C+1A口)，IP6557+IP6538，205W桌面充电器](https://blog.zeruns.tech/archives/801.html)
+
+2024-06-29, @朽丘博, [MC服务器开服全解-特保姆](https://koxiuqiu.cn/2024/06/29/1719625179507/)
+
+2024-06-27, @朽丘博, [Minecraft-搭建Hypixel加速IP](https://koxiuqiu.cn/2024/06/27/1719475599760/)
 
 2024-06-22, @Zeruns 's Blog, [七日杀(7 Days To Die)服务器搭建教程，七日杀开服教程](https://blog.zeruns.tech/archives/800.html)
 
@@ -64,6 +80,8 @@
 
 2024-06-14, @Zeruns 's Blog, [指点云 绍兴 14900K 高防云服务器性能测评，4核8G 15M 仅需124元/月](https://blog.zeruns.tech/archives/795.html)
 
+2024-06-13, @朽丘博, [利用CDN和CF实现全球加速](https://koxiuqiu.cn/2024/06/13/1718249721361/)
+
 2024-06-12, @张洪Heo, [如何开发iOS18的Controls控制组件？ControlWidget开发教程](https://blog.zhheo.com/p/5a7ca8cd.html)
 
 2024-06-12, @张洪Heo, [是NAT3还是NAT4？使用Mac测试你的网络类型](https://blog.zhheo.com/p/76f914a8.html)
@@ -73,6 +91,8 @@
 2024-06-10, @张洪Heo, [WWDC2024：苹果放下了偏执开始查漏补缺，AI部分差强人意](https://blog.zhheo.com/p/d19077.html)
 
 2024-06-07, @张洪Heo, [小米人在传感器上手：不用插电的雷达传感器，很香](https://blog.zhheo.com/p/5e1c2af9.html)
+
+2024-06-03, @朽丘博, [搭建好用聊天系统附加APP](https://koxiuqiu.cn/2024/06/03/1717385392235/)
 
 2024-05-03, @HiFeng'Blog, [斐讯 N1 盒子刷 Armbian 系统](https://www.hicairo.com/post/75.html)
 
