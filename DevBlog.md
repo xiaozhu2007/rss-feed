@@ -1,5 +1,7 @@
 # 2024
 
+2024-08-05, @Zeruns 's Blog, [北少云 湖北 7950X 500G高防高性能VPS性能测评，4核10G 15M 仅需145元/月](https://blog.zeruns.tech/archives/805.html)
+
 2024-08-02, @张洪Heo, [储蓄卡还会到期？学校学费卡到期，我在银行被硬控2小时](https://blog.zhheo.com/p/7003.html)
 
 2024-08-02, @张洪Heo, [私有部署问卷系统卷王surveyking搭建教程，腾讯问卷问卷星平替](https://blog.zhheo.com/p/b45f.html)
@@ -78,8 +80,6 @@
 
 2024-06-14, @张洪Heo, [是时候去体验下 Apple Vision Pro 了](https://blog.zhheo.com/p/802d5b6b.html)
 
-2024-06-14, @Zeruns 's Blog, [指点云 绍兴 14900K 高防云服务器性能测评，4核8G 15M 仅需124元/月](https://blog.zeruns.tech/archives/795.html)
-
 2024-06-13, @朽丘博, [利用CDN和CF实现全球加速](https://koxiuqiu.cn/2024/06/13/1718249721361/)
 
 2024-06-12, @张洪Heo, [如何开发iOS18的Controls控制组件？ControlWidget开发教程](https://blog.zhheo.com/p/5a7ca8cd.html)
@@ -118,4 +118,4 @@
 
 # 2020
 
-2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2024/8/2更新](https://blog.zeruns.tech/archives/383.html)
+2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2024/8/5更新](https://blog.zeruns.tech/archives/383.html)
