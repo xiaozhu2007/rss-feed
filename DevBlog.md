@@ -1,5 +1,9 @@
 # 2024
 
+2024-08-13, @Zeruns 's Blog, [莱卡云 香港CN2-GIA 大带宽云服务器 性能测评，1核2G 15M 仅需66元/月，免备案VPS](https://blog.zeruns.tech/archives/806.html)
+
+2024-08-09, @阮一峰的网络日志, [科技爱好者周刊（第 312 期）：从英特尔看"美国制造"](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html)
+
 2024-08-06, @张洪Heo, [在Mac上使用CosyVoice教程：人声克隆，跨语种复刻、AITTS文本转语音](https://blog.zhheo.com/p/e950.html)
 
 2024-08-05, @朽丘博, [博客为什么大批倒闭跑路](https://koxiuqiu.cn/2024/8/5/1/)
@@ -81,10 +85,6 @@
 2024-06-17, @Zeruns 's Blog, [优利德UTi261M热成像仪开箱测评和拍摄效果展示](https://blog.zeruns.tech/archives/798.html)
 
 2024-06-17, @张洪Heo, [Mac安装java17（openjdk@17）支持M系列芯片和intel芯片](https://blog.zhheo.com/p/6243d392.html)
-
-2024-06-16, @Zeruns 's Blog, [F7015TV3中兴2.5G光猫拆解](https://blog.zeruns.tech/archives/797.html)
-
-2024-06-14, @Zeruns 's Blog, [Linux搭建Minecraft乌托邦探险之旅3.2整合包服务端，我的世界开服教程](https://blog.zeruns.tech/archives/796.html)
 
 2024-06-14, @张洪Heo, [是时候去体验下 Apple Vision Pro 了](https://blog.zhheo.com/p/802d5b6b.html)
 
