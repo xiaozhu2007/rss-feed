@@ -148,4 +148,4 @@
 
 # 2020
 
-2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2024/8/5更新](https://blog.zeruns.tech/archives/383.html)
+2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2024/8/13更新](https://blog.zeruns.tech/archives/383.html)
