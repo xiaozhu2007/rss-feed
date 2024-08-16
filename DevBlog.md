@@ -1,5 +1,7 @@
 # 2024
 
+2024-08-13, @Zeruns 's Blog, [莱卡云 宁波电信云服务器 性能测评，IPv4&amp;IPv6双栈，4核8G 15M 仅需77.6元/月](https://blog.zeruns.tech/archives/807.html)
+
 2024-08-13, @Zeruns 's Blog, [莱卡云 香港CN2-GIA 大带宽云服务器 性能测评，1核2G 15M 仅需66元/月，免备案VPS](https://blog.zeruns.tech/archives/806.html)
 
 2024-08-09, @阮一峰的网络日志, [科技爱好者周刊（第 312 期）：从英特尔看"美国制造"](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html)
@@ -57,8 +59,6 @@
 2024-07-08, @朽丘博, [必看?我被恐吓和博客一些事](https://koxiuqiu.cn/2024/07/8/1/)
 
 2024-07-05, @张洪Heo, [使用Docker搭建Umami统计，显示近一年的pv、uv数据的API搭建](https://blog.zhheo.com/p/61e9.html)
-
-2024-07-05, @阮一峰的网络日志, [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)
 
 2024-07-04, @张洪Heo, [电子PDF如何加盖骑缝章？电子骑缝章生成器](https://blog.zhheo.com/p/81ac681.html)
 
