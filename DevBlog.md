@@ -54,8 +54,6 @@
 
 2024-07-10, @张洪Heo, [如何查询大乱斗elo隐藏分？获取英雄联盟团队teamelo分数方法](https://blog.zhheo.com/p/3a85.html)
 
-2024-07-09, @朽丘博, [关于主题的一些修改(正在篡写)](https://koxiuqiu.cn/2024/07/09/1/)
-
 2024-07-08, @朽丘博, [必看?我被恐吓和博客一些事](https://koxiuqiu.cn/2024/07/8/1/)
 
 2024-07-05, @张洪Heo, [使用Docker搭建Umami统计，显示近一年的pv、uv数据的API搭建](https://blog.zhheo.com/p/61e9.html)
