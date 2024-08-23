@@ -1,5 +1,7 @@
 # 2024
 
+2024-08-23, @朽丘博, [博客魔改笔记记录](https://koxiuqiu.cn/2024/8/23/1/)
+
 2024-08-23, @阮一峰的网络日志, [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)
 
 2024-08-20, @Zeruns 's Blog, [雨云 宿迁 9950X 高防云服务器性能测评，4核8G仅需200元/月，全网首发9950X服务器，Zen5架构，超高性能](https://blog.zeruns.tech/archives/809.html)
@@ -79,8 +81,6 @@
 2024-06-29, @朽丘博, [MC服务器开服全解-特保姆](https://koxiuqiu.cn/2024/06/29/1719625179507/)
 
 2024-06-27, @朽丘博, [Minecraft-搭建Hypixel加速IP](https://koxiuqiu.cn/2024/06/27/1719475599760/)
-
-2024-06-22, @Zeruns 's Blog, [七日杀(7 Days To Die)服务器搭建教程，七日杀开服教程](https://blog.zeruns.tech/archives/800.html)
 
 2024-06-20, @张洪Heo, [新配了一个专门玩英雄联盟的台式机主机，分享下配置和过程](https://blog.zhheo.com/p/9a18f6bb.html)
 
