@@ -88,8 +88,6 @@
 
 2024-05-22, @朽丘博, [利用服务器搭建QQ机器人](https://koxiuqiu.cn/2024/05/22/1716303082754/)
 
-2024-05-12, @朽丘博, [使用CDN后如何保护源站不泄露](https://koxiuqiu.cn/2024/05/12/1715500241877/)
-
 2024-05-04, @朽丘博, [一键安装脚本为CentOS 7 添加Swap交换分区](https://koxiuqiu.cn/2024/03/13/1714800798585/)
 
 2024-05-03, @HiFeng'Blog, [斐讯 N1 盒子刷 Armbian 系统](https://www.hicairo.com/post/75.html)
