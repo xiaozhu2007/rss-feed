@@ -1,5 +1,7 @@
 # 2024
 
+2024-09-01, @朽丘博, [来日方长](https://koxiuqiu.cn/2024/9y1d2/)
+
 2024-09-01, @朽丘博, [MiniCover封面设计](https://koxiuqiu.cn/2024/9y1d1/)
 
 2024-08-30, @张洪Heo, [感冒了怎么办？流鼻涕、鼻炎纸巾推荐：洁柔乳霜纸](https://blog.zhheo.com/p/6ccd.html)
@@ -123,7 +125,3 @@
 2024-01-15, @朽丘博, [论如何快速了解建站](https://koxiuqiu.cn/2024/01/15/2/)
 
 2024-01-09, @朽丘博, [Hello World](https://koxiuqiu.cn/2024/01/09/1/)
-
-# 2023
-
-2023-11-27, @HiFeng'Blog, [电视家等网络直播 APP 被禁用下架，免费看 IPTV 的解决办法](https://www.hicairo.com/post/68.html)
