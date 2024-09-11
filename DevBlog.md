@@ -1,5 +1,7 @@
 # 2024
 
+2024-09-10, @张洪Heo, [聊一聊Apple新品：iPhone16、Apple Watch S10、AirPods深度解析](https://blog.zhheo.com/p/ee67.html)
+
 2024-09-09, @张洪Heo, [HTTPSOK上手：省心的通配符SSL证书申请，自动化部署证书](https://blog.zhheo.com/p/fb33.html)
 
 2024-09-06, @阮一峰的网络日志, [科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)
@@ -37,8 +39,6 @@
 2024-08-02, @张洪Heo, [储蓄卡还会到期？学校学费卡到期，我在银行被硬控2小时](https://blog.zhheo.com/p/7003.html)
 
 2024-08-02, @张洪Heo, [私有部署问卷系统卷王surveyking搭建教程，腾讯问卷问卷星平替](https://blog.zhheo.com/p/b45f.html)
-
-2024-08-02, @阮一峰的网络日志, [科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html)
 
 2024-07-27, @HiFeng'Blog, [在 Armbian 操作系统上使用 dae(大鹅) 搭建透明代理](https://www.hicairo.com/post/77.html)
 
