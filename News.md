@@ -1,5 +1,29 @@
 # 2024
 
+2024-09-27, @36氪, [热门中概股美股盘前普涨，蔚来涨超4%](https://36kr.com/newsflashes/2968291449524486?f=rss)
+
+2024-09-27, @36氪, [美股大型科技股盘前多数上涨，特斯拉涨超1%](https://36kr.com/newsflashes/2968290164592642?f=rss)
+
+2024-09-27, @36氪, [iPX 2024 China在深圳落幕](https://36kr.com/newsflashes/2968287826661640?f=rss)
+
+2024-09-27, @36氪, [广州南沙全面放开住房限购](https://36kr.com/newsflashes/2968286398173448?f=rss)
+
+2024-09-27, @36氪, [国联证券：重大资产重组相关申请获得受理](https://36kr.com/newsflashes/2968284935229697?f=rss)
+
+2024-09-27, @36氪, [西域旅游：实控人将由阜康市国资局变更为新疆国资委](https://36kr.com/newsflashes/2968268979113986?f=rss)
+
+2024-09-27, @36氪, [东方精工：控股股东拟减持不超1%公司股份](https://36kr.com/newsflashes/2968264597115143?f=rss)
+
+2024-09-27, @36氪, [无线传媒：公司日常经营情况未发生重大变化](https://36kr.com/newsflashes/2968269527846913?f=rss)
+
+2024-09-27, @36氪, [哪吒汽车国庆期间将在200余城开展大促](https://36kr.com/newsflashes/2968267877912577?f=rss)
+
+2024-09-27, @36氪, [美国8月核心PCE物价指数同比升2.7%](https://36kr.com/newsflashes/2968266538766338?f=rss)
+
+2024-09-27, @36氪, [4连板五矿资本：可能存在短期涨幅较大后的下跌风险](https://36kr.com/newsflashes/2968251654492424?f=rss)
+
+2024-09-27, @36氪, [东方财富突然撤销相关网页，中信证券回应：“亏损的不是中信期货”](https://36kr.com/newsflashes/2968257860325639?f=rss)
+
 2024-09-27, @36氪, [央行：下调常备借贷便利利率20个基点](https://36kr.com/newsflashes/2968257541378051?f=rss)
 
 2024-09-27, @36氪, [沪深两市股票总市值一周增加近9万亿元，增幅约14%](https://36kr.com/newsflashes/2968252417773830?f=rss)
@@ -14,65 +38,217 @@
 
 2024-09-27, @36氪, [证监会：积极配合推进证券基金保险公司互换便利、股票回购增持专项再贷款等相关货币政策工具落地](https://36kr.com/newsflashes/2968222762012675?f=rss)
 
-2024-09-27, @36氪, [我国成功发射首颗可重复使用返回式技术试验卫星](https://36kr.com/newsflashes/2968203058991109?f=rss)
-
-2024-09-27, @36氪, [4连板天风证券：公司市净率高于行业中位数](https://36kr.com/newsflashes/2968199611617283?f=rss)
-
-2024-09-27, @36氪, [上交所：本周对42起拉抬打压、虚假申报等证券异常交易行为采取了书面警示等监管措施](https://36kr.com/newsflashes/2968215012299016?f=rss)
-
-2024-09-27, @36氪, [深交所：本周对近期股价涨跌异常的“银之杰”进行了重点监控](https://36kr.com/newsflashes/2968197387505929?f=rss)
-
-2024-09-27, @36氪, [俄审计署：2024年上半年俄联邦预算收入同比增长38.1%](https://36kr.com/newsflashes/2968195346059272?f=rss)
-
-2024-09-27, @36氪, [三峡新材：拟共同投资成立湖北三峡新材科技有限公司](https://36kr.com/newsflashes/2968185117331461?f=rss)
-
-2024-09-27, @36氪, [上海临港：拟13.86亿元转让所持自贸联发94.72%股权](https://36kr.com/newsflashes/2968177855041792?f=rss)
-
 2024-09-27, @36氪, [氪星晚报｜字节跳动据悉将签署108亿美元公司贷款，创亚洲纪录；英特尔和美国政府有望年底前完成85亿美元直接融资；国庆假期全社会跨区域人员流动量预计将超19亿人次](https://36kr.com/p/2966693715087365?f=rss)
 
-2024-09-27, @36氪, [腾讯进行新一轮职级改革：不再公开显示专业职级、职级停留时间至少1年](https://36kr.com/newsflashes/2968179609833734?f=rss)
-
-2024-09-27, @36氪, [金融监管总局：要坚持干字当头，加快推动支持经济高质量发展政策措施落地见效](https://36kr.com/newsflashes/2968176008827142?f=rss)
-
-2024-09-27, @36氪, [中国西电：选举赵永志为董事长](https://36kr.com/newsflashes/2968157956591878?f=rss)
-
-2024-09-27, @36氪, [永辉超市：公司股东股权转让尚存在不确定性](https://36kr.com/newsflashes/2968173376770051?f=rss)
-
-2024-09-27, @36氪, [赣锋锂业：中期票据和短期融资券获准注册](https://36kr.com/newsflashes/2968148589465862?f=rss)
+2024-09-27, @V2EX, [[分享发现] po 于 9.9 下单了基因宝](https://www.v2ex.com/t/1076464#reply3)
 
 2024-09-27, @36氪, [水系锌离子电池供应商「瀚为科技」获红杉种子基金投资，致力于提供高倍率、低成本、本征安全的储能方案 | 36氪首发](https://36kr.com/p/2963458185351430?f=rss)
 
 2024-09-27, @36氪, [创新研发固体氢动力无人机，“氢源智能”完成亿元B轮融资 | 36氪首发](https://36kr.com/p/2966368569643272?f=rss)
 
+2024-09-27, @CN@Flipboard, [BYD exec predicts solid-state EV batteries will hit the market sooner than expected](https://electrek.co/2024/09/27/byd-exec-solid-state-ev-batteries-be-here-soon/)
+
 2024-09-27, @36氪, [技术打破次元壁：《恋与深空》的狂奔与失控](https://36kr.com/p/2968009994916096?f=rss)
+
+2024-09-27, @V2EX, [[硬件] 兄弟萌来帮忙研究下红米显示器 A27U-TypeC 版](https://www.v2ex.com/t/1076463#reply0)
+
+2024-09-27, @V2EX, [[问与答] 求车主们帮忙推荐人生第一辆电车](https://www.v2ex.com/t/1076462#reply0)
+
+2024-09-27, @CN@Flipboard, [Horrific moment sewer pipe bursts causing 'poo-cano' to rain down on motorists](https://www.unilad.com/community/viral/sewer-pipe-burst-explode-video-217744-20240927)
+
+2024-09-27, @V2EX, [[NAS] 群晖 Drive 套件有平替的软件吗？](https://www.v2ex.com/t/1076461#reply2)
+
+2024-09-27, @博客园, [全网最适合入门的面向对象编程教程：53 Python 字符串与序列化-字符串与字符编码 - FreakStudio](https://www.cnblogs.com/FreakEmbedded/p/18436848)
+
+2024-09-27, @CN@Flipboard, [Chinese Poop Volcano Sewage Eruption Sends Poo Flying ... Splatters Cars, People!!!](https://www.tmz.com/2024/09/27/poop-eruption-sewage-covers-cars-people-china/)
 
 2024-09-27, @36氪, [稳居日本ESG排名前三，松下的秘诀是什么？| 碳案](https://36kr.com/p/2961648859336713?f=rss)
 
+2024-09-27, @CN@Flipboard, [Amanda Ba’s Surreal New Exhibition Grapples with Chinese Values](https://www.anothermag.com/art-photography/15904/amanda-ba-developing-desire-exhibition-jeffrey-deitch-new-york)
+
+2024-09-27, @CN@Flipboard, [TCL Acquires LG Display’s LCD Plants in Guangzhou as Industry Consolidates](https://www.caixinglobal.com/2024-09-28/tcl-acquires-lg-displays-lcd-plants-in-guangzhou-as-industry-consolidates-102241036.html)
+
+2024-09-27, @V2EX, [[程序员] 有人做 webpack 还原的么？](https://www.v2ex.com/t/1076458#reply1)
+
+2024-09-27, @IT之家, [消息称鸿蒙智行智界 R7 汽车 1.2 万元选配金开放选配 100 度电池](https://www.ithome.com/0/799/028.htm)
+
+2024-09-27, @CN@Flipboard, [Dow Jones Climbs to New Record Highs, While the Nasdaq Slides](https://www.barchart.com/story/news/28762497/dow-jones-climbs-to-new-record-highs-while-the-nasdaq-slides)
+
+2024-09-27, @V2EX, [[问与答] 哪里能检索到县城的大数据](https://www.v2ex.com/t/1076456#reply1)
+
+2024-09-27, @博客园, [手搓大模型Task03：手搓一个最小的 Agent 系统 - 南风丶丶](https://www.cnblogs.com/xinjieli/p/18436807)
+
+2024-09-27, @V2EX, [[DNS] 随身 wifi 怎么修改 dns 让手机开启 wifi calling](https://www.v2ex.com/t/1076455#reply1)
+
+2024-09-27, @V2EX, [[iPhone] [请教] 关于 iPhone 截屏，分享后，无法返回到截屏图片的问题](https://www.v2ex.com/t/1076454#reply1)
+
+2024-09-27, @V2EX, [[macOS] 最近开始开发一款 macOS 原生的 Markdown 编辑器](https://www.v2ex.com/t/1076453#reply6)
+
+2024-09-27, @IT之家, [哪吒 X 宣布于印尼上市，首批 500 位车主交付](https://www.ithome.com/0/799/027.htm)
+
+2024-09-27, @IT之家, [Stellantis 将在波兰商用车工厂裁员 500 人](https://www.ithome.com/0/799/026.htm)
+
+2024-09-27, @V2EX, [[程序员] 大家平时都去 stackoverflow 浏览什么：](https://www.v2ex.com/t/1076452#reply1)
+
+2024-09-27, @IT之家, [金融监管总局：将研究优化新能源车险自主定价系数的范围，探索家用车网约运营组合产品](https://www.ithome.com/0/799/025.htm)
+
+2024-09-27, @V2EX, [[VXNA] 申请收录个人博客 ROYWANG](https://www.v2ex.com/t/1076451#reply0)
+
+2024-09-27, @V2EX, [[Tesla] 我就想问问，特斯拉到底好在哪儿？](https://www.v2ex.com/t/1076450#reply4)
+
+2024-09-27, @IT之家, [小鹏 G9、G6、P7 车型登陆西班牙市场 ，欧洲版图加速扩张](https://www.ithome.com/0/799/024.htm)
+
 2024-09-27, @36氪, [现代和起亚合作新电池项目，奥迪发布2025 Q6 E-tron｜海外日报](https://36kr.com/p/2967922329292800?f=rss)
+
+2024-09-27, @IT之家, [腾讯、同济大学达成合作：共建“大设计大模型行动”，上线大学教授 AI 智能体](https://www.ithome.com/0/799/023.htm)
+
+2024-09-27, @V2EX, [[生活] 第一次去女朋友家，不知道该怎么办](https://www.v2ex.com/t/1076449#reply10)
+
+2024-09-27, @IT之家, [台电推出 20000mAh 双自带线移动电源 Teclast Q20 Pro，119 元](https://www.ithome.com/0/799/022.htm)
+
+2024-09-27, @IT之家, [全国 100 家小米之家开启 Redmi Note 14 Pro 系列手机 "全民防水大挑战"](https://www.ithome.com/0/799/021.htm)
+
+2024-09-27, @IT之家, [影石 Ace Pro 2 运动相机曝光：配备 1/1.3 英寸 50MP 镜头，399.99 美元](https://www.ithome.com/0/799/020.htm)
+
+2024-09-27, @V2EX, [[Apple] 请问 iPad pro 2024 日版 蜂窝支持 hk 卡吗](https://www.v2ex.com/t/1076447#reply1)
+
+2024-09-27, @V2EX, [[旅行] 国庆计划去泰国旅游，请问现在安全吗？有啥一定要注意的](https://www.v2ex.com/t/1076446#reply1)
+
+2024-09-27, @IT之家, [迈凯伦官宣传奇超跑 F1 / P1 继承者：定名 W1，10 月 6 日亮相](https://www.ithome.com/0/799/019.htm)
+
+2024-09-27, @IT之家, [AI 几小时设计芯片超越人类：谷歌 AlphaChip 登 Nature，已设计出三代旗舰 TPU](https://www.ithome.com/0/799/018.htm)
+
+2024-09-27, @V2EX, [[站长] 各种网站广告是怎么接的](https://www.v2ex.com/t/1076444#reply1)
+
+2024-09-27, @IT之家, [意见不合，洛克希德马丁公司已退出 NASA 月球地形车开发计划](https://www.ithome.com/0/799/017.htm)
+
+2024-09-27, @IT之家, [前腾讯 Robotics X 控制中心负责人郑宇加入“人形机器人第一股”优必选](https://www.ithome.com/0/799/016.htm)
+
+2024-09-27, @V2EX, [[NAS] time machine 备份速度优化技巧求助： 备份到 pve 里的群晖 nas](https://www.v2ex.com/t/1076443#reply1)
+
+2024-09-27, @IT之家, [消息称字节跳动将签署 108 亿美元贷款，规模创除日本以外的亚洲纪录](https://www.ithome.com/0/799/015.htm)
+
+2024-09-27, @V2EX, [[问与答] 兄弟们，家中领导给批了 3000 块钱，买点啥实体设备好呀？](https://www.v2ex.com/t/1076441#reply0)
+
+2024-09-27, @V2EX, [[程序员] 为什么 Serverless 生态目前普遍支持最好的是 JavaScript？](https://www.v2ex.com/t/1076440#reply10)
+
+2024-09-27, @V2EX, [[分享创造] 请问现在做去水印工具属于 49 年入国军吗](https://www.v2ex.com/t/1076439#reply2)
+
+2024-09-27, @IT之家, [以明文存储密码，Meta 被爱尔兰罚款 9100 万欧元](https://www.ithome.com/0/799/014.htm)
+
+2024-09-27, @IT之家, [蔚来乐道：没有单独售卖仪表盘的计划，真有仪表盘不见得有必要](https://www.ithome.com/0/799/012.htm)
+
+2024-09-27, @CN@Flipboard, [Alice Guo riled up by report tagging her as Chinese spy: 'It's so unfair!'](https://www.rappler.com/philippines/alice-guo-riled-up-report-tagging-her-chinese-spy/)
+
+2024-09-27, @V2EX, [[问与答] 好奇为什么 windows 的多桌面模式以及窗口预览这么多年还是卡顿的](https://www.v2ex.com/t/1076437#reply0)
+
+2024-09-27, @IT之家, [吉利发布车云娱乐平台“无界空间”：可在云端预装应用，新车星愿首搭](https://www.ithome.com/0/799/010.htm)
+
+2024-09-27, @IT之家, [九号电动 × 高德地图：新增一键投屏导航、分享到九号出行 App](https://www.ithome.com/0/799/008.htm)
+
+2024-09-27, @V2EX, [[问与答] 摁住 shift 键，光标会自动漂移或者选中文字](https://www.v2ex.com/t/1076435#reply0)
 
 2024-09-27, @36氪, [李小加：帮助小人物就是帮助大资本](https://36kr.com/p/2967882767962112?f=rss)
 
+2024-09-27, @IT之家, [宝马董事高乐发声：支持自由贸易，欢迎中国车企在欧设厂](https://www.ithome.com/0/799/007.htm)
+
+2024-09-27, @V2EX, [[OpenAI] 有没有只让 ChatGPT 走代理，其他网站全部都走直连的配置文件？](https://www.v2ex.com/t/1076434#reply1)
+
+2024-09-27, @博客园, [一次实践：给自己的手机摄像头进行相机标定 - charlee44](https://www.cnblogs.com/charlee44/p/18436647)
+
+2024-09-27, @V2EX, [[投资] 我决定入场 a 股喝点汤](https://www.v2ex.com/t/1076433#reply5)
+
+2024-09-27, @CGTV-China, [China's new independently developed deepwater gas field is operational](https://news.cgtn.com/news/2024-09-27/China-s-new-independently-developed-deepwater-gas-field-is-operational-1xf88V9LEyI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @IT之家, [跻身世界先进行列：我国首个深水高压气田“深海一号”二期建成投产，整体高峰年产量提升 50%](https://www.ithome.com/0/799/005.htm)
+
+2024-09-27, @IT之家, [米哈游《原神》5.1 版本“命定将焚的虹光”10 月 9 日上线](https://www.ithome.com/0/799/004.htm)
+
+2024-09-27, @V2EX, [[分享发现] 也算是用上 Arc for Android 了](https://www.v2ex.com/t/1076432#reply4)
+
+2024-09-27, @IT之家, [宁德时代董事长曾毓群：公司未考虑收购光伏企业](https://www.ithome.com/0/799/003.htm)
+
+2024-09-27, @V2EX, [[分享创造] WebhookX just released 0.2.0 🚀](https://www.v2ex.com/t/1076431#reply2)
+
 2024-09-27, @36氪, [傅利叶创始人兼CEO顾捷：人形机器人没到价格战阶段，2025年行业产量将10倍增长 | 智涌专访](https://36kr.com/p/2966254243794948?f=rss)
+
+2024-09-27, @V2EX, [[Apple] 分享一下自己目前在用的 ios 微信双开方式](https://www.v2ex.com/t/1076430#reply5)
+
+2024-09-27, @博客园, [博客园商业化道路建议 - alloverzyt](https://www.cnblogs.com/alloverzyt/p/18436609)
+
+2024-09-27, @IT之家, [广汽埃安：AION RT 预售 24 小时，订单突破 16000 台](https://www.ithome.com/0/799/002.htm)
+
+2024-09-27, @V2EX, [[问与答] keychron k3 pro 在 macbook 上是不是不能用 karabiner](https://www.v2ex.com/t/1076429#reply0)
+
+2024-09-27, @V2EX, [[职场话题] 虾皮的供应链部门怎么样？](https://www.v2ex.com/t/1076428#reply0)
+
+2024-09-27, @IT之家, [杭州推出“杭小忆”文旅智能体：手机用支付宝碰一下即可导航、订酒店](https://www.ithome.com/0/799/000.htm)
+
+2024-09-27, @IT之家, [小米 Redmi 手机：Note 一直坚持做红外，之前有产品砍过被骂回来了、再也不敢砍了](https://www.ithome.com/0/798/999.htm)
+
+2024-09-27, @CGTV-World, [British actress Maggie Smith dies at 89](https://news.cgtn.com/news/2024-09-27/news-1xfaoRW6wMg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @IT之家, [比亚迪：与华为共同打造全球首个硬派专属智驾方案，方程豹豹 8 搭载乾崑智驾 ADS 3.0](https://www.ithome.com/0/798/998.htm)
+
+2024-09-27, @IT之家, [消息称拼多多双 11 活动 10 月 14 日 0 点开始，比去年提前 6 天](https://www.ithome.com/0/798/997.htm)
+
+2024-09-27, @IT之家, [2024 年北京市工业旅游示范点公布，含北京卫星制造厂科技园、小米汽车工厂等](https://www.ithome.com/0/798/996.htm)
+
+2024-09-27, @IT之家, [亚马逊 40 亿美元投资 AI 公司 Anthropic 交易获英国批准](https://www.ithome.com/0/798/995.htm)
+
+2024-09-27, @CGTV-World, [Yemen's Houthis say they targeted 3 U.S. destroyers in the Red Sea](https://news.cgtn.com/news/2024-09-27/news-1xf9dt8a1c4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [Youth-led revival: Ancient architecture tours flourish in China](https://news.cgtn.com/news/2024-09-27/Youth-led-revival-Ancient-architecture-tours-flourish-in-China-1xeTYY0FFf2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @V2EX, [[问与答] 程序员现在入手 arm 架构的 windows 笔记本，会有什么问题吗？](https://www.v2ex.com/t/1076425#reply17)
+
+2024-09-27, @IT之家, [大众董事会主席奥博穆：到 2030 年成为中国市场排名第一的国际车企](https://www.ithome.com/0/798/993.htm)
+
+2024-09-27, @V2EX, [[VPS] 联通 169 是个敏感日期就卡，平时没事时还行，只能换宽带么？](https://www.v2ex.com/t/1076423#reply0)
+
+2024-09-27, @CGTV-Nature, [In Fact: China's global solar revolution](https://newseu.cgtn.com/news/2024-09-27/In-Fact-China-s-global-solar-revolution--1xdFcOquRLq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-27, @IT之家, [掌阅 iReader Smart 5C 10.3 英寸彩色墨水屏阅读器开售：8GB+128GB、396g，3599 元](https://www.ithome.com/0/798/991.htm)
+
+2024-09-27, @V2EX, [[操作系统] Virtualbox 安装 macOS 老是失败](https://www.v2ex.com/t/1076422#reply3)
+
+2024-09-27, @IT之家, [小米 Redmi 手机：Note 14 Pro 系列首销日对比 Note 13 Pro 系列销量翻倍](https://www.ithome.com/0/798/990.htm)
+
+2024-09-27, @V2EX, [[酷工作] [北京/上海/深圳] AIGC 产品招聘后端工程师](https://www.v2ex.com/t/1076421#reply1)
 
 2024-09-27, @IT之家, [小鹏汇天飞行汽车拿下大单：150 辆“陆地航母”，总金额近 3 亿元](https://www.ithome.com/0/798/989.htm)
 
-2024-09-27, @V2EX, [[Python] vscode 的 autopep8 插件怎么了？ 100%CPU](https://www.v2ex.com/t/1076420#reply0)
+2024-09-27, @CGTV-World, [China Coast Guard monitors Philippine supply mission at Ren'ai Jiao](https://news.cgtn.com/news/2024-09-27/China-Coast-Guard-monitors-Philippine-supply-mission-at-Ren-ai-Jiao-1xf3VOs2xGw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [China Coast Guard monitors Philippine supply mission at Ren'ai Jiao](https://news.cgtn.com/news/2024-09-27/China-Coast-Guard-monitors-Philippine-supply-mission-at-Ren-ai-Jiao-1xf3VOs2xGw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @V2EX, [[Python] vscode 的 autopep8 插件怎么了？ 100%CPU](https://www.v2ex.com/t/1076420#reply2)
+
+2024-09-27, @博客园, [SD卡的基本知识与选购指南 - Javaer1995](https://www.cnblogs.com/Javaer1995/p/18331745)
+
+2024-09-27, @CGTV-World, [China welcomes high-quality Romanian products to the Chinese market](https://news.cgtn.com/news/2024-09-27/China-welcomes-high-quality-Romanian-products-to-the-Chinese-market-1xf3i58bMsM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [China welcomes high-quality Romanian products to the Chinese market](https://news.cgtn.com/news/2024-09-27/China-welcomes-high-quality-Romanian-products-to-the-Chinese-market-1xf3i58bMsM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-27, @V2EX, [[问与答] ChromeOS 只给系统盘分配了 4G 空间，刚进系统就显示空间不足，怎么解决？](https://www.v2ex.com/t/1076419#reply0)
 
-2024-09-27, @V2EX, [[酷工作] 寻腾讯游戏机器码能软解的大佬](https://www.v2ex.com/t/1076418#reply1)
+2024-09-27, @V2EX, [[问与答] 2024 年 10 月最好用的 iOS/ iPad OS 远程控制安卓的方案是？](https://www.v2ex.com/t/1076417#reply2)
 
-2024-09-27, @V2EX, [[问与答] 2024 年 10 月最好用的 iOS/ iPad OS 远程控制安卓的方案是？](https://www.v2ex.com/t/1076417#reply0)
+2024-09-27, @CGTV-World, [China, Netherlands should work through dialogue to address differences](https://news.cgtn.com/news/2024-09-27/China-Netherlands-should-work-through-dialogue-to-address-differences-1xf3s7jdj6o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @V2EX, [[投资] 大家的中概怎么样了？](https://www.v2ex.com/t/1076416#reply0)
+2024-09-27, @CGTV-China, [China, Netherlands should work through dialogue to address differences](https://news.cgtn.com/news/2024-09-27/China-Netherlands-should-work-through-dialogue-to-address-differences-1xf3s7jdj6o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2024-09-27, @CN@Flipboard, [Redmagic's gaming tablet has a built-in fan and is ready to buy](https://www.androidpolice.com/redmagic-nova-gaming-tablet-ready-to-buy/)
+2024-09-27, @V2EX, [[投资] 大家的中概怎么样了？](https://www.v2ex.com/t/1076416#reply3)
+
+2024-09-27, @CN@Flipboard, [Jack Draper names the ATP Tour player who he thinks has ‘the best serve in the world’ right now](https://www.thetennisgazette.com/news/jack-draper-names-the-atp-tour-player-who-he-thinks-has-the-best-serve-in-the-world-right-now/)
+
+2024-09-27, @CGTV-Nature, [Why has China's nature reserve network proved invaluable?](https://news.cgtn.com/news/2024-09-27/Why-has-China-s-nature-reserve-network-proved-invaluable--1xezv2eED4c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-27, @CGTV-China, [Why has China's nature reserve network proved invaluable?](https://news.cgtn.com/news/2024-09-27/Why-has-China-s-nature-reserve-network-proved-invaluable--1xezv2eED4c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-27, @IT之家, [商汤科技元萝卜 AI 下棋机器人国际象棋专业版预售，到手 4799 元](https://www.ithome.com/0/798/986.htm)
 
-2024-09-27, @博客园, [mysql后台导入sql文件-设定字符集 - 万笑佛](https://www.cnblogs.com/yclh/p/18436449)
-
-2024-09-27, @CN@Flipboard, [A Vote for Trump Is a Vote for Hell on Earth | Common Dreams](https://www.commondreams.org/opinion/trump-climate-change)
+2024-09-27, @CN@Flipboard, [A Vote for Trump Is a Vote for Hell on Earth](https://www.commondreams.org/opinion/trump-climate-change)
 
 2024-09-27, @V2EX, [[酷工作] 同组急招， base 北京，金融支付-银行卡业务 - Java 后端工程师](https://www.v2ex.com/t/1076415#reply0)
 
@@ -80,15 +256,25 @@
 
 2024-09-27, @IT之家, [索尼中国官网已上线 PS5 Pro 相关内容，最快 11 月 7 日发售](https://www.ithome.com/0/798/983.htm)
 
-2024-09-27, @博客园, [Linux 防火墙与安全管理工具详解 - 小短腿跑得快](https://www.cnblogs.com/haozheyu/p/18436413)
+2024-09-27, @CGTV-World, [Yemen's Houthis say fired 'ballistic missile, drone' deep into Israel](https://news.cgtn.com/news/2024-09-27/news-1xf2RxAYmli/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @V2EX, [[Android] 第三方 rom DerpFest android 15 已经出来了。](https://www.v2ex.com/t/1076413#reply2)
+2024-09-27, @CGTV-China, [Xi to award national medals, honorary titles ahead of National Day](https://news.cgtn.com/news/2024-09-27/Xi-to-award-national-medals-honorary-titles-ahead-of-National-Day-1xeSwNw259K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2024-09-27, @V2EX, [[酷工作] [北京/上海/深圳] AIGC 产品招聘 React 前端工程师 不限工作经历](https://www.v2ex.com/t/1076412#reply0)
+2024-09-27, @CN@Flipboard, [Hong Kong’s ‘Cassette King’ sells The Center offices to DBS at discount amid property woes](https://www.scmp.com/business/article/3280263/hong-kongs-cassette-king-sells-center-offices-dbs-discount-amid-property-woes)
 
-2024-09-27, @V2EX, [[iPhone] 请问手持 iPhone 15 pro max 的朋友们，升级 iOS18 以后，续航和发热有改善吗？](https://www.v2ex.com/t/1076411#reply1)
+2024-09-27, @博客园, [Linux 防火墙与安全管理工具详解 - 听_风~](https://www.cnblogs.com/haozheyu/p/18436413)
 
-2024-09-27, @CN@Flipboard, [China launches late stimulus push to meet 2024 growth target](https://www.theglobeandmail.com/business/international-business/article-china-launches-late-stimulus-push-to-meet-2024-growth-target/)
+2024-09-27, @V2EX, [[Android] 第三方 rom DerpFest android 15 已经出来了。](https://www.v2ex.com/t/1076413#reply8)
+
+2024-09-27, @CGTV-World, [China hopes Japan will keep bilateral relations on the right track](https://news.cgtn.com/news/2024-09-27/China-hopes-Japan-will-keep-bilateral-relations-on-the-right-track-1xeVrWu88hy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [China hopes Japan will keep bilateral relations on the right track](https://news.cgtn.com/news/2024-09-27/China-hopes-Japan-will-keep-bilateral-relations-on-the-right-track-1xeVrWu88hy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @V2EX, [[酷工作] [北京/上海/深圳] AIGC 产品招聘 React 前端工程师 不限工作经历](https://www.v2ex.com/t/1076412#reply1)
+
+2024-09-27, @V2EX, [[iPhone] 请问手持 iPhone 15 pro max 的朋友们，升级 iOS18 以后，续航和发热有改善吗？](https://www.v2ex.com/t/1076411#reply6)
+
+2024-09-27, @CGTV-World, [Israeli strikes on Lebanon kill 25 on Friday: minister](https://news.cgtn.com/news/2024-09-27/news-1xf1GBQmicw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2024-09-27, @IT之家, [渝昆高铁重庆西至宜宾东段 9 月 29 日开通运营，设计时速 350 公里](https://www.ithome.com/0/798/980.htm)
 
@@ -96,11 +282,9 @@
 
 2024-09-27, @IT之家, [OpenAI CFO：高管离职不影响公司运营，新一轮融资下周完成](https://www.ithome.com/0/798/979.htm)
 
-2024-09-27, @CN@Flipboard, [Osaka storms back to beat Putintseva in Beijing to advance to Round 3](https://www.wtatennis.com/news/4131429/osaka-storms-back-to-beat-putintseva-in-beijing-to-advance-to-round-3)
+2024-09-27, @IT之家, [小米、华为、大疆、拼多多等上榜，《中国出海品牌百强榜》首次发布](https://www.ithome.com/0/798/978.htm)
 
-2024-09-27, @IT之家, [抖音、小米、华为、大疆、拼多多等上榜，《中国出海品牌百强榜》首次发布](https://www.ithome.com/0/798/978.htm)
-
-2024-09-27, @V2EX, [[Linux] 装了 Windows 的主机，要用 Linux 跑大模型，推荐 wsl 还是 Ubuntu 双系统来跑呢？](https://www.v2ex.com/t/1076410#reply4)
+2024-09-27, @V2EX, [[Linux] 装了 Windows 的主机，要用 Linux 跑大模型，推荐 wsl 还是 Ubuntu 双系统来跑呢？](https://www.v2ex.com/t/1076410#reply11)
 
 2024-09-27, @IT之家, [理想汽车：全新一代城市 4C 超充桩明日上线，单桩峰值功率 360 千瓦](https://www.ithome.com/0/798/977.htm)
 
@@ -110,19 +294,15 @@
 
 2024-09-27, @CN@Flipboard, [China expert sounds alarm over 'war signals': 'Xi Jinping is about to do something truly horrendous'](https://www.foxbusiness.com/media/china-expert-sounds-alarm-war-signals-xi-jinping-about-do-something-truly-horrendous)
 
-2024-09-27, @CN@Flipboard, [Lisa McClain’s STOP CCP Act Targets China’s Leadership for Human Rights Abuses, Escalates U.S. Pressure](https://thumbwind.com/2024/09/27/lisa-mcclains-stop-ccp-act/)
-
-2024-09-27, @CN@Flipboard, [Oscar Wang Unveils His First Large-Scale Urban Sculpture at Alila Shanghai](https://hypebeast.com/2024/9/oscar-wang-gathering-sculpture-alila-shanghai)
-
 2024-09-27, @V2EX, [[职场话题] 想去外企，要准备一下什么东西。](https://www.v2ex.com/t/1076409#reply2)
-
-2024-09-27, @V2EX, [[问与答] 如何看待三只羊录音事件中，有人使用深圳言域科技开发 AI 伪造录音](https://www.v2ex.com/t/1076408#reply3)
 
 2024-09-27, @V2EX, [[分享发现] 京东买的罗技键盘，因瑕疵连续两次换货，最终不仅没有瑕疵，还有个惊喜： Windows 键印的徽标从 Windows 10 的梯形变成 Windows 11 的正方形了](https://www.v2ex.com/t/1076407#reply2)
 
 2024-09-27, @IT之家, [钉钉鸿蒙原生版上架华为 HarmonyOS NEXT 应用市场，开放用户测试](https://www.ithome.com/0/798/973.htm)
 
-2024-09-27, @CN@Flipboard, [Chinese stocks rebound after Beijing unveils bumper stimulus](https://www.semafor.com/article/09/27/2024/chinese-stocks-rebound-after-beijing-unveils-bumper-stimulus)
+2024-09-27, @CGTV-Nature, [Echoes of China's Ethnic Minorities: The Zang people](https://news.cgtn.com/news/2024-09-27/Echoes-of-China-s-Ethnic-Minorities-The-Zang-people-1xeVeJPQBHi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-27, @CGTV-China, [Echoes of China's Ethnic Minorities: The Zang people](https://news.cgtn.com/news/2024-09-27/Echoes-of-China-s-Ethnic-Minorities-The-Zang-people-1xeVeJPQBHi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-27, @IT之家, [国产工控巨头埃斯顿入局人形机器人：埃斯顿酷卓 CODROID 01 亮相，核心部件全自研](https://www.ithome.com/0/798/972.htm)
 
@@ -130,21 +310,13 @@
 
 2024-09-27, @36氪, [早期投资论坛：从一枚种子，到科技雨林生态丨36氪2024产业未来大会](https://36kr.com/p/2966255039238147?f=rss)
 
-2024-09-27, @CN@Flipboard, [China: Nanchang-Jiujiang Intercity Railway Bridge Construction](https://flipboard.com/video/stringershub/0461d4a234)
-
-2024-09-27, @CN@Flipboard, [Chinese COVID aid talks with Libyans called a plot to smuggle drones](https://www.defensenews.com/global/europe/2024/09/27/chinese-covid-aid-to-libya-is-labeled-a-plot-for-smuggling-war-drones/)
-
 2024-09-27, @CN@Flipboard, [This Social Media Method for Reducing Cellulite Is Actually An Ancient Ritual](https://camillestyles.com/beauty/cupping-for-cellulite/)
 
 2024-09-27, @IT之家, [奥迪中国总裁罗英瀚：将在未来 24 个月内完成产品全面换代](https://www.ithome.com/0/798/971.htm)
 
 2024-09-27, @IT之家, [大众汽车与 IG Metall 工会首轮谈判破裂：未取得任何进展，工会称 12 月 1 日罢工](https://www.ithome.com/0/798/970.htm)
 
-2024-09-27, @CN@Flipboard, [Japan's Ishiba needs China to thrive to survive - Asia Times](https://asiatimes.com/2024/09/japans-ishiba-needs-china-to-thrive-to-survive/)
-
-2024-09-27, @V2EX, [[宽带症候群] 为什么现在流量卡没有超过 80G 的了?](https://www.v2ex.com/t/1076405#reply7)
-
-2024-09-27, @CN@Flipboard, [New Chinese nuclear attack submarine sank, U.S. officials says](https://www.cbsnews.com/news/china-nuclear-attack-submarine-sank-us-officials-says/)
+2024-09-27, @V2EX, [[宽带症候群] 为什么现在流量卡没有超过 80G 的了?](https://www.v2ex.com/t/1076405#reply9)
 
 2024-09-27, @IT之家, [均普智能“贾维斯 2.0”人形机器人亮相，适用于工业场景](https://www.ithome.com/0/798/969.htm)
 
@@ -162,27 +334,27 @@
 
 2024-09-27, @IT之家, [宁德时代董事长曾毓群：到 2042 年，公司不再需要开采新的矿产资源](https://www.ithome.com/0/798/963.htm)
 
-2024-09-27, @V2EX, [[Apple] mac 用户因工作原因迁移到 Windows···求适应指南和改造技巧](https://www.v2ex.com/t/1076404#reply18)
+2024-09-27, @V2EX, [[Apple] mac 用户因工作原因迁移到 Windows···求适应指南和改造技巧](https://www.v2ex.com/t/1076404#reply19)
 
-2024-09-27, @V2EX, [[Go 编程语言] 分享：泛型+context 自动根据类型生成 ctx key](https://www.v2ex.com/t/1076403#reply0)
+2024-09-27, @V2EX, [[Go 编程语言] 分享：泛型+context 自动根据类型生成 ctx key](https://www.v2ex.com/t/1076403#reply1)
 
 2024-09-27, @V2EX, [[软件] 最近鼠标连续选择总容易被终端，怀疑是钉钉升级出来个 ai 助理在捣乱](https://www.v2ex.com/t/1076402#reply0)
 
-2024-09-27, @V2EX, [[汽车] 除了 carplay，还有什么车机能用 spotify 么，好奇问下](https://www.v2ex.com/t/1076401#reply2)
+2024-09-27, @CGTV-China, ['Back to the Far Side': It's a long story, but hear me out](https://news.cgtn.com/news/2024-09-27/-Back-to-the-Far-Side-It-s-a-long-story-but-hear-me-out-1xeQ9HyKnW8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @V2EX, [[汽车] 除了 carplay，还有什么车机能用 spotify 么，好奇问下](https://www.v2ex.com/t/1076401#reply3)
 
 2024-09-27, @CN@Flipboard, [Chinese woman saved from 8 million baht scam in Thailand](https://thethaiger.com/news/national/chinese-woman-saved-from-8-million-baht-scam-in-thailand)
 
 2024-09-27, @IT之家, [华为徐直军：只有确定长远不造车，才能走到引望这一步](https://www.ithome.com/0/798/952.htm)
 
-2024-09-27, @V2EX, [[Java] windows 使用 IDEA，通过 maven 打包一个开源项目的求助](https://www.v2ex.com/t/1076400#reply3)
+2024-09-27, @CGTV-China, [Xi stresses importance of consolidating unity of Chinese nation](https://news.cgtn.com/news/2024-09-27/Xi-stresses-importance-of-consolidating-unity-of-Chinese-nation-1xeLFi1vXUI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @V2EX, [[Java] windows 使用 IDEA，通过 maven 打包一个开源项目的求助](https://www.v2ex.com/t/1076400#reply7)
 
 2024-09-27, @IT之家, [169 元，CHERRY 樱桃 DW2380 小轻无线键鼠套装发布](https://www.ithome.com/0/798/951.htm)
 
-2024-09-27, @V2EX, [[iPhone] carplay 偶尔使用 wifi 联网的已经算是 bug 了吧？一直不修复？](https://www.v2ex.com/t/1076399#reply2)
-
 2024-09-27, @IT之家, [游戏科学 CEO 冯骥谈《黑神话：悟空》DLC 进度：让团队先“躺”两年](https://www.ithome.com/0/798/950.htm)
-
-2024-09-27, @V2EX, [[投资] 兄弟们，赢麻了，怎么看大 A 节后行情啊](https://www.v2ex.com/t/1076398#reply1)
 
 2024-09-27, @CN@Flipboard, [S’poreans view China’s influence as slightly more positive than that of US](https://www.straitstimes.com/singapore/s-poreans-view-china-s-influence-as-slightly-more-positive-than-that-of-us)
 
@@ -190,165 +362,167 @@
 
 2024-09-27, @IT之家, [9 月国产网络游戏版号下发：共 109 款游戏获批，腾讯《狩》过审](https://www.ithome.com/0/798/949.htm)
 
-2024-09-27, @V2EX, [[知乎] 如何看待国资委提出的“国有企业末等调整制度”？](https://www.v2ex.com/t/1076395#reply5)
-
 2024-09-27, @IT之家, [阿维塔 07 大定“成绩单”出炉：上市 20 小时拿下 11673 台](https://www.ithome.com/0/798/948.htm)
 
-2024-09-27, @V2EX, [[求职] 个人独立全栈开发者，寻求外包、技术合作、远程工作机会](https://www.v2ex.com/t/1076393#reply0)
+2024-09-27, @CGTV-World, [China, Brazil are mature strategic partners, says Chinese FM](https://news.cgtn.com/news/2024-09-27/China-Brazil-are-mature-strategic-partners-says-Chinese-FM-1xeRpcaDzgI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [China, Brazil are mature strategic partners, says Chinese FM](https://news.cgtn.com/news/2024-09-27/China-Brazil-are-mature-strategic-partners-says-Chinese-FM-1xeRpcaDzgI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-27, @CN@Flipboard, [Why Carlos Alcaraz was angry with umpire after ‘impossible’ decision during his opening match at the China Open](https://www.thetennisgazette.com/news/why-carlos-alcaraz-was-angry-with-umpire-after-impossible-decision-during-his-opening-match-at-the-china-open/)
 
-2024-09-27, @V2EX, [[问与答] 有无 AI 朗读+讨论的服务？仅限国外服务，国内语音质量听着难受](https://www.v2ex.com/t/1076392#reply2)
-
-2024-09-27, @V2EX, [[问与答] 2024 年 10 月能升级到 win11 吗，各位体验如何](https://www.v2ex.com/t/1076391#reply6)
-
 2024-09-27, @IT之家, [比亚迪腾势 Z9 GT 开放选装：全系可选后排智能冷暖冰箱，Max 版可选性能运动套件等](https://www.ithome.com/0/798/947.htm)
 
-2024-09-27, @V2EX, [[分享创造] 让 iPhone 在打开微信时随机推送单词](https://www.v2ex.com/t/1076389#reply4)
-
-2024-09-27, @IT之家, [微星两款 AMD X870E 主板支持 CUDIMM 内存条，但仅限 CKD 芯片旁路模式](https://www.ithome.com/0/798/945.htm)
-
-2024-09-27, @V2EX, [[健康] 生理上蛋疼，说是我蛋蛋缺氧了！?](https://www.v2ex.com/t/1076388#reply0)
-
-2024-09-27, @CN@Flipboard, [Hong Kong’s John Lee warns news industry against becoming ‘corrupted’ after Stand News case](https://www.scmp.com/news/hong-kong/politics/article/3280247/hong-kongs-john-lee-warns-news-industry-against-becoming-corrupted-after-stand-news-case)
-
-2024-09-27, @IT之家, [小米充电宝 25000 212W 开售：单口功率 140W，到手价 549 元](https://www.ithome.com/0/798/943.htm)
-
-2024-09-27, @IT之家, [LG、雷蛇和联发科合作推出全球首款蓝牙超低延迟游戏手柄，输入延迟低至 1ms](https://www.ithome.com/0/798/942.htm)
-
-2024-09-27, @V2EX, [[程序员] 推荐下性价比高的在线文本转语音服务 tts，用作听小说](https://www.v2ex.com/t/1076387#reply8)
-
-2024-09-27, @IT之家, [全球最贵 AR 眼镜 Meta Orion 被曝最快 2027 年量产：目标取代手机平板](https://www.ithome.com/0/798/941.htm)
-
-2024-09-27, @V2EX, [[分享创造] 分享自己做的一个工具导航网站，希望大家提下意见或者建议。](https://www.v2ex.com/t/1076386#reply1)
-
-2024-09-27, @V2EX, [[Linux] 萌新笔记本安装 Linux 接连受挫 斗胆前来请教前辈](https://www.v2ex.com/t/1076385#reply24)
-
-2024-09-27, @V2EX, [[VXNA] 申请收录个人博客： web 开发笔记](https://www.v2ex.com/t/1076384#reply0)
-
-2024-09-27, @V2EX, [[Windows] Windows 输入法设置问题](https://www.v2ex.com/t/1076383#reply0)
-
-2024-09-27, @IT之家, [马自达公关部：EZ-6 预计 10 月在华上市，无在日本市场销售计划](https://www.ithome.com/0/798/940.htm)
-
-2024-09-27, @IT之家, [微软调整 Teams 应用，将结束支持 Win10 / Win11 21H2 和 macOS 11/12](https://www.ithome.com/0/798/939.htm)
-
-2024-09-27, @IT之家, [消息称华为 Mate X6 折叠屏手机在加单：11 月左右发布，同期没有竞品](https://www.ithome.com/0/798/938.htm)
-
-2024-09-27, @IT之家, [苹果确认 iPhone 16 全系 Wi-Fi 7 仅支持 160MHz 带宽，与 Wi-Fi 6E 看齐](https://www.ithome.com/0/798/937.htm)
+2024-09-27, @CN@Flipboard, [Philippines completes resupply mission at Ayungin Shoal without interference](https://www.philstar.com/headlines/2024/09/27/2388405/philippines-completes-resupply-mission-ayungin-shoal-without-interference)
 
 2024-09-27, @博客园, [C#爬取动态网页上的信息：B站主页 - 二次元攻城狮](https://www.cnblogs.com/timefiles/p/18436160)
 
-2024-09-27, @V2EX, [[问与答] 多个安卓大屏幕， 55 寸，如何能实现控制同时播放内容](https://www.v2ex.com/t/1076382#reply3)
+2024-09-27, @CN@Flipboard, [Elixirs of Power: Chinese Emperor’s Quest for Immortality](https://www.theworldofchinese.com/2024/09/elixirs-of-power-chinese-emperors-quest-immortality/)
 
-2024-09-27, @V2EX, [[问与答] 有没有检测 frp 内网穿透的工具？](https://www.v2ex.com/t/1076381#reply1)
+2024-09-27, @CGTV-World, [Iranian student calls for voice of youth to be amplified](https://news.cgtn.com/news/2024-09-27/Iranian-student-calls-for-voice-of-youth-to-be-amplified-1xeOu7myTtK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @V2EX, [[微信] mbp 上的微信的自定义表情，只能显示前几个，后面全是黑框](https://www.v2ex.com/t/1076380#reply2)
+2024-09-27, @CGTV-World, [Over 30,000 crossed into Syria from Lebanon in past days, says UN](https://news.cgtn.com/news/2024-09-27/news-1xeRjantEti/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @V2EX, [[问与答] 有一个关于 Dokploy 的疑问（或者说 docker？）](https://www.v2ex.com/t/1076379#reply1)
+2024-09-27, @CGTV-World, [Wang Yi: China to continue backing Cyprus in safeguarding sovereignty](https://news.cgtn.com/news/2024-09-27/Wang-Yi-China-to-continue-backing-Cyprus-in-safeguarding-sovereignty-1xeNuDCp7ig/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @V2EX, [[Visual Studio Code] vs code 的智能提示补全不行呀](https://www.v2ex.com/t/1076378#reply5)
+2024-09-27, @CGTV-World, [Wang Yi calls on China, Nepal to promote cooperation for more fruits](https://news.cgtn.com/news/2024-09-27/Wang-Yi-calls-on-China-Nepal-to-promote-cooperation-for-more-fruits-1xeLTKQiDmw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @IT之家, [消息称暴雪第三度启动《星际争霸》系列射击游戏开发，以往尝试均告失败](https://www.ithome.com/0/798/934.htm)
+2024-09-27, @CGTV-World, [Xi's special envoy to attend Mexican president's inauguration](https://news.cgtn.com/news/2024-09-27/Xi-s-special-envoy-to-attend-Mexican-president-s-inauguration-1xeNQYCH7xu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @V2EX, [[广州] 6 号线天河高塘石单间转租](https://www.v2ex.com/t/1076376#reply1)
+2024-09-27, @CGTV-China, [Xi's special envoy to attend Mexican president's inauguration](https://news.cgtn.com/news/2024-09-27/Xi-s-special-envoy-to-attend-Mexican-president-s-inauguration-1xeNQYCH7xu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2024-09-27, @V2EX, [[分享创造] 用 nextjs 做了个网页版游戏](https://www.v2ex.com/t/1076375#reply3)
+2024-09-27, @CGTV-World, [Who is Anura Kumara Dissanayake, Sri Lanka's new president?](https://news.cgtn.com/news/2024-09-27/Who-is-Anura-Kumara-Dissanayake-Sri-Lanka-s-new-president--1xdw8ZzZ8Os/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @V2EX, [[分享发现] 疑似抓大鹅游戏源码](https://www.v2ex.com/t/1076374#reply30)
-
-2024-09-27, @IT之家, [中国科协主席万钢：中国汽车市场空间巨大，并无产能过剩担忧](https://www.ithome.com/0/798/928.htm)
-
-2024-09-27, @IT之家, [腾讯游戏反作弊预启动模式发布：随 Windows 开机启动，首批上线《穿越火线》《无畏契约》](https://www.ithome.com/0/798/926.htm)
-
-2024-09-27, @V2EX, [[投资] 一句话形容自己对现在股市行情的感受就是"又怕兄弟苦，又怕兄弟们开路虎"](https://www.v2ex.com/t/1076373#reply6)
-
-2024-09-27, @IT之家, [一加李杰：新芯片游戏帧率和能效表现非常优秀，GeekBench 6 多核跑分过万](https://www.ithome.com/0/798/925.htm)
-
-2024-09-27, @V2EX, [[问与答] V2 回复限制注册天数是发帖人设置的吗？](https://www.v2ex.com/t/1076372#reply5)
-
-2024-09-27, @V2EX, [[Android] 国内运营商支持手机 esim 吗](https://www.v2ex.com/t/1076371#reply12)
-
-2024-09-27, @V2EX, [[JetBrains] 想问问现在有更便宜的 jetbrains 续费渠道 或者 折扣码 么](https://www.v2ex.com/t/1076370#reply6)
-
-2024-09-27, @V2EX, [[iPhone] IOS 18 是否关闭了手机自带的睡眠监测？](https://www.v2ex.com/t/1076369#reply28)
-
-2024-09-27, @V2EX, [[OpenAI] ChatAIAPI - 您的 AI 对话 API 一站式解决方案](https://www.v2ex.com/t/1076368#reply1)
-
-2024-09-27, @IT之家, [LNG 战队确认 Scout 选手能够参加 2024 英雄联盟全球总决赛，Yagao 紧急替补资格取消](https://www.ithome.com/0/798/906.htm)
-
-2024-09-27, @V2EX, [[问与答] 国庆带小孩去大连玩几天，有啥建议的不兄弟们](https://www.v2ex.com/t/1076367#reply0)
-
-2024-09-27, @V2EX, [[路由器] 求大佬们推荐一个路由器吧](https://www.v2ex.com/t/1076366#reply2)
-
-2024-09-27, @V2EX, [[问与答] 求问一个 APP 定时点击的问题](https://www.v2ex.com/t/1076364#reply5)
-
-2024-09-27, @V2EX, [[职场话题] 假设我有个朋友，公司 ceo 和 组老板 和 顶头上司 都跑路了，接下来裁员的概率有多大？](https://www.v2ex.com/t/1076363#reply8)
-
-2024-09-27, @IT之家, [OPPO 周意保：Find X8 手机支持 IP66/68/69 防尘防水和无线充电](https://www.ithome.com/0/798/901.htm)
-
-2024-09-27, @IT之家, [中国遥感卫星地面站丽江站投运，可满足减灾防灾等高时效性应用需求](https://www.ithome.com/0/798/900.htm)
+2024-09-27, @CGTV-China, [Echoes of Shang Civilization: Rumbling chariots and neighing steeds](https://news.cgtn.com/news/2024-09-27/Echoes-of-Shang-Civilization-Rumbling-chariots-and-neighing-steeds-1xeKVLCeRJS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-27, @CN@Flipboard, [Former Liverpool flop 'deleted' from new club's website as they desperately try to offload him to China](https://www.sportbible.com/football/football-news/liverpool/naby-keita-werder-bremen-transfer-news-261996-20240927)
 
-2024-09-27, @IT之家, [三星 Galaxy S25 Plus 手机跑分曝光：骁龙 8 Gen 4 芯片 + 12GB 内存](https://www.ithome.com/0/798/899.htm)
+2024-09-27, @CN@Flipboard, [Billionaire Investor David Tepper Doubles Down on Chinese Stocks. Should You Follow?](https://www.fool.com/investing/2024/09/27/billionaire-investor-david-tepper-doubles-down-on/)
 
-2024-09-27, @IT之家, [工信部副部长辛国斌：研究新能源汽车双积分管理向碳排放管理转变](https://www.ithome.com/0/798/898.htm)
+2024-09-27, @CGTV-World, [China-Africa ties thrive on 75th anniversary of the PRC](https://news.cgtn.com/news/2024-09-27/China-Africa-ties-thrive-on-75th-anniversary-of-the-PRC-1xeOcYd7Bm0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @IT之家, [OPPO Find X7 / Ultra、一加 12 开启 ColorOS Beta 测试 nolog 用户招募，各 300 人](https://www.ithome.com/0/798/896.htm)
-
-2024-09-27, @CN@Flipboard, [What Japan’s Next Prime Minister Shigeru Ishiba Means for the World](https://time.com/7025753/shigeru-ishiba-japan-prime-minister-ldp-leadership-election-result-analysis/)
-
-2024-09-27, @IT之家, [【IT之家图赏】玄派玄机星 16N 笔记本：“昆仑玉白”设计，整机 185W 性能释放](https://www.ithome.com/0/798/895.htm)
+2024-09-27, @CGTV-China, [China-Africa ties thrive on 75th anniversary of the PRC](https://news.cgtn.com/news/2024-09-27/China-Africa-ties-thrive-on-75th-anniversary-of-the-PRC-1xeOcYd7Bm0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-27, @博客园, [命令行gcc -v和g++ -v输出版本不一致 - 这可就有点麻烦了](https://www.cnblogs.com/hassle/p/18435916)
 
-2024-09-27, @IT之家, [猫眼娱乐发布动态故事板 AI 生成工具“神笔马良”：视听化呈现剧本内容](https://www.ithome.com/0/798/894.htm)
+2024-09-27, @CN@Flipboard, [Tesla Stock Is Up Again. It’s All About China This Week.](https://www.barrons.com/articles/tesla-stock-news-friday-1838f4e9)
 
-2024-09-27, @IT之家, [中车株洲所发布新一代智慧超充系统：峰值电流 800A 液冷超充终端，枪线重量最高减少 50%](https://www.ithome.com/0/798/893.htm)
+2024-09-27, @CGTV-China, [Silk Road International Film Festival showcases powerful stories](https://news.cgtn.com/news/2024-09-27/Silk-Road-International-Film-Festival-showcases-powerful-stories-1xeMdWYCaDm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2024-09-27, @IT之家, [阿维塔 07 开启全国交付：搭载华为乾崑智驾 ADS 3.0，售 21.99 万元起](https://www.ithome.com/0/798/892.htm)
-
-2024-09-27, @IT之家, [谷歌 AI 笔记助手 NotebookLM 获更新：支持总结视频内容、创建学习指南](https://www.ithome.com/0/798/890.htm)
-
-2024-09-27, @IT之家, [新款梅赛德斯-AMG CLE 63 原型曝光，仍配备 V8 发动机](https://www.ithome.com/0/798/889.htm)
-
-2024-09-27, @IT之家, [中国科学院成功开发 19F MRI“分子无人机”：药物精准递送、肿瘤靶向治疗](https://www.ithome.com/0/798/888.htm)
-
-2024-09-27, @IT之家, [2085.8 元：小米全能扫拖机器人 M30 Pro 政府补贴新低（首发价 3699 元）](https://www.ithome.com/0/798/886.htm)
-
-2024-09-27, @IT之家, [艾泰克 ATK 烈空 X1“Ultimate 大师版”双模鼠标首销：PAW3950 Ultra 传感器，369 元](https://www.ithome.com/0/798/885.htm)
+2024-09-27, @CGTV-China, [Colorful Badain Jaran desert lakes](https://news.cgtn.com/news/2024-09-27/Colorful-Badain-Jaran-desert-lakes--1xeLLcki7UA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-27, @CN@Flipboard, [Chinese woman rescued after scam incident](https://www.bangkokpost.com/thailand/general/2873332/chinese-woman-rescued-in-samut-prakan-after-scam-incident)
 
-2024-09-27, @IT之家, [美图公司旗下 AI 短片创作工具 MOKI 开放：覆盖动画短片、网文短剧、故事绘本等](https://www.ithome.com/0/798/883.htm)
+2024-09-27, @CGTV-World, [Hezbollah hits Tiberias in response to Israeli attacks](https://news.cgtn.com/news/2024-09-27/news-1xeLOXQLNxm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @IT之家, [全球首款加密钱包欺诈 App 被发现：下载破万次，吸血 7 万美元](https://www.ithome.com/0/798/882.htm)
+2024-09-27, @CGTV-Nature, [World's first CO2 storage service close to opening in Norway](https://news.cgtn.com/news/2024-09-27/World-s-first-CO2-storage-service-close-to-opening-in-Norway-1xetiNPkSJi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-27, @IT之家, [国家广电总局：推进《广播电视法》立法，确保广播电视和网络视听安全优质地服务千家万户](https://www.ithome.com/0/798/881.htm)
-
-2024-09-27, @IT之家, [be quiet! 德商德静界推出 Light Wings LX 系列风扇，可选 120、140mm](https://www.ithome.com/0/798/880.htm)
+2024-09-27, @CGTV-World, [World's first CO2 storage service close to opening in Norway](https://news.cgtn.com/news/2024-09-27/World-s-first-CO2-storage-service-close-to-opening-in-Norway-1xetiNPkSJi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2024-09-27, @少数派, [不止于轻薄，我的 Apple Watch Series 10 一周体验](https://sspai.com/post/92560)
-
-2024-09-27, @IT之家, [中国信通院公布全球 5G 标准必要专利排名：华为第一，中兴、小米国产前三](https://www.ithome.com/0/798/879.htm)
 
 2024-09-27, @博客园, [Serilog文档翻译系列（六） - 可用的接收器、增强器、格式化输出 - IT规划师](https://www.cnblogs.com/hugogoos/p/18435815)
 
 2024-09-27, @不死鸟, [2024 年 9 月 每日分享](https://iui.su/189/)
 
+2024-09-27, @CGTV-World, [Russian attack on Ukraine's Kryvyi Rih strikes police department](https://news.cgtn.com/news/2024-09-27/news-1xeL11EflFm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-World, [Race to the Future | Green Miracle in Ningxia](https://news.cgtn.com/news/2024-09-27/Race-to-the-Future-Green-Miracle-in-Ningxia-1xeJaNOymgo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-World, [UK's Starmer discussed importance of a ceasefire with Lebanon's PM](https://news.cgtn.com/news/2024-09-27/news-1xeKCHb0XCg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-World, [China steps up macroeconomic policies to achieve growth target](https://news.cgtn.com/news/2024-09-27/China-steps-up-macroeconomic-policies-to-achieve-growth-target-1xeqbjmLOow/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [China steps up macroeconomic policies to achieve growth target](https://news.cgtn.com/news/2024-09-27/China-steps-up-macroeconomic-policies-to-achieve-growth-target-1xeqbjmLOow/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [5 Syrian soldiers killed in Israeli strike on Damascus countryside](https://news.cgtn.com/news/2024-09-27/news-1xeK2WhfTu8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-World, [9 killed in Israeli strike on Shebaa town in southern Lebanon](https://news.cgtn.com/news/2024-09-27/news-1xeJKJYAEne/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-World, [Report says U.S. 'new cold war' policy toward China 'wrongheaded'](https://news.cgtn.com/news/2024-09-27/Report-says-U-S-new-cold-war-policy-toward-China-wrongheaded--1xeAW7kpCaA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [Report says U.S. 'new cold war' policy toward China 'wrongheaded'](https://news.cgtn.com/news/2024-09-27/Report-says-U-S-new-cold-war-policy-toward-China-wrongheaded--1xeAW7kpCaA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [BRICS should contribute to multi-polar world: Chinese FM](https://news.cgtn.com/news/2024-09-27/BRICS-should-contribute-to-multi-polar-world-Chinese-FM-1xeF8QNS36w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [BRICS should contribute to multi-polar world: Chinese FM](https://news.cgtn.com/news/2024-09-27/BRICS-should-contribute-to-multi-polar-world-Chinese-FM-1xeF8QNS36w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [China to work with Costa Rica to maintain momentum in ties](https://news.cgtn.com/news/2024-09-27/China-to-work-with-Costa-Rica-to-maintain-momentum-in-ties-1xeEenm7qMM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [China to work with Costa Rica to maintain momentum in ties](https://news.cgtn.com/news/2024-09-27/China-to-work-with-Costa-Rica-to-maintain-momentum-in-ties-1xeEenm7qMM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [China ready to join Denmark to plan for future exchanges: Chinese FM](https://news.cgtn.com/news/2024-09-27/China-ready-to-join-Denmark-to-plan-for-future-exchanges-Chinese-FM-1xeCXagWSnC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [China ready to join Denmark to plan for future exchanges: Chinese FM](https://news.cgtn.com/news/2024-09-27/China-ready-to-join-Denmark-to-plan-for-future-exchanges-Chinese-FM-1xeCXagWSnC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [Chinese FM meets Polish counterpart in New York](https://news.cgtn.com/news/2024-09-27/Chinese-FM-meets-Polish-counterpart-in-New-York-1xeDabZXuF2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [Chinese FM meets Polish counterpart in New York](https://news.cgtn.com/news/2024-09-27/Chinese-FM-meets-Polish-counterpart-in-New-York-1xeDabZXuF2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
 2024-09-27, @博客园, [浅谈数栈产品里的 Descriptions 组件 - 袋鼠云数栈前端](https://www.cnblogs.com/dtux/p/18435691)
 
 2024-09-27, @博客园, [通过MobaXterm操作远程服务器电脑的方法 - 疯狂学习GIS](https://www.cnblogs.com/fkxxgis/p/18435640)
 
+2024-09-27, @CGTV-China, [Enchanting night view of Leshan City](https://news.cgtn.com/news/2024-09-27/Enchanting-night-view-of-Leshan-City-1xeERVgBNOE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-China, [Experience Leshan's majestic landscapes and cultural gems](https://news.cgtn.com/news/2024-09-27/Experience-Leshan-s-majestic-landscapes-and-cultural-gems-1xeEz9EAsve/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-China, [Beijing's historic venues reawaken with timeless melodies](https://news.cgtn.com/news/2024-09-27/Beijing-s-historic-venues-reawaken-with-timeless-melodies-1xeGWa3Qk7K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-China, [Farmers across China sun-dry crops during harvest season](https://news.cgtn.com/news/2024-09-27/Farmers-across-China-sun-dry-crops-during-harvest-season-1xeEf3lkGDm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [Shigeru Ishiba elected Japan's ruling party leader](https://news.cgtn.com/news/2024-09-27/news-1xeF4CZKxQ4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [China's industrial profits rise with high-tech leading growth](https://news.cgtn.com/news/2024-09-27/China-s-industrial-profits-rise-with-high-tech-leading-growth-1xeB1IAmt7a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
 2024-09-27, @少数派, [水獭周边 | 不割手、带着走，「拆獭」开箱刀大家这样说……](https://sspai.com/post/92561)
 
-2024-09-27, @CN@Flipboard, [Liverpool flop 'deleted' from website, as desperate attempts are made to offload him to China: report](https://www.fourfourtwo.com/news/liverpool-flop-deleted-from-website-as-desperate-attempts-are-made-to-offload-him-to-china-report)
+2024-09-27, @CGTV-China, [PBOC cuts reserve requirement and repo rates for economic growth](https://news.cgtn.com/news/2024-09-27/PBOC-cuts-reserve-requirement-and-repo-rates-for-economic-growth-1xexTOlq9i0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-Nature, [Intangible cultural heritage: Minjian Noodle](https://news.cgtn.com/news/2024-09-27/Intangible-cultural-heritage-Minjian-Noodle-1xevwTiyyZ2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-27, @CGTV-China, [Intangible cultural heritage: Minjian Noodle](https://news.cgtn.com/news/2024-09-27/Intangible-cultural-heritage-Minjian-Noodle-1xevwTiyyZ2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-China, [Smart, green technologies gain popularity at China-ASEAN Expo](https://news.cgtn.com/news/2024-09-27/Smart-green-technologies-gain-popularity-at-China-ASEAN-Expo-1xettoUJOdW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-China, [Li Yajie wins gold for Shanxi at Chinese National Diving Championship](https://news.cgtn.com/news/2024-09-27/Li-Yajie-wins-gold-for-Shanxi-at-Chinese-National-Diving-Championship-1xel2FdylcA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-China, [CBA introduces inaugural Club Cup for 2024-25 season](https://news.cgtn.com/news/2024-09-27/CBA-introduces-inaugural-Club-Cup-for-2024-25-season-1xentIHilY4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [Fenerbahce begin Europa League with home win over Union Saint-Gilloise](https://news.cgtn.com/news/2024-09-27/Fenerbahce-begin-Europa-League-with-home-win-over-Union-Saint-Gilloise-1xeiRkEgXug/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-World, [Home player Wei Sijia reaches women's singles 2nd round at China Open](https://news.cgtn.com/news/2024-09-27/Home-player-Wei-Sijia-reaches-women-s-singles-2nd-round-at-China-Open-1xehwPblyq4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [Home player Wei Sijia reaches women's singles 2nd round at China Open](https://news.cgtn.com/news/2024-09-27/Home-player-Wei-Sijia-reaches-women-s-singles-2nd-round-at-China-Open-1xehwPblyq4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [World No. 1 Jannik Sinner comes back to win first round at China Open](https://news.cgtn.com/news/2024-09-27/World-No-1-Jannik-Sinner-comes-back-to-win-first-round-at-China-Open-1xeeJQkBCAo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [World No. 1 Jannik Sinner comes back to win first round at China Open](https://news.cgtn.com/news/2024-09-27/World-No-1-Jannik-Sinner-comes-back-to-win-first-round-at-China-Open-1xeeJQkBCAo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-China, [China to implement visa-free policy for Denmark](https://news.cgtn.com/news/2024-09-27/China-to-implement-visa-free-policy-for-Denmark-1xeC9Ar2UUM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-27, @博客园, [manim边学边做--图形间集合关系 - wang_yb](https://www.cnblogs.com/wang_yb/p/18435447)
 
 2024-09-27, @知乎, [游戏的系列作品，下一作应该如何削弱前作中玩家已经养成的“战神”级角色？](http://www.zhihu.com/question/667962011/answer/3633824129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-09-27, @小众软件, [Pomotroid – 简单美观的番茄钟｜该休息啦计时器[Win/macOS/Linux]](https://www.appinn.com/pomotroid/)
+
+2024-09-27, @CGTV-World, [China's 'lemon capital' boosts agro-sector modernization](https://news.cgtn.com/news/2024-09-27/China-s-lemon-capital-boosts-agro-sector-modernization-1wRbGw2KEnu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [China's 'lemon capital' boosts agro-sector modernization](https://news.cgtn.com/news/2024-09-27/China-s-lemon-capital-boosts-agro-sector-modernization-1wRbGw2KEnu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [Israel strikes Lebanon for 4th consecutive day, 90,000 flee homes](https://news.cgtn.com/news/2024-09-27/Israel-strikes-Lebanon-for-4th-consecutive-day-90-000-flee-homes-1xeq0RAIZt6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-Nature, [Pawpaw, North America's native fruit, badly affected by climate change](https://news.cgtn.com/news/2024-09-27/Pawpaw-North-America-s-native-fruit-badly-affected-by-climate-change-1xerRWNReog/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-27, @CGTV-World, [Pawpaw, North America's native fruit, badly affected by climate change](https://news.cgtn.com/news/2024-09-27/Pawpaw-North-America-s-native-fruit-badly-affected-by-climate-change-1xerRWNReog/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-World, [Palestinian leader Abbas urges end to Israeli 'genocide'](https://news.cgtn.com/news/2024-09-27/Palestinian-leader-Abbas-urges-end-to-Israeli-genocide--1xekEfv1E2s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-Nature, [Hurricane Helene strengthens to Category 4 as it approaches Florida](https://news.cgtn.com/news/2024-09-27/Hurricane-Helene-strengthens-to-Category-4-as-it-approaches-Florida-1xeq0bjD0nm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-27, @CGTV-World, [Hurricane Helene strengthens to Category 4 as it approaches Florida](https://news.cgtn.com/news/2024-09-27/Hurricane-Helene-strengthens-to-Category-4-as-it-approaches-Florida-1xeq0bjD0nm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [A pathway to peace through ancient wisdom](https://news.cgtn.com/news/2024-09-27/A-pathway-to-peace-through-ancient-wisdom-1xeu6maZd1m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-27, @少数派, [我做了个 AI 助手，让「稍后读」清单学会自我管理](https://sspai.com/post/91575)
 
@@ -358,281 +532,123 @@
 
 2024-09-27, @博客园, [Java如何解决同时出库入库订单号自动获取问题 - TechSynapse](https://www.cnblogs.com/TS86/p/18435256)
 
+2024-09-27, @CGTV-World, [Friendly cooperation is the main theme of China-Estonian ties: Wang Yi](https://news.cgtn.com/news/2024-09-27/Friendly-cooperation-is-the-main-theme-of-China-Estonian-ties-Wang-Yi-1xeeiPjWF3y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [Friendly cooperation is the main theme of China-Estonian ties: Wang Yi](https://news.cgtn.com/news/2024-09-27/Friendly-cooperation-is-the-main-theme-of-China-Estonian-ties-Wang-Yi-1xeeiPjWF3y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-China, [UK wind energy revolution to transform coastal landscape](https://news.cgtn.com/news/2024-09-27/UK-wind-energy-revolution-to-transform-coastal-landscape-1xepvzJKtr2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [Lebanese PM welcomes temporary ceasefire proposal](https://news.cgtn.com/news/2024-09-27/Lebanese-PM-welcomes-temporary-ceasefire-proposal-1xej6YgjH5S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [Reviving Hong Kong's neon lights](https://news.cgtn.com/news/2024-09-27/Reviving-Hong-Kong-s-neon-lights-1xeplPuzJle/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-Nature, [Amazon's levels in Colombia down by as much as 90%, report finds](https://news.cgtn.com/news/2024-09-27/Amazon-s-levels-in-Colombia-down-by-as-much-as-90-report-finds-1xejlU8Ip7a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-27, @CGTV-World, [Amazon's levels in Colombia down by as much as 90%, report finds](https://news.cgtn.com/news/2024-09-27/Amazon-s-levels-in-Colombia-down-by-as-much-as-90-report-finds-1xejlU8Ip7a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
 2024-09-27, @博客园, [在 ArkTS 中，如何有效地进行内存管理和避免内存泄漏？ - 威哥爱编程](https://www.cnblogs.com/wgjava/p/18435162)
+
+2024-09-27, @CN@Flipboard, [26 Godless Nations Where Atheism Reigns Supreme](https://flipboard.com/@becausemomsay/26-godless-nations-where-atheism-reigns-supreme-o401i1uo0r0gtovb)
 
 2024-09-27, @博客园, [从零开始学机器学习——准备和可视化数据 - 努力的小雨](https://www.cnblogs.com/guoxiaoyu/p/18419035)
 
-2024-09-27, @博客园, [排查maven  冲突及解决方式 - 古渡蓝按](https://www.cnblogs.com/blbl-blog/p/18434944)
+2024-09-27, @CGTV-World, [China ready to deepen cooperation with all parties within GDI: Wang Yi](https://news.cgtn.com/news/2024-09-27/China-ready-to-deepen-cooperation-with-all-parties-within-GDI-Wang-Yi-1xeebFPH76U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-27, @博客园, [救园倒计时：救园最后4天 - 博客园团队](https://www.cnblogs.com/cmt/p/18432948)
+2024-09-27, @CGTV-China, [China ready to deepen cooperation with all parties within GDI: Wang Yi](https://news.cgtn.com/news/2024-09-27/China-ready-to-deepen-cooperation-with-all-parties-within-GDI-Wang-Yi-1xeebFPH76U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2024-09-27, @博客园, [《HelloGitHub》第 102 期 - 削微寒](https://www.cnblogs.com/xueweihan/p/18434827)
+2024-09-27, @CGTV-World, [Chart of the Day: China's tourism rebound aids global resurgence](https://news.cgtn.com/news/2024-09-27/Chart-of-the-Day-China-s-tourism-rebound-aids-global-resurgence-1xegUmJqyXK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-27, @CGTV-China, [Chart of the Day: China's tourism rebound aids global resurgence](https://news.cgtn.com/news/2024-09-27/Chart-of-the-Day-China-s-tourism-rebound-aids-global-resurgence-1xegUmJqyXK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-Nature, [China releases catalog of 105 tropical crop germplasm banks](https://news.cgtn.com/news/2024-09-27/China-releases-catalog-of-105-tropical-crop-germplasm-banks-1xeihjuyipW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-27, @CGTV-China, [China releases catalog of 105 tropical crop germplasm banks](https://news.cgtn.com/news/2024-09-27/China-releases-catalog-of-105-tropical-crop-germplasm-banks-1xeihjuyipW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-China, [Chinese gaming companies in spotlight at Tokyo Game Show 2024](https://news.cgtn.com/news/2024-09-27/Chinese-gaming-companies-in-spotlight-at-Tokyo-trade-show-1xeeWQqhrqM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-27, @CGTV-World, [AI demand may trigger new global chip shortage, Bain report warns](https://news.cgtn.com/news/2024-09-27/AI-demand-may-trigger-new-global-chip-shortage-Bain-report-warns-1xefYB97hQI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2024-09-27, @少数派, [派早报：Meta 发布新款 VR 头显、SteelSeries 发布新款入耳式耳机等](https://sspai.com/post/92581)
 
-2024-09-27, @博客园, [Linux服务器磁盘空间占用情况分析与清理指南 - 曾左](https://www.cnblogs.com/zengzuo613/p/18434300)
+2024-09-26, @CGTV-China, [Illuminating the Homeland](https://news.cgtn.com/news/2024-09-27/-Illuminating-the-Homeland-1xbeNFDT8Fq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-27, @HelloGitHub 月刊, [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102)
 
+2024-09-26, @CGTV-World, [Projectile sets off air raid sirens in Tel Aviv: army](https://news.cgtn.com/news/2024-09-27/Projectile-sets-off-air-raid-sirens-in-Tel-Aviv-army-1xednGpl3Co/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
 2024-09-26, @CN@Flipboard, [Electric Vehicles: A Warning from Italy](https://www.nationalreview.com/corner/electric-vehicles-a-warning-from-italy/)
+
+2024-09-26, @CGTV-World, [Yemeni missile triggers air raid sirens in Tel Aviv: IDF](https://news.cgtn.com/news/2024-09-27/news-1xecXdKI29G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2024-09-26, @CN@Flipboard, [Actress Shu Qi went from soft-porn to mainstream cinema star. Now she is a filmmaker too](https://www.scmp.com/lifestyle/entertainment/article/3280014/actress-shu-qi-went-soft-porn-mainstream-cinema-star-now-she-filmmaker-too)
 
 2024-09-26, @CN@Flipboard, [China 'threat' pushing Australia into $6 billion black hole](https://au.finance.yahoo.com/news/treasurers-6-billion-china-confession-amid-threat-to-iron-ore-cash-cow-230918363.html)
 
+2024-09-26, @CGTV-World, [U.S. Senators question aviation regulator’s oversight of Boeing safety](https://newsus.cgtn.com/news/2024-09-27/U-S-Senators-question-aviation-regulator-s-oversight-of-Boeing-safety-1xe4AE1d16w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-26, @CGTV-World, [Meta unveils Quest 3S VR headset, Orion AR glasses prototype](https://newsus.cgtn.com/news/2024-09-27/Meta-unveils-Quest-3S-VR-headset-Orion-AR-glasses-prototype-1xe4OwCr0wU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2024-09-26, @CGTV-World, [World leaders discuss AI ethics at UNGA](https://newsus.cgtn.com/news/2024-09-27/World-leaders-discuss-AI-ethics-at-UNGA-1xe4Ycfu5yM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
 2024-09-26, @Awesome Rust Weekly, [💻 Issue 431 - Rewriting Rust](https://rust.libhunt.com/newsletter/431)
+
+2024-09-26, @CN@Flipboard, [Tennis star smashes racket to pieces in extraordinary scenes in China Open loss](https://www.the-express.com/sport/tennis/149892/alexander-bublik-s-racket-rage-china-open-highlights-intense-match-against-flavio-cobolli)
 
 2024-09-26, @CN@Flipboard, [China Embarrassed When Brand-New Secret Nuclear Submarine Instantly Sinks](https://futurism.com/the-byte/china-embarrassed-nuclear-sub-sinks)
 
 2024-09-26, @CN@Flipboard, [Top economist disappears after criticizing Xi Jinping](https://www.taipeitimes.com/News/world/archives/2024/09/27/2003824443)
 
-2024-09-26, @CGTV-China, [China to ensure 2 hours of daily physical activities for students](https://news.cgtn.com/news/2024-09-26/China-to-ensure-2-hours-of-daily-physical-activities-for-students-1xdsuZKRm6s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+2024-09-26, @CGTV-China, [Key takeaways from CPC leadership's meeting on economic work](https://news.cgtn.com/news/2024-09-26/Key-takeaways-from-CPC-leadership-s-meeting-on-economic-work-1xdAd0MggVO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-26, @CGTV-China, [China International Intelligent Communication Forum 2024 held in Wuxi](https://news.cgtn.com/news/2024-09-26/China-International-Intelligent-Communication-Forum-2024-held-in-Wuxi-1xdAUcCjMNq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2024-09-26, @CGTV-China, [President Xi Jinping's key quotes on ethnic unity](https://news.cgtn.com/news/2024-09-26/President-Xi-Jinping-s-key-quotes-on-ethnic-unity-1xdpEZas4yk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-26, @CN@Flipboard, [Another attack on a Japanese local points to a big problem in China](https://www.economist.com/china/2024/09/26/another-attack-on-a-japanese-local-points-to-a-big-problem-in-china)
-
-2024-09-26, @CGTV-China, [Understanding Chinese wisdom in quotes from The Analects of Confucius](https://news.cgtn.com/news/2024-09-26/Understanding-Chinese-wisdom-in-quotes-from-The-Analects-of-Confucius-1xdsr435N96/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-China, [Intangible cultural heritage: The art of wood carving](https://news.cgtn.com/news/2024-09-26/Intangible-cultural-heritage-The-art-of-wood-carving-1xdoXI2Psxa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CN@Flipboard, ['I'm a capitalist,' Kamala Harris says as she reveals $100 billion manufacturing plan](https://qz.com/kamala-harris-economic-plan-manufacturing-ai-nuclear-1851658110)
-
-2024-09-26, @CGTV-Nature, [China allocates funds to support flood, typhoon-hit regions](https://news.cgtn.com/news/2024-09-26/China-allocates-funds-to-support-flood-typhoon-hit-regions-1xddkuqCm76/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-26, @CGTV-China, [China allocates funds to support flood, typhoon-hit regions](https://news.cgtn.com/news/2024-09-26/China-allocates-funds-to-support-flood-typhoon-hit-regions-1xddkuqCm76/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-Nature, [CNSA to open access to Chang'e-6 lunar samples to global scientists](https://news.cgtn.com/news/2024-09-26/CNSA-to-open-access-to-Chang-e-6-lunar-samples-to-global-scientists-1xbobf3VbMI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-26, @CGTV-China, [CNSA to open access to Chang'e-6 lunar samples to global scientists](https://news.cgtn.com/news/2024-09-26/CNSA-to-open-access-to-Chang-e-6-lunar-samples-to-global-scientists-1xbobf3VbMI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [Ancient Silk Road hub Xinjiang sees 31% foreign trade growth](https://news.cgtn.com/news/2024-09-26/Ancient-Silk-Road-hub-Xinjiang-sees-31-foreign-trade-growth-1xdnRmSMSTS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [Ancient Silk Road hub Xinjiang sees 31% foreign trade growth](https://news.cgtn.com/news/2024-09-26/Ancient-Silk-Road-hub-Xinjiang-sees-31-foreign-trade-growth-1xdnRmSMSTS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [At least 7 Palestinians killed in Israeli attack on Gaza school](https://news.cgtn.com/news/2024-09-26/At-least-7-Palestinians-killed-in-Israeli-attack-on-Gaza-school--1xdsrMYP7Gg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [Lebanon says 20 people, almost all Syrians, killed in Israeli strike](https://news.cgtn.com/news/2024-09-26/news-1xdnjvj2w48/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [At least 8 injured in Israeli airstrike on Syria-Lebanon border](https://news.cgtn.com/news/2024-09-26/news-1xdmlg6kGuk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [China says its ICBM launch 'legitimate and routine' arrangement](https://news.cgtn.com/news/2024-09-26/China-says-its-ICBM-launch-legitimate-and-routine-arrangement-1xdkfQRYO7m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [China says its ICBM launch 'legitimate and routine' arrangement](https://news.cgtn.com/news/2024-09-26/China-says-its-ICBM-launch-legitimate-and-routine-arrangement-1xdkfQRYO7m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-Nature, [New giant panda pair arrives in Hong Kong](https://news.cgtn.com/news/2024-09-26/New-giant-panda-pair-arrives-in-Hong-Kong--1xd7nA0KzWo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-26, @CGTV-China, [New giant panda pair arrives in Hong Kong](https://news.cgtn.com/news/2024-09-26/New-giant-panda-pair-arrives-in-Hong-Kong--1xd7nA0KzWo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-Nature, [China's water conservancy projects create 2.1 million jobs in 2024](https://news.cgtn.com/news/2024-09-26/China-s-water-conservancy-projects-create-2-1-million-jobs-in-2024-1xdcaqiuhu8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-26, @CGTV-China, [China's water conservancy projects create 2.1 million jobs in 2024](https://news.cgtn.com/news/2024-09-26/China-s-water-conservancy-projects-create-2-1-million-jobs-in-2024-1xdcaqiuhu8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [46 people drown during Hindu festival in India's Bihar](https://news.cgtn.com/news/2024-09-26/news-1xdjWtvALp6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [Israel claims it hit Hezbollah infrastructure on Syria-Lebanon border](https://news.cgtn.com/news/2024-09-26/news-1xdjUtnM8RW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2024-09-26, @CN@Flipboard, [Chinese man calls Thai women prostitutes sparking online outrage](https://thethaiger.com/news/national/chinese-man-calls-thai-women-prostitutes-sparking-online-outrage)
 
 2024-09-26, @少数派, [iOS 如何按地区限制功能：浅析 MobileGestalt 与 Eligibility](https://sspai.com/prime/story/ios-feature-region-lock)
 
-2024-09-26, @CGTV-China, [Curtain falls on 5th Lushan International Romance Film Week](https://news.cgtn.com/news/2024-09-26/Curtain-falls-on-5th-Lushan-International-Romance-Film-Week-1xdeGDuNVO8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
 2024-09-26, @少数派, [新玩意 193｜少数派的编辑们最近买了啥？](https://sspai.com/post/92573)
-
-2024-09-26, @CGTV-China, [Badain Jaran Temple basks in morning glory](https://news.cgtn.com/news/2024-09-26/Badain-Jaran-Temple-basks-in-morning-glory-1xdd58DC1VK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [Israeli foreign minister rejects ceasefire proposal with Hezbollah](https://news.cgtn.com/news/2024-09-26/news-1xddzdkignu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [Russian forces claim control of Ukrainsk town in E Ukraine](https://news.cgtn.com/news/2024-09-26/news-1xddxicJd0Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [Camels celebrated with art in Badain Jaran](https://news.cgtn.com/news/2024-09-26/Camels-celebrated-with-art-in-Badain-Jaran-1xdcMzXL69y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [Türkiye makes preparations to evacuate its citizens from Lebanon](https://news.cgtn.com/news/2024-09-26/news-1xddaukb7rO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [China ready to join El Salvador in upgrading ties: Chinese FM Wang Yi](https://news.cgtn.com/news/2024-09-26/China-ready-to-join-El-Salvador-in-upgrading-ties-Chinese-FM-Wang-Yi-1xd7wUECqFq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [China ready to join El Salvador in upgrading ties: Chinese FM Wang Yi](https://news.cgtn.com/news/2024-09-26/China-ready-to-join-El-Salvador-in-upgrading-ties-Chinese-FM-Wang-Yi-1xd7wUECqFq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-26, @小众软件, [HuggingChat 发布 macOS 客户端｜Hugging Face 的聊天机器人](https://www.appinn.com/huggingchat-mac/)
 
-2024-09-26, @CGTV-World, [China, U.S. are partners, not rivals, says Chinese foreign minister](https://news.cgtn.com/news/2024-09-26/China-U-S-are-partners-not-rivals-says-Chinese-foreign-minister-1xd67S58hb2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [China, U.S. are partners, not rivals, says Chinese foreign minister](https://news.cgtn.com/news/2024-09-26/China-U-S-are-partners-not-rivals-says-Chinese-foreign-minister-1xd67S58hb2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [Israeli PM's office denies news about a ceasefire](https://news.cgtn.com/news/2024-09-26/news-1xdchJ4FWfu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [China to work with Bangladesh to carry forward traditional friendship](https://news.cgtn.com/news/2024-09-26/China-to-work-with-Bangladesh-to-carry-forward-traditional-friendship-1xd70yKuZ7G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [China to work with Bangladesh to carry forward traditional friendship](https://news.cgtn.com/news/2024-09-26/China-to-work-with-Bangladesh-to-carry-forward-traditional-friendship-1xd70yKuZ7G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [Lebanon says 23 Syrians killed in Israeli strike on Younine town](https://news.cgtn.com/news/2024-09-26/news-1xd7Xf1tuKs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, ['Devil's Eye' spring awash with autumn colors in Haixi](https://news.cgtn.com/news/2024-09-26/-Devil-s-Eye-spring-awash-with-autumn-colors-in-Haixi-1xd6tqXyW64/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
 2024-09-26, @少数派, [iPhone 16 Pro 体验：年年岁岁花相似，今年何处不相同？](https://sspai.com/post/92537)
-
-2024-09-26, @CGTV-China, [Animation shines at the 11th Silk Road International Film Festival](https://news.cgtn.com/news/2024-09-26/Animation-shines-at-the-11th-Silk-Road-International-Film-Festival-1xd4qWcGBfq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CN@Flipboard, [Trump’s Problematic Claims on the Auto Industry](https://www.factcheck.org/2024/09/trumps-problematic-claims-on-the-auto-industry/)
-
-2024-09-26, @CGTV-Nature, [M5.7 earthquake strikes off Kushiro, Japan's Hokkaido: JMA](https://news.cgtn.com/news/2024-09-26/news-1xd56ikGVry/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-26, @CGTV-World, [M5.7 earthquake strikes off Kushiro, Japan's Hokkaido: JMA](https://news.cgtn.com/news/2024-09-26/news-1xd56ikGVry/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [Xi congratulates Communication University of China on 70th anniversary](https://news.cgtn.com/news/2024-09-26/Xi-congratulates-Communication-University-of-China-on-70th-anniversary-1xcL8vhRMyY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-China, [Xi Jinping chairs CPC leadership meeting to arrange for economic work](https://news.cgtn.com/news/2024-09-26/Xi-chairs-CPC-leadership-meeting-to-arrange-for-economic-work-1xcZThVmqYg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [Wang Yi calls for upholding correct security concept](https://news.cgtn.com/news/2024-09-26/Wang-Yi-calls-for-upholding-correct-security-concept-1xd2ivZMMHC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [Wang Yi calls for upholding correct security concept](https://news.cgtn.com/news/2024-09-26/Wang-Yi-calls-for-upholding-correct-security-concept-1xd2ivZMMHC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [Wang Yi: China to maintain stable development of ties with Ukraine](https://news.cgtn.com/news/2024-09-26/Wang-Yi-China-to-maintain-stable-development-of-ties-with-Ukraine-1xd0IRaNAGc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [Wang Yi: China to maintain stable development of ties with Ukraine](https://news.cgtn.com/news/2024-09-26/Wang-Yi-China-to-maintain-stable-development-of-ties-with-Ukraine-1xd0IRaNAGc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [Chinese FM urges G20 to advance, improve global governance](https://news.cgtn.com/news/2024-09-26/Chinese-FM-urges-G20-to-advance-improve-global-governance--1xd0dPpQI24/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [Chinese FM urges G20 to advance, improve global governance](https://news.cgtn.com/news/2024-09-26/Chinese-FM-urges-G20-to-advance-improve-global-governance--1xd0dPpQI24/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-Nature, [Cultural Treasures of Minorities: The Dulong people](https://news.cgtn.com/news/2024-09-26/Cultural-Treasures-of-Minorities-The-Dulong-people-1xcZw3fq92w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-26, @CGTV-China, [Cultural Treasures of Minorities: The Dulong people](https://news.cgtn.com/news/2024-09-26/Cultural-Treasures-of-Minorities-The-Dulong-people-1xcZw3fq92w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-China, [Intricate dough sculptures inspired by ancient mural art](https://news.cgtn.com/news/2024-09-26/Intricate-dough-sculptures-inspired-by-ancient-mural-art-1xd1WzvOl7W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [Chinese FM Wang Yi: AI should not be used to maintain hegemony](https://news.cgtn.com/news/2024-09-26/Chinese-FM-Wang-Yi-AI-should-not-be-used-to-maintain-hegemony-1xcZjhrEp9u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [Chinese FM Wang Yi: AI should not be used to maintain hegemony](https://news.cgtn.com/news/2024-09-26/Chinese-FM-Wang-Yi-AI-should-not-be-used-to-maintain-hegemony-1xcZjhrEp9u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [China will work with Russia to enrich bilateral ties: Chinese FM](https://news.cgtn.com/news/2024-09-26/China-will-work-with-Russia-to-enrich-bilateral-ties-Chinese-FM-1xcYVW7Q9u8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [China will work with Russia to enrich bilateral ties: Chinese FM](https://news.cgtn.com/news/2024-09-26/China-will-work-with-Russia-to-enrich-bilateral-ties-Chinese-FM-1xcYVW7Q9u8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-China, [Taking Cinema to the Sticks](https://news.cgtn.com/news/2024-09-26/Taking-Cinema-to-the-Sticks-1xbdUNpvG9O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-Nature, [Hurricane Helene may hit Florida as a 'catastrophic' storm](https://news.cgtn.com/news/2024-09-26/Hurricane-Helene-may-hit-Florida-as-a-catastrophic-storm-1xcN2oB4kIo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-26, @CGTV-Nature, [Japan starts 9th ocean discharge of nuclear-tainted wastewater](https://news.cgtn.com/news/2024-09-26/news-1xcYiRz89oY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-26, @CGTV-World, [Japan starts 9th ocean discharge of nuclear-tainted wastewater](https://news.cgtn.com/news/2024-09-26/news-1xcYiRz89oY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [The Gateway of Time: A snapshot of life in China today](https://news.cgtn.com/news/2024-09-26/The-Gateway-of-Time-A-snapshot-of-life-in-China-today-1xcQ00Qh1y8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-26, @书伴, [入门版 Kindle（2024）遭泄露：屏幕更亮，重量更轻](https://bookfere.com/post/1121.html)
 
-2024-09-26, @CGTV-World, [Longhua Temple Vegetarian Exhibition kicks off in Washington](https://news.cgtn.com/news/2024-09-26/Longhua-Temple-exhibition-kicks-off-in-Washington-1xcQTI72I6Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [Longhua Temple Vegetarian Exhibition kicks off in Washington](https://news.cgtn.com/news/2024-09-26/Longhua-Temple-exhibition-kicks-off-in-Washington-1xcQTI72I6Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-Nature, [UN chief urges drastic action on mitigating sea-level rise](https://news.cgtn.com/news/2024-09-26/UN-chief-urges-drastic-action-on-mitigating-sea-level-rise-1xcJVYVUO8U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-26, @CGTV-World, [Ceasefire urged as Israel resumes intensive airstrikes on Lebanon](https://news.cgtn.com/news/2024-09-26/Ceasefire-urged-as-Israel-resumes-intensive-airstrikes-on-Lebanon-1xcKXPnzf9u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [China launches anti-discriminatory probe against Canada's restrictive measures](https://news.cgtn.com/news/2024-09-26/China-launches-anti-discriminatory-probe-against-Canada-s-restrictive-measures-1xcQJpM1ajC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [China launches anti-discriminatory probe against Canada's restrictive measures](https://news.cgtn.com/news/2024-09-26/China-launches-anti-discriminatory-probe-against-Canada-s-restrictive-measures-1xcQJpM1ajC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-China, [China aerospace startup sets for rocket vertical recovery missions](https://news.cgtn.com/news/2024-09-26/China-aerospace-startup-sets-for-rocket-vertical-recovery-missions-1xcLtftLkuQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-China, [Tourists may have to pay to get up close to Rome's Trevi Fountain](https://news.cgtn.com/news/2024-09-26/Tourists-may-have-to-pay-to-get-up-close-to-Rome-s-Trevi-Fountain-1xcKNtF3JpC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-China, [Peaceful coexistence: Confucianism for our time](https://news.cgtn.com/news/2024-09-26/Peaceful-coexistence-Confucianism-for-our-time-1xcOB5p1UFa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
 2024-09-26, @少数派, [在西域古城喀什噶尔，我想追求的只有快乐](https://sspai.com/post/92389)
-
-2024-09-26, @CGTV-Nature, [Xizang's ecological restoration efforts boost livelihoods](https://news.cgtn.com/news/2024-09-26/Xizang-s-ecological-restoration-efforts-boost-livelihoods-1xcKJ402Ko8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-26, @CGTV-China, [Xizang's ecological restoration efforts boost livelihoods](https://news.cgtn.com/news/2024-09-26/Xizang-s-ecological-restoration-efforts-boost-livelihoods-1xcKJ402Ko8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-26, @知乎, [游戏《冰汽时代2》中的“暖券”是什么？在现实中有类似的通货么？](http://www.zhihu.com/question/667494988/answer/3630157856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
-2024-09-26, @CGTV-World, [Wang Yi slams U.S. for manipulating human rights issues](https://news.cgtn.com/news/2024-09-26/Wang-Yi-slams-U-S-for-manipulating-human-rights-issues-1xcLKpdfG8M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [Wang Yi slams U.S. for manipulating human rights issues](https://news.cgtn.com/news/2024-09-26/Wang-Yi-slams-U-S-for-manipulating-human-rights-issues-1xcLKpdfG8M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [G20 foreign ministers discuss global governance reform at UN](https://news.cgtn.com/news/2024-09-26/G20-foreign-ministers-discuss-global-governance-reform-at-UN-1xcGrvmNd9C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [China grants visa-free entry to Slovenians](https://news.cgtn.com/news/2024-09-26/China-grants-visa-free-entry-to-Slovenians-1xcF8mBZJPa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [China grants visa-free entry to Slovenians](https://news.cgtn.com/news/2024-09-26/China-grants-visa-free-entry-to-Slovenians-1xcF8mBZJPa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-26, @CGTV-World, [African leaders at UN call for more development](https://news.cgtn.com/news/2024-09-26/African-leaders-at-UN-call-for-more-development-1xcF6RT7MvC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [China, EU should enhance mutual trust, cooperation: Wang Yi](https://news.cgtn.com/news/2024-09-26/China-EU-should-enhance-mutual-trust-cooperation-Wang-Yi-1xcEVA6vM0o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-World, [China, U.S. agree to maintain communication on law enforcement](https://news.cgtn.com/news/2024-09-26/China-U-S-agree-to-maintain-communication-on-law-enforcement-1xczEF8nr2M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-26, @CGTV-China, [China, U.S. agree to maintain communication on law enforcement](https://news.cgtn.com/news/2024-09-26/China-U-S-agree-to-maintain-communication-on-law-enforcement-1xczEF8nr2M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
 2024-09-26, @少数派, [派早报：魅族推出多款新品、Nothing Ear (open) 正式公开等](https://sspai.com/post/92557)
 
-2024-09-26, @CGTV-China, [Chang'e-6 lunar samples to be displayed at 15th Airshow China](https://news.cgtn.com/news/2024-09-26/Chang-e-6-lunar-samples-to-be-displayed-at-15th-Airshow-China-1xczy4weuXK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+2024-09-25, @CGTV-World, [Two hurt in explosion at courthouse in California](https://newsaf.cgtn.com/news/2024-09-26/Two-hurt-in-explosion-at-courthouse-in-California-1xc98JhHbC8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2024-09-25, @CGTV-World, [At least 72 killed in Wednesday's Israeli attacks on Lebanon](https://news.cgtn.com/news/2024-09-26/At-least-72-killed-in-Wednesday-s-Israeli-attacks-on-Lebanon-1xcxdb8Qm1G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-World, [Israel resumes intensive airstrikes on Lebanon](https://news.cgtn.com/news/2024-09-26/Israel-resumes-intensive-airstrikes-on-Lebanon-1xcwORfnqmI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-World, [U.S. Congress approves deal to avert election-period shutdown](https://news.cgtn.com/news/2024-09-26/U-S-Congress-approves-deal-to-avert-election-period-shutdown-1xcwt7uefde/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-World, [Argentina restricts airline strikes](https://newsus.cgtn.com/news/2024-09-26/Argentina-restricts-airline-strikes-1xcpvKBbfDq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-World, [China calls for multilateral cooperation to solve global challenges](https://newsus.cgtn.com/news/2024-09-26/China-calls-for-multilateral-cooperation-to-solve-global-challenges-1xcpckKF1e0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-World, [How lies about Haitians eating pets affect Springfield residents](https://newsus.cgtn.com/news/2024-09-26/How-lies-about-Haitians-eating-pets-affect-Springfield-residents-1xcoDtcoIyQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-World, [Meet handwriting analyst Beverley East](https://newsus.cgtn.com/news/2024-09-26/Meet-handwriting-analyst-Beverley-East-1xcmUWRYTxS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-World, [Countries collaborate in Haiti security mission](https://newsus.cgtn.com/news/2024-09-26/Countries-collaborate-in-Haiti-security-mission-1xcmsFiGT2U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-World, [Day one recap of the UN General Assembly](https://newsus.cgtn.com/news/2024-09-26/Day-one-recap-of-the-UN-General-Assembly-1xciTcA7QOc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-World, [Greek, Chinese civilizations' impact global, says official from Greece](https://news.cgtn.com/news/2024-09-25/Greek-Chinese-civilizations-impact-global-says-official-from-Greece-1xbXT5LR5RK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-China, [Greek, Chinese civilizations' impact global, says official from Greece](https://news.cgtn.com/news/2024-09-25/Greek-Chinese-civilizations-impact-global-says-official-from-Greece-1xbXT5LR5RK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-25, @CGTV-China, [Cultural events held in Moscow to mark 75 years of PRC](https://news.cgtn.com/news/2024-09-25/Cultural-events-held-in-Moscow-to-mark-75-years-of-PRC-1xbRFS7IPCM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-25, @CGTV-China, [Chinese solutions help global transportation governance, expert says](https://news.cgtn.com/news/2024-09-25/Chinese-solutions-help-global-transportation-governance-expert-says-1xbBm1gmn2U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-25, @CGTV-World, [China launches construction of core array for FAST telescope](https://news.cgtn.com/news/2024-09-25/China-launches-construction-of-core-array-for-FAST-telescope-1xbRESDzYNq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-25, @CGTV-China, [What lies behind China's economic miracle?](https://news.cgtn.com/news/2024-09-25/What-lies-behind-China-s-economic-miracle--1xbK2LjLLSo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-25, @CGTV-China, [China's top court expands International Commercial Expert Committee](https://news.cgtn.com/news/2024-09-25/China-s-top-court-expands-International-Commercial-Expert-Committee-1xbRTo6IoyA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-25, @CGTV-World, [At least 51 people killed in Israeli strikes on Lebanon Wednesday](https://news.cgtn.com/news/2024-09-25/news-1xbU1sRtTtS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2024-09-25, @CGTV-Nature, [In Fact: Is China's reforestation a giant green washing project?](https://newseu.cgtn.com/news/2024-09-25/In-Fact-Is-China-s-reforestation-a-giant-green-washing-project--1x8E3MfYRDG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-25, @小众软件, [老牌音乐播放器 Winamp 已在 GitHub 开放源代码，但…别急](https://www.appinn.com/winamp-open-source/)
+
+2024-09-25, @CGTV-Nature, [Indonesia takes precautionary measures for potential megathrust quakes](https://news.cgtn.com/news/2024-09-25/Indonesia-takes-precautionary-measures-for-potential-megathrust-quakes-1xbGMeovYeA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-25, @CGTV-Nature, [Race to the Future | Rescue Base on the Plateau](https://news.cgtn.com/news/2024-09-25/Race-to-the-Future-Rescue-Base-on-the-Plateau-1xbqvCKtWmc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-25, @CGTV-China, [Respecting, protecting human rights China's constant pursuit: official](https://news.cgtn.com/news/2024-09-25/Respecting-protecting-human-rights-China-s-constant-pursuit-official-1xbyYBKsi9G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-25, @知乎, [已经掌握独立建造第三代核电站的技术的国家有哪些？](http://www.zhihu.com/question/19700567/answer/3635928923?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-09-25, @小众软件, [Kite 待办 – 即开即用，无需注册，简洁轻量的桌面待办清单[Windows]](https://www.appinn.com/kite-todo/)
 
+2024-09-25, @CGTV-Nature, [Wild China Up Close: What are the stone pillars on Hua'ao Island?](https://news.cgtn.com/news/2024-09-25/Wild-China-Up-Close-What-are-the-stone-pillars-on-Hua-ao-Island--1xbkWeepprW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2024-09-25, @This Week in Rust, [This Week in Rust 566](https://this-week-in-rust.org/blog/2024/09/25/this-week-in-rust-566/)
 
 2024-09-25, @知乎, [Reverse-o1:OpenAI o1原理逆向工程图解](http://zhuanlan.zhihu.com/p/721952915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
-2024-09-25, @CGTV-China, [Electric aircraft makes 1st flight near Beijing's Badaling Great Wall](https://news.cgtn.com/news/2024-09-25/Electric-aircraft-makes-1st-flight-near-Beijing-s-Badaling-Great-Wall-1xb2oK6DUZO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-24, @CGTV-World, [Lebanon's Hezbollah launches air attack on Israeli naval base, group says](https://news.cgtn.com/news/2024-09-25/Lebanon-s-Hezbollah-launches-air-attack-on-Israeli-naval-base-group-says-1xaREl7Za1O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2024-09-25, @CGTV-Nature, [Record number of raptors sighted in NE China's nature reserve](https://news.cgtn.com/news/2024-09-25/Record-number-of-raptors-sighted-in-NE-China-s-nature-reserve-1xaYCTGe0uI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-24, @不死鸟, [TVBox安卓影视盒子app](https://iui.su/175/)
-
-2024-09-24, @CGTV-World, [China to work with ASEAN to build closer community with shared future](https://news.cgtn.com/news/2024-09-24/China-to-work-with-ASEAN-to-build-closer-community-with-shared-future-1xabDk9Np4s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-24, @CGTV-China, [China to work with ASEAN to build closer community with shared future](https://news.cgtn.com/news/2024-09-24/China-to-work-with-ASEAN-to-build-closer-community-with-shared-future-1xabDk9Np4s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-24, @CGTV-China, [Human rights seminar held elaborating on CPC plenum guiding principles](https://news.cgtn.com/news/2024-09-24/Human-rights-seminar-held-elaborating-on-CPC-plenum-guiding-principles-1x9RFs8Zu3S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-24, @CGTV-China, [Chinese mainland slams attempts to misinterpret UNGA Resolution 2758](https://news.cgtn.com/news/2024-09-24/Chinese-mainland-slams-attempts-to-misinterpret-UNGA-Resolution-2758-1x9TiEt10ly/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-24, @CGTV-Nature, [Wild China Up Close: Not every bird can grow up](https://news.cgtn.com/news/2024-09-24/Wild-China-Up-Close-Not-every-bird-can-grow-up-1x9NYRTWOMo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-24, @CGTV-China, [Cultural events held in Mexico City, Canberra to mark 75 years of PRC](https://news.cgtn.com/news/2024-09-24/Cultural-events-held-in-Mexico-City-Canberra-to-mark-75-years-of-PRC-1x9UR4PF26s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-24, @CGTV-World, [558 killed in Israeli strikes on Lebanon since Monday, minister says](https://news.cgtn.com/news/2024-09-24/news-1x9Y1r9UhOM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-24, @CGTV-China, [The lakes and dunes of the UNESCO-listed Badain Jaran Desert](https://news.cgtn.com/news/2024-09-24/The-lakes-and-dunes-of-the-UNESCO-listed-Badain-Jaran-Desert-1x9UYRcoczS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-09-24, @知乎, [你一直坚持热爱的事情是什么？坚持了多久？](http://www.zhihu.com/question/23473414/answer/3634688765?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -642,27 +658,11 @@
 
 2024-09-24, @小众软件, [水豚鼠标助手 – 电子教鞭工具：画笔、放大镜、聚光灯、倒计时、白板等[Win]](https://www.appinn.com/shuitunapp/)
 
-2024-09-24, @CGTV-World, [China opposes any violation of Lebanon's sovereignty, security: MFA](https://news.cgtn.com/news/2024-09-24/China-opposes-any-violation-of-Lebanon-s-sovereignty-security-MFA-1x9PrL1iBAk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-24, @CGTV-China, [Han Dynasty ruler's gold treasures on display in Nanchang](https://news.cgtn.com/news/2024-09-24/Han-Dynasty-ruler-s-gold-treasures-on-display-in-Nanchang-1x9OFGXPWx2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-09-24, @CGTV-World, [Wang Yi calls for consolidating, developing China-Venezuela friendship](https://news.cgtn.com/news/2024-09-24/Wang-Yi-calls-for-consolidating-developing-China-Venezuela-friendship-1x9wJzjUAtq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-24, @CGTV-Nature, [EU to allocate 120 million euros to farmers hit by adverse weather](https://news.cgtn.com/news/2024-09-24/EU-to-allocate-120-million-euros-to-farmers-hit-by-adverse-weather-1x9KpFYyrEk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-24, @CGTV-World, [EU to allocate 120 million euros to farmers hit by adverse weather](https://news.cgtn.com/news/2024-09-24/EU-to-allocate-120-million-euros-to-farmers-hit-by-adverse-weather-1x9KpFYyrEk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-09-24, @CGTV-Nature, [Echoes of China's Ethnic Minorities: The Ewenki people](https://news.cgtn.com/news/2024-09-24/Echoes-of-China-s-Ethnic-Minorities-The-Ewenki-people-1x9yMgT0zgA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
 2024-09-24, @小众软件, [章鱼速贴 – 跨平台剪贴板同步工具](https://www.appinn.com/octoclip/)
-
-2024-09-24, @CGTV-World, [Chefs de Mission Seminar for ninth Asian Winter Games held in Harbin](https://news.cgtn.com/news/2024-09-24/Chefs-de-Mission-Seminar-for-ninth-Asian-Winter-Games-held-in-Harbin-1x9l3fPqKEo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2024-09-24, @知乎, [如何评价《黑神话：悟空》这款游戏？它到底好不好玩？](http://www.zhihu.com/question/664775480/answer/3634435096?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
-2024-09-24, @CGTV-Nature, [Graphics: What should we know about this autumn's typhoons?](https://news.cgtn.com/news/2024-09-24/Graphics-What-should-we-know-about-this-autumn-s-typhoons--1x9uK45SWHe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-23, @CGTV-Nature, [In Fact: Is China's car industry a threat to the West?](https://newseu.cgtn.com/news/2024-09-23/In-Fact-Is-China-s-car-industry-a-threat-to-the-West--1x6AUckbWko/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-23, @CGTV-Nature, [Young rangers guard wildlife in northwest China's national park](https://news.cgtn.com/news/2024-09-23/Young-rangers-guard-wildlife-in-northwest-China-s-national-park-1x8vbBdYV6o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-23, @知乎, [如何评价游戏《废土3》？](http://www.zhihu.com/question/378008009/answer/1468710463?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -676,40 +676,38 @@
 
 2024-09-23, @蠎周刊, [上周蠎快讯 2024/38](https://weekly.pychina.org/pyrecap/pyrw-2438.html)
 
+2024-09-23, @CGTV-Nature, [Ecuador cuts power in half of its provinces amid historic drought](https://news.cgtn.com/news/2024-09-23/Ecuador-cuts-power-in-half-of-its-provinces-amid-historic-drought-1x7L5ZQ7vyw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-23, @CGTV-Nature, [Number of rhinos slightly up globally but poaching increases too](https://news.cgtn.com/news/2024-09-23/Number-of-rhinos-slightly-up-globally-but-poaching-increases-too-1x7IdQsQxk4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2024-09-23, @潮流周刊, [第194期 - 暮色落霞](https://weekly.tw93.fun/posts/194-%E6%9A%AE%E8%89%B2%E8%90%BD%E9%9C%9E/)
 
 2024-09-22, @不死鸟, [大疆畅片APP](https://iui.su/3904/)
 
-2024-09-22, @CGTV-Nature, [‘In Fact with Kyle Obermann’ Series to Air on CGTN](https://newseu.cgtn.com/news/2024-09-22/-In-Fact-with-Kyle-Obermann-Series-to-Air-on-CGTN-1x3FBBqehUs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-22, @CGTV-Nature, [Swiss voters to decide on plan to bolster its fragile biodiversity](https://news.cgtn.com/news/2024-09-22/Swiss-voters-to-decide-on-plan-to-bolster-its-fragile-biodiversity-1x6zI7B0yIw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-22, @CGTV-Nature, [China warns of floods exceeding warning marks in southern regions](https://news.cgtn.com/news/2024-09-22/China-warns-of-floods-exceeding-warning-marks-in-southern-regions-1x6uuZJz6r6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
 2024-09-22, @小众软件, [有时候，过于纠结这个工具有什么用，是没有意义的](https://www.appinn.com/qimiaosecai/)
-
-2024-09-22, @CGTV-Nature, [Hubei ramps up rare animal protection efforts, sees populations spike](https://news.cgtn.com/news/2024-09-22/Hubei-ramps-up-rare-animal-protection-efforts-sees-populations-spike-1x6dfId6db2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-22, @书格, [丰年民乐图卷](https://www.shuge.org/view/feng_nian_min_yue_tu_juan/)
 
 2024-09-21, @小众软件, [免费获取！Winxvideo AI：高效提升视频与照片的质量和像素](https://www.appinn.com/winxvideo-ai/)
 
+2024-09-21, @CGTV-Nature, [Chinese desert fruit export delivers new taste to SE Asia](https://news.cgtn.com/news/2024-09-21/Chinese-desert-fruit-export-delivers-new-taste-to-SE-Asia-1x4RKawiT84/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-21, @CGTV-Nature, [Heavy rain pounds parts of Japan still recovering from deadly quake](https://news.cgtn.com/news/2024-09-21/Heavy-rain-pounds-parts-of-Japan-still-recovering-from-deadly-quake-1x4Q6T06Eda/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-21, @CGTV-Nature, [Four giant pandas at Zoo Atlanta to return to China in mid-October](https://news.cgtn.com/news/2024-09-21/Four-giant-pandas-at-Zoo-Atlanta-to-return-to-China-in-mid-October-1x4zGjlVgn6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-21, @CGTV-Nature, [How does China promote harmony between man and nature?](https://news.cgtn.com/news/2024-09-21/How-does-China-promote-harmony-between-man-and-nature--1x39OzOEL3a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-21, @CGTV-Nature, [Study shows U.S. heat deaths projected to soar by mid-century](https://news.cgtn.com/news/2024-09-21/Study-shows-U-S-heat-deaths-projected-to-soar-by-mid-century-1x4q8waqWiI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2024-09-20, @书格, [红萼轩词牌](https://www.shuge.org/view/hong_e_xuan_ci_pai/)
 
-2024-09-20, @CGTV-Nature, [Shanghai evacuates hundreds of thousands as Typhoon Pulasan lands](https://news.cgtn.com/news/2024-09-20/Shanghai-evacuates-hundreds-of-thousands-as-Typhoon-Pulasan-lands-1x3crltqheU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-20, @CGTV-Nature, [Wild China up close: Bird of legend](https://news.cgtn.com/news/2024-09-20/Wild-China-up-close-Bird-of-legend-1x33zF3PAE8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-20, @CGTV-Nature, [Extreme weather threatens to push coffee prices even higher](https://news.cgtn.com/news/2024-09-20/Extreme-weather-threatens-to-push-coffee-prices-even-higher-1x3uqsOpT0c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-20, @Apple 新闻, [The iPhone 16 lineup, AirPods 4, Apple Watch Series 10 arrive around the world
 ](https://www.apple.com/newsroom/2024/09/the-iphone-16-lineup-airpods-4-apple-watch-series-10-arrive-around-the-world/)
 
 2024-09-20, @不死鸟, [全网免费音乐搜索汇总](https://iui.su/2217/)
-
-2024-09-20, @CGTV-Nature, [Typhoon Pulasan makes second landfall in China](https://news.cgtn.com/news/2024-09-20/Typhoon-Pulasan-makes-second-landfall-in-China-1x2J0n5aNfW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-20, @CGTV-Nature, [Rising rivers threaten southern Poland](https://news.cgtn.com/news/2024-09-20/Rising-rivers-threaten-southern-Poland-1x2EGnYx7Y4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-20, @CGTV-Nature, [Myanmar's flood death toll nears 300](https://news.cgtn.com/news/2024-09-20/Myanmar-s-flood-death-toll-nears-300-1x2WiesbMNW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-20, @知乎, [给独立游戏制作人的进阶建议](http://zhuanlan.zhihu.com/p/690749704?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -720,27 +718,39 @@
 2024-09-19, @Apple 新闻, [Apple brings California driver’s licenses and state IDs to Apple Wallet
 ](https://www.apple.com/newsroom/2024/09/apple-brings-california-drivers-licenses-and-state-ids-to-apple-wallet/)
 
+2024-09-19, @CGTV-Nature, [China sees net increase in farmland for three consecutive years](https://news.cgtn.com/news/2024-09-19/China-sees-net-increase-in-farmland-for-three-consecutive-years-1x1SUonG932/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-19, @CGTV-Nature, [Tokyo records latest date with "extremely hot day"](https://news.cgtn.com/news/2024-09-19/Tokyo-records-latest-date-with-extremely-hot-day--1x1LN1O1pwA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2024-09-19, @知乎, [方励为拍摄《里斯本丸沉没》「砸锅卖铁」是否值得？这部电影会产生多大影响？](http://www.zhihu.com/question/666739101/answer/3629869440?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-09-19, @书伴, [[2024.09.19] Kindle Scribe 固件升级至 5.16.21](https://bookfere.com/post/1120.html)
 
+2024-09-19, @CGTV-Nature, [Central Europe flood deaths rise as citizens race to build defences](https://news.cgtn.com/news/2024-09-19/Central-Europe-flood-deaths-rise-as-citizens-race-to-build-defences-1x1ulYYEZ3i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2024-09-19, @书格, [古玩图卷](https://www.shuge.org/view/gu_wan_tu_juan/)
+
+2024-09-19, @CGTV-Nature, [Chinese conservation program returns crested ibises to nature](https://news.cgtn.com/news/2024-09-19/Chinese-conservation-program-returns-crested-ibises-to-nature-1x1oJ6fVju8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-19, @CGTV-Nature, [New goblet-shaped plant species found in south China](https://news.cgtn.com/news/2024-09-19/New-goblet-shaped-plant-species-found-in-south-China-1x18getflp6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-19, @知乎, [各自精彩——《无敌号》原著与游戏情节对比](http://zhuanlan.zhihu.com/p/667847831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
-2024-09-18, @CGTV-Nature, [E China's province activates emergency response to Typhoon Pulasan](https://news.cgtn.com/news/2024-09-18/E-China-s-province-activates-emergency-response-to-Typhoon-Pulasan-1x08jOlOpri/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-19, @CGTV-Nature, [Six million children in SE Asia affected by Yagi](https://news.cgtn.com/news/2024-09-19/Six-million-children-in-SE-Asia-affected-by-Yagi-1x12bTtdPxK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-18, @CGTV-Nature, [Worst drought on record lowers Amazon rivers to all-time lows](https://news.cgtn.com/news/2024-09-18/Worst-drought-on-record-lowers-Amazon-rivers-to-all-time-lows-1wZSaqiVIgo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-19, @CGTV-Nature, [ECOWAS mulls regional action plan to address plastic pollution](https://news.cgtn.com/news/2024-09-19/ECOWAS-mulls-regional-action-plan-to-address-plastic-pollution-1x11ia4KgG4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-19, @CGTV-Nature, [China activates emergency response to flooding](https://news.cgtn.com/news/2024-09-19/China-activates-emergency-response-to-flooding-1x0WWPcs2ly/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-18, @This Week in Rust, [This Week in Rust 565](https://this-week-in-rust.org/blog/2024/09/18/this-week-in-rust-565/)
 
-2024-09-18, @CGTV-Nature, [Qiantang River tidal bore amazes holidaymakers in E China](https://news.cgtn.com/news/2024-09-18/Qiantang-River-tidal-bore-amazes-holidaymakers-in-E-China-1wZnDcIdo6k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-17, @CGTV-Nature, [BizFocus Ep.106: Buy Sichuan, sell global](https://news.cgtn.com/news/2024-09-17/BizFocus-Ep-106-Buy-Sichuan-sell-global-1wYsBiDmynC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-18, @CGTV-Nature, [Over 3,600 food packaging chemicals found in human bodies](https://news.cgtn.com/news/2024-09-18/Over-3-600-food-packaging-chemicals-found-in-human-bodies-1wZrqDwD3OM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-17, @CGTV-Nature, [Portugal wildfire death toll rises to 7: authorities](https://news.cgtn.com/news/2024-09-17/news-1wYvGad0WZ2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-18, @CGTV-Nature, [Storm Boris: Death toll rises to 22 in central Europe](https://news.cgtn.com/news/2024-09-18/Storm-Boris-Death-toll-rises-to-22-in-central-Europe-1wZnsGaXJWU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-17, @CGTV-Nature, [One-armed monkey Xing Xing and her guardians](https://news.cgtn.com/news/2024-09-17/One-armed-monkey-Xing-Xing-and-her-guardians-1wYgnmcklnW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-17, @CGTV-Nature, [Meet the bird with a 'little spoon' in east China](https://news.cgtn.com/news/2024-09-17/Meet-the-bird-with-a-little-spoon-in-east-China-1wYvvlNBj1K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-17, @CGTV-Nature, [China to continue advancing climate action in ozone layer protection](https://news.cgtn.com/news/2024-09-17/China-to-continue-advancing-climate-action-in-ozone-layer-protection-1wYib8FQCA0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-16, @书格, [景刊宋金元明本词](https://www.shuge.org/view/jing_kan_song_jin_yuan_ming_ben_ci/)
 
@@ -765,29 +775,29 @@
 2024-09-16, @Apple 新闻, [Apple Maps introduces new ways to explore the world
 ](https://www.apple.com/newsroom/2024/09/apple-maps-introduces-new-ways-to-explore-the-world/)
 
-2024-09-16, @CGTV-Nature, [Green Solutions: Turning agricultural waste into sustainable products](https://news.cgtn.com/news/2024-09-16/Green-Solutions-Turning-agricultural-waste-into-sustainable-products-1wW8TUqELmg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-16, @CGTV-Nature, [World Ozone Day 2024: Advancing climate action](https://news.cgtn.com/news/2024-09-16/World-Ozone-Day-2024-Advancing-climate-action-1wWQqTns5Ec/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-16, @蠎周刊, [上周蠎快讯 2024/37](https://weekly.pychina.org/pyrecap/pyrw-2437.html)
 
-2024-09-16, @CGTV-Nature, [Death toll rises as rains, floods force evacuations in Central Europe](https://news.cgtn.com/news/2024-09-16/Death-toll-rises-as-rains-floods-force-evacuations-in-Central-Europe-1wW0hXBOWfm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-15, @CGTV-Nature, [Colorful Danxia landforms fall sharply into focus after rain](https://news.cgtn.com/news/2024-09-15/Colorful-Danxia-landforms-fall-sharply-into-focus-after-rain-1wUPXjQwqTC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-15, @CGTV-Nature, [Typhoon Bebinca makes landfall in Shanghai](https://news.cgtn.com/news/2024-09-16/news-1wVY08faMM0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-15, @CGTV-Nature, [Tropical Storm Ileana makes landfall on Mexico's Sinaloa coast](https://news.cgtn.com/news/2024-09-15/Tropical-Storm-Ileana-makes-landfall-on-Mexico-s-Sinaloa-coast-1wUrneu3GhO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-15, @CGTV-Nature, [Record-breaking Typhoon Bebinca makes landfall in Shanghai](https://news.cgtn.com/news/2024-09-15/China-issues-emergency-response-to-flooding-as-Typhoon-Bebinca-nears-1wUpIT8lg6k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-15, @CGTV-Nature, [Severe flooding in Myanmar leaves 74 dead, 89 missing](https://news.cgtn.com/news/2024-09-15/news-1wUqek14KGI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-15, @知乎, [大众对攀岩运动有哪些误解？](http://www.zhihu.com/question/666094054/answer/3625626684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
-
-2024-09-14, @CGTV-Nature, [E China on guard as Typhoon Bebinca nears](https://news.cgtn.com/news/2024-09-14/E-China-on-guard-as-Typhoon-Bebinca-nears-1wTwJWYvzNe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-14, @CGTV-Nature, [Green Solutions: How companies turn waste into valuable products](https://news.cgtn.com/news/2024-09-14/Green-Solutions-How-companies-turn-waste-into-valuable-products-1wRVbVQQmRi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-14, @CGTV-Nature, [UN chief appoints special envoy on water](https://news.cgtn.com/news/2024-09-14/UN-chief-appoints-special-envoy-on-water-1wSQ8uSRXgY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-14, @书格, [白蛇传年画册](https://www.shuge.org/view/bai_she_zhuan_nian_hua_ce/)
 
 2024-09-14, @极客日报, [京东宣布加薪：两年时间实现20薪；苹果AI使iPhone16全系8GB内存；AI教母李飞飞从英伟达等融资2.3亿美元| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142251630)
 
-2024-09-13, @CGTV-Nature, [GMS ministers discuss cooperation to safeguard environmental treasures](https://news.cgtn.com/news/2024-09-13/GMS-ministers-discuss-cooperation-to-safeguard-environmental-treasures-1wRO06BGbU4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
 2024-09-13, @书伴, [[2024.09.13] Kindle Oasis 3 固件升级至 5.16.21.0.2](https://bookfere.com/post/1119.html)
+
+2024-09-13, @CGTV-Nature, [South America surpasses record for fires](https://news.cgtn.com/news/2024-09-13/South-America-surpasses-record-for-fires-1wRyhRftLri/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2024-09-13, @CGTV-Nature, [China's ancient Weihe River revitalized](https://news.cgtn.com/news/2024-09-13/China-s-ancient-Weihe-River-revitalized-1wRanbFOQ3m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-12, @书格, [异号类编](https://www.shuge.org/view/yi_hao_lei_bian/)
 
@@ -796,25 +806,17 @@
 2024-09-12, @Apple 新闻, [Get ready to upgrade to the new iPhone 16, Apple Watch, and AirPods lineups
 ](https://www.apple.com/newsroom/2024/09/get-ready-to-upgrade-to-the-new-iphone-16-apple-watch-and-airpods-lineups/)
 
-2024-09-12, @CGTV-Nature, [Parts of Hanoi remain flooded as landslides hit N Vietnam](https://news.cgtn.com/news/2024-09-12/Parts-of-Hanoi-remain-flooded-as-landslides-hit-N-Vietnam-1wQa0sA6uGc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-12, @CGTV-Nature, [China continues push for ecological conservation of Yellow River basin](https://news.cgtn.com/news/2024-09-12/Xi-calls-for-promoting-high-quality-development-of-Yellow-River-basin-1wQ8saR5xn2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-12, @CGTV-Nature, [Typhoon Yagi leaves 226 dead in Vietnam](https://news.cgtn.com/news/2024-09-12/news-1wQ9JVIeYdW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-12, @CGTV-Nature, [China's ecological conservation in the eyes of foreigners](https://news.cgtn.com/news/2024-09-12/China-s-ecological-conservation-in-the-eyes-of-foreigners-1wPWIHDkIFO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-12, @知乎, [清华计算机入学教育之“关于如何做科研的一些个人经验”](http://zhuanlan.zhihu.com/p/718156903?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
-2024-09-12, @CGTV-Nature, [Chinese company builds new energy storage power station](https://news.cgtn.com/news/2024-09-12/Chinese-company-builds-new-energy-storage-power-station-1wPAoHLnuRq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2024-09-12, @CGTV-Nature, [Building projects resume in China's Hainan in wake of super typhoon](https://news.cgtn.com/news/2024-09-12/China-s-Hainan-accelerates-work-resumption-in-wake-of-super-typhoon-1wPwWE2bMWI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
 2024-09-12, @极客日报, [机构预计iPhone 16出货量超前代，Max机型或占35%；黄仁勋称产品供不应求：东西都卖光了，每天只睡三个小时 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142168839)
 
-2024-09-12, @CGTV-Nature, [Israeli researchers find drug residues in Red Sea corals](https://news.cgtn.com/news/2024-09-12/Israeli-researchers-find-drug-residues-in-Red-Sea-corals-1wPrHUlkVqw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-12, @CGTV-Nature, [Nigeria floods kill 30 and displace 400,000, rescuers say](https://news.cgtn.com/news/2024-09-12/Nigeria-floods-kill-30-and-displace-400-000-rescuers-say-1wPm57WBiAE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-12, @CGTV-Nature, [AU agency welcomes China's support for African agricultural industry](https://news.cgtn.com/news/2024-09-12/AU-agency-welcomes-China-s-support-for-African-agricultural-industry-1wPlJ18xoHu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-11, @CGTV-Nature, [Drought makes Sao Paulo's river emerald green, skies grey](https://news.cgtn.com/news/2024-09-11/Drought-makes-Sao-Paulo-s-river-emerald-green-skies-grey-1wOghTw8eRi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-11, @CGTV-Nature, [2024 Taiyuan Energy Low Carbon Development Forum opens in N China](https://news.cgtn.com/news/2024-09-11/2024-Taiyuan-Energy-Low-Carbon-Development-Forum-opens-in-N-China-1wOb4ZmgcW4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-11, @CGTV-Nature, [Hurricane Francine forces Louisiana evacuations, oil and gas shutdowns](https://news.cgtn.com/news/2024-09-11/Hurricane-Francine-forces-Louisiana-evacuations-oil-and-gas-shutdowns-1wNKXV3VNmw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-11, @极客日报, [曝华为三折叠Mate XT被炒到38万元一台，已卖5台；马斯克嘲讽苹果iPhone无新意 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142139145)
 
@@ -824,13 +826,13 @@
 
 2024-09-11, @不死鸟, [刺激云：便宜香港vps](https://iui.su/1765/)
 
-2024-09-10, @CGTV-Nature, [Study finds methane rising faster than other greenhouse gases](https://news.cgtn.com/news/2024-09-10/Study-finds-methane-rising-faster-than-other-greenhouse-gases-1wMQOkuIzJe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-10, @CGTV-Nature, [Smoke from Brazil fires clouds major cities, neighboring countries](https://news.cgtn.com/news/2024-09-10/Smoke-from-Brazil-fires-clouds-major-cities-neighboring-countries-1wMZ9iW1fJ6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-10, @CGTV-Nature, [New firmoss species with potential to treat Alzheimer's discovered](https://news.cgtn.com/news/2024-09-10/New-firmoss-species-with-potential-to-treat-Alzheimer-s-discovered-1wMIbJlHSW4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-10, @CGTV-Nature, [Amid Brazil's worst drought, the Amazon falls to a record low level](https://news.cgtn.com/news/2024-09-10/Amid-Brazil-s-worst-drought-the-Amazon-falls-to-a-record-low-level-1wM5fwntO2Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-10, @CGTV-Nature, [Sudan, Chad hit by flooding; Lesotho impacted by drought](https://news.cgtn.com/news/2024-09-10/Sudan-Chad-hit-by-flooding-Lesotho-impacted-by-drought-1wMqeydygjC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-10, @CGTV-Nature, [Flooding kills more than 20 people in Morocco and Algeria](https://news.cgtn.com/news/2024-09-10/Flooding-kills-more-than-20-people-in-Morocco-and-Algeria-1wM7cCCW9fG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2024-09-10, @CGTV-Nature, [China mulls national park law](https://news.cgtn.com/news/2024-09-10/China-mulls-national-park-law-1wMsPVPSb2U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2024-09-10, @CGTV-Nature, [WTO: Geopolitics, climate change, tech reshaping trade-led development](https://news.cgtn.com/news/2024-09-10/WTO-Geopolitics-climate-change-tech-reshaping-trade-led-development-1wM5zxapl2U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-10, @极客日报, [罗永浩回应“锤子手机10亿融资被1年花完”质疑；华为鸿蒙超越苹果iOS，成中国市场第二大操作系统 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142082862)
 
@@ -866,8 +868,6 @@
 2024-09-09, @极客日报, [获利超70万元，快手开除泄密员工；华为三折叠手机预约人数破200万；马斯克回应特斯拉要与x.AI分享收入 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142052455)
 
 2024-09-09, @潮流周刊, [第193期 - 猫的陪伴](https://weekly.tw93.fun/posts/193-%E7%8C%AB%E7%9A%84%E9%99%AA%E4%BC%B4/)
-
-2024-09-08, @CGTV-Nature, [China mobilizes emergency responses as impacts of Typhoon Yagi persist](https://news.cgtn.com/news/2024-09-08/China-mobilizes-emergency-responses-as-impacts-of-Typhoon-Yagi-persist-1wJa4q4THoY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-09-06, @书格, [分类合璧图像句解君臣故事](https://www.shuge.org/view/jun_chen_gu_shi/)
 
