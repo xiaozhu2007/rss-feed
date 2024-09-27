@@ -1,5 +1,9 @@
 # 2024
 
+2024-09-27, @阮一峰的网络日志, [科技爱好者周刊（第 319 期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html)
+
+2024-09-25, @张洪Heo, [如何将原版不蒜子busuanzi的数据迁移到自搭建不蒜子上](https://blog.zhheo.com/p/a39a.html)
+
 2024-09-25, @张洪Heo, [自搭建不蒜子busuanzi从2.8之前版本升级数据方案教程](https://blog.zhheo.com/p/7b5f.html)
 
 2024-09-23, @张洪Heo, [iOS18的设计规范：iPhone16系列设计尺寸、设备分辨率](https://blog.zhheo.com/p/8c62.html)
@@ -52,8 +56,6 @@
 
 2024-08-23, @朽丘博, [博客魔改笔记记录](https://koxiuqiu.cn/2024/8/23/1/)
 
-2024-08-23, @阮一峰的网络日志, [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)
-
 2024-08-19, @张洪Heo, [Mac如何查看移动硬盘盒温度？查看SSD固态硬盘工作温度教程](https://blog.zhheo.com/p/e6b0.html)
 
 2024-08-18, @朽丘博, [最近半个月的报告](https://koxiuqiu.cn/2024/8/18/1/)
@@ -81,8 +83,6 @@
 2024-07-17, @朽丘博, [24年7月小结](https://koxiuqiu.cn/2024/07/17/1/)
 
 2024-07-16, @HiFeng'Blog, [玩客云盒子（OneCloud）刷 Armbian 系统](https://www.hicairo.com/post/76.html)
-
-2024-07-15, @张洪Heo, [百度图片AI工具上手：图片在线去水印、抠图、变清晰，很方便](https://blog.zhheo.com/p/66b2.html)
 
 2024-07-14, @朽丘博, [上班&更新时间调整](https://koxiuqiu.cn/2024/07/14/1/)
 
