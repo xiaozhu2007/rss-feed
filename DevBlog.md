@@ -1,5 +1,9 @@
 # 2024
 
+2024-09-30, @Zeruns 's Blog, [我博客网站又遭受CC攻击了，记录一下](https://blog.zeruns.tech/archives/819.html)
+
+2024-09-29, @张洪Heo, [黑鲨刀锋2磁吸充电宝上手：5000的大小，10000的容量](https://blog.zhheo.com/p/a28f.html)
+
 2024-09-28, @朽丘博, [GoEdge快速上手使用](https://koxiuqiu.cn/2024/9y28d1/)
 
 2024-09-27, @张洪Heo, [123云盘也开始收割了，事实证明靠免费来吸引用户然后再收割这招太好用](https://blog.zhheo.com/p/3aae.html)
@@ -9,6 +13,8 @@
 2024-09-25, @张洪Heo, [如何将原版不蒜子busuanzi的数据迁移到自搭建不蒜子上](https://blog.zhheo.com/p/a39a.html)
 
 2024-09-25, @张洪Heo, [自搭建不蒜子busuanzi从2.8之前版本升级数据方案教程](https://blog.zhheo.com/p/7b5f.html)
+
+2024-09-24, @Zeruns 's Blog, [野草云 香港BGP大带宽VPS测评，2核4G 100兆 仅需36元/月，免备案服务器，IPv4/v6双栈网络](https://blog.zeruns.tech/archives/818.html)
 
 2024-09-23, @张洪Heo, [iOS18的设计规范：iPhone16系列设计尺寸、设备分辨率](https://blog.zhheo.com/p/8c62.html)
 
@@ -22,6 +28,8 @@
 
 2024-09-17, @朽丘博, [性价比及便宜VPS|云服务器推荐](https://koxiuqiu.cn/2024/9y17d1/)
 
+2024-09-16, @Zeruns 's Blog, [手机安装我的世界Java版游戏的教程，如何用安卓玩Java版MC](https://blog.zeruns.tech/archives/817.html)
+
 2024-09-13, @阮一峰的网络日志, [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html)
 
 2024-09-11, @阮一峰的网络日志, [白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html)
@@ -30,7 +38,13 @@
 
 2024-09-10, @张洪Heo, [聊一聊Apple新品：iPhone16、Apple Watch S10、AirPods深度解析](https://blog.zhheo.com/p/ee67.html)
 
+2024-09-10, @Zeruns 's Blog, [林枫云 湖北 2667v2 高防云服务器性能测评，4核8G 10M仅需48元/月](https://blog.zeruns.tech/archives/816.html)
+
 2024-09-09, @张洪Heo, [HTTPSOK上手：省心的通配符SSL证书申请，自动化部署证书](https://blog.zhheo.com/p/fb33.html)
+
+2024-09-09, @Zeruns 's Blog, [林枫云 十堰 EPYC 高防VPS性能测评，4核8G 10M仅需96元/月，高性能云服务器](https://blog.zeruns.tech/archives/815.html)
+
+2024-09-07, @Zeruns 's Blog, [林枫云 9950X 云服务器性能测评，4核8G 10M仅需176元/月，Zen5架构，超高性能VPS](https://blog.zeruns.tech/archives/814.html)
 
 2024-09-06, @阮一峰的网络日志, [科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)
 
@@ -40,9 +54,13 @@
 
 2024-09-05, @张洪Heo, [极影相机上手：让iPhone也能拍徕卡，免费的胶片滤镜](https://blog.zhheo.com/p/1329.html)
 
+2024-09-05, @Zeruns 's Blog, [机械革命imini Pro820迷你主机评测和拆解，8845H小主机使用政府补贴仅需两千三](https://blog.zeruns.tech/archives/813.html)
+
 2024-09-02, @HiFeng'Blog, [IPv4 & IPv6 双栈家庭局域网内将客户端网关指向旁路由的探究](https://www.hicairo.com/post/78.html)
 
 2024-09-01, @朽丘博, [来日方长](https://koxiuqiu.cn/2024/9y1d2/)
+
+2024-09-01, @Zeruns 's Blog, [Minecraft基岩版(BDS)开服联机教程，我的世界基岩版服务端搭建教程](https://blog.zeruns.tech/archives/812.html)
 
 2024-09-01, @朽丘博, [MiniCover封面设计](https://koxiuqiu.cn/2024/9y1d1/)
 
@@ -55,6 +73,8 @@
 2024-08-29, @张洪Heo, [智谱清言上手：文本生成强大，支持AI视频和AI画图](https://blog.zhheo.com/p/15d3.html)
 
 2024-08-28, @张洪Heo, [在Mac上实现视频语音文本转srt字幕，如何搭建Funclip的AI剪辑](https://blog.zhheo.com/p/e96e.html)
+
+2024-08-26, @Zeruns 's Blog, [AkileCloud 香港BGP大带宽VPS测评，1核1G 1000兆 仅需24.99元/月，免备案服务器，IPv4/v6双栈网络](https://blog.zeruns.tech/archives/811.html)
 
 2024-08-26, @朽丘博, [24年8月小结](https://koxiuqiu.cn/2024/8/26/1/)
 
@@ -137,3 +157,11 @@
 2024-01-15, @朽丘博, [论如何快速了解建站](https://koxiuqiu.cn/2024/01/15/2/)
 
 2024-01-09, @朽丘博, [Hello World](https://koxiuqiu.cn/2024/01/09/1/)
+
+# 2021
+
+2021-03-11, @Zeruns 's Blog, [【福利】每月送网易云音乐黑胶VIP会员，先到先得！](https://blog.zeruns.tech/archives/620.html)
+
+# 2020
+
+2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2024/9/20更新](https://blog.zeruns.tech/archives/383.html)
