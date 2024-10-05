@@ -1,5 +1,9 @@
 # 2024
 
+2024-10-04, @Zeruns 's Blog, [皓量云擎 宁波 E5-2667v4 云服务器性能测评，2核4G 5M仅需34.5元/月，超融合平台](https://blog.zeruns.tech/archives/821.html)
+
+2024-10-03, @朽丘博, [LEDCDN小说明](https://koxiuqiu.cn/2024/ledcdn/)
+
 2024-10-01, @朽丘博, [国庆快乐&学校游记](https://koxiuqiu.cn/2024/10y1d1/)
 
 2024-10-01, @Zeruns 's Blog, [AkileCloud 英国大带宽VPS测评，1核1G 500兆 仅需19.99元/月，免备案服务器，英国原生IP](https://blog.zeruns.tech/archives/820.html)
@@ -64,8 +68,6 @@
 
 2024-09-01, @朽丘博, [来日方长](https://koxiuqiu.cn/2024/9y1d2/)
 
-2024-09-01, @Zeruns 's Blog, [Minecraft基岩版(BDS)开服联机教程，我的世界基岩版服务端搭建教程](https://blog.zeruns.tech/archives/812.html)
-
 2024-09-01, @朽丘博, [MiniCover封面设计](https://koxiuqiu.cn/2024/9y1d1/)
 
 2024-08-30, @张洪Heo, [感冒了怎么办？流鼻涕、鼻炎纸巾推荐：洁柔乳霜纸](https://blog.zhheo.com/p/6ccd.html)
@@ -77,8 +79,6 @@
 2024-08-29, @张洪Heo, [智谱清言上手：文本生成强大，支持AI视频和AI画图](https://blog.zhheo.com/p/15d3.html)
 
 2024-08-28, @张洪Heo, [在Mac上实现视频语音文本转srt字幕，如何搭建Funclip的AI剪辑](https://blog.zhheo.com/p/e96e.html)
-
-2024-08-26, @Zeruns 's Blog, [AkileCloud 香港BGP大带宽VPS测评，1核1G 1000兆 仅需24.99元/月，免备案服务器，IPv4/v6双栈网络](https://blog.zeruns.tech/archives/811.html)
 
 2024-08-26, @朽丘博, [24年8月小结](https://koxiuqiu.cn/2024/8/26/1/)
 
