@@ -1,5 +1,9 @@
 # 2024
 
+2024-10-10, @阮一峰的网络日志, [后面试时代与 AI 刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html)
+
+2024-10-06, @Zeruns 's Blog, [《提问的智慧》——强烈建议看看](https://blog.zeruns.tech/archives/823.html)
+
 2024-10-04, @Zeruns 's Blog, [Linux搭建邮件服务器的教程，如何搭建自己的域名邮箱服务器？Poste.io邮箱服务器搭建教程](https://blog.zeruns.tech/archives/822.html)
 
 2024-10-04, @Zeruns 's Blog, [皓量云擎 宁波 E5-2667v4 云服务器性能测评，2核4G 5M仅需34.5元/月，超融合平台](https://blog.zeruns.tech/archives/821.html)
@@ -72,8 +76,6 @@
 
 2024-08-30, @张洪Heo, [感冒了怎么办？流鼻涕、鼻炎纸巾推荐：洁柔乳霜纸](https://blog.zhheo.com/p/6ccd.html)
 
-2024-08-30, @阮一峰的网络日志, [科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)
-
 2024-08-29, @张洪Heo, [飞书妙记上手：采访会议语音转文本工具，免费的语音视频转srt字幕](https://blog.zhheo.com/p/9315.html)
 
 2024-08-29, @张洪Heo, [智谱清言上手：文本生成强大，支持AI视频和AI画图](https://blog.zhheo.com/p/15d3.html)
@@ -101,8 +103,6 @@
 2024-08-04, @朽丘博, [开源GoEdge系统投毒事件](https://koxiuqiu.cn/2024/08/04/1/)
 
 2024-08-02, @张洪Heo, [储蓄卡还会到期？学校学费卡到期，我在银行被硬控2小时](https://blog.zhheo.com/p/7003.html)
-
-2024-08-02, @张洪Heo, [私有部署问卷系统卷王surveyking搭建教程，腾讯问卷问卷星平替](https://blog.zhheo.com/p/b45f.html)
 
 2024-08-01, @朽丘博, [饿殍体验后感](https://koxiuqiu.cn/2024/8/1/1/)
 
