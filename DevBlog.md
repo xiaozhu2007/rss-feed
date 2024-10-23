@@ -1,5 +1,7 @@
 # 2024
 
+2024-10-23, @张洪Heo, [为你的原型添加动画效果：Sketch 现已支持 Smart Animate 智能动画](https://blog.zhheo.com/p/9b80.html)
+
 2024-10-18, @张洪Heo, [Mac使用自动操作快速给应用绕过Apple签名办法，使用学习版软件必备](https://blog.zhheo.com/p/c737.html)
 
 2024-10-18, @阮一峰的网络日志, [科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)
@@ -69,8 +71,6 @@
 2024-09-10, @Zeruns 's Blog, [林枫云 湖北 2667v2 高防云服务器性能测评，4核8G 10M仅需48元/月](https://blog.zeruns.tech/archives/816.html)
 
 2024-09-09, @张洪Heo, [HTTPSOK上手：省心的通配符SSL证书申请，自动化部署证书](https://blog.zhheo.com/p/fb33.html)
-
-2024-09-09, @Zeruns 's Blog, [林枫云 十堰 EPYC 高防VPS性能测评，4核8G 10M仅需96元/月，高性能云服务器](https://blog.zeruns.tech/archives/815.html)
 
 2024-09-05, @朽丘博, [醍醐灌顶](https://koxiuqiu.cn/2024/9y5d1/)
 
