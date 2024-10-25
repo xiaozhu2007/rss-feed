@@ -1,6 +1,10 @@
 # 2024
 
-2024-10-25, @Zeruns 's Blog, [雨云 宁波裸金属物理机E5-2680v4，56核64G 500兆 仅需788元/月，独服](https://blog.zeruns.tech/archives/826.html)
+2024-10-25, @Zeruns 's Blog, [雨云 宁波E5-2650v4独服测评，48核64G 300兆 仅需588元/月，裸金属物理机](https://blog.zeruns.tech/archives/827.html)
+
+2024-10-25, @阮一峰的网络日志, [科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)
+
+2024-10-25, @Zeruns 's Blog, [雨云 宁波裸金属物理机E5-2680v4测评，56核64G 500兆 仅需788元/月，独服](https://blog.zeruns.tech/archives/826.html)
 
 2024-10-23, @Zeruns 's Blog, [【随手拍】2024年拍的一些火烧云/晚霞/日落/日出照片，分享给大家看看](https://blog.zeruns.tech/archives/825.html)
 
@@ -65,8 +69,6 @@
 2024-09-19, @张洪Heo, [macOS Sequoia 15 电脑没有苹方字体，苹方无法下载解决方法](https://blog.zhheo.com/p/8e67.html)
 
 2024-09-17, @朽丘博, [性价比及便宜VPS|云服务器推荐](https://koxiuqiu.cn/2024/9y17d1/)
-
-2024-09-16, @Zeruns 's Blog, [手机安装我的世界Java版游戏的教程，如何用安卓玩Java版MC](https://blog.zeruns.tech/archives/817.html)
 
 2024-09-10, @朽丘博, [最近欣赏的一些影视作品](https://koxiuqiu.cn/2024/9y10d1/)
 
