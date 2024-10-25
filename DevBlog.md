@@ -1,5 +1,7 @@
 # 2024
 
+2024-10-23, @Zeruns 's Blog, [【随手拍】2024年拍的一些火烧云/晚霞/日落/日出照片，分享给大家看看](https://blog.zeruns.tech/archives/825.html)
+
 2024-10-23, @张洪Heo, [Certimate上手：自搭建开源SSL证书申请续期平台，自动部署证书到服务器](https://blog.zhheo.com/p/88ab.html)
 
 2024-10-23, @张洪Heo, [为你的原型添加动画效果：Sketch 现已支持 Smart Animate 智能动画](https://blog.zhheo.com/p/9b80.html)
@@ -69,8 +71,6 @@
 2024-09-10, @朽丘博, [最近欣赏的一些影视作品](https://koxiuqiu.cn/2024/9y10d1/)
 
 2024-09-10, @张洪Heo, [聊一聊Apple新品：iPhone16、Apple Watch S10、AirPods深度解析](https://blog.zhheo.com/p/ee67.html)
-
-2024-09-10, @Zeruns 's Blog, [林枫云 湖北 2667v2 高防云服务器性能测评，4核8G 10M仅需48元/月](https://blog.zeruns.tech/archives/816.html)
 
 2024-09-09, @张洪Heo, [HTTPSOK上手：省心的通配符SSL证书申请，自动化部署证书](https://blog.zhheo.com/p/fb33.html)
 
