@@ -1,5 +1,7 @@
 # 2024
 
+2024-10-25, @朽丘博, [24年10月小结](https://koxiuqiu.cn/2024/10y25d1/)
+
 2024-10-25, @Zeruns 's Blog, [雨云 宁波E5-2650v4独服测评，48核64G 300兆 仅需588元/月，裸金属物理机](https://blog.zeruns.tech/archives/827.html)
 
 2024-10-25, @阮一峰的网络日志, [科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)
@@ -93,8 +95,6 @@
 2024-08-29, @张洪Heo, [飞书妙记上手：采访会议语音转文本工具，免费的语音视频转srt字幕](https://blog.zhheo.com/p/9315.html)
 
 2024-08-29, @张洪Heo, [智谱清言上手：文本生成强大，支持AI视频和AI画图](https://blog.zhheo.com/p/15d3.html)
-
-2024-08-28, @张洪Heo, [在Mac上实现视频语音文本转srt字幕，如何搭建Funclip的AI剪辑](https://blog.zhheo.com/p/e96e.html)
 
 2024-08-26, @朽丘博, [24年8月小结](https://koxiuqiu.cn/2024/8/26/1/)
 
