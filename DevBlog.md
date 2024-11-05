@@ -1,5 +1,7 @@
 # 2024
 
+2024-11-02, @张洪Heo, [Word如何手动制作目录，手动生成自定义目录](https://blog.zhheo.com/p/7510.html)
+
 2024-11-01, @张洪Heo, [ChatGPT对话搜索网络功能上手：能代替搜索引擎吗？](https://blog.zhheo.com/p/8088.html)
 
 2024-11-01, @阮一峰的网络日志, [科技爱好者周刊（第 323 期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)
@@ -87,8 +89,6 @@
 2024-09-05, @朽丘博, [醍醐灌顶](https://koxiuqiu.cn/2024/9y5d1/)
 
 2024-09-05, @张洪Heo, [Mac关闭耳机线控，关闭键盘的媒体控制，线控启动Apple Music功能](https://blog.zhheo.com/p/13e3.html)
-
-2024-09-05, @张洪Heo, [极影相机上手：让iPhone也能拍徕卡，免费的胶片滤镜](https://blog.zhheo.com/p/1329.html)
 
 2024-09-02, @HiFeng'Blog, [IPv4 & IPv6 双栈家庭局域网内将客户端网关指向旁路由的探究](https://www.hicairo.com/post/78.html)
 
