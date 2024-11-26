@@ -1,54 +1,196 @@
 # 2024
 
-2024-11-26, @36氪, [广发证券：上市证券做市业务资格获批](https://36kr.com/newsflashes/3052964020293763?f=rss)
+2024-11-26, @36氪, [2024年地方政府专项债务新增限额调整为9.9万亿元](https://36kr.com/newsflashes/3053175162016135?f=rss)
 
-2024-11-26, @36氪, [法国对道达尔能源等5家公司处以罚款，称其能源效率证书造假](https://36kr.com/newsflashes/3052957985689986?f=rss)
+2024-11-26, @36氪, [越南电动汽车制造商Vinfast第三季度交付21912辆](https://36kr.com/newsflashes/3053166309020037?f=rss)
 
-2024-11-26, @36氪, [FILA F-BOX上海新天地店开业](https://36kr.com/newsflashes/3052956425785472?f=rss)
+2024-11-26, @36氪, [英联股份：子公司复合铝箔和复合铜箔获得量产订单](https://36kr.com/newsflashes/3053158562795654?f=rss)
 
-2024-11-26, @36氪, [中国工程院院士邬贺铨调研度小满：AI及智能体在金融领域的应用还处于开始阶段](https://36kr.com/newsflashes/3052956321173639?f=rss)
+2024-11-26, @36氪, [长安汽车：已经开展飞行汽车、人形机器人等新兴产业的前瞻研究](https://36kr.com/newsflashes/3053146546655365?f=rss)
 
-2024-11-26, @36氪, [日本据悉开始对亚马逊日本子公司进行反垄断调查](https://36kr.com/newsflashes/3052954631786881?f=rss)
+2024-11-26, @36氪, [深交所制定创业板IPO审核指南，涉先进制造、数字经济、绿色低碳三大领域9个细分行业](https://36kr.com/newsflashes/3053144048341382?f=rss)
 
-2024-11-26, @36氪, [6连板弘讯科技：意大利子公司不直接生产研发核聚变整机装置](https://36kr.com/newsflashes/3052953892294785?f=rss)
+2024-11-26, @36氪, [上海永辉超市：目前“上蔬永辉”商标及其持有方与永辉超市无任何关联](https://36kr.com/newsflashes/3053139829559426?f=rss)
 
-2024-11-26, @36氪, [德国11月出口信心略有改善，为六个月来首次](https://36kr.com/newsflashes/3052953168318595?f=rss)
+2024-11-26, @36氪, [赛力斯：拟发行股份购买龙盛新能源100%股权的申请获受理](https://36kr.com/newsflashes/3053132537630857?f=rss)
 
-2024-11-26, @36氪, [英伟达高管最新发声：中国是重要市场](https://36kr.com/newsflashes/3052948300222593?f=rss)
+2024-11-26, @36氪, [华为Mate 70与支付宝联合优化，支付效率提升30%](https://36kr.com/newsflashes/3053131139485827?f=rss)
 
-2024-11-26, @36氪, [我国重型燃气轮机实现小型化新突破](https://36kr.com/newsflashes/3052945606103430?f=rss)
+2024-11-26, @36氪, [莱美药业：中恒集团拟公开征集转让23.43%股份](https://36kr.com/newsflashes/3053104843264384?f=rss)
 
-2024-11-26, @36氪, [摩根大通将2025年金银价格预期分别上调至38美元、3000美元](https://36kr.com/newsflashes/3052942956286083?f=rss)
+2024-11-26, @36氪, [奥飞娱乐：加快拓展潮玩、卡牌、谷子周边等品类布局，积极推动“IP+AI”产业化落地](https://36kr.com/newsflashes/3053103014891656?f=rss)
 
-2024-11-26, @36氪, [华为新一代MatePad Pro发布](https://36kr.com/newsflashes/3052942413795719?f=rss)
+2024-11-26, @36氪, [知乎：与腾讯续签框架协议](https://36kr.com/newsflashes/3053099290693767?f=rss)
 
-2024-11-26, @36氪, [恒指收涨0.04%，恒生科技指数跌0.31%](https://36kr.com/newsflashes/3052939543171207?f=rss)
+2024-11-26, @36氪, [金凯生科：股东计划合计减持不超过9%公司股份](https://36kr.com/newsflashes/3053098672214403?f=rss)
 
-2024-11-26, @36氪, [滴滴孙枢分享接单感受：努力改进每个小细节可提升师傅跑车幸福度](https://36kr.com/newsflashes/3052931353825414?f=rss)
+2024-11-26, @36氪, [鸿海以3300万美元收购美国得州土地和工厂](https://36kr.com/newsflashes/3053085367669122?f=rss)
 
-2024-11-26, @36氪, [网易与徐工打造首个无人“黑灯工地”，节省30%运营成本](https://36kr.com/newsflashes/3052922191925385?f=rss)
+2024-11-26, @36氪, [中国建筑：近期获得多项重大项目，金额合计307亿元](https://36kr.com/newsflashes/3053071420428425?f=rss)
 
-2024-11-26, @36氪, [华为Mate70系列正式发布，起售价5499元](https://36kr.com/newsflashes/3052918402273408?f=rss)
+2024-11-26, @36氪, [2连板龙蟠科技：公司目前生产经营活动正常](https://36kr.com/newsflashes/3053067526525061?f=rss)
 
-2024-11-26, @36氪, [广州：居民家庭在购房所在区内无住房的，新购住房申请住房公积金贷款可按首套住房认定](https://36kr.com/newsflashes/3052917220823424?f=rss)
+2024-11-26, @36氪, [德银策略师预计标普500指数明年年底前将能触及7000点](https://36kr.com/newsflashes/3053061853646978?f=rss)
 
-2024-11-26, @36氪, [法国政府审查企业资产，考虑投资事宜](https://36kr.com/newsflashes/3052911971651719?f=rss)
+2024-11-26, @36氪, [英特尔锁定79亿美元美国芯片补贴用于先进芯片厂](https://36kr.com/newsflashes/3053049396089224?f=rss)
 
-2024-11-26, @36氪, [深交所11月30日开展深市交易结算系统全网测试](https://36kr.com/newsflashes/3052910655312003?f=rss)
+2024-11-26, @36氪, [2024站酷百大设计榜公布，美图吴欣鸿：站酷代表设计师对设计事业的热爱](https://36kr.com/newsflashes/3053036271898757?f=rss)
 
-2024-11-26, @36氪, [华为Mate X6推出三网卫星典藏版，首发支持三网卫星通信](https://36kr.com/newsflashes/3052907102998918?f=rss)
+2024-11-26, @36氪, [融创房地产集团四只债券将停牌](https://36kr.com/newsflashes/3053035523215489?f=rss)
+
+2024-11-26, @36氪, [宝马启动全新电池测试中心，特斯拉神秘车型现身测试赛道｜海外日报](https://36kr.com/p/3053031664767106?f=rss)
+
+2024-11-26, @36氪, [氪星晚报｜台积电高雄2纳米新厂今天进机，苹果、AMD可望是首批客户；华为Mate70系列正式发布，起售价5499元；特朗普妄言对进口自中国的商品加征10%的关税](https://36kr.com/p/3052984054550912?f=rss)
+
+2024-11-26, @36氪, [国行Switch变动背后：三方服务商成幕后因素，用户将获赠4款游戏 | 36氪游戏独家](https://36kr.com/p/3052863876403329?f=rss)
 
 2024-11-26, @36氪, [WISE2024 年度人物发布丨做正确的事，世界会告诉你是谁](https://36kr.com/p/3052835907637381?f=rss)
+
+2024-11-26, @IT之家, [倍思 M2s Ultra 智能触控降噪耳机上市：全彩 LCD 屏、-52dB 降噪，首发 349 元](https://www.ithome.com/0/813/437.htm)
+
+2024-11-26, @IT之家, [视频会议软件 Zoom 更改公司全名移除“Video”字样，宣布转型为“AI 工作平台”](https://www.ithome.com/0/813/436.htm)
+
+2024-11-26, @博客园, [PasteEx：一款.NET开源的Windows快捷粘贴神器 - 追逐时光者](https://www.cnblogs.com/Can-daydayup/p/18570923)
+
+2024-11-26, @IT之家, [三星 XR 头显专利曝光，设计类似 PICO 4 Pro](https://www.ithome.com/0/813/433.htm)
+
+2024-11-26, @CN@Flipboard, [Li Qinghzao and the Song Dynasty](https://www.worldhistory.org/lessonplan/76/li-qinghzao-and-the-song-dynasty/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-11-26, @CN@Flipboard, [Authorities bust multi-million message SMS fraud and 730 million call VoIP scam in Thailand](https://www.techspot.com/news/105717-thai-authorities-bust-multi-million-message-sms-fraud.html?utm_source=flipboard&utm_content=TechSpot/magazine/TechSpot)
+
+2024-11-26, @IT之家, [端侧智谱清言即将正式上线：基于英特尔酷睿 Ultra 芯片优化，提供本地处理“隐私模式”](https://www.ithome.com/0/813/430.htm)
+
+2024-11-26, @IT之家, [三星掌机专利曝光，采用独特可折叠设计](https://www.ithome.com/0/813/429.htm)
+
+2024-11-26, @CN@Flipboard, ['Devastating': Ontario chief leads Canadian criticism of Trump tariff plan](https://www.bbc.com/news/articles/cj6kj2752jlo?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-11-26, @IT之家, [华为 Mate 品牌盛典一文汇总：Mate 70、Mate X6、纯血鸿蒙、尊界 S800...](https://www.ithome.com/0/813/427.htm)
+
+2024-11-26, @CN@Flipboard, [Asia And Europe Markets Dip, Crude Oil And Gold Gain - Global Markets Today While US Slept](https://www.benzinga.com/markets/forex/24/11/42185036/asia-and-europe-markets-dip-crude-oil-and-gold-gain-global-markets-today-while-us-slept?utm_source=Flipboard&utm_campaign=partner_feed&utm_medium=partner_feed&utm_content=business_news)
+
+2024-11-26, @IT之家, [Kimi 数学版上线：基于月之暗面 k0-math 模型，号称能力对标 OpenAI o1](https://www.ithome.com/0/813/426.htm)
+
+2024-11-26, @IT之家, [奔驰研发内置于电机传动单元的刹车系统，可提升电动汽车操控性](https://www.ithome.com/0/813/425.htm)
+
+2024-11-26, @CN@Flipboard, [The price America paid for its first big immigration crackdown](https://www.npr.org/sections/planet-money/2024/11/26/g-s1-35805/chinese-expulsion-act-railroads-immigration-crackdown?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-11-26, @博客园, [鸿蒙NEXT开发案例：温度转换 - zhongcx](https://www.cnblogs.com/zhongcx/p/18570831)
+
+2024-11-26, @CN@Flipboard, [Philippines: Marcos-Duterte feud puts China in the heated middle - Asia Times](https://asiatimes.com/2024/11/philippines-marcos-duterte-feud-puts-china-in-the-heated-middle/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-11-26, @IT之家, [谷歌在英国面临 70 亿英镑集体诉讼：被指滥用搜索引擎垄断地位](https://www.ithome.com/0/813/421.htm)
+
+2024-11-26, @IT之家, [Steam 新一期游戏销量榜公布：《潜行者 2：切尔诺贝利之心》登全球 / 国区榜首](https://www.ithome.com/0/813/420.htm)
+
+2024-11-26, @IT之家, [华为 Mate 70 Pro 机型支持选购“鸿蒙 NEXT 先锋版”，出厂系统为 HarmonyOS 5.0](https://www.ithome.com/0/813/419.htm)
+
+2024-11-26, @CN@Flipboard, ['Counter to facts and reality': China, Mexico, Canada respond to Trump tariff threats](https://www.usatoday.com/story/news/world/2024/11/26/trump-tariffs-china-mexico-canada/76584142007/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-11-26, @IT之家, [魅族即日起开展手机“主板维修一口价”服务，覆盖 20/21 及 PRO 机型](https://www.ithome.com/0/813/418.htm)
+
+2024-11-26, @IT之家, [北京现代全新途胜 L SUV 上市：定位中期改款，15.98 万元起](https://www.ithome.com/0/813/417.htm)
+
+2024-11-26, @IT之家, [2025 款名爵 MG7 中型轿车上市，限时一口价 11.29 万元起](https://www.ithome.com/0/813/416.htm)
 
 2024-11-26, @36氪, [CEO锦囊｜战略执行不到位，这“锅”该谁来背？](https://36kr.com/p/3052627059855489?f=rss)
 
 2024-11-26, @36氪, [一批商场“大手笔”调改！北京、上海、天津都有](https://36kr.com/p/3052622495895686?f=rss)
 
+2024-11-26, @IT之家, [华为 Mate 70 系列、Mate X6 手机均支持星闪（NearLink）技术](https://www.ithome.com/0/813/414.htm)
+
+2024-11-26, @CN@Flipboard, [It’s One of Trump’s Most Controversial Promises. This Is How He Might Carry It Out.](https://slate.com/news-and-politics/2024/11/trump-tariffs-china-how-would-they-work-what-does-it-mean.html?via=rss_flipboard)
+
+2024-11-26, @IT之家, [广汽埃安泰国首个国际化人才培养基地投入使用，集成理论教学、实操训练、技术研发等](https://www.ithome.com/0/813/413.htm)
+
+2024-11-26, @书格, [四时山水图册](https://www.shuge.org/view/si_shi_shan_shui_tu_ce/)
+
+2024-11-26, @IT之家, [超越 GPT-4o：开源科研模型 OpenScholar 登场，4500 万篇论文检索增强生成回答](https://www.ithome.com/0/813/412.htm)
+
+2024-11-26, @IT之家, [大模型创业太累大牛逃回大厂：融资 1 亿美金捉襟见肘，没日没夜加班胖了 30 斤](https://www.ithome.com/0/813/411.htm)
+
+2024-11-26, @IT之家, [华为余承东：发布会刚结束有人给我转了 6 万元，要订 3 台尊界 S800](https://www.ithome.com/0/813/410.htm)
+
+2024-11-26, @IT之家, [支持 24 小时周期性血压测量：华为 WATCH D2 手表首销立减 50 元](https://www.ithome.com/0/813/409.htm)
+
+2024-11-26, @IT之家, [安卓版谷歌 Chrome 浏览器原生支持第三方自动填充服务](https://www.ithome.com/0/813/407.htm)
+
+2024-11-26, @IT之家, [尊界 S800 首发华为顶尖黑科技，或将改写超豪华车市场格局](https://www.ithome.com/0/813/405.htm)
+
+2024-11-26, @博客园, [51单片机入门：独立按键（02） - Arciab](https://www.cnblogs.com/arciab/p/18570741)
+
+2024-11-26, @IT之家, [英特尔锁定近 79 亿美元美国政府补贴，用于先进芯片厂](https://www.ithome.com/0/813/401.htm)
+
+2024-11-26, @CN@Flipboard, [Malaysia’s vegetable prices soar in bad weather](https://www.straitstimes.com/asia/se-asia/malaysias-vegetable-prices-soar-in-bad-weather?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-11-26, @IT之家, [《英雄联盟》官宣全新每年三个主题赛季结构，极速模式有望取代快速游戏模式](https://www.ithome.com/0/813/400.htm)
+
+2024-11-26, @IT之家, [机械革命发布 CODE AI 程序员笔记本：酷睿 Ultra7-155H，预装智谱 CodeGeeX NANO 编程助手](https://www.ithome.com/0/813/399.htm)
+
+2024-11-26, @IT之家, [英伟达 RTX 5090 D 显卡被曝和原版 5090“在硬件上没有什么区别”](https://www.ithome.com/0/813/397.htm)
+
+2024-11-26, @IT之家, [【一图知】华为 Mate 品牌盛典：Mate70 系列及 Mate X6 手机登场，尊界 S800 首次亮相](https://www.ithome.com/0/813/396.htm)
+
+2024-11-26, @CN@Flipboard, [The Monthly Horoscope For Each Chinese Zodiac Sign Is Here For December 2024](https://www.yourtango.com/2024380363/monthly-horoscope-chinese-zodiac-sign-december-2024?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-11-26, @IT之家, [特斯拉晒出极端场景测试视频，大秀 FSD 安全性](https://www.ithome.com/0/813/395.htm)
+
+2024-11-26, @CN@Flipboard, [Women in Film: Three Recent Releases](https://www.theworldofchinese.com/2024/11/three-recent-female-centric-chinese-films/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-11-26, @IT之家, [国产首颗全电推通信卫星，亚太 6E 卫星正式在轨交付](https://www.ithome.com/0/813/394.htm)
+
+2024-11-26, @IT之家, [腾讯国行 Switch 将停止网络服务，消息称三方服务商业务变动导致](https://www.ithome.com/0/813/393.htm)
+
+2024-11-26, @少数派, [社区速递 070 | 你没见过的社区文章、一周最热评、派友十月买了啥](https://sspai.com/post/94292)
+
+2024-11-26, @CN@Flipboard, [Ultimate Contrarian Michael Burry, Who Correctly Called the Housing Crisis in 2008, Is Now Piling Into 3 Stocks That Could Struggle Under a Trump Administration](https://www.fool.com/investing/2024/11/26/ultimate-contrarian-michael-burry-who-correctly-ca/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-11-26, @IT之家, [华为鸿蒙智家全新亮相：AI 智慧重塑全屋智能](https://www.ithome.com/0/813/392.htm)
+
+2024-11-26, @IT之家, [戴尔、华硕称部分设备不兼容 Win11 24H2 更新，导致关机 / 休眠失效、杜比音频无法播放等](https://www.ithome.com/0/813/391.htm)
+
 2024-11-26, @36氪, [5年卖出3000万台，中国便携小风扇火爆北美东南亚｜Insight全球](https://36kr.com/p/3022886028289281?f=rss)
 
 2024-11-26, @36氪, [获千万元Pre-A轮融资，「长曜创新」智能割草机器人30日众筹破220万美金｜融资首发](https://36kr.com/p/3037126850457863?f=rss)
 
+2024-11-26, @IT之家, [支付宝碰一下新升级：点餐接入全国 10 万家餐厅，外卖骑手 3 秒登记进小区](https://www.ithome.com/0/813/389.htm)
+
+2024-11-26, @IT之家, [小米王腾微博晒《西游记》“紧箍儿”Live Photo，暗示 REDMI K80 手机有望推《黑神话：悟空》游戏联名款](https://www.ithome.com/0/813/388.htm)
+
+2024-11-26, @IT之家, [鸿蒙智行享界 S9 Ultra 长航版发布，售价 42.98 万元起](https://www.ithome.com/0/813/386.htm)
+
+2024-11-26, @CN@Flipboard, [What the U.S. imports from Canada, Mexico and China, as Trump vows tariffs](https://www.washingtonpost.com/business/2024/11/26/what-us-imports-canada-mexico-china-trump-tariffs/?utm_source=flipboard&utm_content=topic/u.s.politics)
+
+2024-11-26, @IT之家, [尊界 S800 首发华为顶尖黑科技](https://www.ithome.com/0/813/380.htm)
+
+2024-11-26, @IT之家, [壹号掌机预热 OneGx 2 掌上迷你游戏本：双模式键盘内藏手柄](https://www.ithome.com/0/813/366.htm)
+
+2024-11-26, @IT之家, [尊界 S800 时代旗舰正式亮相，鸿蒙智行“四界”齐聚](https://www.ithome.com/0/813/365.htm)
+
+2024-11-26, @IT之家, [业界首发 2.3Mbps 无损传输：华为 FreeBuds Pro 4 耳机 1449 元预售](https://www.ithome.com/0/813/364.htm)
+
+2024-11-26, @IT之家, [NASA 研究：太空生活对宇航员的认知功能仅具备短期影响](https://www.ithome.com/0/813/362.htm)
+
+2024-11-26, @IT之家, [鸿蒙智行智界新 S7 汽车发布：华为乾崑 ADS 3.0、途灵底盘，22.98 万元起](https://www.ithome.com/0/813/361.htm)
+
+2024-11-26, @IT之家, [中科宇航力箭一号遥六运载火箭顺利出厂，12 月下旬“一箭 11 星”发射](https://www.ithome.com/0/813/360.htm)
+
+2024-11-26, @IT之家, [腾讯国行 Switch 将于 2026 年 3 月 31 日起逐步停止任天堂 e 商店和其他网络相关运营服务](https://www.ithome.com/0/813/359.htm)
+
+2024-11-26, @IT之家, [山灵公布旗下首台自研 R2R 架构产品“EH2 解码耳放”，12 月上旬开售](https://www.ithome.com/0/813/358.htm)
+
+2024-11-26, @IT之家, [鸿蒙智行累计交付 50 万台汽车，用时 32 个月](https://www.ithome.com/0/813/356.htm)
+
+2024-11-26, @博客园, [基于 .NET 的开源工作流引擎框架 - 小码编匠](https://www.cnblogs.com/1312mn/p/18566524)
+
+2024-11-26, @IT之家, [黑五全球狂欢：天猫每满 300 减 30 元、京东千款进口好物 1 元抢](https://www.ithome.com/0/813/353.htm)
+
+2024-11-26, @IT之家, [18:08 开抢：华为 Mate 70 / X6 旗舰手机即将预售，半年内限购 1 单](https://www.ithome.com/0/813/352.htm)
+
+2024-11-26, @IT之家, [1999 元，华为首款星闪网关路由“凌霄子母路由器 Q7 网线版”发布](https://www.ithome.com/0/813/351.htm)
+
 2024-11-26, @36氪, [LVMH是怎么把一个无聊品牌变成奢侈品的？](https://36kr.com/p/3045779107531653?f=rss)
+
+2024-11-26, @IT之家, [巴西反垄断机构裁定苹果必须取消对应用内购支付方式的限制，否则将面临罚款](https://www.ithome.com/0/813/350.htm)
 
 2024-11-26, @IT之家, [华为鸿蒙智家全新亮相](https://www.ithome.com/0/813/347.htm)
 
@@ -56,129 +198,35 @@
 
 2024-11-26, @IT之家, [一键控制旋转方向，威刚 XPG 推出 HURRICANE MAG ARGB 风扇四件组](https://www.ithome.com/0/813/345.htm)
 
-2024-11-26, @IT之家, [消息称上汽集团总裁贾健旭亲自带队，正与华为进行合作接触](https://www.ithome.com/0/813/341.htm)
-
-2024-11-26, @IT之家, [突破 1000 颗！中国天眼 FAST 发现脉冲星数量国际领先](https://www.ithome.com/0/813/335.htm)
-
-2024-11-26, @IT之家, [华为 MatePad Pro 13.2 2025 原生鸿蒙平板定价 5199 元起](https://www.ithome.com/0/813/334.htm)
-
-2024-11-26, @IT之家, [华为 MatePad Pro 13.2 2025 原生鸿蒙平板亮相：云晰柔光 OLED 柔性屏，5199 元起](https://www.ithome.com/0/813/339.htm)
-
 2024-11-26, @小众软件, [Web Visual Editor – 实时可视化编辑 HTML 文件[VS Code 扩展]](https://www.appinn.com/web-visual-editor-for-vscode/)
 
-2024-11-26, @IT之家, [2024 年 4~10 月苹果 iPhone 在印度 FOB 产值突破 100 亿美元，同比增长 37%](https://www.ithome.com/0/813/332.htm)
+2024-11-26, @CN@Flipboard, [China: Chinese woman trains for VR flight competition](https://flipboard.com/video/stringershub/a17b671908)
 
 2024-11-26, @36氪, [给挖掘机装电池，宁德时代算了笔经济账 | 焦点分析](https://36kr.com/p/3051978598683014?f=rss)
 
-2024-11-26, @36氪, [8点1氪｜网易云音乐公开指责QQ音乐剽窃式“创新”；库克称没中国就没现在的苹果；央视曝光劣质羽绒制品以丝充绒](https://36kr.com/p/3052455403131269?f=rss)
-
-2024-11-26, @IT之家, [京东向商家推出偏远地区集运服务，平台全额补贴中转仓至消费者收件地址费用](https://www.ithome.com/0/813/329.htm)
-
-2024-11-26, @IT之家, [华为首款蓝宝石黄金智能腕表 HUAWEI WATCH ULTIMATE DESIGN 非凡大师售 23999 元，今天 17:30 首销](https://www.ithome.com/0/813/328.htm)
-
-2024-11-26, @IT之家, [华为 Mate 70 / X6 提供鸿蒙 4.3 / 原生鸿蒙 5.0 选择，明年华为推出的所有新手机平板将全部搭载原生鸿蒙](https://www.ithome.com/0/813/326.htm)
-
-2024-11-26, @IT之家, [华为 Mate70 / Pro / Pro+ 系列旗舰手机发布：业界首发高亮钛玄武机身、红枫原色影像，5499 元起](https://www.ithome.com/0/813/323.htm)
-
-2024-11-26, @IT之家, [奥迪 2025 款 Q5 / SQ5 Sportback SUV 车型海外发布，5.48 万欧元起](https://www.ithome.com/0/813/322.htm)
-
-2024-11-26, @IT之家, [通用汽车、F1 达成原则性协议，凯迪拉克车队 2026 年进入围场](https://www.ithome.com/0/813/320.htm)
-
-2024-11-26, @IT之家, [真我 GT5 Pro 手机完成 realme UI 6.0 全量推送](https://www.ithome.com/0/813/318.htm)
-
-2024-11-26, @IT之家, [全球首款支持三网卫星通信的大众智能手机，华为 Mate X6 三网卫星典藏版官宣](https://www.ithome.com/0/813/317.htm)
-
-2024-11-26, @IT之家, [《质量效应》之父旗下工作室遗憾落幕，神秘 3A 游戏大作未能面世](https://www.ithome.com/0/813/316.htm)
-
-2024-11-26, @IT之家, [华为 Mate X6 折叠屏手机亮相，内外屏尺寸更大](https://www.ithome.com/0/813/315.htm)
-
 2024-11-26, @CN@Flipboard, [China: Chinese scientists achieve breakthrough in hyper-spectral imaging technology](https://flipboard.com/video/stringershub/eae0c1d408)
-
-2024-11-26, @CN@Flipboard, [US: China urges swift actions from U.N. Security Council on Middle East situation](https://flipboard.com/video/stringershub/af39aef728)
-
-2024-11-26, @IT之家, [华为首款蓝宝石黄金智能腕表 HUAWEI WATCH ULTIMATE DESIGN 非凡大师亮相，可当问界享界“双九”车钥匙](https://www.ithome.com/0/813/314.htm)
 
 2024-11-26, @博客园, [《刚刚问世》系列初窥篇-Java+Playwright自动化测试-6- 元素基础定位方式-上篇 （详细教程） - 北京-宏哥](https://www.cnblogs.com/du-hong/p/18322900)
 
-2024-11-26, @IT之家, [华硕推出 Pro WS Z890-ACE SE 工作站主板，支持 IPMI 远程管理](https://www.ithome.com/0/813/312.htm)
-
-2024-11-26, @IT之家, [2025 款 LG G5 OLED 电视通过认证：4K 超高清、165Hz 高刷新](https://www.ithome.com/0/813/311.htm)
-
-2024-11-26, @IT之家, [监管压力下，谷歌计划对欧洲搜索结果再次进行调整](https://www.ithome.com/0/813/309.htm)
-
-2024-11-26, @IT之家, [消息称苹果 iPhone 17 Air“超薄手机”起售价将高于 Pro Max 机型](https://www.ithome.com/0/813/308.htm)
-
-2024-11-26, @IT之家, [Mate70 系列全球首发卫星寻呼，还是华为首款 Wi-Fi 7 手机](https://www.ithome.com/0/813/307.htm)
-
-2024-11-26, @IT之家, [AOC“AG276QKD”26.5 英寸显示器国行开售：2K 480Hz OLED，5999 元](https://www.ithome.com/0/813/306.htm)
-
 2024-11-26, @博客园, [机器学习：线性回归（下） - SXWisON](https://www.cnblogs.com/SXWisON/p/18569342)
-
-2024-11-26, @IT之家, [小米首座智能家电工厂在武汉奠基动工，预计 2026 年实现大规模量产](https://www.ithome.com/0/813/305.htm)
-
-2024-11-26, @IT之家, [特斯拉招募软件工程师，推进自动驾驶出租车和 Optimus 机器人远程操控](https://www.ithome.com/0/813/303.htm)
-
-2024-11-26, @IT之家, [极摩客 EVO-X1 迷你主机开售：锐龙 AI 9 HX 370 + 32G + 1T，双 2.5G 网口，5299 元](https://www.ithome.com/0/813/302.htm)
 
 2024-11-26, @博客园, [PySAGES实记 - DECHIN](https://www.cnblogs.com/dechinphy/p/18569710/pysages)
 
-2024-11-26, @IT之家, [华为 Mate70 / Pro / Pro+ 系列旗舰手机亮相，余承东豪言“靠抄袭是没有未来的”](https://www.ithome.com/0/813/300.htm)
-
-2024-11-26, @IT之家, [谷歌发布 Wear OS 5.1 开发者预览版：基于安卓 15，支持凭证管理器、扬声器播放多媒体](https://www.ithome.com/0/813/299.htm)
-
 2024-11-26, @博客园, [.NET9 EFcore支持早期MSSQL数据库 ROW_NUMBER()分页 - 万雅虎](https://www.cnblogs.com/vipwan/p/18570225)
-
-2024-11-26, @IT之家, [2025 款奥迪 Q7 冰雪运动版 SUV 上市：限量 500 辆，74.88 万元](https://www.ithome.com/0/813/298.htm)
 
 2024-11-26, @博客园, [vue2-路由Router - 木子七](https://www.cnblogs.com/Mickey-7/p/18570177)
 
 2024-11-26, @CN@Flipboard, [Will the Chinese Unification Promotion Party Be Dissolved by the Government?](https://newbloommag.net/2024/11/26/cupp-dissolution/?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-11-26, @CN@Flipboard, [China Extends Visa-Free Entry to 9 More Countries, Doubles Stay Limit to 30 Days](https://skift.com/2024/11/26/china-extends-visa-free-entry-to-9-more-countries-doubles-stay-limit-to-30-days/?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-11-26, @IT之家, [美国法官裁定 FTC 诉 Meta 垄断个人社交媒体案明年 4 月 14 日开审](https://www.ithome.com/0/813/296.htm)
-
-2024-11-26, @IT之家, [AI 音频领域的“瑞士军刀”：英伟达推出 Fugatto，音乐制作新神器](https://www.ithome.com/0/813/295.htm)
-
 2024-11-26, @少数派, [程序体验还是机械反馈：何处寻找现代复古相机的意义？](https://sspai.com/post/94130)
-
-2024-11-26, @IT之家, [消息称三星电子最快本周进行大规模人事调整，已通知部分高管离职](https://www.ithome.com/0/813/293.htm)
-
-2024-11-26, @IT之家, [消息称荣耀笔记本电脑新品首发英特尔新一代酷睿 5 处理器](https://www.ithome.com/0/813/290.htm)
-
-2024-11-26, @IT之家, [微软“砍刀部”再出手，Xbox 虚拟形象编辑器将于明年 1 月 9 日停止服务](https://www.ithome.com/0/813/289.htm)
-
-2024-11-26, @IT之家, [三星 Galaxy M16 5G 手机跑分曝光：联发科天玑 6300 芯片、8GB 内存、安卓 14 系统](https://www.ithome.com/0/813/288.htm)
-
-2024-11-26, @IT之家, [极米 H6 投影仪标准版首销：3840*2160 分辨率、1200 CVIA / lm 流明亮度，4199 元](https://www.ithome.com/0/813/285.htm)
-
-2024-11-26, @IT之家, [2026 款奥迪 Q7 和 SQ7 路测照曝光](https://www.ithome.com/0/813/284.htm)
-
-2024-11-26, @IT之家, [长征十二号遥一运载火箭成功转场，将于近期择机发射](https://www.ithome.com/0/813/283.htm)
 
 2024-11-26, @CN@Flipboard, [Company Fires Long-Time Manager For Sleeping At Work Due To Fatigue; Court Orders To Pay Rs 41 Lakh](https://in.mashable.com/tech/85792/company-fires-long-time-manager-for-sleeping-at-work-due-to-fatigue-court-orders-to-pay-rs-41-lakh?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-11-26, @IT之家, [IMAX 开启 AI 翻译 / 配音新时代：支持 140 种语言，打破语言壁垒、开启全球观影新体验](https://www.ithome.com/0/813/267.htm)
-
-2024-11-26, @IT之家, [魅族 PANDAER 35W 自带线移动电源「旷野」配色上市：37Wh 可登机、双口同时输出，首发 165 元](https://www.ithome.com/0/813/266.htm)
-
 2024-11-26, @小众软件, [Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费](https://www.appinn.com/scrcpy-3/)
 
-2024-11-26, @IT之家, [三星 QD-OLED 面板未来三年规划曝光：27 寸 4K 240Hz 电竞显示器预计明年一季度上市](https://www.ithome.com/0/813/264.htm)
-
-2024-11-26, @CN@Flipboard, [China’s Huawei to launch ‘milestone’ smartphone with homegrown OS](https://www.straitstimes.com/business/companies-markets/chinas-huawei-to-launch-milestone-smartphone-with-homegrown-os?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-11-26, @IT之家, [雷神 G50 Ultra 三模无线游戏手柄开售：TMR 磁变阻摇杆、支持扳机振动，首发 199 元](https://www.ithome.com/0/813/263.htm)
-
-2024-11-26, @IT之家, [吴恩达开源大模型套件：11 个模型平台一种方式调用，已获星标超 1.2K](https://www.ithome.com/0/813/262.htm)
-
-2024-11-26, @IT之家, [AI 写好代码自己发 Github：人类程序员只需“动嘴”，Claude 化身服务器联通一切](https://www.ithome.com/0/813/260.htm)
-
-2024-11-26, @CN@Flipboard, ['Opening salvo': Trump rattles economy & allies with tariff pronouncement](https://www.msnbc.com/11th-hour/watch/-opening-salvo-trump-rattles-economy-allies-with-tariff-pronouncement-225456709747?utm_source=flipboard&utm_content=topic%2Fchina)
+2024-11-26, @CN@Flipboard, [Myanmar rebel army ready for dialogue with junta, with China’s help](https://www.straitstimes.com/asia/se-asia/myanmar-rebel-army-ready-for-dialogue-with-junta-with-chinas-help?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2024-11-26, @博客园, [SQL SERVER日常运维巡检系列——结构设计 - 格瑞趋势技术团队](https://www.cnblogs.com/zhuancloud/p/18569898)
-
-2024-11-26, @IT之家, [机器手力度识别精度达 6 mN，中国科大在触觉传感器研究中取得重要进展](https://www.ithome.com/0/813/259.htm)
 
 2024-11-26, @博客园, [Contrastive Learning 对比学习 | RL 学 representation 时的对比学习 - MoonOut](https://www.cnblogs.com/moonout/p/18569887)
 
@@ -196,8 +244,6 @@
 
 2024-11-26, @CN@Flipboard, [Tim Cook Visits China for the Third Time This Year](https://pandaily.com/tim-cook-visits-china-for-the-third-time-this-year/?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-11-26, @CN@Flipboard, [China's thinking class weighs Trump 2.0 pain to come - Asia Times](https://asiatimes.com/2024/11/chinas-thinking-class-weighs-trump-2-0-pain-to-come/?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2024-11-26, @博客园, [最全ECharts 实战大全（速记版+资源） - 程序员海军](https://www.cnblogs.com/HaiJun-Aion/p/18569547)
 
 2024-11-26, @博客园, [看不懂来打我，Vue3的watch是如何实现监听的？ - 前端欧阳](https://www.cnblogs.com/heavenYJJ/p/18569037)
@@ -210,47 +256,19 @@
 
 2024-11-26, @CN@Flipboard, [My Parents Expect Me To Take Care Of Them And I Don't Know What To Do About It](https://www.buzzfeed.com/dorislam/asian-parents-expectations?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-11-26, @CN@Flipboard, [The price America paid for its first big immigration crackdown](https://www.npr.org/sections/planet-money/2024/11/25/g-s1-35805/chinese-expulsion-act-railroads-immigration-crackdown?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2024-11-26, @博客园, [浅析REGEXP_SUBSTR,PRIOR,CONNECT BY - 摸鱼小天才](https://www.cnblogs.com/lhcc924/p/18568181)
-
-2024-11-26, @博客园, [设计一个基于 LSTM 神经网络的文本分类器 - 果冻人工智能](https://www.cnblogs.com/jellyai/p/18569343)
 
 2024-11-26, @CN@Flipboard, [Vietnam at a Crossroads](https://www.asiasentinel.com/p/vietnam-crossroads-marco-rubio?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-11-26, @博客园, [cornerstone中raft_server_resp_handlers源码解析 - TomGeller](https://www.cnblogs.com/Tomgeller/p/18567510)
-
-2024-11-26, @博客园, [个人图床配置，实现博客园图片上传自由 - Arciab](https://www.cnblogs.com/arciab/p/18569256)
-
 2024-11-26, @少数派, [派早报：OPPO 发布 Reno13 系列手机、Apple 公布 2024 年 App Store Awards 入围名单](https://sspai.com/post/94276)
-
-2024-11-26, @CN@Flipboard, [Manila Takes A Bold Stance On The South China Sea – Analysis](https://www.eurasiareview.com/26112024-manila-takes-a-bold-stance-on-the-south-china-sea-analysis/?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-11-26, @博客园, [Redis中的分布式锁（步步为营） - seven97_top](https://www.cnblogs.com/seven97-top/p/18568038)
-
-2024-11-26, @CN@Flipboard, [Crony Capitalism Is Coming to America](https://www.nytimes.com/2024/11/25/opinion/trump-tariffs-deportations.html?utm_source=flipboard&utm_content=other)
 
 2024-11-25, @CN@Flipboard, [China Attack on U.S. Telecom Networks: ‘Thousands and Thousands’ of Devices Need to Be Replaced](https://thecyberexpress.com/china-attack-on-u-s-telecom-networks/?utm_source=flipboard&utm_content=topic/technology)
 
 2024-11-25, @CN@Flipboard, [Markets react to Trump's tariff vow](https://finance.yahoo.com/news/markets-react-trumps-tariff-vow-003844285.html?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-11-25, @CN@Flipboard, [Montana Attorney General Says Royal Canadian Mounted Police Are Trying To Spy On US Gun Shows](https://dailycaller.com/2024/11/25/austin-knudsen-attorney-general-canada-police-gun-shows-spying-justin-trudeau/?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-11-25, @CN@Flipboard, [Lawsuit alleges that young dancers for Shen Yun Performing Arts have faced abuse](https://mynorthwest.com/4013400/lawsuit-alleges-that-young-dancers-for-shen-yun-performing-arts-have-faced-abuse/?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-11-25, @36氪, [氪星晚报｜余承东官宣Mate70新功能；4500余家华为门店将在美团首销Mate70等新品；我国重型燃气轮机实现小型化新突破](https://36kr.com/p/3051884427792768?f=rss)
-
-2024-11-25, @CN@Flipboard, [New report reveals region responsible for the majority of new energy jobs: 'The world must step up its game'](https://www.thecooldown.com/green-business/renewable-energy-jobs-report-2023-2024/?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-11-25, @CN@Flipboard, [Denmark in talks with China over ship linked to cut undersea cables, foreign ministry says](https://www.scmp.com/news/china/diplomacy/article/3288099/denmark-talks-china-over-ship-linked-cut-undersea-cables-foreign-ministry-says?utm_source=rss_feed)
-
 2024-11-25, @CN@Flipboard, [Trump Unveils Tariff Ultimatums Against Canada, Mexico, And China](https://www.dailywire.com/news/trump-unveils-tariff-ultimatums-against-canada-mexico-and-china?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-11-25, @CN@Flipboard, [The Oldest River In The World Is Over 350 Million Years Old](https://www.animalsaroundtheglobe.com/the-oldest-river-in-the-world-is-over-350-million-years-old-2-258471/?utm_source=flipboard&utm_content=topic/culture)
-
 2024-11-25, @CN@Flipboard, [GORDON CHANG: Watch Out — Xi Is Going To Confront Trump](https://dailycaller.com/2024/11/25/opinion-watch-out-xi-confront-trump-gordon-chang/?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-11-25, @36氪, [智氪 | 跌破3300后，市场风格要变了？](https://36kr.com/p/3051680822528897?f=rss)
 
 2024-11-25, @CN@Flipboard, [WTF???? Holy $hi# !!! Wow!!](https://www.dailykos.com/story/2024/11/25/2288606/-WTF-Holy-hi-Wow?pm_campaign=blog&pm_medium=rss&pm_source=recommended)
 
@@ -260,8 +278,6 @@
 
 2024-11-25, @Apple 新闻, [Apple reveals 45 app and game finalists for the 2024 App Store Awards
 ](https://www.apple.com/newsroom/2024/11/apple-reveals-45-app-and-game-finalists-for-the-2024-app-store-awards/)
-
-2024-11-25, @CN@Flipboard, [Disappointing PPV Reality Hits Dana White’s Biggest Star Not Named Jon Jones or Alex Pereira](https://www.essentiallysports.com/ufc-mma-news-disappointing-ppv-reality-hits-dana-whites-biggest-star-not-named-jon-jones-or-alex-pereira/?utm_source=flipboard&utm_content=topic/jonjones)
 
 2024-11-25, @CGTV-World, [Is Marx Still Relevant Today?](https://news.cgtn.com/news/2024-11-25/Is-Marx-Still-Relevant-Today--1yOC0uLX1g4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
@@ -330,8 +346,6 @@
 2024-11-25, @CGTV-Nature, [Next Stop: 'Mushroom cottages' surrounded by cascading rice terraces](https://news.cgtn.com/news/2024-11-25/Next-Stop-Mushroom-cottages-surrounded-by-cascading-rice-terraces-1yOhvAikxuU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-11-25, @CGTV-China, [Next Stop: 'Mushroom cottages' surrounded by cascading rice terraces](https://news.cgtn.com/news/2024-11-25/Next-Stop-Mushroom-cottages-surrounded-by-cascading-rice-terraces-1yOhvAikxuU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2024-11-25, @CN@Flipboard, [Philippine showdown: President says he'll fight vice president's plot to have him killed](https://www.newsday.com/news/nation/philippine-president-marcos-duterte-death-threat-r98957?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2024-11-25, @CGTV-China, [Graphics: China makes efforts on stabilizing global supply chain](https://news.cgtn.com/news/2024-11-25/Graphics-China-makes-efforts-on-stabilizing-global-supply-chain-1yOopqZO5ji/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
@@ -488,8 +502,6 @@
 2024-11-22, @CGTV-Nature, [Australian study warns older animals in decline globally](https://news.cgtn.com/news/2024-11-22/Australian-study-warns-older-animals-in-decline-globally-1yJZJDLd0Yg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-11-22, @CGTV-World, [Australian study warns older animals in decline globally](https://news.cgtn.com/news/2024-11-22/Australian-study-warns-older-animals-in-decline-globally-1yJZJDLd0Yg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-11-22, @少数派, [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/94174)
 
 2024-11-22, @小众软件, [首发限免 | Aiarty Image Matting：轻松实现抠图换背](https://www.appinn.com/aiarty-image-matting/)
 
@@ -747,8 +759,6 @@
 2024-10-14, @蠎周刊, [上周蠎快讯 2024/41](https://weekly.pychina.org/pyrecap/pyrw-2441.html)
 
 2024-10-14, @潮流周刊, [第195期 - BELLOCO](https://weekly.tw93.fun/posts/195-BELLOCO/)
-
-2024-10-10, @书格, [福寿齐天图册](https://www.shuge.org/view/fu_shou_qi_tian_tu_ce/)
 
 2024-10-10, @Awesome Rust Weekly, [💻 Issue 433 - Rust (the language) is rolling off the Volvo assembly line](https://rust.libhunt.com/newsletter/433)
 
