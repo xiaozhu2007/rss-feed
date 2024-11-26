@@ -1,5 +1,9 @@
 # 2024
 
+2024-11-26, @36氪, [广发证券：上市证券做市业务资格获批](https://36kr.com/newsflashes/3052964020293763?f=rss)
+
+2024-11-26, @36氪, [法国对道达尔能源等5家公司处以罚款，称其能源效率证书造假](https://36kr.com/newsflashes/3052957985689986?f=rss)
+
 2024-11-26, @36氪, [FILA F-BOX上海新天地店开业](https://36kr.com/newsflashes/3052956425785472?f=rss)
 
 2024-11-26, @36氪, [中国工程院院士邬贺铨调研度小满：AI及智能体在金融领域的应用还处于开始阶段](https://36kr.com/newsflashes/3052956321173639?f=rss)
@@ -34,10 +38,6 @@
 
 2024-11-26, @36氪, [华为Mate X6推出三网卫星典藏版，首发支持三网卫星通信](https://36kr.com/newsflashes/3052907102998918?f=rss)
 
-2024-11-26, @36氪, [天源迪科：公司正在研究华为盘古大模型](https://36kr.com/newsflashes/3052906572353924?f=rss)
-
-2024-11-26, @36氪, [小米首座智能家电工厂在武汉奠基动工](https://36kr.com/newsflashes/3052903639077250?f=rss)
-
 2024-11-26, @36氪, [WISE2024 年度人物发布丨做正确的事，世界会告诉你是谁](https://36kr.com/p/3052835907637381?f=rss)
 
 2024-11-26, @36氪, [CEO锦囊｜战略执行不到位，这“锅”该谁来背？](https://36kr.com/p/3052627059855489?f=rss)
@@ -49,6 +49,10 @@
 2024-11-26, @36氪, [获千万元Pre-A轮融资，「长曜创新」智能割草机器人30日众筹破220万美金｜融资首发](https://36kr.com/p/3037126850457863?f=rss)
 
 2024-11-26, @36氪, [LVMH是怎么把一个无聊品牌变成奢侈品的？](https://36kr.com/p/3045779107531653?f=rss)
+
+2024-11-26, @IT之家, [华为鸿蒙智家全新亮相](https://www.ithome.com/0/813/347.htm)
+
+2024-11-26, @IT之家, [北汽制造锐胜王牌 M7 长轴 CNG 中大型 MPV 新增 8 座版车型，13.18 万元](https://www.ithome.com/0/813/346.htm)
 
 2024-11-26, @IT之家, [一键控制旋转方向，威刚 XPG 推出 HURRICANE MAG ARGB 风扇四件组](https://www.ithome.com/0/813/345.htm)
 
@@ -177,8 +181,6 @@
 2024-11-26, @IT之家, [机器手力度识别精度达 6 mN，中国科大在触觉传感器研究中取得重要进展](https://www.ithome.com/0/813/259.htm)
 
 2024-11-26, @博客园, [Contrastive Learning 对比学习 | RL 学 representation 时的对比学习 - MoonOut](https://www.cnblogs.com/moonout/p/18569887)
-
-2024-11-26, @IT之家, [消息称高通对收购英特尔的兴趣已降温](https://www.ithome.com/0/813/256.htm)
 
 2024-11-26, @CN@Flipboard, [Woman in China dies after a series of laser treatments to remove spots on her skin](https://www.straitstimes.com/asia/east-asia/woman-dies-after-a-series-of-laser-treatments-to-remove-spots-on-her-skin-in-china?utm_source=flipboard&utm_content=topic%2Fchina)
 
