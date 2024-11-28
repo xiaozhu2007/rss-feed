@@ -1,5 +1,7 @@
 # 2024
 
+2024-11-25, @张洪Heo, [Mac中磁盘没有被推出，因为一个或多个程序可能正在使用它解决方法](https://blog.zhheo.com/p/cgxdrt1t.html)
+
 2024-11-22, @HiFeng'Blog, [Debian 12 / Ubuntu 24.04 安装 Docker 以及 Docker Compose 教程](https://www.hicairo.com/post/79.html)
 
 2024-11-22, @阮一峰的网络日志, [科技爱好者周刊（第 326 期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)
@@ -79,8 +81,6 @@
 2024-09-28, @朽丘博, [GoEdge快速上手使用](https://koxiuqiu.cn/2024/9y28d1/)
 
 2024-09-27, @张洪Heo, [123云盘也开始收割了，事实证明靠免费来吸引用户然后再收割这招太好用](https://blog.zhheo.com/p/3aae.html)
-
-2024-09-25, @张洪Heo, [如何将原版不蒜子busuanzi的数据迁移到自搭建不蒜子上](https://blog.zhheo.com/p/a39a.html)
 
 2024-09-24, @Zeruns 's Blog, [野草云 香港BGP大带宽VPS测评，2核4G 100兆 仅需36元/月，免备案服务器，IPv4/v6双栈网络](https://blog.zeruns.tech/archives/818.html)
 
