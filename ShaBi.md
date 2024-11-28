@@ -1,5 +1,7 @@
 # 2024
 
+2024-11-25, @axhuoga1, [axhuoga1 starred mailgyc/doudizhu](https://github.com/mailgyc/doudizhu)
+
 2024-11-25, @axhuoga2, [axhuoga2 merged a pull request in axhuoga2/-](https://github.com/axhuoga2/-/pull/5)
 
 2024-11-25, @axhuoga2, [axhuoga2 pushed to main in axhuoga2/-](https://github.com/axhuoga2/-/compare/c56ed256e0...590fb25054)
@@ -71,8 +73,6 @@
 2024-11-24, @axhuoga1, [axhuoga1 pushed to main in axhuoga1/rust](https://github.com/axhuoga1/rust/compare/e76ec02a4d...29f80de3fc)
 
 2024-11-24, @axhuoga1, [axhuoga1 created a branch main in axhuoga1/rust](https://github.com/axhuoga1/rust/compare/main)
-
-2024-11-24, @axhuoga1, [axhuoga1 created a repository axhuoga1/rust](https://github.com/axhuoga1/rust//)
 
 2024-11-24, @axhuoga2, [axhuoga2 pushed to main in axhuoga2/-](https://github.com/axhuoga2/-/compare/84eee444cb...957e80e2de)
 
