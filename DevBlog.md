@@ -1,5 +1,7 @@
 # 2024
 
+2024-11-29, @阮一峰的网络日志, [科技爱好者周刊（第 327 期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)
+
 2024-11-28, @张洪Heo, [宝塔如何开启HTTP3，启用HTTP3使用QUIC进行高性能传输](https://blog.zhheo.com/p/ftcah0lq.html)
 
 2024-11-28, @张洪Heo, [使用Certimate部署Google证书，免费通配符证书申请](https://blog.zhheo.com/p/a4759pr7.html)
@@ -67,8 +69,6 @@
 2024-10-01, @Zeruns 's Blog, [AkileCloud 英国大带宽VPS测评，1核1G 500兆 仅需19.99元/月，免备案服务器，英国原生IP](https://blog.zeruns.tech/archives/820.html)
 
 2024-09-30, @Zeruns 's Blog, [我博客网站又遭受CC攻击了，记录一下](https://blog.zeruns.tech/archives/819.html)
-
-2024-09-29, @张洪Heo, [黑鲨刀锋2磁吸充电宝上手：5000的大小，10000的容量](https://blog.zhheo.com/p/a28f.html)
 
 2024-09-24, @Zeruns 's Blog, [野草云 香港BGP大带宽VPS测评，2核4G 100兆 仅需36元/月，免备案服务器，IPv4/v6双栈网络](https://blog.zeruns.tech/archives/818.html)
 
