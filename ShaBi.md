@@ -1,5 +1,9 @@
 # 2024
 
+2024-12-01, @axhuoga1, [axhuoga1 pushed to patch-4 in axhuoga1/linux](https://github.com/axhuoga1/linux/compare/cfd47302ac...bb8369bc4e)
+
+2024-11-30, @axhuoga1, [axhuoga1 pushed to main in axhuoga1/axhuoga1](https://github.com/axhuoga1/axhuoga1/compare/fbd34be3e6...430626ee3b)
+
 2024-11-28, @axhuoga1, [axhuoga1 commented on pull request torvalds/linux#1081](https://github.com/torvalds/linux/pull/1081#issuecomment-2505968752)
 
 2024-11-25, @axhuoga1, [axhuoga1 starred mailgyc/doudizhu](https://github.com/mailgyc/doudizhu)
@@ -69,10 +73,6 @@
 2024-11-24, @axhuoga1, [axhuoga1 pushed to main in axhuoga1/c-](https://github.com/axhuoga1/c-/compare/10fb4b0b39...a985d1e57f)
 
 2024-11-24, @axhuoga1, [axhuoga1 pushed to main in axhuoga1/rust](https://github.com/axhuoga1/rust/compare/8550967878...0ecda8a311)
-
-2024-11-24, @axhuoga1, [axhuoga1 pushed to main in axhuoga1/rust](https://github.com/axhuoga1/rust/compare/29f80de3fc...8550967878)
-
-2024-11-24, @axhuoga1, [axhuoga1 pushed to main in axhuoga1/rust](https://github.com/axhuoga1/rust/compare/e76ec02a4d...29f80de3fc)
 
 2024-11-24, @axhuoga2, [axhuoga2 pushed to main in axhuoga2/-](https://github.com/axhuoga2/-/compare/84eee444cb...957e80e2de)
 
