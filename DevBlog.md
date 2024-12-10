@@ -1,5 +1,7 @@
 # 2024
 
+2024-12-09, @张洪Heo, [潘通 2025 年度色发布：PANTONE 17-1230 Mocha Mousse 摩卡慕斯](https://blog.zhheo.com/p/lrqaxlxk.html)
+
 2024-12-06, @阮一峰的网络日志, [科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)
 
 2024-12-04, @张洪Heo, [Mac上使用Drawthings的Flux模型进行扩图、补图](https://blog.zhheo.com/p/5vi77cg0.html)
@@ -61,8 +63,6 @@
 2024-10-25, @Zeruns 's Blog, [雨云 宁波裸金属物理机E5-2680v4测评，56核64G 500兆 仅需788元/月，独服](https://blog.zeruns.tech/archives/826.html)
 
 2024-10-23, @Zeruns 's Blog, [【随手拍】2024年拍的一些火烧云/晚霞/日落/日出照片，分享给大家看看](https://blog.zeruns.tech/archives/825.html)
-
-2024-10-23, @张洪Heo, [Certimate上手：自搭建开源SSL证书申请续期平台，自动部署证书到服务器](https://blog.zhheo.com/p/88ab.html)
 
 2024-10-12, @朽丘博, [废话校园日常](https://koxiuqiu.cn/2024/10y12d1/)
 
