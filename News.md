@@ -1,134 +1,240 @@
 # 2024
 
-2024-12-16, @36氪, [抖音豆包概念股午后持续走低，海天瑞声跌逾10%](https://36kr.com/newsflashes/3081132647921284?f=rss)
+2024-12-16, @36氪, [胜宏科技：取得金融机构股票回购贷款承诺函](https://36kr.com/newsflashes/3081497195444608?f=rss)
+
+2024-12-16, @36氪, [西北电网装机规模突破5亿千瓦](https://36kr.com/newsflashes/3081490996000898?f=rss)
+
+2024-12-16, @36氪, [“万勋科技”宣布连获近2亿元A轮系列融资](https://36kr.com/newsflashes/3081489087150210?f=rss)
+
+2024-12-16, @36氪, [中力股份：上交所主板IPO中签号码共70445个](https://36kr.com/newsflashes/3081483775588489?f=rss)
+
+2024-12-16, @36氪, [B站推出MATES人群资产模型](https://36kr.com/newsflashes/3081479062714496?f=rss)
+
+2024-12-16, @36氪, [龙宇股份：因涉嫌信息披露违法违规被中国证监会立案](https://36kr.com/newsflashes/3081477880166536?f=rss)
+
+2024-12-16, @36氪, [星巴克中国回应新天地店调整：商圈业态焕新](https://36kr.com/newsflashes/3081471783221639?f=rss)
+
+2024-12-16, @36氪, [中钢协：11月全国生产粗钢7840万吨，同比增长2.5%](https://36kr.com/newsflashes/3081470746589576?f=rss)
+
+2024-12-16, @36氪, [扎克伯格今年出售了超过22亿美元的Meta股票](https://36kr.com/newsflashes/3081466961361289?f=rss)
+
+2024-12-16, @36氪, [金刚光伏：公司股票由深股通证券名单移除](https://36kr.com/newsflashes/3081466016692609?f=rss)
+
+2024-12-16, @36氪, [亿华通：与丰田汽车拟共同向合营公司华丰燃料进行同比例增资共计19亿日元](https://36kr.com/newsflashes/3081463759911046?f=rss)
+
+2024-12-16, @36氪, [我国成功发射卫星互联网低轨卫星](https://36kr.com/newsflashes/3081462268000641?f=rss)
+
+2024-12-16, @36氪, [央行：更好支持高质量发展重点领域和薄弱环节，促进房地产市场和资本市场平稳发展](https://36kr.com/newsflashes/3081457062967684?f=rss)
+
+2024-12-16, @36氪, [英伟达Thor芯片延迟量产，小鹏考虑搁置搭载](https://36kr.com/newsflashes/3081455993043331?f=rss)
+
+2024-12-16, @36氪, [英伟达Thor芯片延迟量产，小鹏考虑搁置搭载｜36氪独家](https://36kr.com/p/3081224356624515?f=rss)
+
+2024-12-16, @36氪, [中国人民银行：务实做好中美、中欧等双边金融工作](https://36kr.com/newsflashes/3081452273154176?f=rss)
+
+2024-12-16, @36氪, [中国人民银行：落实好支持资本市场稳定发展的两项货币政策工具，维护金融市场稳定](https://36kr.com/newsflashes/3081451765397635?f=rss)
+
+2024-12-16, @36氪, [中国人民银行：实施好适度宽松的货币政策，适时降准降息，保持流动性充裕](https://36kr.com/newsflashes/3081451213715593?f=rss)
+
+2024-12-16, @36氪, [报告：阅文集团今年新增出海AI翻译作品超2000部，同比增长20倍](https://36kr.com/newsflashes/3081449033250945?f=rss)
+
+2024-12-16, @36氪, [银河微电：银江投资和银冠投资拟减持不超过2.51%公司股份](https://36kr.com/newsflashes/3081446762756486?f=rss)
+
+2024-12-16, @36氪, [氪星晚报 | 永辉超市：全国调改门店对胖东来商品实行限购；智己汽车科技换帅；美团小象超市启动出海，首站沙特](https://36kr.com/p/3081376825751689?f=rss)
 
 2024-12-16, @36氪, [「万勋科技」连获近2亿元A轮系列融资，加速智能柔韧机器人多场景规模应用｜硬氪首发](https://36kr.com/p/3076666511569543?f=rss)
 
-2024-12-16, @36氪, [百度申请注册百度短剧商标](https://36kr.com/newsflashes/3081118606374534?f=rss)
-
-2024-12-16, @36氪, [零跑汽车旗下动力科技公司增资至5.5亿](https://36kr.com/newsflashes/3081107700070281?f=rss)
-
-2024-12-16, @36氪, [半导体板块表现低迷，纳芯微、盛景微等多股跌超5%](https://36kr.com/newsflashes/3081113164461701?f=rss)
-
-2024-12-16, @36氪, [台积电首家日本晶圆厂年底前量产，明年AI芯片或仍供不应求](https://36kr.com/newsflashes/3081104673929096?f=rss)
-
-2024-12-16, @36氪, [农业股异动拉升，智慧农业、华英农业双双涨停](https://36kr.com/newsflashes/3081104189945732?f=rss)
-
-2024-12-16, @36氪, [软件股震荡走低，信息发展午后触及跌停](https://36kr.com/newsflashes/3081097042261897?f=rss)
-
 2024-12-16, @36氪, [当一个音乐节操盘手决意去海外｜暗涌看世界](https://36kr.com/p/3081094925399936?f=rss)
-
-2024-12-16, @36氪, [花旗预计未来三个月铜价将下行至每吨8500美元](https://36kr.com/newsflashes/3081091298965126?f=rss)
-
-2024-12-16, @36氪, [我爱我家：目前业务暂未涉及“首店经济”“首发经济”相关概念](https://36kr.com/newsflashes/3081087582090880?f=rss)
-
-2024-12-16, @36氪, [机构：2025年印度个人电脑和平板电脑市场有望增长6%](https://36kr.com/newsflashes/3081083528410753?f=rss)
-
-2024-12-16, @36氪, [创投概念股午后活跃，市北高新、华金资本双双涨停](https://36kr.com/newsflashes/3081079247746697?f=rss)
-
-2024-12-16, @36氪, [阿里拟将银泰百货出售给雅戈尔？雅戈尔回应：上市公司没有应披露而未披露的信息](https://36kr.com/newsflashes/3081076745320327?f=rss)
 
 2024-12-16, @36氪, [前极越中层人士发声：夏一平原本没有通过面试](https://36kr.com/p/3080984075892614?f=rss)
 
-2024-12-16, @36氪, [Kimi发布视觉思考模型k1](https://36kr.com/newsflashes/3081072609408897?f=rss)
+2024-12-16, @IT之家, [荣耀 GT 手机发布：3.3GHz 骁龙 8 Gen 3 处理器，2199 元起](https://www.ithome.com/0/818/023.htm)
 
-2024-12-16, @36氪, [阿里拟将银泰百货出售给雅戈尔，正计划召开发布会](https://36kr.com/newsflashes/3081071397090944?f=rss)
+2024-12-16, @IT之家, [消息称英伟达 Thor 芯片量产大幅推迟，小鹏拟搁置搭载 / 蔚来未预订](https://www.ithome.com/0/818/022.htm)
 
-2024-12-16, @36氪, [“屹普动力”完成数千万元Pre-A轮融资](https://36kr.com/newsflashes/3081062058653577?f=rss)
+2024-12-16, @博客园, [Qt+OPC开发笔记（一）：OPCUA介绍、open62541介绍、编译与基础环境Demo - 长沙红胖子Qt创微智科](https://www.cnblogs.com/qq21497936/p/18611064)
 
-2024-12-16, @36氪, [中信建投：端侧AI产业发展提速，关注AI模组机会](https://36kr.com/newsflashes/3081043155465859?f=rss)
+2024-12-16, @IT之家, [世界最大吨位海上浮式生产储油船在江苏启东交付，可储存 140 万桶原油](https://www.ithome.com/0/818/021.htm)
 
-2024-12-16, @36氪, [淘宝公布2024年度十大商品入围榜单](https://36kr.com/newsflashes/3081048906299266?f=rss)
+2024-12-16, @IT之家, [每月 100 次离线下载：UC 网盘超级会员 8 元/月破冰新低（官方 40 元）](https://www.ithome.com/0/818/020.htm)
 
-2024-12-16, @36氪, [苹果公司据悉计划推出更薄的iPhone](https://36kr.com/newsflashes/3081036915996289?f=rss)
+2024-12-16, @IT之家, [小米推出官方 Home Assistant 米家集成，用于管理 IoT 智能设备](https://www.ithome.com/0/818/019.htm)
 
-2024-12-16, @36氪, [印尼工业部长：比亚迪等电动汽车制造商将获电动汽车税收优惠](https://36kr.com/newsflashes/3081031253243778?f=rss)
+2024-12-16, @IT之家, [荣耀 GT 手机搭载第三代骁龙 8 处理器，配备 NFC、红外遥控、X 轴线性马达等](https://www.ithome.com/0/818/018.htm)
+
+2024-12-16, @博客园, [如何将java私有库(jar)提交至公服/公共仓库(central repository)-手动版 - funnyZpC](https://www.cnblogs.com/funnyzpc/p/18610692)
+
+2024-12-16, @CN@Flipboard, [China Gold Mining Threatens Congo's Precious Ecosystem](https://www.jpost.com/business-and-innovation/precious-metals/article-833666?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-12-16, @CN@Flipboard, [Phuket vs. Bali: Two Recovery Models, One Hospitality Success Story](https://skift.com/2024/12/16/phuket-vs-bali-two-recovery-models-one-hospitality-success-story/?utm_source=flipboard&utm_content=skift/magazine/Tourism+and+Destinations+News)
+
+2024-12-16, @IT之家, [荣耀 GT 系列定位更懂年轻人的全新性能科技系列，重回互联网手机赛道](https://www.ithome.com/0/818/015.htm)
+
+2024-12-16, @IT之家, [今年我国航司完成旅客运输量突破 7 亿人次，创历史新高](https://www.ithome.com/0/818/014.htm)
+
+2024-12-16, @IT之家, [东风汽车 2.0T 全新混动总成样机点火，将用于豪华越野产品](https://www.ithome.com/0/818/013.htm)
+
+2024-12-16, @IT之家, [吉利银河 E5 同平台，马来西亚首款电动汽车宝腾 e.MAS 7 上市](https://www.ithome.com/0/818/012.htm)
+
+2024-12-16, @IT之家, [四川首个商业化人形机器人“天行者 1 号”发布：身高 165cm，将搭载“电子皮肤”](https://www.ithome.com/0/818/011.htm)
+
+2024-12-16, @CN@Flipboard, [Pigeon Accused Of Spying For China Realased From Indian Prison](https://www.animalsaroundtheglobe.com/pigeon-accused-of-spying-for-china-was-finally-realsed-from-indian-bird-prison-4-190359/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-12-16, @CN@Flipboard, [Why would China target non-working royal Prince Andrew?](https://www.itv.com/news/2024-12-16/why-would-china-target-non-working-royal-prince-andrew?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-12-16, @博客园, [分布式系统架构2：服务发现 - 卷福同学](https://www.cnblogs.com/dnboy/p/18611006)
+
+2024-12-16, @IT之家, [微软 CEO 纳德拉力挺 OpenAI：在人工智能竞赛中领先两年，几乎“没有竞争对手”](https://www.ithome.com/0/818/009.htm)
+
+2024-12-16, @CN@Flipboard, [Trump Plans Sweeping Rollback of Biden EV, Emissions Policies](https://www.newsmax.com/us/ev-emissions-policy/2024/12/16/id/1191749)
+
+2024-12-16, @IT之家, [理想汽车 CEO 李想称“创业者不要太把自己神话”](https://www.ithome.com/0/818/007.htm)
+
+2024-12-16, @CN@Flipboard, [Stock market today: World shares fall as China reports lackluster data, while bitcoin hits new highs](https://www.yakimaherald.com/news/nation_and_world/business/stock-market-today-world-shares-fall-as-china-reports-lackluster-data-while-bitcoin-hits-new/article_53244a47-18e0-5a67-8699-5518a4f7c109.html?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-12-16, @IT之家, [市场监管总局：决定对电动汽车供电设备实施强制性产品认证管理](https://www.ithome.com/0/818/006.htm)
+
+2024-12-16, @CN@Flipboard, [Saving the sun's energy and storing it — with mirrors](https://dw.com/p/4n9Oy?maca=en-RSS_en_Flipboard-9487-xml-media)
+
+2024-12-16, @博客园, [LSTM学习三维轨迹的Python实现 - TechSynapse](https://www.cnblogs.com/TS86/p/18610973)
+
+2024-12-16, @IT之家, [神舟十九号航天员乘组将于近日择机实施第一次出舱活动](https://www.ithome.com/0/818/004.htm)
+
+2024-12-16, @CN@Flipboard, [How President-elect Trump’s proposed tariffs could further squeeze West Virginians’ wallets](https://mountainstatespotlight.org/2024/12/16/tariff-trade-economy-import-tax/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-12-16, @IT之家, [中广核“核柴一号”发布，我国首次完全具备核电站应急柴油发电机组自主设计及制造能力](https://www.ithome.com/0/818/003.htm)
+
+2024-12-16, @IT之家, [“被砍”两年后，锁屏音量调节滑块在苹果 iOS 18.2 上悄悄回归](https://www.ithome.com/0/818/002.htm)
 
 2024-12-16, @36氪, [无糖茶，伊利下一个「百亿单品」？| 氪金·大消费](https://36kr.com/p/3080922804696704?f=rss)
 
+2024-12-16, @IT之家, [华为 Mate70 系列手机获鸿蒙 HarmonyOS NEXT 5.0.0.115 升级，优化人脸识别、畅连消息等使用体验](https://www.ithome.com/0/818/001.htm)
+
 2024-12-16, @36氪, [美团小象超市启动出海，首站沙特，团队人数已过百｜独家](https://36kr.com/p/3076633883947912?f=rss)
 
+2024-12-16, @IT之家, [江汽集团：尊界超级工厂正式落成](https://www.ithome.com/0/818/000.htm)
+
 2024-12-16, @36氪, [和迪卡侬聊聊「涨价」、「抛弃穷鬼」以及「变好看」｜专访](https://36kr.com/p/3080916367570563?f=rss)
+
+2024-12-16, @博客园, [探索 Spring AOP：全面解析与实战应用 - Java码界探秘](https://www.cnblogs.com/daichangya/p/18610879)
+
+2024-12-16, @CN@Flipboard, [Chinese ‘spy’ linked to Prince Andrew is ‘tip of the iceberg’](https://www.politico.eu/article/china-spy-link-prince-andrew-tip-of-the-iceberg-uk-royal-family/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
 2024-12-16, @36氪, [六个买房理由，撑起了森与天成的丰台“销冠”](https://36kr.com/p/3076768079672201?f=rss)
 
 2024-12-16, @36氪, [黄仁勋的人才战略：技术挖人，股权留人](https://36kr.com/p/3074188996326024?f=rss)
 
-2024-12-16, @36氪, [打破国外垄断，绿色动力与发电系统制造商「屹普动力」获数千万元Pre-A轮融资｜硬氪首发](https://36kr.com/p/3080878126118784?f=rss)
+2024-12-16, @IT之家, [彭博社报告：预计 2026 年电池价格跌破 100 美元 / kWh，汽车将实现“油电同价”](https://www.ithome.com/0/817/999.htm)
 
-2024-12-16, @36氪, [出海营收增长7倍，「云鲸智能」获深圳、无锡两大国资数亿元新融资｜硬氪独家](https://36kr.com/p/3071727287415424?f=rss)
+2024-12-16, @IT之家, [荣耀平板 V9 柔光版厚度约 6.11mm、重约 477.5g，今晚发布](https://www.ithome.com/0/817/997.htm)
 
-2024-12-16, @IT之家, [为刺激 Model S 销量，特斯拉在美重启终身免费超级充电政策](https://www.ithome.com/0/817/920.htm)
+2024-12-16, @IT之家, [德国经济部正式批准台积电德国晶圆厂 ESMC 项目融资](https://www.ithome.com/0/817/996.htm)
 
-2024-12-16, @IT之家, [全球首条氢冶金绿色汽车板连铸生产线今日在河北张家口投产，年产 150 万吨](https://www.ithome.com/0/817/919.htm)
+2024-12-16, @IT之家, [我国首个工厂化海水制氢项目在青岛建成，每小时生产 20 立方米绿氢](https://www.ithome.com/0/817/995.htm)
 
-2024-12-16, @IT之家, [日企开发全新 PCB 设计可以将散热提高 55 倍，用于太空场景等](https://www.ithome.com/0/817/918.htm)
+2024-12-16, @CN@Flipboard, [Experts issue warning following reports that air fryers may be listening to your conversations](https://www.unilad.com/technology/news/air-fryers-listening-conversations-data-warning-742346-20241216?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-12-16, @IT之家, [米哈游《崩坏：星穹铁道》PS5 实体版明年 1 月发售：含游戏光碟、钥匙扣明信片，299 港币](https://www.ithome.com/0/817/917.htm)
+2024-12-16, @CN@Flipboard, [Chamath Palihapitiya Says Trump's Proposed Tariffs Would Act As 'Reverse Subsidy For American Companies' To Compete With Chinese Counterparts](https://www.benzinga.com/analyst-ratings/analyst-color/24/12/42502979/chamath-palihapitiya-says-trumps-proposed-tariffs-would-act-as-reverse-subsidy-for-?utm_source=Flipboard&utm_campaign=partner_feed&utm_medium=partner_feed&utm_content=markets)
 
-2024-12-16, @IT之家, [早于华硕主品牌，ROG CES 2025 全球发布会定档北京时间 1 月 7 日正午 12 时](https://www.ithome.com/0/817/915.htm)
+2024-12-16, @少数派, [派评 | 近期值得关注的 App](https://sspai.com/post/94903)
 
-2024-12-16, @博客园, [SQL SERVER 2016 AlwaysOn 无域集群+负载均衡搭建与简测 - 格瑞趋势技术团队](https://www.cnblogs.com/zhuancloud/p/18609949)
+2024-12-16, @博客园, [StarBlog博客Vue前端开发笔记：(4)使用FontAwesome图标库 - 程序设计实验室](https://www.cnblogs.com/deali/p/18610789)
+
+2024-12-16, @IT之家, [中国计算机学会会员最高学术荣誉：14 人当选 2024 CCF 会士](https://www.ithome.com/0/817/992.htm)
+
+2024-12-16, @IT之家, [奥迪将关闭比利时布鲁塞尔工厂，因 Q8 e-tron 系列电动 SUV 表现不佳](https://www.ithome.com/0/817/991.htm)
+
+2024-12-16, @IT之家, [IDC：预计 2025 年中国智能手机市场出货量将达到 2.89 亿，同比增长 1.6%](https://www.ithome.com/0/817/988.htm)
+
+2024-12-16, @IT之家, [旋刚推出 AK5 RGB 系列机箱：未来风格外观，可选 MESH / 玻璃前面板](https://www.ithome.com/0/817/987.htm)
+
+2024-12-16, @IT之家, [科大讯飞发布 S8 离线版 AI 录音笔：完全隔绝外部网络 / 国密二级独立芯片，6999 元](https://www.ithome.com/0/817/985.htm)
+
+2024-12-16, @IT之家, [不用接触就能监测心脏活动，中国科大利用毫米波雷达实现新突破](https://www.ithome.com/0/817/984.htm)
+
+2024-12-16, @IT之家, [阿维塔 06 实车漂移视频公布，全新红色涂装](https://www.ithome.com/0/817/982.htm)
+
+2024-12-16, @IT之家, [硅谷“福利文化”逐渐式微：谷歌等科技巨头缩减“标志性”奢华员工福利](https://www.ithome.com/0/817/981.htm)
+
+2024-12-16, @IT之家, [功耗降低 30%、寿命提升 3 倍，天马全新 OLED 屏幕器件结构 SLOD 技术发布](https://www.ithome.com/0/817/980.htm)
+
+2024-12-16, @IT之家, [realme 真我 Neo7 手机维修备件价格公布：屏幕 700 元，电池 229 元](https://www.ithome.com/0/817/974.htm)
+
+2024-12-16, @CN@Flipboard, [Artifact with strange inscription dug up at holy site in Jerusalem: ‘Unusual location’](https://nypost.com/2024/12/16/world-news/artifact-with-strange-inscription-dug-up-at-holy-site-in-jerusalem-unusual-location/?utm_source=flipboard&utm_campaign=nypost&utm_medium=social)
+
+2024-12-16, @小众软件, [比听快10倍！免费播客客户端 PodQuest AI 不止能翻译，还能读懂你的兴趣](https://www.appinn.com/podquest-ai/)
+
+2024-12-16, @IT之家, [蔚来 ET9 先进数字架构发布，号称“有芯有魂”](https://www.ithome.com/0/817/972.htm)
+
+2024-12-16, @CN@Flipboard, [At Above & Beyond, savour the generosity of heartwarming cuisine this winter](https://www.tatlerasia.com/dining/food/above-and-beyond-hotel-icon-winter-menu?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-12-16, @CN@Flipboard, [Ministers to send letters of demand to Bloomberg, other media outlets over ‘libellous’ statements](https://www.straitstimes.com/singapore/politics/ministers-to-send-letters-of-demand-to-bloomberg-other-media-outlets-over-libellous-statements?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-12-16, @IT之家, [奇瑞瑞虎 5x 高能版 SUV 将于 12 月 23 日上市，全新外观内饰设计](https://www.ithome.com/0/817/970.htm)
+
+2024-12-16, @CN@Flipboard, [Singapore-sling blunder leaves Phuket Airport officials red-faced](https://thethaiger.com/news/phuket/singapore-sling-blunder-leaves-phuket-airport-officials-red-faced?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-12-16, @IT之家, [英国测试 AI 摄像头抓酒驾：可通过驾车行为和道路使用情况判断](https://www.ithome.com/0/817/969.htm)
+
+2024-12-16, @IT之家, [快手启动“付费短剧会员”模式，30 天 16.8 元](https://www.ithome.com/0/817/968.htm)
+
+2024-12-16, @IT之家, [消息称一加天玑 9 系旗舰平台新机将与某厂“SM8735 新机”同期发布，电池容量 7000mAh 左右](https://www.ithome.com/0/817/967.htm)
+
+2024-12-16, @IT之家, [极氪 7X 纯电 SUV 在欧洲开启预售，荷兰 52990 欧元起](https://www.ithome.com/0/817/965.htm)
+
+2024-12-16, @IT之家, [【IT之家评测室】零刻 EQ14 迷你主机体验：首发英特尔 N150，静音轻办公](https://www.ithome.com/0/817/964.htm)
+
+2024-12-16, @IT之家, [暴力熊 Thermal Grizzly 推出三款导热腻子，定位导热垫替代品](https://www.ithome.com/0/817/962.htm)
+
+2024-12-16, @IT之家, [小米汽车精英驾驶培训开课，9999 元已全部约满](https://www.ithome.com/0/817/961.htm)
+
+2024-12-16, @博客园, [GraphRAG+文档结构：打造高性能实体溯源方案 - Florian](https://www.cnblogs.com/fanzhidongyzby/p/18610415/graphrag-v3)
+
+2024-12-16, @IT之家, [暴雪网易“复婚”后，《魔兽世界》光铸血吼永久落地上海](https://www.ithome.com/0/817/957.htm)
+
+2024-12-16, @IT之家, [Bigme 大我新品 3 天后发布，宣称超能“装”](https://www.ithome.com/0/817/956.htm)
+
+2024-12-16, @IT之家, [兰张高铁武威至张掖段开工建设：设计时速 250 公里，工期 3 年](https://www.ithome.com/0/817/955.htm)
+
+2024-12-16, @IT之家, [机械革命推出全新移动固态硬盘 K600，最高传输速度 2000MB/s，399 元起](https://www.ithome.com/0/817/953.htm)
+
+2024-12-16, @IT之家, [我国运 5U 型无人运输机系统首飞成功，核心软件自主研发](https://www.ithome.com/0/817/952.htm)
+
+2024-12-16, @博客园, [FastExcel 合并单元格（相当的行数据，进行合并） - VipSoft](https://www.cnblogs.com/vipsoft/p/18610336)
+
+2024-12-16, @IT之家, [国内最大地效翼船“海王一号”航电系统交付：贴地飞行、时速超 200 公里](https://www.ithome.com/0/817/951.htm)
+
+2024-12-16, @IT之家, [云鲸智能获深圳、无锡两大国资合计数亿元投资，旗下拥有扫拖机器人等产品](https://www.ithome.com/0/817/950.htm)
+
+2024-12-16, @博客园, [33岁，从上海裸辞回西安创业 - 龙卷风摧毁停车场！](https://www.cnblogs.com/fhqqkqpnuii/p/18608969)
+
+2024-12-16, @IT之家, [经典 SATA SSD 走向落幕：英睿达 MX500 部分容量已处于 EOL 状态](https://www.ithome.com/0/817/948.htm)
+
+2024-12-16, @IT之家, [开放世界动作冒险新作《红色沙漠》PC 版配置公布，最低 GTX 1060](https://www.ithome.com/0/817/947.htm)
+
+2024-12-16, @IT之家, [OPPO 周意保透露全新一代大折叠屏手机发布时间为“春暖花开的季节”](https://www.ithome.com/0/817/946.htm)
+
+2024-12-16, @IT之家, [宁德时代回应“为供应商提供资金援助”：情况属实，愿支持相关研发创新](https://www.ithome.com/0/817/944.htm)
+
+2024-12-16, @少数派, [你住的城市下不下雪？用这份「雪天片单」感受浪漫季节](https://sspai.com/post/94704)
+
+2024-12-16, @CN@Flipboard, [Time to Boycott the US?](https://www.counterpunch.org/2024/12/16/time-to-boycott-the-us/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2024-12-16, @博客园, [DB-GBP功能使用探索 - chaplinthink](https://www.cnblogs.com/bigdata1024/p/18610141)
+
+2024-12-16, @CN@Flipboard, [China: Three Gorges Power Station](https://flipboard.com/video/stringershub/28f1654048)
 
 2024-12-16, @博客园, [推荐一款强大的开源物联网 Web 组态软件 - 小码编匠](https://www.cnblogs.com/1312mn/p/18606945)
 
-2024-12-16, @IT之家, [印尼将为比亚迪、广汽埃安、雪铁龙提供 0% 进口关税等税收优惠](https://www.ithome.com/0/817/914.htm)
-
 2024-12-16, @博客园, [大话《权限设计》全篇，领略不同设计模式的魅力 - 陈逸子风](https://www.cnblogs.com/cyzf/p/18609903)
-
-2024-12-16, @IT之家, [《塞尔达传说：智慧的再现》原本有坠落伤害，为鼓励探索而移除](https://www.ithome.com/0/817/913.htm)
-
-2024-12-16, @IT之家, [大疆 Osmo Action 6 运动相机现身美国 FCC，电池容量 1950 毫安时](https://www.ithome.com/0/817/912.htm)
 
 2024-12-16, @博客园, [LLM应用实战-财经新闻自动聚合 - mengrennwpu](https://www.cnblogs.com/mengrennwpu/p/18609896)
 
-2024-12-16, @IT之家, [科技一周大事（12 月 9 日-15 日）：小米首款 SUV 车型 YU7 亮相；吉利百度发表联合声明；《黑神话：悟空》获 TGA 2024 最佳动作游戏奖...](https://www.ithome.com/0/817/911.htm)
-
-2024-12-16, @IT之家, [董明珠称格力芯片成功了：没有拿国家一分钱](https://www.ithome.com/0/817/910.htm)
-
 2024-12-16, @CN@Flipboard, [US warship docks in Cambodia](https://www.thejakartapost.com/world/2024/12/16/us-warship-docks-in-cambodia.html?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-12-16, @IT之家, [全新界面设计、新增弦月窗，华为 WATCH GT 4 系列手表获推鸿蒙 HarmonyOS NEXT 5.0.0.30](https://www.ithome.com/0/817/909.htm)
 
 2024-12-16, @博客园, [【杂谈】如何选择：Session 还是 JWT？ - 猫毛·波拿巴](https://www.cnblogs.com/longfurcat/p/18609842)
 
-2024-12-16, @IT之家, [无问芯穹开源全球首款端侧全模态理解模型 Megrez-3B-Omni，支持图像、音频、文本理解](https://www.ithome.com/0/817/908.htm)
-
-2024-12-16, @IT之家, [智元开启通用机器人商用量产](https://www.ithome.com/0/817/906.htm)
-
-2024-12-16, @IT之家, [蔚来第 2800 座换电站上线，打通 8 纵 9 横 12 大城市群高速换电网络](https://www.ithome.com/0/817/905.htm)
-
-2024-12-16, @IT之家, [武汉大学人工智能学院成立，小米集团称期待合作](https://www.ithome.com/0/817/904.htm)
-
-2024-12-16, @CN@Flipboard, [How sudden event in Earth's crust shaped evolutionary path of countless species](https://au.news.yahoo.com/how-sudden-event-in-earths-crust-shaped-evolutionary-path-of-countless-species-042153383.html)
-
-2024-12-16, @IT之家, [消息称美团前置仓业务“小象超市”启动出海，首站落地沙特](https://www.ithome.com/0/817/903.htm)
-
-2024-12-16, @IT之家, [比亚迪 SHARK 6 电动皮卡 12 月在澳大利亚交付，57900 澳元起售](https://www.ithome.com/0/817/902.htm)
-
-2024-12-16, @IT之家, [启辰 VX6 纯电 SUV“诗和远方版”上市：自带饮水机 / 冰箱 / 投影仪 / 洗衣机，16.87 万元](https://www.ithome.com/0/817/900.htm)
-
-2024-12-16, @IT之家, [Take-Two CEO：《GTA6》将“非同寻常”，值得等待](https://www.ithome.com/0/817/899.htm)
-
-2024-12-16, @IT之家, [五菱之光 EV“多功能工具车”预计明年第一季度正式上市](https://www.ithome.com/0/817/897.htm)
-
-2024-12-16, @IT之家, [《巫师 3》借《巫师 4》东风迎来第二春，Steam 同时在线人数创今年新高](https://www.ithome.com/0/817/894.htm)
-
-2024-12-16, @IT之家, [vivo 印度公司将与迪克森成立合资企业，承接部分智能手机 OEM 订单](https://www.ithome.com/0/817/893.htm)
-
-2024-12-16, @IT之家, [消息称 OPPO Find N5 折叠屏手机搭骁龙 8 至尊版，支持 IPX8 防水](https://www.ithome.com/0/817/886.htm)
-
-2024-12-16, @IT之家, [韩国 BOS 推出全球首款汽车 AI 加速器芯粒 SoC，搭载 Tenstorrent IP](https://www.ithome.com/0/817/884.htm)
-
-2024-12-16, @IT之家, [岚图汽车 FREE 318 增程 SUV 新增“韶华青”车漆及“踏浪白”内饰：无需加钱，车价 22.89 万元起](https://www.ithome.com/0/817/882.htm)
-
 2024-12-16, @少数派, [从设计师视角，聊聊我眼中的 Apple Watch](https://sspai.com/post/94242)
-
-2024-12-16, @IT之家, [消息称微软 Xbox 将彻底放弃独占游戏策略，最多只是限时独占](https://www.ithome.com/0/817/881.htm)
-
-2024-12-16, @IT之家, [微软 Surface Pro 12 商用版二合一平板现身 Geekbench 跑分库，搭酷睿 Ultra 7 266V 处理器](https://www.ithome.com/0/817/880.htm)
-
-2024-12-16, @IT之家, [《艾尔登法环：黑夜君临》游戏明年 2 月进行首次网络测试](https://www.ithome.com/0/817/879.htm)
 
 2024-12-16, @博客园, [RepoDB：一个介于Dapper、EFCore之间.Net的ORM库 - chingho](https://www.cnblogs.com/chingho/p/18602846)
 
@@ -138,155 +244,49 @@
 
 2024-12-16, @不死鸟, [2024 年 12 月 每日分享](https://iui.su/192/)
 
-2024-12-16, @CN@Flipboard, [Britain’s bold new world … as a Pacific trading nation](https://www.politico.eu/article/britains-bold-new-world-as-a-pacific-trading-nation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-2024-12-16, @IT之家, [HMD 推出巴塞罗那足球俱乐部定制版 Skyline 手机：赠定制围巾，399 欧元](https://www.ithome.com/0/817/877.htm)
-
-2024-12-16, @IT之家, [新增头部控制、听力保护功能，华为 FreeBuds Pro 4 耳机获推鸿蒙 HarmonyOS NEXT 5.0.0.196](https://www.ithome.com/0/817/876.htm)
-
-2024-12-16, @IT之家, [《鬼武者》《大神》领衔，卡普空将重启多个经典游戏 IP](https://www.ithome.com/0/817/875.htm)
-
-2024-12-16, @IT之家, [王化：小米空调没有专利侵权行为，更没有因为专利侵权赔偿的情况](https://www.ithome.com/0/817/874.htm)
-
-2024-12-16, @IT之家, [三星 Premiere 8K 成首款获 8K 协会认证 8K 认证投影仪](https://www.ithome.com/0/817/873.htm)
-
-2024-12-16, @IT之家, [华为 WATCH GT 4 系列手表开启纯血鸿蒙 HarmonyOS NEXT 公测版招募](https://www.ithome.com/0/817/872.htm)
-
 2024-12-16, @博客园, [上周热点回顾（12.9-12.15） - 博客园团队](https://www.cnblogs.com/cmt/p/18609530)
 
-2024-12-16, @IT之家, [小米推出米家 MIJIA 词典笔 C1：0.3 秒快速识别、支持离线查询，349 元](https://www.ithome.com/0/817/871.htm)
-
-2024-12-16, @IT之家, [《双人成行》团队新作《幻裂奇境》确认支持跨平台联机](https://www.ithome.com/0/817/870.htm)
-
-2024-12-16, @IT之家, [美国首座：特斯拉大型锂精炼厂投入运营，可年产 50GWh 电池级锂](https://www.ithome.com/0/817/868.htm)
-
-2024-12-16, @IT之家, [黑峡谷预热 Q5 Pro 三模机械键盘：Gasket 结构 + 木兰轴、108 键布局](https://www.ithome.com/0/817/867.htm)
-
-2024-12-16, @IT之家, [广汽集团本周将推飞行汽车新品牌及新机型](https://www.ithome.com/0/817/866.htm)
-
-2024-12-16, @IT之家, [网友称已拿到任天堂“Switch 2”，配备霍尔效应摇杆](https://www.ithome.com/0/817/864.htm)
+2024-12-16, @CN@Flipboard, [Chinese police trial amphibious crime-fighting robot sphere](https://newatlas.com/robotics/chinese-police-amphibious-robot-ball/?utm_source=flipboard&utm_content=NewAtlas/magazine/New+Atlas:+Emerging+Technology)
 
 2024-12-16, @博客园, [HarmonyOS Next 入门实战 - 文字转拼音，文字转语音 - 睡精灵s](https://www.cnblogs.com/shuijinglingsos/p/18609475)
 
 2024-12-16, @博客园, [如何优雅地让 ASP.NET Core 支持异步模型验证 - coredx](https://www.cnblogs.com/coredx/p/18593850)
 
-2024-12-16, @IT之家, [TGA 2025 年度游戏颁奖典礼 2025 年 12 月 11 日举行](https://www.ithome.com/0/817/863.htm)
-
-2024-12-16, @IT之家, [鸿蒙智行智界 R7 增程版 12 月 19 日上市，CLTC 续航 1570km](https://www.ithome.com/0/817/862.htm)
-
-2024-12-16, @IT之家, [长安汽车第四代 CS75 PLUS Ultra 燃油 SUV 官图发布：搭 2.0T 发动机，本月下旬上市](https://www.ithome.com/0/817/861.htm)
-
-2024-12-16, @IT之家, [苹果年末“魔力好礼”官方至高 24 期免息，到店取货额外补贴 50 元](https://www.ithome.com/0/817/355.htm)
-
-2024-12-16, @IT之家, [测试显示：索尼 PS5 具备流畅运行 PS3 游戏的能力](https://www.ithome.com/0/817/859.htm)
-
 2024-12-16, @博客园, [交易系统：应用层、领域层分层架构设计 - 架构师汤师爷](https://www.cnblogs.com/tangshiye/p/18609333)
-
-2024-12-16, @IT之家, [英伟达 RTX 5070 Ti 显卡被曝配 16GB 显存，功耗可能为 285W 或 350W](https://www.ithome.com/0/817/858.htm)
-
-2024-12-16, @IT之家, [2025 元旦假期火车票今起开售：学生可享预约购票专区、后天可买 1 月 1 日车票](https://www.ithome.com/0/817/857.htm)
-
-2024-12-16, @IT之家, [消息称某骁龙 8 至尊版“超大杯”手机电池典型值容量 6000mAh，预计为小米 15 Ultra](https://www.ithome.com/0/817/856.htm)
-
-2024-12-16, @CN@Flipboard, [ByteDance is Winning the China AI Race. That’s Bad News for TikTok.](https://www.thedailyupside.com/technology/artificial-intelligence/bytedance-is-winning-the-china-ai-race-thats-bad-news-for-tiktok/?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-12-16, @IT之家, [2K 放弃 Fusion 引擎，《四海兄弟：故乡》采用虚幻引擎 5 进行开发](https://www.ithome.com/0/817/855.htm)
-
-2024-12-16, @IT之家, [Kimi 发布视觉思考模型 k1：试题拍照给出答题思考全过程](https://www.ithome.com/0/817/854.htm)
-
-2024-12-16, @博客园, [常回家看看之Tcache Stashing Unlink Attack - CH13hh](https://www.cnblogs.com/CH13hh/p/18605493)
-
-2024-12-16, @博客园, [微信授权全链路打通指南 - 程序员海军](https://www.cnblogs.com/HaiJun-Aion/p/18609286)
-
-2024-12-16, @IT之家, [CDPR 确认《巫师 4》游戏主角希里配音换人](https://www.ithome.com/0/817/853.htm)
-
-2024-12-16, @IT之家, [博主将屏幕损坏 PSP 游戏掌机改造为 PS2 风格迷你游戏主机，外接输出视频信号](https://www.ithome.com/0/817/851.htm)
-
-2024-12-16, @IT之家, [《艾尔登法环》全球销量突破 2860 万份，超越《黑暗之魂》系列总销量](https://www.ithome.com/0/817/850.htm)
-
-2024-12-16, @IT之家, [马斯克确认将推出电子邮箱服务 𝕏 Mail，域名 x.com](https://www.ithome.com/0/817/849.htm)
-
-2024-12-16, @博客园, [人工智能规模法则的起源、分析、内幕以及对齐方法 - 果冻人工智能](https://www.cnblogs.com/jellyai/p/18609231)
-
-2024-12-16, @IT之家, [美国政府拟为博世加州晶圆厂改造项目提供 2.25 亿美元补贴](https://www.ithome.com/0/817/848.htm)
-
-2024-12-16, @IT之家, [第三方数据显示《黑神话：悟空》Steam 中国玩家占比降至 75%，首发时占 90%](https://www.ithome.com/0/817/847.htm)
-
-2024-12-16, @博客园, [他又又来了，c#开源sql解析引擎类库【SqlParser.Net 1.0】正式发布，它可以帮助你简单快速高效的解析和处理sql - 三合视角](https://www.cnblogs.com/hezp/p/18411611)
-
-2024-12-16, @IT之家, [索尼回应 PlayStation 玩家流失担忧：PC 策略不影响 PS5 销售](https://www.ithome.com/0/817/845.htm)
 
 2024-12-16, @少数派, [派早报：谷歌与三星合作推出 XR 头戴设备](https://sspai.com/post/94885)
 
-2024-12-16, @IT之家, [中国选手陌路烟明问鼎 2024《炉石传说》世界冠军赛](https://www.ithome.com/0/817/844.htm)
-
-2024-12-16, @IT之家, [小马智行 CEO 彭军：预计 2025 年 Robotaxi 生产成本会下降，计划增加到至少 1000 辆车](https://www.ithome.com/0/817/843.htm)
-
-2024-12-16, @CN@Flipboard, [China's 'erotic clothing' capital braces for Trump and e-commerce crackdown](https://www.investing.com/news/economy-news/chinas-erotic-clothing-capital-braces-for-trump-and-ecommerce-crackdown-3773290?utm_source=flipboard&utm_content=Investingdotcom/magazine/Economy)
-
 2024-12-16, @CN@Flipboard, [I Wouldn’t Do This. Would You? See China’s Giant ‘Sky Ladder’](https://outdoors.com/i-wouldnt-do-this-would-you-see-chinas-giant-sky-ladder/?utm_source=flipboard&utm_content=topic/lifestyle)
 
-2024-12-16, @博客园, [从底层源码深入分析Spring的IoC容器初始化过程 - seven97_top](https://www.cnblogs.com/seven97-top/p/18608839)
+2024-12-16, @CN@Flipboard, [When Russia Fights the Wrong Enemy](https://www.project-syndicate.org/magazine/russia-war-of-choice-ukraine-ignores-china-real-enemy-by-s-c-m-paine-2024-12?utm_source=flipboard&utm_content=topic/world)
 
 2024-12-16, @潮流周刊, [第204期 - 肉桂拿铁](https://weekly.tw93.fun/posts/204-%E8%82%89%E6%A1%82%E6%8B%BF%E9%93%81/)
 
 2024-12-15, @书格, [拉克斯的中国摄影集](https://www.shuge.org/view/george_lacks_photographs_of_china/)
 
-2024-12-15, @CN@Flipboard, [Members of Taiwanese Religious Group Arrested in China](https://newbloommag.net/2024/12/16/yiguandao-arrest-china/?utm_source=flipboard&utm_content=topic%2Fchina)
+2024-12-15, @CN@Flipboard, [Trump 2.0 is forcing Asian economies to make hard choices fast](https://www.scmp.com/opinion/asia-opinion/article/3290635/trump-20-forcing-asian-economies-make-hard-choices-fast?utm_source=rss_feed)
 
-2024-12-15, @CN@Flipboard, [BRICS Don’t Threaten the Dollar, the US Does](https://www.bloomberg.com/opinion/articles/2024-12-15/trump-s-fear-of-brics-currency-replacing-the-dollar-is-misguided?utm_source=flipboard&utm_content=topic%2Fchina)
+2024-12-15, @CN@Flipboard, [Monster insider trading alert for Nvidia stock](https://finbold.com/monster-insider-trading-alert-for-nvidia-stock-4/?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-12-15, @CN@Flipboard, [F1 driver Zhou Guanyu showcases his gaming skills as he appears at major CS2 Esports Tournament in Shanghai](https://www.sportskeeda.com/f1/news-f1-driver-zhou-guanyu-showcases-gaming-skills-appears-major-cs2-esports-tournament-in-shanghai?key4=flipboardf1&utm_source=flipboard&utm_content=topic%2Fchina)
+2024-12-15, @CN@Flipboard, [Mike Waltz: Trump To Start Imposing ‘Higher Costs And Consequences’ On Hackers](https://www.dailywire.com/news/mike-waltz-trump-to-start-imposing-higher-costs-and-consequences-on-hackers?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2024-12-15, @CN@Flipboard, [Black Myth: Wukong Team Reportedly Cried After Losing Game of the Year](https://comicbook.com/gaming/news/black-myth-wukong-game-science-cried-lost-game-of-the-year-game-awards/?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-12-15, @CN@Flipboard, [SBU Faculty Members Comment on Possible TikTok Ban](https://www.tapinto.net/towns/greater-olean/sections/education/articles/sbu-faculty-members-comment-on-possible-tiktok-ban?utm_source=flipboard&utm_content=topic%2Fchina)
+2024-12-15, @CN@Flipboard, [Psychoanalysis explains why Donald Trump is taunting Canada and ‘Governor Justin Trudeau’](https://www.alternet.org/trump-irrational-2670456144/?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-12-15, @博客园, [使用Python实现两组数据纵向排序 - TechSynapse](https://www.cnblogs.com/TS86/p/18608922)
-
-2024-12-15, @CN@Flipboard, [Airplane Art – China Eastern Boeing 777-300ER at San Francisco International Airport](https://boardingarea.com/?blog-post=airplane-art-china-eastern-boeing-777-300er-at-san-francisco-international-airport)
-
-2024-12-15, @博客园, [DDCA —— 片上网络互联 - Astron_fjh](https://www.cnblogs.com/Astron-fjh/p/18608909)
-
-2024-12-15, @博客园, [《痞子衡嵌入式半月刊》 第 114 期 - 痞子衡](https://www.cnblogs.com/henjay724/p/18608851)
-
-2024-12-15, @博客园, [JavaScript是按顺序执行的吗？聊聊JavaScript中的变量提升 - 修谦得益](https://www.cnblogs.com/xiuqian/p/18595873)
+2024-12-15, @CN@Flipboard, [Latest scandal raises fresh questions about UK’s Prince Andrew](https://www.straitstimes.com/world/latest-scandal-raises-fresh-questions-about-uks-prince-andrew?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2024-12-15, @CGTV-Nature, [Chaoyang District, an urban oasis](https://news.cgtn.com/news/2024-12-15/Chaoyang-District-an-urban-oasis-1zm7kgnARQ4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2024-12-15, @CGTV-China, [Chaoyang District, an urban oasis](https://news.cgtn.com/news/2024-12-15/Chaoyang-District-an-urban-oasis-1zm7kgnARQ4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2024-12-15, @CN@Flipboard, [South Korean Democracy Holds Firm Against Yoon's Martial Law Bid](https://www.newsmax.com/World/globaltalk/south-korea/2024/12/15/id/1191685)
-
-2024-12-15, @CN@Flipboard, [General Motors Hits Costly $5 Billion Speed Bump Overseas](https://www.fool.com/investing/2024/12/15/general-motors-hits-costly-5-billion-speed-bump-ov/?source=isafpbcs0000001&utm_source=flipboard&utm_medium=feed&utm_campaign=firehose&referring_guid=02e1f2d7-be29-44ba-a539-b7fae4b7ca9e)
-
-2024-12-15, @CN@Flipboard, [Galaxy S25 series could mark the global rollout of a China-exclusive Samsung feature](https://www.androidauthority.com/samsung-galaxy-s25-next-generation-bixby-3509052/?utm_source=flipboard&utm_content=topic/machinelearning)
-
-2024-12-15, @CN@Flipboard, [Trump's tariffs threat is dividing business owners across the country](https://www.npr.org/2024/12/14/nx-s1-5226782/trump-tariffs-business-economy?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-12-15, @CN@Flipboard, [China: Rongan-Congjiang Expressway Construction](https://flipboard.com/video/stringershub/1514903d19)
-
-2024-12-15, @CN@Flipboard, [China: Elks rest take a walk in Dafeng Elk National Nature Reserve in Yancheng](https://flipboard.com/video/stringershub/74327909d4)
-
 2024-12-15, @CN@Flipboard, ['CONSPIRACY OF SILENCE' Pentagon was told SIX times that Covid was lab leak at start of pandemic – but buried the truth, ex-intel official says](https://www.the-sun.com/news/13096119/us-military-covid-lab-leak-pentagon/?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2024-12-15, @CN@Flipboard, [People Are Sharing The Devastating Moment They Suddenly Realized They Married The Wrong Person](https://www.buzzfeed.com/fabianabuontempo/people-are-sharing-the-devastating-moment-they-suddenly?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2024-12-15, @CN@Flipboard, [Archaeologists Discover Rare Inscription at Biblically Significant Site](https://www.miamiherald.com/news/nation-world/world/article297129554.html?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-12-15, @CN@Flipboard, [Prince Andrew says he has 'ceased all contact' with suspected Chinese spy](https://www.lemonde.fr/en/international/article/2024/12/15/prince-andrew-says-he-has-ceased-all-contact-with-suspected-chinese-spy_6736090_4.html?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-12-15, @CN@Flipboard, [Why Hong Kong is going ‘all out’ in patriotic education](https://www.straitstimes.com/asia/east-asia/why-hong-kong-is-going-all-out-in-patriotic-education?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-12-15, @CN@Flipboard, [China: Elks take a walk in Dafeng Elk National Nature Reserve in Yancheng](https://flipboard.com/video/stringershub/370c18e869)
-
-2024-12-15, @CN@Flipboard, [The World’s Best Single Malt Scotch Whisky—According To The 2024 China Wine And Spirits Awards](https://www.forbes.com/sites/bradjaphe/2024/12/15/the-worlds-best-single-malt-scotch-whisky-according-to-the-2024-china-wine-and-spirits-awards/?utm_source=flipboard&utm_content=user/forbes)
-
 2024-12-15, @CGTV-China, [Senior officials' insights about China's key economic work conference](https://news.cgtn.com/news/2024-12-15/Senior-officials-insights-about-China-s-key-economic-work-conference-1zlVi8kcDza/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-12-15, @CGTV-World, [Türkiye ready to offer support to Syria if new administration asks](https://news.cgtn.com/news/2024-12-15/news-1zlZwx2g2pG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-12-15, @CN@Flipboard, [Trump leaves China guessing what his next move is with unusual inauguration invitation](https://www.foxnews.com/politics/trump-leaves-china-guessing-next-move-unusual-inauguration-invitation?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2024-12-15, @CGTV-World, [Leverkusen cruises past Augsburg to climb to second](https://news.cgtn.com/news/2024-12-15/Leverkusen-cruises-past-Augsburg-to-climb-to-second-1zlQai8FEOc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
@@ -297,8 +297,6 @@
 2024-12-15, @CGTV-World, [Real Madrid misses chance to go top of La Liga after Rayo thriller](https://news.cgtn.com/news/2024-12-15/Real-Madrid-misses-chance-to-go-top-of-La-Liga-after-Rayo-thriller-1zlPD64TRtu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2024-12-15, @CGTV-World, [Prosecutors say Yoon defied summon order in martial law probe](https://news.cgtn.com/news/2024-12-15/news-1zlY9EgEwqQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2024-12-15, @CN@Flipboard, [Xiaomi YU7: The SUV version of the SU7 is really stylish](https://uk.motor1.com/news/744442/xiaomi-yu7-suv-china/?utm_source=flipboard&utm_content=topic/electricvehicle)
 
 2024-12-15, @CGTV-Nature, [Flower display honors 25th anniversary of Macao's return to motherland](https://news.cgtn.com/news/2024-12-15/Flower-display-honors-25th-anniversary-of-Macao-s-return-to-motherland-1zlDLMnNGG4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
@@ -314,11 +312,7 @@
 
 2024-12-15, @CGTV-China, [Three Gorges: 30 years of power and progress](https://news.cgtn.com/news/2024-12-15/Three-Gorges-30-years-of-power-and-progress-1zlyrQKHJza/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2024-12-15, @CN@Flipboard, [Man sues China firm after failing 26-day challenge to live in isolation for US$120,000 reward](https://www.scmp.com/news/people-culture/trending-china/article/3290752/man-sues-china-firm-after-failing-26-day-challenge-live-isolation-us120000-reward?utm_source=rss_feed)
-
 2024-12-15, @CN@Flipboard, [3 Chinese Zodiac Signs Attract Financial Success The Week Of December 16 - 22, 2024](https://www.yourtango.com/2024381145/chinese-zodiac-signs-financial-success-week-december-16-22-2024?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2024-12-15, @CN@Flipboard, [Trump's tariffs threat is dividing business owners across the country](https://www.kosu.org/top-stories-from-npr/2024-12-15/trumps-tariffs-threat-is-dividing-business-owners-across-the-country?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2024-12-15, @CGTV-China, [Yue Opera re-imagined](https://news.cgtn.com/news/2024-12-15/Yue-Opera-re-imagined-1zlI2DyIJgc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
@@ -473,10 +467,6 @@
 
 2024-12-12, @CGTV-China, [Questionnaire on China's Central Economic Work Conference](https://news.cgtn.com/news/2024-12-12/Questionnaire-on-China-s-Central-Economic-Work-Conference-1zh0KoMMiE8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2024-12-12, @少数派, [推理小说的魅力不一般！日系推理入门推荐](https://sspai.com/post/94627)
-
-2024-12-12, @少数派, [又一年 App Store Awards 年度应用揭晓，我们与获奖开发者聊了聊](https://sspai.com/post/94771)
-
 2024-12-12, @CGTV-China, [Red leaves adorn historic Qixia Mountain in Nanjing](https://news.cgtn.com/news/2024-12-12/Red-leaves-adorn-historic-Qixia-Mountain-in-Nanjing-1zgGa5Bftwk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2024-12-12, @CGTV-China, [Yue Opera beyond virality](https://news.cgtn.com/news/2024-12-12/Yue-Opera-beyond-virality-1zgOcOQuqiI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
@@ -593,8 +583,6 @@
 2024-12-09, @潮流周刊, [第203期 - 银杏季节](https://weekly.tw93.fun/posts/203-%E9%93%B6%E6%9D%8F%E5%AD%A3%E8%8A%82/)
 
 2024-12-08, @书格, [西江诗派韩饶二集](https://www.shuge.org/view/xi_jiang_shi_pai_han_rao_er_ji/)
-
-2024-12-08, @小众软件, [哔哩哔哩账号备份工具，但为什么要备份 B 站账号？](https://www.appinn.com/bilibili-backup-tool/)
 
 2024-12-07, @CGTV-Nature, [Chinese scientists to decode DNA secrets of rare Tibetan antelope](https://news.cgtn.com/news/2024-12-07/Chinese-scientists-to-decode-DNA-secrets-of-rare-Tibetan-antelope-1z89EjVhxXa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
@@ -846,9 +834,17 @@
 
 2024-09-15, @知乎, [大众对攀岩运动有哪些误解？](http://www.zhihu.com/question/666094054/answer/3625626684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
+2024-09-14, @极客日报, [京东宣布加薪：两年时间实现20薪；苹果AI使iPhone16全系8GB内存；AI教母李飞飞从英伟达等融资2.3亿美元| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142251630)
+
 2024-09-12, @知乎, [清华计算机入学教育之“关于如何做科研的一些个人经验”](http://zhuanlan.zhihu.com/p/718156903?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
+2024-09-12, @极客日报, [机构预计iPhone 16出货量超前代，Max机型或占35%；黄仁勋称产品供不应求：东西都卖光了，每天只睡三个小时 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142168839)
+
+2024-09-11, @极客日报, [曝华为三折叠Mate XT被炒到38万元一台，已卖5台；马斯克嘲讽苹果iPhone无新意 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142139145)
+
 2024-09-11, @知乎, [在战锤世界中，四邪神是通过什么方法蛊惑忠诚派星际战士入坑的？](http://www.zhihu.com/question/666669754/answer/3621783069?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+
+2024-09-10, @极客日报, [罗永浩回应“锤子手机10亿融资被1年花完”质疑；华为鸿蒙超越苹果iOS，成中国市场第二大操作系统 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142082862)
 
 2024-09-09, @知乎, [如何欣赏《黑神话：悟空》中极其精致的铠甲披挂，它符合中国历史上的真实甲胄设计吗？](http://www.zhihu.com/question/666360932/answer/3620459503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -858,19 +854,29 @@
 
 2024-09-09, @知乎, [2024 知乎创作者盐沙龙·成都站活动回顾](http://zhuanlan.zhihu.com/p/718959820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
+2024-09-09, @极客日报, [获利超70万元，快手开除泄密员工；华为三折叠手机预约人数破200万；马斯克回应特斯拉要与x.AI分享收入 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/142052455)
+
 2024-09-09, @潮流周刊, [第193期 - 猫的陪伴](https://weekly.tw93.fun/posts/193-%E7%8C%AB%E7%9A%84%E9%99%AA%E4%BC%B4/)
 
+2024-09-06, @极客日报, [特斯拉辟谣马斯克1.5亿美元北京买房；阿里云通义千问GitHub页面404后已恢复；大模型算法岗平均月薪超6.75万 |极客头条](https://blog.csdn.net/weixin_39786569/article/details/141965051)
+
 2024-09-05, @知乎, [【长文】24.8~京都大学数据科学/东京大学情报理工CS/东京大学复杂理工~合格经验](http://zhuanlan.zhihu.com/p/718237324?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+
+2024-09-05, @极客日报, [淘宝将全面接入微信支付；苹果陷接班人危机，库克挽留多位资深高管；Vue 3.5正式版发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141925595)
 
 2024-09-05, @知乎, [如何评价《黑神话：悟空》的战斗设计？](http://www.zhihu.com/question/664774003/answer/3604907698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-09-04, @知乎, [英超20队转会开局总结 黑马一黑到底 切尔西打游戏 曼联信错一人](http://zhuanlan.zhihu.com/p/718161289?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+
+2024-09-04, @极客日报, [中国苹果税全球最高引争议；董明珠：招大学生年人均成本20万；英伟达遭美国调查，市值一夜蒸发2790亿美元 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141894882)
 
 2024-09-02, @知乎, [通关《黑神话：悟空》后，你如何评价这款游戏？](http://www.zhihu.com/question/664774078/answer/3613728839?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-09-02, @知乎, [网友发现《黑神话：悟空》误将钢筋扫描至游戏中，如何评价游戏场景实景扫描这样的做法？是怎么办到的？](http://www.zhihu.com/question/665320697/answer/3613646265?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-09-02, @知乎, [中国有哪些现存的宏伟至极的古建筑？](http://www.zhihu.com/question/30892385/answer/2348224759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+
+2024-09-02, @极客日报, [国产GPU独角兽回应解散传闻；​哪吒汽车员工称被违法解除劳动合同；传英特尔将剥离资产削减成本 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141818024)
 
 2024-09-02, @蠎周刊, [上周蠎快讯 2024/35](https://weekly.pychina.org/pyrecap/pyrw-2435.html)
 
@@ -882,6 +888,8 @@
 
 2024-08-30, @知乎, [《黑神话：悟空》里都有哪些山西古迹？](http://www.zhihu.com/question/664774524/answer/3603037255?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
+2024-08-29, @极客日报, [苹果罕见裁员，服务部门据传解雇百人；OpenAI接近以逾千亿美元估值进行新一轮融资 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141673943)
+
 2024-08-29, @知乎, [一些数字国画博主质疑《黑神话：悟空》的游戏内壁画是AI生成的，实际上这些美术作品的创作难度有多大？](http://www.zhihu.com/question/665529986/answer/3608949883?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-08-28, @知乎, [敢问路在何方——浅谈黑神话悟空的关卡设计](http://zhuanlan.zhihu.com/p/716661286?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -889,6 +897,8 @@
 2024-08-28, @知乎, [《黑神话：悟空》中的隐藏剧情和彩蛋，你发现了多少？](http://www.zhihu.com/question/664822209/answer/3604988117?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-08-28, @知乎, [如何评价《黑神话：悟空》第五回「日落红尘」？在难度、剧情、地图和战斗设计方面有哪些值得聊聊？](http://www.zhihu.com/question/664966240/answer/3607867268?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+
+2024-08-28, @极客日报, [消息称字节成立“大模型研究院”，知情人士回应；小米“无按键”旗舰手机被曝2025年亮相，代号“朱雀” | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141633735)
 
 2024-08-28, @HelloGitHub 月刊, [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101)
 
@@ -898,6 +908,8 @@
 
 2024-08-27, @知乎, [AI在家电领域有哪些应用，哪些是有实用价值的？中国家电品牌应该如何融入AI时代？](http://www.zhihu.com/question/663787796/answer/3591217637?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
+2024-08-27, @极客日报, [苹果宣布9月10日举行发布会；华为余承东：问界新M7 Pro卖一辆亏近3万元；Steam一夜遭28万次攻击 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141600745)
+
 2024-08-26, @知乎, [抑郁症少年说「当面对老师的批评，没有人站在我的身后，非常痛苦」，与孩子「站在一起」这件事有多重要？](http://www.zhihu.com/question/664891874/answer/3606562901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-08-26, @知乎, [目前来看，智能家居的「理想态」是什么？中国品牌在智能家居上有了哪些突破和可能性？](http://www.zhihu.com/question/663851174/answer/3589558198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -906,7 +918,11 @@
 
 2024-08-26, @蠎周刊, [上周蠎快讯 2024/34](https://weekly.pychina.org/pyrecap/pyrw-2434.html)
 
+2024-08-26, @极客日报, [传IBM中国收回研发岗位员工访问权限涉千余人；微软软件工程师工资曝光，AI部门平均269万元远超其他部门 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141555873)
+
 2024-08-23, @知乎, [《黑神话：悟空》中的「观音禅院」有原型吗？它是哪个朝代的建筑风格？](http://www.zhihu.com/question/664839272/answer/3602870819?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+
+2024-08-23, @极客日报, [雷军回应小米卖一辆车亏6万多；360儿童手表出现错误问答，周鸿祎致歉；苹果被曝四个字符可致iPhone崩溃 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141460195)
 
 2024-08-23, @知乎, [现在的食品科技相较于古代如此发达，那腐乳和方便面调料哪个更鲜？](http://www.zhihu.com/question/661482971/answer/3602383984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -914,9 +930,13 @@
 
 2024-08-21, @知乎, [乌尔善：以新技术探索中国电影工业化之路](http://zhuanlan.zhihu.com/p/715661517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
+2024-08-21, @极客日报, [《黑神话：悟空》爆火后，游戏科学员工疯狂被挖；OpenAI将向企业开放GPT-4o模型定制版；淘特客服回应接入微信支付|极客头条](https://blog.csdn.net/weixin_39786569/article/details/141381598)
+
 2024-08-19, @知乎, [去客厅化是否等同于多功能客厅，在现代空间设计中，如何赋予空间 N 种可能？](http://www.zhihu.com/question/663770727/answer/3591925456?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-08-19, @蠎周刊, [上周蠎快讯 2024/33](https://weekly.pychina.org/pyrecap/pyrw-2433.html)
+
+2024-08-19, @极客日报, [百度李彦宏建议年轻人不用非得学AI专业；华为推出5本软件工程教材；谷歌回应要求评测博主「必须给好评」 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141314474)
 
 2024-08-16, @知乎, [电影类型拓荒者乌尔善 一直在勇于试错的路上](http://zhuanlan.zhihu.com/p/714883186?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -924,17 +944,25 @@
 
 2024-08-15, @知乎, [我有一个绝妙的游戏点子，怎样才能把它做出来？——独立游戏可行性概念篇](http://zhuanlan.zhihu.com/p/713706470?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
+2024-08-15, @极客日报, [腾讯回应「苹果税」争议：正与苹果商谈小游戏收入分成；GitHub遭遇大规模宕机后已恢复；华为启动2025届应届生招聘| 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141219839)
+
 2024-08-14, @知乎, [创业一年，人间三年](http://zhuanlan.zhihu.com/p/714533901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-08-14, @知乎, [你好！新同学｜2024 开学季活动正式启动🔥](http://zhuanlan.zhihu.com/p/714038743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-08-14, @知乎, [从零开始制作一个属于你自己的GPU | 基于FPGA的图形加速器实现原理](http://zhuanlan.zhihu.com/p/714400366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
+2024-08-14, @极客日报, [黑客声称窃取海量腾讯数据，高达14亿条记录、500GB；美国司法部考虑推动分拆谷歌；Go 1.23版本正式发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141184133)
+
+2024-08-13, @极客日报, [腾讯回应微信自动清理3天未读消息；微软Copilot AI被指可被黑客操纵；Ubuntu将使用最新内核版本 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141155337)
+
 2024-08-12, @知乎, [本届奥运会上有没有人完成，足以吊打一个时代的成就？](http://www.zhihu.com/question/664002660/answer/3590919116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-08-12, @蠎周刊, [上周蠎快讯 2024/32](https://weekly.pychina.org/pyrecap/pyrw-2432.html)
 
 2024-08-12, @蠎周刊, [上周蠎快讯 2024/31](https://weekly.pychina.org/pyrecap/pyrw-2431.html)
+
+2024-08-12, @极客日报, [郑州富士康小时工时薪涨至26元；90后银行程序员黄雪梅奥运大众马拉松女子第一；谷歌开发乒乓球机器人 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/141123467)
 
 2024-08-09, @知乎, [幼儿园放假，想带孩子练习跳绳，但总是学不会，有什么简单易懂的指导吗？](http://www.zhihu.com/question/661959444/answer/3567142996?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
