@@ -1,5 +1,7 @@
 # 2024
 
+2024-12-14, @朽丘博, [让IPv4与IPv6进行互相连接互通](https://koxiuqiu.cn/2024/12y14d1/)
+
 2024-12-13, @阮一峰的网络日志, [科技爱好者周刊（第 329 期）：示意图利器 D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html)
 
 2024-12-10, @张洪Heo, [如何几乎不损失视频画质而大幅度压缩视频？来试试VBR可变比特率吧！](https://blog.zhheo.com/p/n3wc1lq1.html)
@@ -55,8 +57,6 @@
 2024-11-01, @张洪Heo, [ChatGPT对话搜索网络功能上手：能代替搜索引擎吗？](https://blog.zhheo.com/p/8088.html)
 
 2024-10-30, @张洪Heo, [HeoAwards2024：年度我喜欢的博主](https://blog.zhheo.com/p/d0b6.html)
-
-2024-10-29, @张洪Heo, [博客五周年记](https://blog.zhheo.com/p/ce30.html)
 
 2024-10-25, @朽丘博, [24年10月小结](https://koxiuqiu.cn/2024/10y25d1/)
 
