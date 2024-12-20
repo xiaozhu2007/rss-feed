@@ -1,5 +1,7 @@
 # 2024
 
+2024-12-18, @张洪Heo, [AE如何制作滚动数字，滚动文字风格动画教程](https://blog.zhheo.com/p/zyfdg7nj.html)
+
 2024-12-17, @张洪Heo, [Mac实现快捷键拖动窗口，cmd+ctrl可以让鼠标任意位置拖动窗口](https://blog.zhheo.com/p/55qdpzgk.html)
 
 2024-12-14, @朽丘博, [让IPv4与IPv6进行互相连接互通](https://koxiuqiu.cn/2024/12y14d1/)
@@ -39,8 +41,6 @@
 2024-11-22, @阮一峰的网络日志, [科技爱好者周刊（第 326 期）：世界没有那么多财富](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-326.html)
 
 2024-11-18, @张洪Heo, [开机黑屏时间长，进系统显示器才亮？DP线开机黑屏进不去bios解决方法](https://blog.zhheo.com/p/6053759e.html)
-
-2024-11-15, @阮一峰的网络日志, [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)
 
 2024-11-14, @张洪Heo, [泰坦军团P2710R上手：便宜好用的高刷显示器](https://blog.zhheo.com/p/3a1aeeb3.html)
 
