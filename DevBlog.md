@@ -1,5 +1,7 @@
 # 2024
 
+2024-12-20, @阮一峰的网络日志, [科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)
+
 2024-12-18, @张洪Heo, [AE如何制作滚动数字，滚动文字风格动画教程](https://blog.zhheo.com/p/zyfdg7nj.html)
 
 2024-12-17, @张洪Heo, [Mac实现快捷键拖动窗口，cmd+ctrl可以让鼠标任意位置拖动窗口](https://blog.zhheo.com/p/55qdpzgk.html)
@@ -55,8 +57,6 @@
 2024-11-05, @张洪Heo, [闲鱼买年费会员靠谱吗：年轻人的第一次被诈骗](https://blog.zhheo.com/p/2650.html)
 
 2024-11-02, @张洪Heo, [Word如何手动制作目录，手动生成自定义目录](https://blog.zhheo.com/p/7510.html)
-
-2024-11-01, @张洪Heo, [ChatGPT对话搜索网络功能上手：能代替搜索引擎吗？](https://blog.zhheo.com/p/8088.html)
 
 2024-10-25, @朽丘博, [24年10月小结](https://koxiuqiu.cn/2024/10y25d1/)
 
