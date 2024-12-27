@@ -1,5 +1,9 @@
 # 2024
 
+2024-12-27, @Zeruns 's Blog, [阿里云 泰国轻量服务器 性能测评，2核1G 200M不限流量 仅需34元/月](https://blog.zeruns.com/archives/833.html)
+
+2024-12-26, @Zeruns 's Blog, [阿里云 深圳轻量应用服务器 性能测评，2核1G 200M不限流量 仅需40元/月](https://blog.zeruns.com/archives/832.html)
+
 2024-12-26, @Zeruns 's Blog, [优派VG2481-4K显示器 简单开箱评测，24寸4K HDR400 10bit 广色域屏幕](https://blog.zeruns.com/archives/831.html)
 
 2024-12-26, @Zeruns 's Blog, [莱卡云 香港BGP云服务器 性能测评，1核1G 10兆，仅需20元/月，三网直连](https://blog.zeruns.com/archives/830.html)
@@ -77,10 +81,6 @@
 2024-10-23, @Zeruns 's Blog, [【随手拍】2024年拍的一些火烧云/晚霞/日落/日出照片，分享给大家看看](https://blog.zeruns.com/archives/825.html)
 
 2024-10-12, @朽丘博, [废话校园日常](https://koxiuqiu.cn/2024/10y12d1/)
-
-2024-10-10, @Zeruns 's Blog, [分享一个免费的SSL证书申请/续签和自动部署的网站，免费通配符域名证书](https://blog.zeruns.com/archives/824.html)
-
-2024-10-06, @Zeruns 's Blog, [《提问的智慧》——强烈建议看看](https://blog.zeruns.com/archives/823.html)
 
 2024-10-03, @朽丘博, [LEDCDN小说明](https://koxiuqiu.cn/2024/ledcdn/)
 
