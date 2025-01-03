@@ -1,5 +1,7 @@
 # 2025
 
+2025-01-03, @阮一峰的网络日志, [科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html)
+
 # 2024
 
 2024-12-30, @Zeruns 's Blog, [2.5G交换机 TL-SE2420 简单开箱评测，16个2.5G电口+4个10G光口(SFP+)](https://blog.zeruns.com/archives/837.html)
@@ -23,8 +25,6 @@
 2024-12-26, @Zeruns 's Blog, [莱卡云 香港BGP云服务器 性能测评，1核1G 10兆，仅需20元/月，三网直连](https://blog.zeruns.com/archives/830.html)
 
 2024-12-25, @Zeruns 's Blog, [莱卡云 韩国VPS 性能测评，双ISP住宅IP，1核1G 100兆，仅需54元/月，三网直连](https://blog.zeruns.com/archives/829.html)
-
-2024-12-25, @Zeruns 's Blog, [皓量云擎 宁波 轻量应用服务器 性能测评，8核16G 80M 仅需60元/月，高性价比VPS，大带宽](https://blog.zeruns.com/archives/828.html)
 
 2024-12-24, @张洪Heo, [Karabiner脚本：Mac实现大小写切换键（中英切换键）移动窗口](https://blog.zhheo.com/p/42pdkihr.html)
 
