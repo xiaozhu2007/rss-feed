@@ -1,5 +1,7 @@
 # 2025
 
+2025-01-10, @阮一峰的网络日志, [科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html)
+
 2025-01-09, @张洪Heo, [boring.notch上手：Mac上免费开源的灵动刘海，在刘海中显示音乐信息与进度](https://blog.zhheo.com/p/wounqbv0.html)
 
 2025-01-04, @朽丘博, [再见2024，你好2025](https://koxiuqiu.cn/2025/01y04d1/)
@@ -83,8 +85,6 @@
 2024-11-09, @朽丘博, [24年十月上旬周记,一段来自闲的慌的我的自述](https://koxiuqiu.cn/2024/11y9d1/)
 
 2024-11-06, @张洪Heo, [洪绘畅联发布！一个插件搞定内外网切换，根据环境自动切换最佳Url或者IP地址](https://blog.zhheo.com/p/f0d4.html)
-
-2024-11-06, @张洪Heo, [在中国大陆如何使用 AirPods Pro 2 检测听力，使用听力检测教程](https://blog.zhheo.com/p/26f5.html)
 
 2024-10-25, @朽丘博, [24年10月小结,错失学分的我雪上加霜](https://koxiuqiu.cn/2024/10y25d1/)
 
