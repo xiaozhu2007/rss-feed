@@ -1,5 +1,7 @@
 # 2025
 
+2025-01-16, @张洪Heo, [如何在不同操作系统上安装和使用 FFmpeg？macOS、Windows、Ubuntu、CentOS安装ffmpeg教程](https://blog.zhheo.com/p/fkbe6qm2.html)
+
 2025-01-16, @张洪Heo, [如何使用ffmpeg处理ProRes视频进行视频旋转？ProRes视频旋转教程](https://blog.zhheo.com/p/eyvb3cmq.html)
 
 2025-01-16, @阮一峰的网络日志, [AI 搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)
@@ -47,8 +49,6 @@
 2024-12-27, @Zeruns 's Blog, [UCloud 新加坡轻量服务器 性能测评，1核1G 30兆，仅需34元/月](https://blog.zeruns.com/archives/834.html)
 
 2024-12-27, @Zeruns 's Blog, [阿里云 泰国轻量服务器 性能测评，2核1G 200M不限流量 仅需34元/月](https://blog.zeruns.com/archives/833.html)
-
-2024-12-26, @Zeruns 's Blog, [阿里云 深圳轻量应用服务器 性能测评，2核1G 200M不限流量 仅需40元/月](https://blog.zeruns.com/archives/832.html)
 
 2024-12-24, @张洪Heo, [Karabiner脚本：Mac实现大小写切换键（中英切换键）移动窗口](https://blog.zhheo.com/p/42pdkihr.html)
 
