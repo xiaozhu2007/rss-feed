@@ -1,5 +1,9 @@
 # 2025
 
+2025-01-16, @张洪Heo, [如何使用ffmpeg处理ProRes视频进行视频旋转？ProRes视频旋转教程](https://blog.zhheo.com/p/eyvb3cmq.html)
+
+2025-01-16, @阮一峰的网络日志, [AI 搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)
+
 2025-01-16, @Zeruns 's Blog, [雨云 宁波 铂金8160独服，96核128G 500兆 仅需1288元/月，宁波裸金属物理机](https://blog.zeruns.com/archives/841.html)
 
 2025-01-15, @朽丘博, [社会变迁与个人成长：一种代际观察](https://koxiuqiu.cn/2025/01y15d1/)
@@ -85,10 +89,6 @@
 2024-11-25, @张洪Heo, [Mac中磁盘没有被推出，因为一个或多个程序可能正在使用它解决方法](https://blog.zhheo.com/p/cgxdrt1t.html)
 
 2024-11-22, @HiFeng'Blog, [Debian 12 / Ubuntu 24.04 安装 Docker 以及 Docker Compose 教程](https://www.hicairo.com/post/79.html)
-
-2024-11-18, @张洪Heo, [开机黑屏时间长，进系统显示器才亮？DP线开机黑屏进不去bios解决方法](https://blog.zhheo.com/p/6053759e.html)
-
-2024-11-14, @张洪Heo, [泰坦军团P2710R上手：便宜好用的高刷显示器](https://blog.zhheo.com/p/3a1aeeb3.html)
 
 2024-11-09, @朽丘博, [24年十月上旬周记,一段来自闲的慌的我的自述](https://koxiuqiu.cn/2024/11y9d1/)
 
