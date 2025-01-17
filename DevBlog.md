@@ -1,5 +1,7 @@
 # 2025
 
+2025-01-17, @张洪Heo, [PicList上手：一个可替代PicGo的图片上传到图床的上传工具](https://blog.zhheo.com/p/uutjtnvc.html)
+
 2025-01-17, @阮一峰的网络日志, [科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)
 
 2025-01-16, @Zeruns 's Blog, [RIHAO USB4硬盘盒 + 惠普FX900Pro 2TB固态硬盘 简单开箱测评](https://blog.zeruns.com/archives/842.html)
@@ -51,8 +53,6 @@
 2024-12-27, @阮一峰的网络日志, [科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html)
 
 2024-12-27, @Zeruns 's Blog, [UCloud 新加坡轻量服务器 性能测评，1核1G 30兆，仅需34元/月](https://blog.zeruns.com/archives/834.html)
-
-2024-12-27, @Zeruns 's Blog, [阿里云 泰国轻量服务器 性能测评，2核1G 200M不限流量 仅需34元/月](https://blog.zeruns.com/archives/833.html)
 
 2024-12-24, @张洪Heo, [Karabiner脚本：Mac实现大小写切换键（中英切换键）移动窗口](https://blog.zhheo.com/p/42pdkihr.html)
 
