@@ -1,5 +1,7 @@
 # 2025
 
+2025-01-17, @Zeruns 's Blog, [2.5G PoE交换机 TL-SE2109P 简单开箱评测，8个2.5G电口+1个10G光口(SFP+)](https://blog.zeruns.com/archives/843.html)
+
 2025-01-17, @张洪Heo, [PicList上手：一个可替代PicGo的图片上传到图床的上传工具](https://blog.zhheo.com/p/uutjtnvc.html)
 
 2025-01-17, @阮一峰的网络日志, [科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)
@@ -51,8 +53,6 @@
 2024-12-28, @朽丘博, [24年12月小结,准备迎接新的一年](https://koxiuqiu.cn/2024/12y28d1/)
 
 2024-12-27, @阮一峰的网络日志, [科技爱好者周刊（第 331 期）：你可能是一个 NPC](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-331.html)
-
-2024-12-27, @Zeruns 's Blog, [UCloud 新加坡轻量服务器 性能测评，1核1G 30兆，仅需34元/月](https://blog.zeruns.com/archives/834.html)
 
 2024-12-24, @张洪Heo, [Karabiner脚本：Mac实现大小写切换键（中英切换键）移动窗口](https://blog.zhheo.com/p/42pdkihr.html)
 
