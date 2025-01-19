@@ -2,11 +2,59 @@
 
 # 2025
 
+2025-01-19, @36氪, [特朗普称“极有可能”在就职后将TikTok禁令延期90天](https://36kr.com/newsflashes/3128959819258120?f=rss)
+
+2025-01-19, @IT之家, [万达电影预计 2024 年度净利润亏损 8.5 亿元~9.5 亿元，《抓娃娃》《误杀 3》等影片盈利](https://www.ithome.com/0/825/661.htm)
+
+2025-01-19, @IT之家, [QQ 纯血鸿蒙版 App 获 9.1.20 升级，支持平板安装使用](https://www.ithome.com/0/825/659.htm)
+
+2025-01-19, @IT之家, [何小鹏年会合唱《真心英雄》：继续全力以赴，勇敢追梦](https://www.ithome.com/0/825/658.htm)
+
+2025-01-19, @IT之家, [顺丰、京东物流等多家快递公司春节不停运](https://www.ithome.com/0/825/657.htm)
+
+2025-01-19, @IT之家, [API 14 首个 Beta 版本，华为鸿蒙 HarmonyOS 5.0.2 Beta 1 新增和增强特性公布](https://www.ithome.com/0/825/656.htm)
+
+2025-01-19, @IT之家, [科技昨夜今晨 0119：TikTok 呼吁美政府“立即明确”不强制执行禁令；格力辟谣“董明珠被停职审查”；高通骁龙 8 至尊版“减配版”曝光...](https://www.ithome.com/0/825/655.htm)
+
+2025-01-19, @IT之家, [适配灵动岛，消息称微信 iOS 版 8.0.55 大规模灰度 CallKit](https://www.ithome.com/0/825/654.htm)
+
+2025-01-19, @CN@Flipboard, [A Trader’s Guide to Navigating Trump’s Trade War Risks in Asia](https://www.bloomberg.com/news/articles/2025-01-19/a-trader-s-guide-to-navigating-trump-s-trade-war-risks-in-asia?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-01-18, @CN@Flipboard, [Before Donald Trump Became A Free Speech Hero Regarding TiKTok, He Was A Villain – OpEd](https://www.eurasiareview.com/19012025-before-donald-trump-became-a-free-speech-hero-regarding-tiktok-he-was-a-villain-oped/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-01-18, @IT之家, [API 14，华为 MatePad Pro 12.2 英寸平板获鸿蒙 HarmonyOS NEXT 5.0.0.103 Beta 版升级](https://www.ithome.com/0/825/653.htm)
+
+2025-01-18, @IT之家, [美国当选总统特朗普称“极有可能”在就职后将 TikTok 禁令延期 90 天](https://www.ithome.com/0/825/652.htm)
+
+2025-01-18, @博客园, [单件模式的困境与替代方案 - 荣--](https://www.cnblogs.com/Rong-/p/18679200)
+
+2025-01-18, @IT之家, [韩国游客涌入上海，京东快递寄韩国单量增长 30%](https://www.ithome.com/0/825/651.htm)
+
+2025-01-18, @IT之家, [丰富流体云功能使用场景，一加 13 手机获 ColorOS 15.0.0.502 升级](https://www.ithome.com/0/825/650.htm)
+
+2025-01-18, @CN@Flipboard, [What Drives Chinese Ambitions In South Asia? – OpEd](https://www.eurasiareview.com/19012025-what-drives-chinese-ambitions-in-south-asia-oped/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-01-18, @IT之家, [华为 2024 年分红方案出炉，每股分红 1.41 元](https://www.ithome.com/0/825/649.htm)
+
+2025-01-18, @CN@Flipboard, [The Indo-Pacific In Focus: Shaping Asia’s Future Under Trump’s 2.0 – OpEd](https://www.eurasiareview.com/19012025-the-indo-pacific-in-focus-shaping-asias-future-under-trumps-2-0-oped/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-01-18, @IT之家, [冰区外无限航区、全天候作业：同济大学 2000 吨级海洋科考教学保障船“同济”号下水](https://www.ithome.com/0/825/648.htm)
+
+2025-01-18, @IT之家, [海南航空回应飞机备降南昌：右侧发动机参数有细微波动](https://www.ithome.com/0/825/647.htm)
+
+2025-01-18, @CN@Flipboard, [US EV Sales Reach 1.3 Million](https://climatecrisis247.com/ev/us-ev-sales-reach-1-3-million/?utm_source=rss&utm_medium=rss&utm_campaign=us-ev-sales-reach-1-3-million)
+
+2025-01-18, @CN@Flipboard, [Angel Reese hypes $338,056 Sky teammate's 40-pt outing for Shanghai Swordfish in 3-words](https://www.sportskeeda.com/us/wnba/news-angel-reese-hypes-338-056-sky-teammate-s-40-pt-outing-shanghai-swordfish-3-words?key4=flipboardwnb&utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-01-18, @CN@Flipboard, [TP-Link routers may get banned. Here’s what brands to use instead](https://www.digitaltrends.com/computing/tp-link-router-alternatives/?utm_source=flipboard&utm_content=DigitalTrends/magazine/Computing:+News,+Reviews,+and+Everything+Else!)
+
 2025-01-18, @36氪, [今年首家！千亿公募换帅](https://36kr.com/newsflashes/3128078536481028?f=rss)
 
 2025-01-18, @36氪, [先锋集团将支付1.06亿美元以和解美国SEC指控](https://36kr.com/newsflashes/3128060763740425?f=rss)
 
 2025-01-18, @36氪, [新凤鸣入选首批国家工信部“卓越级智能工厂”](https://36kr.com/newsflashes/3128049194752257?f=rss)
+
+2025-01-18, @CN@Flipboard, [Trump says he will 'most likely' give TikTok a 90-day extension to avoid a ban](https://www.nbcnews.com/politics/donald-trump/trump-likely-give-tiktok-90-day-extension-avoid-ban-rcna188258?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-01-18, @36氪, [国新创投基金启航 首期规模100亿元](https://36kr.com/newsflashes/3128033779194112?f=rss)
 
@@ -14,19 +62,19 @@
 
 2025-01-18, @36氪, [三峡集团5项技术装备入列国家能源局第四批能源领域首台（套）重大技术装备名单](https://36kr.com/newsflashes/3128001603262728?f=rss)
 
-2025-01-18, @CN@Flipboard, [Millions flock to Chinese app RedNote following TikTok ban ruling](https://www.foxnews.com/video/6367301187112?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-01-18, @36氪, [2024年河南全省实现地区生产总值63589.99亿元 同比增长5.1%](https://36kr.com/newsflashes/3127982215419910?f=rss)
 
 2025-01-18, @36氪, [崔东树：2024年宁德时代、比亚迪动力电池份额合计仍保持70%](https://36kr.com/newsflashes/3127969254971395?f=rss)
 
 2025-01-18, @36氪, [浙江省政府与正泰集团签署战略合作协议](https://36kr.com/newsflashes/3127955149265160?f=rss)
 
-2025-01-18, @CN@Flipboard, [Qualification changes for ‘fresh milk’ label sought](https://www.taipeitimes.com/News/taiwan/archives/2025/01/19/2003830470?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-01-18, @CN@Flipboard, [US concerned over damaged cables](https://www.taipeitimes.com/News/front/archives/2025/01/19/2003830459?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-01-18, @CN@Flipboard, [Cooperation needed as China won’t back down – experts](https://www.philstar.com/headlines/2025/01/19/2415255/cooperation-needed-china-wont-back-down-experts?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2025-01-18, @博客园, [利用坦克PWA3快速为应用配置域名：以Gogs为例 - 耀通](https://www.cnblogs.com/ganyaotong/p/18658665)
+2025-01-18, @CN@Flipboard, [Nonprofit behind Wuhan-Lab Research Barred from Receiving Taxpayer Funds for Five Years](https://www.nationalreview.com/news/nonprofit-behind-wuhan-lab-research-barred-from-getting-taxpayer-funds-for-five-years/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-01-18, @CN@Flipboard, [Joe Rogan goes scorched earth on “c**ksucker” Tim Walz during no-holds barred rant on corrupt governments, fans say: “Absolute Cinema”](https://www.sportskeeda.com/mma/news-joe-rogan-goes-scorched-earth-c-ksucker-tim-walz-no-holds-barred-rant-corrupt-governments-fans-say-absolute-cinema?key4=flipboard-combat&utm_medium=flipboard-combat)
 
 2025-01-18, @36氪, [云南：全省初一在校女生可免费接种国产HPV疫苗](https://36kr.com/newsflashes/3127937102452737?f=rss)
 
@@ -76,15 +124,13 @@
 
 2025-01-18, @IT之家, [英国电信取消“信号机柜改车充桩”计划，完成进度仅 1/60000](https://www.ithome.com/0/825/635.htm)
 
-2025-01-18, @36氪, [南方五省区2024年新能源总装机容量突破1.9亿千瓦](https://36kr.com/newsflashes/3127794591078656?f=rss)
-
-2025-01-18, @CN@Flipboard, [What happened when other countries banned TikTok](https://www.washingtonpost.com/technology/2025/01/18/tiktok-ban-russia-india-nepal/?utm_source=flipboard&utm_content=WashPost/magazine/Technology)
-
 2025-01-18, @IT之家, [美国“萤火虫”航空航天公司“蓝色幽灵”号月球着陆器传回首张太空图像](https://www.ithome.com/0/825/633.htm)
 
 2025-01-18, @IT之家, [机械师推出 TH60 电竞耳机：四麦克风 ENC 降噪、0.04s 延迟，149 元](https://www.ithome.com/0/825/632.htm)
 
 2025-01-18, @IT之家, [手机安全回收处置示范项目启动试运行：全流程可控可溯，实现彻底销毁](https://www.ithome.com/0/825/631.htm)
+
+2025-01-18, @CN@Flipboard, [Kevin O’Leary says he’s offering $20B cash for TikTok](https://www.newsnationnow.com/business/tech/kevin-oleary-says-hes-offering-20b-cash-for-tiktok/?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-01-18, @博客园, [编程练习：编写一个监听者模式类 - 荣--](https://www.cnblogs.com/Rong-/p/18678830)
 
@@ -96,13 +142,9 @@
 
 2025-01-18, @IT之家, [OPPO 工业设计中心总经理刘浩然：今年将推出全新的一加设计语言](https://www.ithome.com/0/825/627.htm)
 
-2025-01-18, @CN@Flipboard, [One of Disneyland's sweetest experiences is slowly becoming obsolete](https://www.sfgate.com/disneyland/article/disneyland-rare-chinese-sugar-art-20037489.php?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-01-18, @IT之家, [消息称苹果下一代 MacBook Air 采用氧化 TFT LCD 屏，系 2022 MacBook Pro“同款”](https://www.ithome.com/0/825/625.htm)
 
 2025-01-18, @IT之家, [Steam 即时战略游戏节 1 月 20 日开启，《钢铁收割》《帝国时代》等作将迎折扣](https://www.ithome.com/0/825/624.htm)
-
-2025-01-18, @CN@Flipboard, [Dwight Howard’s Olympics Ego Boost Was Destroyed in Pieces by 7ft NBA Legend](https://www.essentiallysports.com/nba-legends-basketball-news-dwight-howards-olympics-ego-boost-was-destroyed-in-pieces-by-seven-ft-nba-legend/?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-01-18, @CGTV-China, [President Xi extends Spring Festival greetings to military veterans](https://news.cgtn.com/news/2025-01-18/President-Xi-extends-Spring-Festival-greetings-to-military-veterans-1AgvKonBQwE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
@@ -204,35 +246,15 @@
 
 2025-01-18, @IT之家, [浙江温州公布 2024 年无人机空中血液配送报告：累计飞行 892 架次、送血达 2725.75 单位](https://www.ithome.com/0/825/587.htm)
 
-2025-01-18, @IT之家, [机械师曙光 16 Pro 笔记本配置上新：i9-13900HX + RTX4060 售 7999 元起](https://www.ithome.com/0/825/585.htm)
-
-2025-01-18, @IT之家, [联合国欧洲经委会：拟为电动汽车快充能力测试制定全球统一标准](https://www.ithome.com/0/825/584.htm)
-
-2025-01-18, @IT之家, [三星 Galaxy S25 系列手机完整规格曝光：首发高频骁龙 8 至尊版芯片，迈步 12G 内存](https://www.ithome.com/0/825/583.htm)
-
 2025-01-18, @CGTV-China, [Braised pork: A taste of Spring Festival](https://news.cgtn.com/news/2025-01-18/Braised-pork-A-taste-of-Spring-Festival-1AgevjDF0nC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-01-18, @IT之家, [中国航天科技集团：“航天星闪”无线通信模组搭载飞行试验获得成功](https://www.ithome.com/0/825/580.htm)
-
-2025-01-18, @IT之家, [乘联会崔东树：2024 年宁德时代、比亚迪动力电池份额合计达 70%](https://www.ithome.com/0/825/579.htm)
-
-2025-01-18, @IT之家, [开罗游戏《哆啦 A 梦的铜锣烧店物语》登主机平台，149 港币起](https://www.ithome.com/0/825/577.htm)
-
-2025-01-18, @IT之家, [台积电确认已在美国亚利桑那州 Fab 21 晶圆厂大规模生产 4nm 芯片](https://www.ithome.com/0/825/575.htm)
-
 2025-01-18, @CGTV-China, [Chinese astronomical observatory discovers new comet](https://news.cgtn.com/news/2025-01-18/Chinese-astronomical-observatory-discovers-new-comet-1AfZHiqias0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-01-18, @IT之家, [RDNA 4 首秀：AMD RX 9070 XT 显卡跑分曝光，光追性能远超 RDNA 3](https://www.ithome.com/0/825/574.htm)
-
-2025-01-18, @IT之家, [联想计划本财年内将印度生产的智能手机和笔记本电脑数量翻番](https://www.ithome.com/0/825/573.htm)
-
-2025-01-18, @IT之家, [高通骁龙 8 至尊版处理器“减配版”曝光：2+5 架构，去掉一个“性能内核”](https://www.ithome.com/0/825/571.htm)
-
-2025-01-18, @IT之家, [三星专利探索导电按键：生物识别 + 健康追踪，有望重塑交互体验](https://www.ithome.com/0/825/570.htm)
 
 2025-01-18, @博客园, [分块莫队学习笔记 - Archippus](https://www.cnblogs.com/zphh/p/18553906)
 
 2025-01-18, @博客园, [yolov5输出解码实现 - 凪风sama](https://www.cnblogs.com/CrescentWind/p/18676617)
+
+2025-01-18, @CN@Flipboard, [Group Involved in Wuhan Virus Studies Debarred by US Health Dept](https://www.bloomberg.com/news/articles/2025-01-18/group-involved-in-wuhan-virus-studies-debarred-by-us-health-dept?utm_source=flipboard&utm_content=bloomberg/magazine/Business)
 
 2025-01-18, @CN@Flipboard, [More help on the way to address Singaporeans’ cost of living concerns: SM Lee](https://www.straitstimes.com/singapore/more-help-on-the-way-to-address-singaporeans-cost-of-living-concerns-sm-lee?utm_source=flipboard&utm_content=topic%2Fchina)
 
@@ -252,13 +274,9 @@
 
 2025-01-18, @博客园, [在 .NET Core中如何使用 Redis 创建分布式锁 - 代码拾光](https://www.cnblogs.com/liyongqiang-cc/p/18655619)
 
-2025-01-18, @CN@Flipboard, [Heavy rain warning in Thailand as temperatures drop](https://thethaiger.com/news/national/heavy-rain-warning-in-thailand-as-temperatures-drop?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-01-18, @小众软件, [还在用 XShell？试试这款新的全平台高颜值原生SSH终端工具：iShellPro](https://www.appinn.com/ishellpro/)
 
 2025-01-18, @CGTV-World, [Ambassador Xie Feng highlights Spring Festival’s cultural significance](https://newsus.cgtn.com/news/2025-01-18/Ambassador-Xie-Feng-highlights-Spring-Festival-s-cultural-significance-1AfTFAjKwDe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-01-18, @CN@Flipboard, [10 Countries Which Have Never Been Colonised By Europeans](https://flipboard.com/@worldatlascom/10-countries-which-have-never-been-colonised-by-europeans-a2si5dpook4635d0)
 
 2025-01-18, @博客园, [为什么使用ROS的remap标签不起作用？ - 两棵雪松](https://www.cnblogs.com/twosedar/p/18677978)
 
@@ -266,13 +284,11 @@
 
 2025-01-17, @CGTV-World, [Israeli cabinet approves Gaza ceasefire deal](https://news.cgtn.com/news/2025-01-18/news-1AfJGXlBFV6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-01-17, @CN@Flipboard, [Beijing calls Biden a ‘liar’ and says hello to Trump - Asia Times](https://asiatimes.com/2025/01/beijing-calls-biden-a-liar-and-says-hello-to-trump/?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-01-17, @CGTV-World, [CMG held the "Prelude to the Spring Festival Gala” event in New York](https://newsus.cgtn.com/news/2025-01-18/CMG-held-the-Prelude-to-the-Spring-Festival-Gala-event-in-New-York-1AfGaaXHgpq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-01-17, @CN@Flipboard, [Viral Video: New robot dog can run 100 meters in 10 seconds](https://americanmilitarynews.com/2025/01/viral-video-new-robot-dog-can-run-100-meters-in-10-seconds/?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-01-17, @36氪, [2025年，卖车还得靠流量吗？](https://36kr.com/p/3126886568089602?f=rss)
+
+2025-01-17, @CN@Flipboard, [Kevin O’Leary says he’s offering $20B cash for TikTok](https://thehill.com/business/5092226-tiktok-buyout-offer-kevin-o-leary/?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-01-17, @博客园, [海康工业相机的应用部署不是简简单单！？ - SkyXZ](https://www.cnblogs.com/SkyXZ/p/18677928)
 
@@ -298,13 +314,7 @@
 
 2025-01-17, @36氪, [30年不塌房，任贤齐严选出年轻一代的新冰茶](https://36kr.com/p/3126646385416197?f=rss)
 
-2025-01-17, @CN@Flipboard, [Kevin O'Leary puts $20B TikTok cash offer on the table: ‘Most interesting, complicated, crazy situation’](https://www.foxbusiness.com/media/kevin-oleary-puts-20b-tiktok-cash-offer-table-most-interesting-complicated-crazy-situation?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-01-17, @CN@Flipboard, [Trump signals he will start pushing for a new world order in first 100 days](https://theconversation.com/trump-signals-he-will-start-pushing-for-a-new-world-order-in-first-100-days-247594?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-01-17, @CGTV-China, [Chinese Academy of Social Sciences launches database on Xi thought](https://news.cgtn.com/news/2025-01-18/Chinese-Academy-of-Social-Sciences-launches-database-on-Xi-thought-1AeLBc4B4Q0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-01-17, @CN@Flipboard, [Mike Pence makes brutal 'arms race' warning to Donald Trump](https://www.irishstar.com/news/us-news/donald-trump-china-taiwan-34502967?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-01-17, @博客园, [G1原理—10.如何优化G1中的FGC - 东阳马生架构](https://www.cnblogs.com/mjunz/p/18677839)
 
@@ -350,15 +360,11 @@
 
 2025-01-17, @少数派, [寻微致新：少数派的 2024 年度最佳好物](https://sspai.com/post/95681)
 
-2025-01-17, @CN@Flipboard, [Mark Cuban Warns Kevin O'Leary About TikTok Purchase: If You Can't See The Sucker At The Negotiation Table, It's You](https://www.benzinga.com/25/01/43072409/mark-cuban-warns-kevin-oleary-about-tiktok-purchase-if-you-cant-see-the-sucker-at-the-negotiation-table-its-you?utm_source=Flipboard&utm_campaign=partner_feed&utm_medium=partner_feed&utm_content=business_news)
-
 2025-01-17, @少数派, [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/95688)
 
 2025-01-17, @不死鸟, [2025 年 1 月 每日分享](https://iui.su/193/)
 
 2025-01-17, @少数派, [人人都可以上手的 Android TV 改造指南，让你也能开机就能看到节目](https://sspai.com/post/95529)
-
-2025-01-17, @CN@Flipboard, [The visionary tycoons behind Asia’s leading food companies](https://www.tatlerasia.com/power-purpose/leadership/asias-top-food-companies-founders?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-01-17, @少数派, [三平米搞定干湿分区、洗烘与智能马桶：我的卫生间改造复盘](https://sspai.com/post/95526)
 
