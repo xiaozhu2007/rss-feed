@@ -1,5 +1,7 @@
 # 2025
 
+2025-01-18, @Zeruns 's Blog, [爱快 IK-W35 面板式AP 简单开箱评测和拆解，双频WiFi6 AX3000，2.5G网口](https://blog.zeruns.com/archives/845.html)
+
 2025-01-18, @Zeruns 's Blog, [腾讯云 韩国轻量VPS 性能测评，2核1G 200M不限流量 仅需35元/月](https://blog.zeruns.com/archives/844.html)
 
 2025-01-17, @Zeruns 's Blog, [2.5G PoE交换机 TL-SE2109P 简单开箱评测，8个2.5G电口+1个10G光口(SFP+)](https://blog.zeruns.com/archives/843.html)
@@ -85,8 +87,6 @@
 2024-11-29, @张洪Heo, [宝塔Nginx反代上游服务器不支持HTTP3，如何启用HTTP3](https://blog.zhheo.com/p/6zuz70vr.html)
 
 2024-11-28, @张洪Heo, [宝塔如何开启HTTP3，启用HTTP3使用QUIC进行高性能传输](https://blog.zhheo.com/p/ftcah0lq.html)
-
-2024-11-28, @张洪Heo, [使用Certimate部署Google证书，免费通配符证书申请](https://blog.zhheo.com/p/a4759pr7.html)
 
 2024-11-22, @HiFeng'Blog, [Debian 12 / Ubuntu 24.04 安装 Docker 以及 Docker Compose 教程](https://www.hicairo.com/post/79.html)
 
