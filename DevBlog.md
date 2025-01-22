@@ -1,5 +1,7 @@
 # 2025
 
+2025-01-21, @Zeruns 's Blog, [爱快 IK-X9 吸顶AP 简单开箱评测和拆解，三频WiFi7，BE5000，2.5G网口](https://blog.zeruns.com/archives/846.html)
+
 2025-01-20, @张洪Heo, [咕哩的年度红包封面在这里领取～](https://blog.zhheo.com/p/06wziydu.html)
 
 2025-01-18, @Zeruns 's Blog, [爱快 IK-W35 面板式AP 简单开箱评测和拆解，双频WiFi6 AX3000，2.5G网口](https://blog.zeruns.com/archives/845.html)
@@ -49,8 +51,6 @@
 2025-01-03, @阮一峰的网络日志, [科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-332.html)
 
 # 2024
-
-2024-12-30, @Zeruns 's Blog, [2.5G交换机 TL-SE2420 简单开箱评测，16个2.5G电口+4个10G光口(SFP+)](https://blog.zeruns.com/archives/837.html)
 
 2024-12-28, @朽丘博, [24年12月小结,准备迎接新的一年](https://koxiuqiu.cn/2024/12y28d1/)
 
