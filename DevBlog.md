@@ -1,5 +1,7 @@
 # 2025
 
+2025-01-23, @朽丘博, [漂泊异乡终归巢：游子踏上归途，重逢温馨家园](https://koxiuqiu.cn/2025/1y23d2/)
+
 2025-01-23, @朽丘博, [站长基本教材,从入门到入土,一站传三代](https://koxiuqiu.cn/2025/1y23d1/)
 
 2025-01-23, @Zeruns 's Blog, [UCloud 香港轻量服务器 性能测评，1核1G 30兆，仅需34元/月](https://blog.zeruns.com/archives/848.html)
@@ -65,8 +67,6 @@
 2024-12-23, @张洪Heo, [我在2025年推荐的Mac软件](https://blog.zhheo.com/p/qs34pfrn.html)
 
 2024-12-22, @朽丘博, [彼方的她:一次真实的跨越千年年的对话也许会改变未来](https://koxiuqiu.cn/2024/12/22/1/)
-
-2024-12-20, @阮一峰的网络日志, [科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)
 
 2024-12-18, @张洪Heo, [AE如何制作滚动数字，滚动文字风格动画教程](https://blog.zhheo.com/p/zyfdg7nj.html)
 
