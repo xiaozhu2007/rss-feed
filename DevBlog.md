@@ -1,5 +1,7 @@
 # 2025
 
+2025-01-24, @阮一峰的网络日志, [科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)
+
 2025-01-23, @朽丘博, [漂泊异乡终归巢：游子踏上归途，重逢温馨家园](https://koxiuqiu.cn/2025/1y23d2/)
 
 2025-01-23, @朽丘博, [站长基本教材,从入门到入土,一站传三代](https://koxiuqiu.cn/2025/1y23d1/)
@@ -37,8 +39,6 @@
 2025-01-15, @张洪Heo, [AfterEffect导出的颜色偏灰偏暗解决方法，渲染的视频播放时颜色不正确](https://blog.zhheo.com/p/qxweb24k.html)
 
 2025-01-15, @Zeruns 's Blog, [NanoKVM简单开箱测评和拆解，让普通电脑实现BMC/IPMI远程管理功能](https://blog.zeruns.com/archives/840.html)
-
-2025-01-15, @Zeruns 's Blog, [雨云 宁波I7-14700HX独服测评，28核64G 500兆 仅需1588元/月，宁波裸金属物理机](https://blog.zeruns.com/archives/839.html)
 
 2025-01-13, @朽丘博, [云驰 华北内蒙8核8G20兆上行200兆下行测评,仅需60/月](https://koxiuqiu.cn/2025/01y13d1/)
 
