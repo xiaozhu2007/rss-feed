@@ -1,5 +1,7 @@
 # 2025
 
+2025-01-30, @朽丘博, [新开始【旅游了回来更新】](https://koxiuqiu.cn/2025/1y30d1/)
+
 2025-01-28, @Zeruns 's Blog, [雨云 十堰800G高防 E5-2650Lv3独服，48核32G 30兆 最低348元/月，裸金属物理机](https://blog.zeruns.com/archives/850.html)
 
 2025-01-26, @Zeruns 's Blog, [海口-北京-澳门 旅行记录和照片分享！多图警告！](https://blog.zeruns.com/archives/849.html)
@@ -35,8 +37,6 @@
 2025-01-16, @张洪Heo, [如何使用ffmpeg处理ProRes视频进行视频旋转？ProRes视频旋转教程](https://blog.zhheo.com/p/eyvb3cmq.html)
 
 2025-01-16, @阮一峰的网络日志, [AI 搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)
-
-2025-01-16, @Zeruns 's Blog, [雨云 宁波 铂金8160独服，96核128G 500兆 仅需1288元/月，宁波裸金属物理机](https://blog.zeruns.com/archives/841.html)
 
 2025-01-15, @朽丘博, [社会变迁与个人成长：一种代际观察](https://koxiuqiu.cn/2025/01y15d1/)
 
