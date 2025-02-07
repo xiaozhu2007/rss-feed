@@ -1,5 +1,7 @@
 # 2025
 
+2025-02-06, @张洪Heo, [如何在mac上隐藏应用程序在dock栏中的图标](https://blog.zhheo.com/p/3jdfoye6.html)
+
 2025-02-06, @张洪Heo, [如何自定义ollama模型存储位置？Mac、Windows修改模型存储位置教程](https://blog.zhheo.com/p/xs4q95m6.html)
 
 2025-02-05, @张洪Heo, [Certimate接入宝塔更新宝塔网站证书教程，自动更新证书到所有网站](https://blog.zhheo.com/p/feolr2j0.html)
@@ -39,8 +41,6 @@
 2025-01-17, @张洪Heo, [PicList上手：一个可替代PicGo的图片上传到图床的上传工具](https://blog.zhheo.com/p/uutjtnvc.html)
 
 2025-01-17, @阮一峰的网络日志, [科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)
-
-2025-01-16, @Zeruns 's Blog, [RIHAO USB4硬盘盒 + 惠普FX900Pro 2TB固态硬盘 简单开箱测评](https://blog.zeruns.com/archives/842.html)
 
 2025-01-16, @张洪Heo, [如何在不同操作系统上安装和使用 FFmpeg？macOS、Windows、Ubuntu、CentOS安装ffmpeg教程](https://blog.zhheo.com/p/fkbe6qm2.html)
 
