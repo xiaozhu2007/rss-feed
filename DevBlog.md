@@ -1,5 +1,7 @@
 # 2025
 
+2025-02-07, @阮一峰的网络日志, [科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
+
 2025-02-07, @Zeruns 's Blog, [Linux搭建Minecraft《龙之冒险:新征程2.0》整合包服务器 | 我的世界开服教程](https://blog.zeruns.com/archives/852.html)
 
 2025-02-06, @张洪Heo, [如何在mac上隐藏应用程序在dock栏中的图标](https://blog.zhheo.com/p/3jdfoye6.html)
@@ -91,8 +93,6 @@
 2024-12-09, @张洪Heo, [潘通 2025 年度色发布：PANTONE 17-1230 Mocha Mousse 摩卡慕斯](https://blog.zhheo.com/p/lrqaxlxk.html)
 
 2024-12-04, @张洪Heo, [Mac上使用Drawthings的Flux模型进行扩图、补图](https://blog.zhheo.com/p/5vi77cg0.html)
-
-2024-12-04, @张洪Heo, [Mac使用rsync实现本地文件夹同步到服务器，提交编译好的静态站点，增量提交网站](https://blog.zhheo.com/p/3anvspa5.html)
 
 2024-12-01, @朽丘博, [24年11月小结,马上新年嘞刘德华也要解冻啦](https://koxiuqiu.cn/2024/12y1d1/)
 
