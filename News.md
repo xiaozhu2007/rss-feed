@@ -1,138 +1,234 @@
 # 2025
 
-2025-02-11, @36氪, [中信证券：2025年国内中高阶智驾渗透率有望翻倍](https://36kr.com/newsflashes/3161495969487361?f=rss)
+2025-02-11, @36氪, [《人形机器人电驱动一体化关节接口规范》标准已通过立项审查](https://36kr.com/newsflashes/3161809424378373?f=rss)
 
-2025-02-11, @36氪, [浙江今年将谋划推进120个强港项目建设，加速推进新质生产力“入海”](https://36kr.com/newsflashes/3161497894066952?f=rss)
+2025-02-11, @36氪, [光线传媒触及涨停，股价创历史新高](https://36kr.com/newsflashes/3161805895183104?f=rss)
 
-2025-02-11, @36氪, [布局DeepSeek，AI深度赋能教育行业](https://36kr.com/newsflashes/3161495653194249?f=rss)
+2025-02-11, @36氪, [富达增持中国股票，押注“动物精神”回归和AI热潮](https://36kr.com/newsflashes/3161804412021505?f=rss)
 
-2025-02-11, @36氪, [两市融资余额增加190.57亿元](https://36kr.com/newsflashes/3161506149177861?f=rss)
+2025-02-11, @36氪, [上海自研GLP-1糖尿病新药开出首张处方，或将挑战司美格鲁肽](https://36kr.com/newsflashes/3161798542518786?f=rss)
 
-2025-02-11, @36氪, [银河证券：看好绿电企业左侧布局机会](https://36kr.com/newsflashes/3161487341066753?f=rss)
+2025-02-11, @36氪, [海航航空在重庆成立两家航空科技公司，含多项AI业务](https://36kr.com/newsflashes/3161794243717896?f=rss)
 
-2025-02-11, @36氪, [中信证券：坚定看好面板行业的中长期逻辑](https://36kr.com/newsflashes/3161487012535044?f=rss)
+2025-02-11, @36氪, [印尼1月份国内汽车销量降至61843辆](https://36kr.com/newsflashes/3161791972256263?f=rss)
 
-2025-02-11, @36氪, [华泰证券：DeepSeek或将为运营商带来新一轮成长机遇](https://36kr.com/newsflashes/3161478412311304?f=rss)
+2025-02-11, @36氪, [荣耀申请注册荣耀300配色商标](https://36kr.com/newsflashes/3161784703691267?f=rss)
 
-2025-02-11, @36氪, [政策利好加持，房企开年拿地热情不减](https://36kr.com/newsflashes/3161483018312199?f=rss)
+2025-02-11, @36氪, [重庆国资委主任：加快推进完成重庆机电集团战略性重组和所属企业专业化整合](https://36kr.com/newsflashes/3161779950267142?f=rss)
 
-2025-02-11, @36氪, [Meta启动全球裁员5%计划](https://36kr.com/newsflashes/3161494605879814?f=rss)
+2025-02-11, @36氪, [AI智能体概念震荡走强](https://36kr.com/newsflashes/3161772469070594?f=rss)
 
-2025-02-11, @36氪, [礼来制药出售65亿美元投资级债券](https://36kr.com/newsflashes/3161482139900421?f=rss)
+2025-02-11, @36氪, [软银在5000亿美元的人工智能计划中权衡高负债融资，Stargate可能采用复杂的高杠杆项目融资模式](https://36kr.com/newsflashes/3161769797085701?f=rss)
+
+2025-02-11, @36氪, [北证50指数午后涨超5%](https://36kr.com/newsflashes/3161761571826181?f=rss)
+
+2025-02-11, @36氪, [机构：2024年中国平板电脑市场出货量同比增长4.3%](https://36kr.com/newsflashes/3161751205522182?f=rss)
+
+2025-02-11, @36氪, [上交所：华泰货币ETF、广发货币ETF等7只货币ETF2月11日盘中即时起至收市暂停交易业务](https://36kr.com/newsflashes/3161743743789830?f=rss)
+
+2025-02-11, @36氪, [印度卢比创2022年以来最大涨幅，表现优于其他亚洲货币](https://36kr.com/newsflashes/3161738032359940?f=rss)
+
+2025-02-11, @36氪, [1月中国中小企业发展指数小幅上升](https://36kr.com/newsflashes/3161730592025353?f=rss)
+
+2025-02-11, @36氪, [湘财证券：关注拥有规模优势的龙头钢铁企业](https://36kr.com/newsflashes/3161719491389955?f=rss)
+
+2025-02-11, @36氪, [泰国计划采取措施减缓长期股票基金赎回](https://36kr.com/newsflashes/3161708649196288?f=rss)
+
+2025-02-11, @36氪, [致敬大国工匠！“第四届中国建造匠心传承致敬礼”颁奖典礼活动圆满落幕](https://36kr.com/p/3161696337472263?f=rss)
+
+2025-02-11, @36氪, [半日主力资金加仓通信、银行股，抛售电力设备股](https://36kr.com/newsflashes/3161701356972806?f=rss)
+
+2025-02-11, @36氪, [恒指午间休盘跌0.59%，恒生科技指数跌1.55%](https://36kr.com/newsflashes/3161695557102082?f=rss)
+
+2025-02-11, @36氪, [当欧洲中产开始「消费降级」，中国硬件公司找到新机会｜New Land](https://36kr.com/p/3160594876128002?f=rss)
+
+2025-02-11, @36氪, [专注高性能国产处理器芯片研发，超睿科技完成亿元A1轮融资｜36氪首发](https://36kr.com/p/3160634629282567?f=rss)
 
 2025-02-11, @36氪, [抱歉，巴黎欧莱雅还不够下沉](https://36kr.com/p/3159039428532736?f=rss)
 
-2025-02-11, @36氪, [福特汽车计划开发新型混合动力汽车](https://36kr.com/newsflashes/3161481808272131?f=rss)
-
-2025-02-11, @36氪, [政策利好频出，入境游市场持续火热](https://36kr.com/newsflashes/3161481169115907?f=rss)
-
-2025-02-11, @36氪, [头部企业陆续接入DeepSeek，AI医疗加速落地](https://36kr.com/newsflashes/3161480592857863?f=rss)
-
 2025-02-11, @36氪, [基于“AI+器官芯片”开发新药，「耀速科技」与这家制药巨头达成合作｜早期项目](https://36kr.com/p/3159499800812297?f=rss)
-
-2025-02-11, @36氪, [春节后市场迎来“科技牛”：九成基金实现浮盈百余产品浮盈超10%](https://36kr.com/newsflashes/3161479679367942?f=rss)
-
-2025-02-11, @36氪, [Paragon收购高鑫零售股权案获得市场监管总局批准](https://36kr.com/newsflashes/3161485856086536?f=rss)
-
-2025-02-11, @36氪, [ETF总规模达3.8万亿元，年内已新增超900亿元](https://36kr.com/newsflashes/3161460866079234?f=rss)
-
-2025-02-11, @36氪, [法国监管机构据悉调查微软，关注必应潜在垄断问题](https://36kr.com/newsflashes/3161461859408648?f=rss)
-
-2025-02-11, @36氪, [数据交易平台建设加快，多地争相入局](https://36kr.com/newsflashes/3161460334090760?f=rss)
-
-2025-02-11, @36氪, [中信建投：机器人及智驾成AI端侧投资主线](https://36kr.com/newsflashes/3161454628363015?f=rss)
 
 2025-02-11, @36氪, [8点1氪｜多家航司回应不得低于200元卖票；《哪吒2》成全球票房前30唯一非好莱坞影片；DeepSeek优惠期结束，价格上调](https://36kr.com/p/3161447783324164?f=rss)
 
-2025-02-11, @IT之家, [微软遭法国反垄断调查：向小型搜索引擎提供必应技术时故意降低质量](https://www.ithome.com/0/829/961.htm)
+2025-02-11, @IT之家, [特斯拉 Cybertruck 撞上路灯杆，车主称当时正在用 FSD V13 系统](https://www.ithome.com/0/830/045.htm)
 
-2025-02-11, @IT之家, [美国两飞机在跑道上相撞，造成至少 1 人死亡](https://www.ithome.com/0/829/960.htm)
+2025-02-11, @IT之家, [请尽快更新：苹果 iOS / iPadOS 修复零日漏洞，被利用可解除 USB 限制模式](https://www.ithome.com/0/830/040.htm)
 
-2025-02-11, @IT之家, [JPR：2024Q4 全球 CPU 市场复苏，AI PC 功不可没](https://www.ithome.com/0/829/959.htm)
+2025-02-11, @IT之家, [比亚迪旗下十余款车型将搭载禾赛激光雷达，年内陆续上市交付](https://www.ithome.com/0/830/034.htm)
 
-2025-02-11, @IT之家, [微软 Win11 开始菜单新功能曝光：支持打开时直接显示所有应用](https://www.ithome.com/0/829/958.htm)
+2025-02-11, @IT之家, [三星确认下周为 Galaxy S24 系列手机推送 One UI 7.0 Beta 4 更新](https://www.ithome.com/0/830/033.htm)
 
-2025-02-11, @IT之家, [智驾公司纵目科技创始人唐锐被曝失联，办公室断电并封楼](https://www.ithome.com/0/829/957.htm)
+2025-02-11, @IT之家, [英伟达 RTX 5090 显卡首个水冷头诞生：可使 GPU 核心温度直降 30℃](https://www.ithome.com/0/830/032.htm)
 
-2025-02-11, @IT之家, [微软撤下“假卸载 Edge 浏览器指南”：从诋毁 Chrome 转为展示自身优势](https://www.ithome.com/0/829/956.htm)
+2025-02-11, @IT之家, [Meta 部分高绩效员工突遭解雇，公司“裁减低绩效员工”说法遭质疑](https://www.ithome.com/0/830/031.htm)
 
-2025-02-11, @IT之家, [Meta 启动千人裁员计划，腾出空间招揽“最顶尖”人才](https://www.ithome.com/0/829/955.htm)
+2025-02-11, @IT之家, [成立 37 年来首次，消息称台积电将在美国召开董事会](https://www.ithome.com/0/830/030.htm)
 
-2025-02-11, @IT之家, [7 年更新：谷歌 Pixel 9a 手机壳曝光，扁平相机模组、4 种颜色](https://www.ithome.com/0/829/954.htm)
+2025-02-11, @IT之家, [Anthropic 发布首份 AI 经济指数报告：软件工程师、作家成 AI 应用先锋](https://www.ithome.com/0/830/027.htm)
+
+2025-02-11, @CN@Flipboard, [Works BMW team quits Isle of Man TT - all-star riders to new squad](https://www.the-race.com/motorcycle-racing/works-bmw-team-quits-isle-of-man-tt-all-star-riders-to-new-squad/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-02-11, @IT之家, [赛力斯申请“问界二手车”“问界金融”“问界保险”等商标](https://www.ithome.com/0/830/025.htm)
+
+2025-02-11, @博客园, [《刚刚问世》系列初窥篇-Java+Playwright自动化测试-12- iframe操作-上篇（详细教程） - 北京-宏哥](https://www.cnblogs.com/du-hong/p/18349296)
+
+2025-02-11, @博客园, [DeepSeek-R1本地部署如何选择适合你的版本?看这里 - kaizi1992](https://www.cnblogs.com/kaigejava/p/18709541)
+
+2025-02-11, @IT之家, [《文明 7》正式发售，Steam 国区 298 元起](https://www.ithome.com/0/830/024.htm)
+
+2025-02-11, @博客园, [DM SQL关联列 like 优化案例 - 小至尖尖](https://www.cnblogs.com/yuzhijian/p/18709525)
+
+2025-02-11, @IT之家, [IBM 企业级 AI 开发平台 watsonx.ai 上线 DeepSeek R1 蒸馏模型](https://www.ithome.com/0/830/023.htm)
+
+2025-02-11, @IT之家, [阿布扎比人工智能大学迎新董事会：AMD CEO 苏姿丰加盟](https://www.ithome.com/0/830/022.htm)
+
+2025-02-11, @IT之家, [光伏龙头天合光能状告阿特斯侵犯专利，索赔 10.58 亿元](https://www.ithome.com/0/830/021.htm)
+
+2025-02-11, @IT之家, [消息称 OpenAI 拒绝马斯克 974 亿美元收购要约：董事会明确表示没兴趣](https://www.ithome.com/0/830/020.htm)
+
+2025-02-11, @IT之家, [马云现身杭州阿里园区，与闲鱼员工打招呼](https://www.ithome.com/0/830/019.htm)
+
+2025-02-11, @IT之家, [研究称车辆巡航控制功能或使驾驶员分心，事故发生率最高增 12%](https://www.ithome.com/0/830/018.htm)
+
+2025-02-11, @IT之家, [游戏帝国推出 GMX32UCDM 显示器：31.5 英寸 4K 240Hz QD-OLED 面板](https://www.ithome.com/0/830/016.htm)
+
+2025-02-11, @IT之家, [可判断文本是否礼貌，英特尔开源 Polite Guard 项目](https://www.ithome.com/0/830/015.htm)
+
+2025-02-11, @IT之家, [任天堂 Switch 2 游戏掌机被曝售价 499.99 加元](https://www.ithome.com/0/830/014.htm)
+
+2025-02-11, @IT之家, [Sonos 高层再变动：首席营销官离职，20 年老将暂掌营销大权](https://www.ithome.com/0/830/013.htm)
+
+2025-02-11, @IT之家, [英特尔将参展 MWC 2025，有望发布 Granite Rapids D 至强处理器](https://www.ithome.com/0/830/012.htm)
+
+2025-02-11, @IT之家, [我国气象数据“身份证”已发放 82 万张，全国气象数据实现“带证流通”](https://www.ithome.com/0/830/011.htm)
+
+2025-02-11, @IT之家, [Linux 内核爆发 C / Rust 大战，核心开发者愤然离职](https://www.ithome.com/0/830/010.htm)
+
+2025-02-11, @IT之家, [全国首批金融机构，重庆农商行与腾讯云合作落地 DeepSeek 大模型联网应用](https://www.ithome.com/0/830/009.htm)
+
+2025-02-11, @不死鸟, [Docker/Huggingface等镜像CDN国内加速节点](https://iui.su/3635/)
+
+2025-02-11, @IT之家, [消息称宁德时代计划本周提交港股上市申请，筹资至少 50 亿美元](https://www.ithome.com/0/830/007.htm)
+
+2025-02-11, @IT之家, [九号电动车公司回应网传“九号断头”：坚决打击负面水军造谣行为](https://www.ithome.com/0/830/006.htm)
+
+2025-02-11, @博客园, [探索 QuestPDF：全平台支持、多功能、专业级的 .NET PDF 库 - 今晚打老虎！](https://www.cnblogs.com/netcore5/p/18709400)
+
+2025-02-11, @博客园, [Java 中堆内存和栈内存上的数据分布和特点 - emanjusaka](https://www.cnblogs.com/emanjusaka/p/18709398)
+
+2025-02-11, @IT之家, [极狐阿尔法 S5 官宣深度融合 DeepSeek，接入北汽自研“百模汇创平台”](https://www.ithome.com/0/830/005.htm)
+
+2025-02-11, @不死鸟, [GreasyFork脚本网站最新域名](https://iui.su/3123/)
+
+2025-02-11, @CN@Flipboard, [Anthropic CEO issues frightening warning on Chinese AI rival](https://www.miamiherald.com/news/business/article300099274.html?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-02-11, @IT之家, [Copilot 键引争议，微软拟在 Win11 24H2 中让其支持打开上下文菜单](https://www.ithome.com/0/830/004.htm)
+
+2025-02-11, @博客园, [java中反射-字节码和类加载器 - 何人陪我共长生](https://www.cnblogs.com/ishoulgodo/p/18709376)
+
+2025-02-11, @IT之家, [《守望先锋》国服战令补偿方案公布：最高可领 4400 金币，玩家齐刷刷“真香”](https://www.ithome.com/0/830/003.htm)
+
+2025-02-11, @IT之家, [为扭转活跃度持续下降，约会应用 Tinder 拟推“AI 驱动的用户匹配”功能](https://www.ithome.com/0/830/002.htm)
+
+2025-02-11, @少数派, [梦回 98，一窥「前世」：Windows 98 宣传片中的微软](https://sspai.com/post/95547)
+
+2025-02-11, @IT之家, [微软 Rewards 七年打卡奖励被指过低：500 积分，最快 2.5 天可得](https://www.ithome.com/0/830/001.htm)
+
+2025-02-11, @IT之家, [萤火虫航天公司“蓝幽灵”月球着陆器点火离开地球轨道，奔赴月球](https://www.ithome.com/0/829/996.htm)
+
+2025-02-11, @IT之家, [定心丸下肚：《勇者斗恶龙 12》游戏开发稳步推进，情报将逐步解禁](https://www.ithome.com/0/829/995.htm)
+
+2025-02-11, @IT之家, [黑客承认参与劫持美国 SEC 社媒账户以散播有关虚拟货币谣言，面临最高 5 年监禁](https://www.ithome.com/0/829/993.htm)
+
+2025-02-11, @IT之家, [胖东来今年将安排网上课堂，分享工作方法和生活方法](https://www.ithome.com/0/829/992.htm)
+
+2025-02-11, @IT之家, [峰飞航空获 12 架大型 eVTOL 航空器订单：总金额 1.57 亿元，将在武汉汉阳开启城市飞行](https://www.ithome.com/0/829/991.htm)
+
+2025-02-11, @CN@Flipboard, [‘Salami-slicing’ at sea? Chinese buoys test Japan’s patience](https://www.scmp.com/news/asia/east-asia/article/3298145/salami-slicing-sea-chinese-buoys-test-japans-patience?utm_source=rss_feed)
+
+2025-02-11, @不死鸟, [2025 年 2 月 每日分享](https://iui.su/194/)
+
+2025-02-11, @IT之家, [索尼出手整顿：开始清理 PlayStation 商店低质量游戏](https://www.ithome.com/0/829/990.htm)
+
+2025-02-11, @IT之家, [全球首款骁龙 8 至尊版折叠旗舰：OPPO Find N5 搭载 5600mAh 冰川电池](https://www.ithome.com/0/829/989.htm)
+
+2025-02-11, @IT之家, [初探微软 Win11 开始菜单变革：AI 网格分类、深度集成手机操控](https://www.ithome.com/0/829/988.htm)
+
+2025-02-11, @IT之家, [三只羊及美诚月饼生产商被起诉](https://www.ithome.com/0/829/987.htm)
+
+2025-02-11, @IT之家, [成都天府赛道最速四门量产车：小米 SU7 Ultra 跑出 1'26''741 圈速](https://www.ithome.com/0/829/986.htm)
+
+2025-02-11, @IT之家, [美国科技行业 1 月失业人数超 15 万人，生成式 AI 影响招聘趋势](https://www.ithome.com/0/829/983.htm)
+
+2025-02-11, @IT之家, [恩智浦拟以 3.07 亿美元收购边缘 NPU 企业 Kinara，后者产品曾被用于联想设备](https://www.ithome.com/0/829/982.htm)
+
+2025-02-11, @IT之家, [部分 Outlook 用户反馈连接 Exchange Online 遇到无响应、运行缓慢等问题](https://www.ithome.com/0/829/981.htm)
+
+2025-02-11, @博客园, [鸿蒙开发 - 支持导出，跨文件使用的自定义样式 AttributeModifier - 时光凉忆](https://www.cnblogs.com/naturl/p/18709164)
+
+2025-02-11, @IT之家, [辞任中国电信总裁后，梁宝俊出任中国卫星网络集团有限公司总经理](https://www.ithome.com/0/829/978.htm)
+
+2025-02-11, @IT之家, [Steam 新规：禁止所有强制玩家看广告的游戏上线](https://www.ithome.com/0/829/977.htm)
+
+2025-02-11, @IT之家, [微软 Teams 频道搜索大变样：Ctrl+F 一键直达，右侧栏搜索结果更醒目](https://www.ithome.com/0/829/976.htm)
+
+2025-02-11, @IT之家, [前脸变身个性大屏，EVision Auto 推出特斯拉 Model Y 专用 LED 格栅](https://www.ithome.com/0/829/975.htm)
+
+2025-02-11, @博客园, [『玩转Streamlit』--会话状态管理 - wang_yb](https://www.cnblogs.com/wang_yb/p/18709110)
+
+2025-02-11, @IT之家, [特斯拉上海储能超级工厂正式投产，本季度开始产能爬坡](https://www.ithome.com/0/829/974.htm)
 
 2025-02-11, @CN@Flipboard, ['It might!' Trump concedes tariffs might actually backfire](https://www.rawstory.com/trump-tariffs-2671129062/?utm_source=flipboard&utm_content=topic%2Fchina)
 
+2025-02-11, @IT之家, [沙特将向 AI 芯片创企 Groq 投资 15 亿美元，支持后者在沙 AI 基础设施扩建](https://www.ithome.com/0/829/973.htm)
+
+2025-02-11, @IT之家, [微软 Win10 / Win11 三月投用新评估指标，提升相机驱动体验](https://www.ithome.com/0/829/971.htm)
+
+2025-02-11, @IT之家, [特斯拉确认新款 Model Y 将推出七座版、高性能版，年底前上市](https://www.ithome.com/0/829/970.htm)
+
+2025-02-11, @IT之家, [全球人形机器人产业链百强榜发布：中国独占 63% 份额，36 家企业上榜](https://www.ithome.com/0/829/969.htm)
+
+2025-02-11, @IT之家, [OpenAI、谷歌、Roblox 等联手，成立新组织以保障 AI 时代儿童安全](https://www.ithome.com/0/829/968.htm)
+
+2025-02-11, @IT之家, [微软“砍刀部”上分：8 月 11 日停用 SharePoint Spaces 功能](https://www.ithome.com/0/829/966.htm)
+
+2025-02-11, @IT之家, [马斯克放豪言：6 月在奥斯汀推出特斯拉自动驾驶出租车服务，年底覆盖多城](https://www.ithome.com/0/829/965.htm)
+
+2025-02-11, @IT之家, [Lyft、Mobileye、丸红三方携手，计划明年在达拉斯推出 Robotaxi 服务](https://www.ithome.com/0/829/964.htm)
+
+2025-02-11, @IT之家, [IDC：2024 中国平板电脑市场出货量同比增长 4.3%，华为登顶年度第一](https://www.ithome.com/0/829/963.htm)
+
+2025-02-11, @博客园, [揭秘 Sdcb Chats 如何解析 DeepSeek-R1 思维链 - .NET骚操作](https://www.cnblogs.com/sdcb/p/18709107/20250210-think-tag-parse-in-chats)
+
+2025-02-11, @IT之家, [微软遭法国反垄断调查：向小型搜索引擎提供必应技术时故意降低搜索结果质量](https://www.ithome.com/0/829/961.htm)
+
+2025-02-11, @博客园, [0帧起手将腾讯混元大模型集成到Spring AI的全过程解析 - 努力的小雨](https://www.cnblogs.com/guoxiaoyu/p/18691707)
+
 2025-02-11, @博客园, [C# 深度学习：对抗生成网络(GAN)训练头像生成模型 - 痴者工良](https://www.cnblogs.com/whuanle/p/18708861)
-
-2025-02-11, @IT之家, [华为余承东：智驾“凑合能用”与“好用安全”是完全不同的境界，本月将揭晓尊界核心黑科技](https://www.ithome.com/0/829/952.htm)
-
-2025-02-11, @IT之家, [摩托罗拉 Razr Plus 2025 手机抢先看：深绿素皮、4 英寸外屏、骁龙 8 至尊版芯片](https://www.ithome.com/0/829/951.htm)
-
-2025-02-11, @IT之家, [现代汽车下月发布“梦想”全固态电池试点生产线，首车有望年底亮相](https://www.ithome.com/0/829/950.htm)
 
 2025-02-11, @博客园, [开源的 DeepSeek-R1「GitHub 热点速览」 - 削微寒](https://www.cnblogs.com/xueweihan/p/18708961)
 
-2025-02-11, @IT之家, [科技昨夜今晨 0211：比亚迪全系车型将搭载高阶智驾；理想高管否认“力帆车”传言；钉钉纯血鸿蒙版上架...](https://www.ithome.com/0/829/949.htm)
-
-2025-02-11, @IT之家, [百度文小言（原文心一言）App 接入 DeepSeek-R1 模型](https://www.ithome.com/0/829/948.htm)
-
-2025-02-11, @IT之家, [重返战场：Xbox Series S|X 版《生化危机 5》游戏完成北美分级认证](https://www.ithome.com/0/829/947.htm)
-
-2025-02-11, @IT之家, [60 家企业签署倡议，呼吁欧盟减少人工智能法规限制](https://www.ithome.com/0/829/946.htm)
-
-2025-02-11, @IT之家, [小米大家电部吴庆壮：米家中央空调-35℃环境运行平稳，“一拖四”月底发布](https://www.ithome.com/0/829/945.htm)
-
 2025-02-11, @少数派, [派早报：春节「两新」政策刺激消费 310 亿元，DeepSeek API 价格调高等](https://sspai.com/post/96221)
-
-2025-02-10, @IT之家, [香港大学研发药用口服砒霜治疗白血病，患者存活率超 97%](https://www.ithome.com/0/829/944.htm)
-
-2025-02-10, @IT之家, [法国力推 Mistral 和 OpenAI 打擂台，计划 2025 年秋季建成欧洲最大 AI 超算](https://www.ithome.com/0/829/943.htm)
-
-2025-02-10, @IT之家, [复旦大学研究：AI 跨越关键“红线”，已能实现自我复制](https://www.ithome.com/0/829/942.htm)
 
 2025-02-10, @CN@Flipboard, [China couple kicked off plane in KLIA for causing commotion](https://www.straitstimes.com/asia/se-asia/china-couple-kicked-off-plane-in-klia-for-causing-commotion?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2025-02-10, @IT之家, [遗迹娱乐独立宣言：《英雄连 3》游戏持续更新，深耕、创新、重塑三大战略重塑未来](https://www.ithome.com/0/829/941.htm)
-
-2025-02-10, @IT之家, [QQ 音乐已集成满血版 DeepSeek-R1，AI 助手音乐问答更精准](https://www.ithome.com/0/829/940.htm)
-
-2025-02-10, @IT之家, [苹果为解决 Vision Pro 重量难题申请专利：采用处理器外置方案](https://www.ithome.com/0/829/939.htm)
-
-2025-02-10, @CN@Flipboard, [Trump orders 25% tariffs on steel and aluminum — without exceptions for allies](https://nypost.com/2025/02/10/us-news/trump-orders-25-tariffs-on-steel-and-aluminum-without-exceptions-for-allies/?utm_source=flipboard&utm_campaign=nypost&utm_medium=social)
-
-2025-02-10, @IT之家, [Epic 游戏商城冬季特卖开启：超 4000 款游戏参与，2 月 25 日止](https://www.ithome.com/0/829/938.htm)
-
-2025-02-10, @IT之家, [提升 Mac 安全性：苹果发布 macOS 14.7.4/13.7.4 更新，修复关键漏洞](https://www.ithome.com/0/829/937.htm)
-
-2025-02-10, @IT之家, [苹果 Powerbeats Pro 2 耳机发布在即，沃尔玛顾客提前购得](https://www.ithome.com/0/829/936.htm)
-
-2025-02-10, @IT之家, [为避免欧盟反垄断罚款，消息称微软“捆绑 Team 版 Office”将进一步涨价](https://www.ithome.com/0/829/935.htm)
-
-2025-02-10, @IT之家, [谁说苹果 Apple Watch 只能戴手腕，脚踝佩戴同样精彩](https://www.ithome.com/0/829/934.htm)
-
-2025-02-10, @IT之家, [马斯克欲以 974 亿美元收购 OpenAI，阿尔特曼回应“不卖”并反提收购推特](https://www.ithome.com/0/829/933.htm)
-
-2025-02-10, @IT之家, [新春新配色，苹果 iPhone 16 系列被曝 2025 年 3/4 月上新](https://www.ithome.com/0/829/932.htm)
-
-2025-02-10, @IT之家, [古尔曼：苹果智能家居中心设备距离发货还有“数月之久”](https://www.ithome.com/0/829/931.htm)
-
 2025-02-10, @36氪, [今晚之后，比亚迪没有短板 | 焦点分析](https://36kr.com/p/3160895531522560?f=rss)
 
-2025-02-10, @CN@Flipboard, [Mystery seed packages keep being mailed to Texas from China](https://www.chron.com/life/wildlife/article/mystery-seeds-china-texas-20158278.php?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-02-10, @CN@Flipboard, [Mystery seed packages keep being mailed to Texas from China](https://www.chron.com/life/wildlife/article/mystery-seeds-china-texas-20158278.php?utm_source=flipboard&utm_content=user/Chroncom)
+
+2025-02-10, @CN@Flipboard, [Trump Outsmarts China on Green Energy](https://www.wsj.com/opinion/trump-outsmarts-china-on-green-energy-net-zero-agenda-economic-pressure-policy-e8c10602?utm_medium=social)
+
+2025-02-10, @CN@Flipboard, [Report: 2023 Chinese Balloon Held US Tech](https://www.newsmax.com/newsfront/china-balloon-newsweek/2025/02/10/id/1198554/?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-02-10, @CN@Flipboard, [Arm CEO Rene Haas makes grim prediction that DeepSeek will be "shut down"](https://www.laptopmag.com/ai/arm-ceo-rene-haas-deepseek-shut-down?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-02-10, @CN@Flipboard, [Deep-sea creature — with ‘glass’ shell — discovered as new species off Japan. See it](https://www.heraldsun.com/news/nation-world/world/article300077309.html?utm_source=flipboard&utm_content=topic%2Fchina)
 
+2025-02-10, @CN@Flipboard, [Boston man cleared of US charges he acted as Chinese agent](https://www.straitstimes.com/asia/boston-man-cleared-of-us-charges-he-acted-as-chinese-agent?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-02-10, @CN@Flipboard, [The Trump Administration Is Quietly Giving a Big Gift to Russia, China, and Iran](https://slate.com/news-and-politics/2025/02/trump-news-doj-foreign-agents-russia-china-iran.html?utm_source=flipboard&utm_content=topic%2Fchina)
+
 2025-02-10, @36氪, [小米新生态总监董红光开启创业，要为AI硬件打造智能体 | 智涌独家](https://36kr.com/p/3154974237727495?f=rss)
-
-2025-02-10, @IT之家, [苹果 watchOS 11.3.1 发布](https://www.ithome.com/0/829/930.htm)
-
-2025-02-10, @IT之家, [苹果 macOS 15.3.1 发布](https://www.ithome.com/0/829/928.htm)
-
-2025-02-10, @IT之家, [苹果 visionOS 2.3.1 发布：修复 EyeSight 显示问题](https://www.ithome.com/0/829/929.htm)
-
-2025-02-10, @IT之家, [苹果发布 iOS / iPadOS 18.3.1，同步推出 iPadOS 17.7.5 更新](https://www.ithome.com/0/829/927.htm)
 
 2025-02-10, @CN@Flipboard, [2 Words Could Mean the End of the ‘Stealth’ Submarine Age](https://www.19fortyfive.com/2025/02/2-words-could-mean-the-end-of-the-stealth-submarine-age/?utm_source=flipboard&utm_content=topic/technology)
 
@@ -140,61 +236,25 @@
 
 2025-02-10, @36氪, [上市9个月股价翻10倍，老铺黄金成「新茅台」？丨氪金·大消费](https://36kr.com/p/3160506206001926?f=rss)
 
-2025-02-10, @CN@Flipboard, [Yokohama F. Marinos vs Shanghai Shenhua Prediction and Betting Tips | February 12th 2025](https://www.sportskeeda.com/football/yokohama-f-marinos-vs-shanghai-shenhua-prediction-betting-tips-february-12th-2025?key4=flipboardfootball&utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-02-10, @IT之家, [接入 DeepSeek-R1，星纪魅族 21、20 系列等机型 Aicy 语音助手获 11.3.19 版本升级](https://www.ithome.com/0/829/926.htm)
-
-2025-02-10, @36氪, [氪星晚报｜哪吒2全球动画电影票房榜前6；DeepSeek获顶级域名ai.com认可；中国植入式脑机接口最大一笔融资诞生，融资金额达3.5亿元](https://36kr.com/p/3160574272903687?f=rss)
-
-2025-02-10, @CN@Flipboard, [Trump tariffs set up potential ‘nightmare’ scenario for aircraft manufacturing](https://www.freightwaves.com/news/trump-tariffs-set-up-potential-nightmare-scenario-for-aircraft-manufacturing?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-02-10, @36氪, [分区养护仍是个护家电核心，新年礼赠成营销热点｜12月行业消费热力指数榜](https://36kr.com/p/3160507823561472?f=rss)
-
-2025-02-10, @CN@Flipboard, [Trump Has Unleashed Chaos by Distraction upon the International Community. That's No Accident](https://www.newsmax.com/World/globaltalk/trump-chaos-gaza-greenland-trade/2025/02/10/id/1198495)
-
-2025-02-10, @CN@Flipboard, [Navy monitors Chinese research vessel within Palawan waters](https://www.philstar.com/headlines/2025/02/11/2420697/navy-monitors-chinese-research-vessel-within-palawan-waters?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-02-10, @CN@Flipboard, [Trump tariffs set up potential ‘nightmare’ scenario for aircraft manufacturing](https://www.freightwaves.com/news/trump-tariffs-set-up-potential-nightmare-scenario-for-aircraft-manufacturing?utm_source=flipboard&utm_content=FreightWaves/magazine/FreightWaves)
 
 2025-02-10, @CN@Flipboard, [Elon Musk finally breaks silence on rumors of a TikTok takeover](https://www.uniladtech.com/social-media/elon-musk-addresses-tiktok-purchase-168247-20250210?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2025-02-10, @IT之家, [OPPO 堆叠式任务管理功能确认上线：Find N5 折叠屏手机出厂预装、ColorOS 15 机型 OTA 支持](https://www.ithome.com/0/829/925.htm)
+2025-02-10, @CN@Flipboard, [Trump has unleashed chaos by distraction upon the international community. That's no accident](https://apnews.com/article/trump-chaos-gaza-greenland-trade-eabba5e346e0c41fb5e9391f84450668?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-02-10, @博客园, [RocketMQ实战—9.营销系统代码初版 - 东阳马生架构](https://www.cnblogs.com/mjunz/p/18708978)
 
-2025-02-10, @IT之家, [TTC 发布首款爱意磁轴“爱心万磁王轴”：榫卯结构、电磁科技、RGB 灯效](https://www.ithome.com/0/829/923.htm)
-
-2025-02-10, @IT之家, [北汽福田与宁德时代签约，拟在商用车电动化领域深度合作](https://www.ithome.com/0/829/921.htm)
-
-2025-02-10, @CN@Flipboard, [Volkswagen unveils $20,000 entry-level EV to take on Chinese competitors](https://www.techspot.com/news/106711-volkswagen-unveils-20000-entry-level-ev-take-chinese.html?utm_source=flipboard&utm_content=TechSpot/magazine/TechSpot)
-
 2025-02-10, @CN@Flipboard, [Could this mushroom improve your sex life?](https://www.greenstate.com/health/cordyceps-sex-life/?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-02-10, @IT之家, [红旗九章平台灵犀座舱与 DeepSeek 完成深度融合](https://www.ithome.com/0/829/920.htm)
-
-2025-02-10, @IT之家, [机械革命推出新款极光 X 游戏本：酷睿 i7-13700HX + RTX 4060，6599 元](https://www.ithome.com/0/829/919.htm)
 
 2025-02-10, @博客园, [DeepSeek本地化部署超简单，比装个office还简单 - Sam Lin](https://www.cnblogs.com/samlin/p/18708955)
 
-2025-02-10, @IT之家, [索尼 FE 100-400mm GMⅡ 镜头谍照首曝，发布时间未知](https://www.ithome.com/0/829/918.htm)
-
-2025-02-10, @IT之家, [五菱之光 EV“多功能工具车”2 月 14 日上市，预售 4.78 万起](https://www.ithome.com/0/829/916.htm)
-
-2025-02-10, @IT之家, [新增可见即可说等功能，长城坦克 400 Hi4-T 汽车获 V1.4 版本 OTA 升级](https://www.ithome.com/0/829/914.htm)
-
-2025-02-10, @IT之家, [七工匠 L 卡口 AF50mm F1.8 全画幅镜头新品官宣](https://www.ithome.com/0/829/913.htm)
+2025-02-10, @CN@Flipboard, [North Korea Threatens Punishment Over Ukraine War Deployment ‘Rumors’](https://www.miamiherald.com/news/nation-world/world/article300052484.html?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-02-10, @博客园, [爆改xxl-job：websocket版本的改造方案 - 狂盗一枝梅](https://www.cnblogs.com/kuangdaoyizhimei/p/18708895)
 
+2025-02-10, @CN@Flipboard, [France: Chinese New Year celebration in Paris, France](https://flipboard.com/video/stringershub/e9ca95d4bd)
+
 2025-02-10, @CN@Flipboard, [France: More than 100 countries participate in AI summit in Paris to avoid US-China duopoly](https://flipboard.com/video/stringershub/16461ee283)
-
-2025-02-10, @CN@Flipboard, [France: Attractive dance of young girls in Paris](https://flipboard.com/video/stringershub/dacf12a7c7)
-
-2025-02-10, @IT之家, [乘联分会崔东树：2024 年 1-12 月中国占世界新能源车份额 70%](https://www.ithome.com/0/829/911.htm)
-
-2025-02-10, @IT之家, [OpenHarmony 社区：截至 1 月 31 日，生态伙伴发展至 401 家](https://www.ithome.com/0/829/909.htm)
-
-2025-02-10, @IT之家, [中国电信天翼云盘接入 DeepSeek 模型，提升 AI 助手的智能问答能力](https://www.ithome.com/0/829/908.htm)
-
-2025-02-10, @IT之家, [抖音副总裁李亮：达人直播为抖音电商主流是一个误区，店播才是](https://www.ithome.com/0/829/907.htm)
 
 2025-02-10, @CN@Flipboard, [Ex-husband of slain model Abby Choi told to flee Hong Kong by boat, court hears](https://www.scmp.com/news/hong-kong/law-and-crime/article/3298117/ex-husband-slain-model-abby-choi-told-flee-hong-kong-boat-court-hears?utm_source=rss_feed)
 
@@ -202,25 +262,9 @@
 
 2025-02-10, @CGTV-China, ['Ne Zha 2' makes waves in U.S. with soaring pre-sales](https://news.cgtn.com/news/2025-02-10/-Ne-Zha-2-makes-waves-in-U-S-with-soaring-pre-sales-1ASKsk0wUAE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-02-10, @IT之家, [鑫谷推出探云 WS1 Ultra 工作站机箱：预装横流风扇、支持背插 / E-ATX 主板，599 元](https://www.ithome.com/0/829/905.htm)
-
-2025-02-10, @CN@Flipboard, [China builds ‘planetary defence’ team as concerns grow over 2024 YR4 asteroid](https://www.scmp.com/news/china/science/article/3298116/china-builds-planetary-defence-team-concerns-grow-over-2024-yr4-asteroid?utm_source=rss_feed)
-
 2025-02-10, @博客园, [推荐一款人人可用的开源 BI 工具，更符合国人使用习惯的数据可视化分析工具，数据大屏开发神器！ - 追逐时光者](https://www.cnblogs.com/Can-daydayup/p/18708820)
 
 2025-02-10, @CGTV-China, [Xi extends condolences over passing of Namibian founding president](https://news.cgtn.com/news/2025-02-10/Xi-extends-condolences-over-passing-of-Namibian-founding-president-1ASDjttYqJy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-02-10, @IT之家, [华硕无畏 Pro 14 骁龙版 2025 笔记本电脑亮相](https://www.ithome.com/0/829/904.htm)
-
-2025-02-10, @IT之家, [高阶智驾首次进入 7 万级市场，比亚迪海鸥智驾版汽车售 6.98 万元起](https://www.ithome.com/0/829/902.htm)
-
-2025-02-10, @IT之家, [比亚迪杨冬生：比亚迪全民智驾车型未来将 OTA 城市记忆领航功能](https://www.ithome.com/0/829/900.htm)
-
-2025-02-10, @CN@Flipboard, [Tesla's Chinese Rival BYD May Lose Market Dominance As China's Dongfeng And Changan Mull Merger: Report](https://www.benzinga.com/25/02/43589901/the-potential-merger-of-chinese-carmakers-dongfeng-and-changan-likely-to-cast-a-shadow-on-tesla-rival-byd?utm_source=Flipboard&utm_campaign=partner_feed&utm_medium=partner_feed&utm_content=business_news)
-
-2025-02-10, @IT之家, [比亚迪详解“天神之眼 C”高阶智驾：12 摄像头 + 5 毫米波雷达 + 12 超声波雷达](https://www.ithome.com/0/829/899.htm)
-
-2025-02-10, @IT之家, [比亚迪：2024 年新增智驾训练里程 7,200 万公里 / 天，每七天迭代一次模型](https://www.ithome.com/0/829/898.htm)
 
 2025-02-10, @博客园, [写一个给自己的博客 - Gaoniaofei](https://www.cnblogs.com/gaoniaofei/p/18708727)
 
@@ -232,9 +276,9 @@
 
 2025-02-10, @CN@Flipboard, [Kim Shui Brought Subversive, Sexy Cowgirls to NYFW](https://hypebae.com/2025/2/kim-shui-new-york-fashion-week-fw25-runway?utm_source=flipboard&utm_content=Hypebae/magazine/Hypebae)
 
-2025-02-10, @36氪, [起飞重量8吨，满载1000公里，「牧羽天航空」专注重载荷eVTOL无人机的研发制造 | 36氪早期项目](https://36kr.com/p/3159314127329792?f=rss)
+2025-02-10, @CN@Flipboard, [Trump's chief economist calls for lowering aggregate demand, increasing labor supply to address inflation](https://www.nbcnews.com/politics/donald-trump/live-blog/trump-steel-tariffs-tulsi-gabbard-vote-live-updates-rcna191161/rcrd72770?canonicalCard=true&utm_source=flipboard&utm_content=topic/usgovernment)
 
-2025-02-10, @CN@Flipboard, [This BYD motorhome would be a price breaker in the premium segment](https://flip.it/G3ux-P)
+2025-02-10, @CN@Flipboard, [This BYD motorhome would be a price breaker in the premium segment](https://uk.motor1.com/news/750171/byd-motorhome-caravan-mashup-render/?utm_source=flipboard&utm_content=topic/technology)
 
 2025-02-10, @CN@Flipboard, [2025 Is The Year of the Snake: Here’s What That Means](https://www.purewow.com/wellness/year-of-the-snake-2025?utm_source=flipboard&utm_medium=referral)
 
@@ -266,8 +310,6 @@
 
 2025-02-10, @博客园, [从SSH远程到Git Push：在Windows上一步到位实现免密码登录 - 程序设计实验室](https://www.cnblogs.com/deali/p/18708130)
 
-2025-02-10, @博客园, [《痞子衡嵌入式半月刊》 第 117 期 - 痞子衡](https://www.cnblogs.com/henjay724/p/18708118)
-
 2025-02-10, @CGTV-China, [Wang Yi to visit UK and Ireland, attend Munich Security Conference](https://news.cgtn.com/news/2025-02-10/Wang-Yi-to-visit-UK-and-Ireland-attend-Munich-Security-Conference-1ASvia2KfCw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-02-10, @CGTV-China, [Handmade lanterns in great demand in Nanjing as festival draws near](https://news.cgtn.com/news/2025-02-10/Handmade-lanterns-in-great-demand-in-Nanjing-as-festival-draws-near-1ASsQAjgbok/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
@@ -276,39 +318,19 @@
 
 2025-02-10, @CGTV-China, [China's ice and snow economy glides into prosperity](https://news.cgtn.com/news/2025-02-10/China-s-ice-and-snow-economy-glides-into-prosperity-1ASpoegEZeE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-02-10, @博客园, [使用python实现一个可自动部署hexo博客的gitee webhook - LiuZijian](https://www.cnblogs.com/changelzj/p/18707982)
-
 2025-02-10, @少数派, [城市漫步指南：行走在举世倾羡之城，伊斯坦布尔](https://sspai.com/post/95990)
-
-2025-02-10, @CN@Flipboard, [Chinese space power plant will generate an incredible amount of solar energy](https://www.domusweb.it/en/sustainable-cities/2025/02/05/china-space-power-plant.html?utm_source=flipboard&utm_content=topic/energy)
 
 2025-02-10, @CGTV-Nature, [China develops gene-editing method to reduce corn plant height](https://news.cgtn.com/news/2025-02-10/China-develops-gene-editing-method-to-reduce-corn-plant-height-1ASax5KaYbS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-02-10, @CGTV-China, [China develops gene-editing method to reduce corn plant height](https://news.cgtn.com/news/2025-02-10/China-develops-gene-editing-method-to-reduce-corn-plant-height-1ASax5KaYbS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-02-10, @CN@Flipboard, [There's Never Been a More Dangerous Time to Use Street Drugs. Here's Why.](https://www.sciencealert.com/theres-never-been-a-more-dangerous-time-to-use-street-drugs-heres-why?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-02-10, @博客园, [C# 程序流控制 条件语句 - DotNet进阶分享](https://www.cnblogs.com/AntToolStuido/p/18707353)
-
-2025-02-10, @博客园, [manim边学边做--通用变换 - wang_yb](https://www.cnblogs.com/wang_yb/p/18707646)
-
-2025-02-10, @CN@Flipboard, [Trump Derangement Syndrome Comes for the US Consumer](https://www.bloomberg.com/opinion/articles/2025-02-10/trump-derangement-syndrome-comes-for-the-consumer?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-02-10, @CGTV-China, [Behind the scenes: Yue Opera](https://news.cgtn.com/news/2025-02-10/Behind-the-scenes-Yueju-Opera-1AS3p80ubRK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-02-10, @博客园, [本地搭建DeepSeek和知识库 Dify做智能体Agent(推荐) - 黑水滴](https://www.cnblogs.com/robots2/p/18707552)
-
-2025-02-10, @博客园, [深入剖析Base64加解密中遇到的坑点 - 前端南玖](https://www.cnblogs.com/songyao666/p/18707544)
-
-2025-02-10, @博客园, [基于deepseek模型知识库，Cherry Studio和AnythingLLM使用效果对比 - iNeuOS工业互联网系统](https://www.cnblogs.com/lsjwq/p/18707538)
 
 2025-02-10, @蠎周刊, [上周蠎快讯 2025/06](https://weekly.pychina.org/pyrecap/pyrw-2506.html)
 
 2025-02-10, @CGTV-World, [Macron unveils 109 billion-euro AI investment for France](https://news.cgtn.com/news/2025-02-10/Macron-unveils-109-billion-euro-AI-investment-for-France-1AS9LFrpjsA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2025-02-10, @少数派, [挤出摸鱼时间，系统日历和快捷指令就够了](https://sspai.com/post/94951)
-
-2025-02-10, @博客园, [拒绝繁忙！免费使用 deepseek-r1:671B 参数满血模型 - 程序猿DD](https://www.cnblogs.com/didispace/p/18707488)
 
 2025-02-10, @CGTV-World, [ISU President visits CGTN Sports Scene Asian Winter Games studio](https://news.cgtn.com/news/2025-02-10/ISU-President-visits-CGTN-Sports-Scene-Asian-Winter-Games-studio-1AS9llEjHOM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
@@ -318,13 +340,9 @@
 
 2025-02-10, @CGTV-China, [South Korean champion skater Jang Sung-woo enjoys Asian Winter Games](https://news.cgtn.com/news/2025-02-10/South-Korean-champion-skater-Jang-Sung-woo-enjoys-Asian-Winter-Games-1AS4MQysWYg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-02-10, @博客园, [PC端自动化测试实战教程-1-pywinauto 环境搭建（详细教程） - 北京-宏哥](https://www.cnblogs.com/du-hong/p/18184365)
-
 2025-02-10, @CGTV-World, [China's Sun, Lin snatch singles titles at WTT Singapore Smash](https://news.cgtn.com/news/2025-02-10/China-s-Sun-Lin-snatch-singles-titles-at-WTT-Singapore-Smash-1AS2qOtfPbO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2025-02-10, @CGTV-China, [China's Sun, Lin snatch singles titles at WTT Singapore Smash](https://news.cgtn.com/news/2025-02-10/China-s-Sun-Lin-snatch-singles-titles-at-WTT-Singapore-Smash-1AS2qOtfPbO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-02-10, @博客园, [从图像到信息，AI识图开启智能识别新时代 - HarmonyOS_SDK](https://www.cnblogs.com/HarmonyOSSDK/p/18707399)
 
 2025-02-10, @CGTV-World, [Liverpool suffer shock FA Cup defeat to Plymouth 1-0](https://news.cgtn.com/news/2025-02-10/Liverpool-suffer-shock-FA-Cup-defeat-to-Plymouth-1-0-1AS1ksafx2o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
@@ -343,8 +361,6 @@
 2025-02-09, @CGTV-World, [Trump to announce 25% steel, aluminum tariffs in trade escalation](https://news.cgtn.com/news/2025-02-10/news-1ARUdSLshCU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2025-02-09, @CN@Flipboard, [Russia’s Plans for New World Order Leaked](https://www.kyivpost.com/post/46897?utm_source=flipboard&utm_content=KyivPost/magazine/Kyiv+Post+Latest+News)
-
-2025-02-10, @不死鸟, [2025 年 2 月 每日分享](https://iui.su/194/)
 
 2025-02-09, @CGTV-World, [Catalyst DeepSeek: How China is building global tech competitors](https://news.cgtn.com/news/2025-02-09/Catalyst-DeepSeek-How-China-is-building-global-tech-competitors-1ARec7CkiR2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
@@ -482,8 +498,6 @@
 
 2025-02-07, @少数派, [2025 年回望「红警 2」：一代人的启蒙之作，如何成为游戏文化？](https://sspai.com/post/96002)
 
-2025-02-07, @少数派, [2024 健康备忘录：从高心率通知到身心的重启之路](https://sspai.com/post/96060)
-
 2025-02-06, @Awesome Rust Weekly, [💻 Issue 450 - Hector Martin: "Behold, a Linux maintainer openly admitting to attempting to sabotage the entire Rust for Linux project"](https://rust.libhunt.com/newsletter/450)
 
 2025-02-06, @CGTV-China, [Chinese Foreign Ministry slams attempts to smear China-Cambodia ties](https://news.cgtn.com/news/2025-02-06/Chinese-Foreign-Ministry-slams-attempts-to-smear-China-Cambodia-ties-1AMjqAdsO4g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
@@ -596,6 +610,8 @@
 
 2025-01-27, @蠎周刊, [上周蠎快讯 2025/04](https://weekly.pychina.org/pyrecap/pyrw-2504.html)
 
+2025-01-27, @HelloGitHub 月刊, [HelloGitHub 第 106 期](https://hellogithub.com/periodical/volume/106)
+
 2025-01-26, @CGTV-Nature, [China plants 4.45 million hectares of trees in 2024](https://news.cgtn.com/news/2025-01-26/China-plants-4-45-million-hectares-of-trees-in-2024-1Au5tsCXvbi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-01-24, @Apple 新闻, [Apple Miami Worldcenter opens to excited customers in downtown Miami
@@ -627,8 +643,6 @@
 2025-01-16, @Apple 新闻, [Apple MixC Hefei opens for customers this Saturday, January 18, in Anhui, China
 ](https://www.apple.com/newsroom/2025/01/apple-mixc-hefei-opens-for-customers-this-saturday-january-18-in-anhui-china/)
 
-2025-01-15, @不死鸟, [安卓/苹果APP+Windows/MacOS软件限免信息汇总](https://iui.su/3735/)
-
 2025-01-15, @This Week in Rust, [This Week in Rust 582](https://this-week-in-rust.org/blog/2025/01/15/this-week-in-rust-582/)
 
 2025-01-15, @知乎, [精灵宝可梦（Pokémon）中有哪些有趣的冷（小）知识？](http://www.zhihu.com/question/38535302/answer/77262295?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -640,8 +654,6 @@
 2025-01-13, @蠎周刊, [上周蠎快讯 2025/02](https://weekly.pychina.org/pyrecap/pyrw-2502.html)
 
 2025-01-13, @潮流周刊, [第208期 - 配新电脑](https://weekly.tw93.fun/posts/208-%E9%85%8D%E6%96%B0%E7%94%B5%E8%84%91/)
-
-2025-01-12, @不死鸟, [网易爆米花：智能媒体库](https://iui.su/3396/)
 
 2025-01-11, @书格, [无量寿佛会庆图册](https://www.shuge.org/view/wu_liang_shou_fo_hui_qing_tu/)
 
@@ -722,6 +734,8 @@
 
 2024-12-28, @CGTV-Nature, [China in 2024: Pushing for clear water and lush mountains](https://news.cgtn.com/news/2024-12-28/China-in-2024-Pushing-for-clear-water-and-lush-mountains-1zHset7J9Ru/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
+2024-12-27, @HelloGitHub 月刊, [HelloGitHub 第 105 期](https://hellogithub.com/periodical/volume/105)
+
 2024-12-26, @Awesome Rust Weekly, [💻 Issue 444 - Four limitations of Rust’s borrow checker](https://rust.libhunt.com/newsletter/444)
 
 2024-12-26, @CGTV-Nature, [What is a zero-carbon park? From low carbon to net-zero emissions](https://news.cgtn.com/news/2024-12-26/What-is-a-zero-carbon-park-From-low-carbon-to-net-zero-emissions-1zEiQNiDRvy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
@@ -790,6 +804,8 @@
 
 2024-12-02, @潮流周刊, [第202期 - 夕阳西下](https://weekly.tw93.fun/posts/202-%E5%A4%95%E9%98%B3%E8%A5%BF%E4%B8%8B/)
 
+2024-11-28, @HelloGitHub 月刊, [HelloGitHub 第 104 期](https://hellogithub.com/periodical/volume/104)
+
 2024-11-25, @蠎周刊, [上周蠎快讯 2024/47](https://weekly.pychina.org/pyrecap/pyrw-2447.html)
 
 2024-11-25, @潮流周刊, [第201期 - 山里木屋](https://weekly.tw93.fun/posts/201-%E5%B1%B1%E9%87%8C%E6%9C%A8%E5%B1%8B/)
@@ -810,6 +826,8 @@
 
 2024-10-28, @蠎周刊, [上周蠎快讯 2024/43](https://weekly.pychina.org/pyrecap/pyrw-2443.html)
 
+2024-10-28, @HelloGitHub 月刊, [HelloGitHub 第 103 期](https://hellogithub.com/periodical/volume/103)
+
 2024-10-21, @蠎周刊, [上周蠎快讯 2024/42](https://weekly.pychina.org/pyrecap/pyrw-2442.html)
 
 2024-10-14, @蠎周刊, [上周蠎快讯 2024/41](https://weekly.pychina.org/pyrecap/pyrw-2441.html)
@@ -821,6 +839,8 @@
 2024-09-29, @知乎, [为什么即时战略游戏越来越落寞？](http://www.zhihu.com/question/36160228/answer/3267149436?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-09-27, @知乎, [游戏的系列作品，下一作应该如何削弱前作中玩家已经养成的“战神”级角色？](http://www.zhihu.com/question/667962011/answer/3633824129?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+
+2024-09-27, @HelloGitHub 月刊, [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102)
 
 2024-09-26, @知乎, [游戏《冰汽时代2》中的“暖券”是什么？在现实中有类似的通货么？](http://www.zhihu.com/question/667494988/answer/3630157856?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
@@ -898,6 +918,8 @@
 
 2024-08-28, @知乎, [如何评价《黑神话：悟空》第五回「日落红尘」？在难度、剧情、地图和战斗设计方面有哪些值得聊聊？](http://www.zhihu.com/question/664966240/answer/3607867268?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
+2024-08-28, @HelloGitHub 月刊, [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101)
+
 2024-08-27, @知乎, [《黑神话：悟空》都有哪些隐藏道具、Boss、剧情、地图？](http://www.zhihu.com/question/664877338/answer/3605988511?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 
 2024-08-27, @知乎, [哪些国货小家电精准地满足了你的「特定」小需求？](http://www.zhihu.com/question/663676204/answer/3597550849?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
@@ -954,6 +976,8 @@
 
 2024-07-29, @蠎周刊, [上周蠎快讯 2024/30](https://weekly.pychina.org/pyrecap/pyrw-2430.html)
 
+2024-07-26, @HelloGitHub 月刊, [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100)
+
 2024-07-22, @蠎周刊, [上周蠎快讯 2024/29](https://weekly.pychina.org/pyrecap/pyrw-2429.html)
 
 2024-07-15, @蠎周刊, [上周蠎快讯 2024/28](https://weekly.pychina.org/pyrecap/pyrw-2428.html)
@@ -962,6 +986,8 @@
 
 2024-07-01, @蠎周刊, [上周蠎快讯 2024/26](https://weekly.pychina.org/pyrecap/pyrw-2426.html)
 
+2024-06-28, @HelloGitHub 月刊, [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99)
+
 2024-06-24, @蠎周刊, [上周蠎快讯 2024/25](https://weekly.pychina.org/pyrecap/pyrw-2425.html)
 
 2024-06-19, @蠎周刊, [上周蠎快讯 2024/24](https://weekly.pychina.org/pyrecap/pyrw-2424.html)
@@ -969,6 +995,8 @@
 2024-06-10, @蠎周刊, [上周蠎快讯 2024/23](https://weekly.pychina.org/pyrecap/pyrw-2423.html)
 
 2024-06-03, @蠎周刊, [上周蠎快讯 2024/22](https://weekly.pychina.org/pyrecap/pyrw-2422.html)
+
+2024-05-28, @HelloGitHub 月刊, [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98)
 
 2024-05-27, @蠎周刊, [上周蠎快讯 2024/21](https://weekly.pychina.org/pyrecap/pyrw-2421.html)
 
@@ -980,6 +1008,8 @@
 
 2024-04-29, @蠎周刊, [上周蠎快讯 2024/17](https://weekly.pychina.org/pyrecap/pyrw-2417.html)
 
+2024-04-28, @HelloGitHub 月刊, [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97)
+
 2024-04-22, @蠎周刊, [上周蠎快讯 2024/16](https://weekly.pychina.org/pyrecap/pyrw-2416.html)
 
 2024-04-15, @蠎周刊, [上周蠎快讯 2024/15](https://weekly.pychina.org/pyrecap/pyrw-2415.html)
@@ -988,6 +1018,8 @@
 
 2024-04-01, @蠎周刊, [上周蠎快讯 2024/13](https://weekly.pychina.org/pyrecap/pyrw-2413.html)
 
+2024-03-28, @HelloGitHub 月刊, [HelloGitHub 第 96 期](https://hellogithub.com/periodical/volume/96)
+
 2024-03-25, @蠎周刊, [上周蠎快讯 2024/12](https://weekly.pychina.org/pyrecap/pyrw-2412.html)
 
 2024-03-18, @蠎周刊, [上周蠎快讯 2024/11](https://weekly.pychina.org/pyrecap/pyrw-2411.html)
@@ -995,6 +1027,8 @@
 2024-03-11, @蠎周刊, [上周蠎快讯 2024/10](https://weekly.pychina.org/pyrecap/pyrw-2410.html)
 
 2024-03-04, @蠎周刊, [上周蠎快讯 2024/9](https://weekly.pychina.org/pyrecap/pyrw-2409.html)
+
+2024-02-28, @HelloGitHub 月刊, [HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95)
 
 2024-02-26, @蠎周刊, [上周蠎快讯 2024/8](https://weekly.pychina.org/pyrecap/pyrw-2408.html)
 
@@ -1006,6 +1040,8 @@
 
 2024-01-29, @蠎周刊, [上周蠎快讯 2024/4](https://weekly.pychina.org/pyrecap/pyrw-2404.html)
 
+2024-01-26, @HelloGitHub 月刊, [HelloGitHub 第 94 期](https://hellogithub.com/periodical/volume/94)
+
 2024-01-22, @蠎周刊, [上周蠎快讯 2024/3](https://weekly.pychina.org/pyrecap/pyrw-2403.html)
 
 2024-01-15, @蠎周刊, [上周蠎快讯 2024/2](https://weekly.pychina.org/pyrecap/pyrw-2402.html)
@@ -1016,6 +1052,8 @@
 
 # 2023
 
+2023-12-28, @HelloGitHub 月刊, [HelloGitHub 第 93 期](https://hellogithub.com/periodical/volume/93)
+
 2023-12-25, @蠎周刊, [上周蠎快讯 51/2023](https://weekly.pychina.org/pyrecap/pyrw-2351.html)
 
 2023-12-18, @蠎周刊, [上周蠎快讯 50/2023](https://weekly.pychina.org/pyrecap/pyrw-2350.html)
@@ -1023,6 +1061,8 @@
 2023-12-12, @蠎周刊, [上周蠎快讯 49/2023](https://weekly.pychina.org/pyrecap/pyrw-2349.html)
 
 2023-12-04, @蠎周刊, [上周蠎快讯 48/2023](https://weekly.pychina.org/pyrecap/pyrw-2348.html)
+
+2023-11-28, @HelloGitHub 月刊, [HelloGitHub 第 92 期](https://hellogithub.com/periodical/volume/92)
 
 2023-11-27, @蠎周刊, [上周蠎快讯 47/2023](https://weekly.pychina.org/pyrecap/pyrw-2347.html)
 
@@ -1034,6 +1074,8 @@
 
 2023-10-30, @蠎周刊, [上周蠎快讯 43/2023](https://weekly.pychina.org/pyrecap/pyrw-2343.html)
 
+2023-10-27, @HelloGitHub 月刊, [HelloGitHub 第 91 期](https://hellogithub.com/periodical/volume/91)
+
 2023-10-23, @蠎周刊, [上周蠎快讯 42/2023](https://weekly.pychina.org/pyrecap/pyrw-2342.html)
 
 2023-10-18, @蠎周刊, [蠎周刊(PyCoder)599](https://weekly.pychina.org/issue/issue-599.html)
@@ -1041,6 +1083,8 @@
 2023-10-11, @蠎周刊, [蠎周刊(PyCoder)598](https://weekly.pychina.org/issue/issue-598.html)
 
 2023-10-04, @蠎周刊, [蠎周刊(PyCoder)597](https://weekly.pychina.org/issue/issue-597.html)
+
+2023-09-28, @HelloGitHub 月刊, [HelloGitHub 第 90 期](https://hellogithub.com/periodical/volume/90)
 
 2023-09-27, @蠎周刊, [蠎周刊(PyCoder)596](https://weekly.pychina.org/issue/issue-596.html)
 
@@ -1052,6 +1096,8 @@
 
 2023-08-30, @蠎周刊, [蠎周刊(PyCoder)592](https://weekly.pychina.org/issue/issue-592.html)
 
+2023-08-28, @HelloGitHub 月刊, [HelloGitHub 第 89 期](https://hellogithub.com/periodical/volume/89)
+
 2023-08-23, @蠎周刊, [蠎周刊(PyCoder)591](https://weekly.pychina.org/issue/issue-591.html)
 
 2023-08-16, @蠎周刊, [蠎周刊(PyCoder)590](https://weekly.pychina.org/issue/issue-590.html)
@@ -1059,6 +1105,8 @@
 2023-08-09, @蠎周刊, [蠎周刊(PyCoder)589](https://weekly.pychina.org/issue/issue-589.html)
 
 2023-08-02, @蠎周刊, [蠎周刊(PyCoder)588](https://weekly.pychina.org/issue/issue-588.html)
+
+2023-07-28, @HelloGitHub 月刊, [HelloGitHub 第 88 期](https://hellogithub.com/periodical/volume/88)
 
 2023-07-26, @蠎周刊, [蠎周刊(PyCoder)587](https://weekly.pychina.org/issue/issue-587.html)
 
@@ -1070,6 +1118,8 @@
 
 2023-06-28, @蠎周刊, [蠎周刊(PyCoder)583](https://weekly.pychina.org/issue/issue-583.html)
 
+2023-06-28, @HelloGitHub 月刊, [HelloGitHub 第 87 期](https://hellogithub.com/periodical/volume/87)
+
 2023-06-21, @蠎周刊, [蠎周刊(PyCoder)582](https://weekly.pychina.org/issue/issue-582.html)
 
 2023-06-14, @蠎周刊, [蠎周刊(PyCoder)581](https://weekly.pychina.org/issue/issue-581.html)
@@ -1078,6 +1128,8 @@
 
 2023-05-31, @蠎周刊, [蠎周刊(PyCoder)579](https://weekly.pychina.org/issue/issue-579.html)
 
+2023-05-29, @HelloGitHub 月刊, [HelloGitHub 第 86 期](https://hellogithub.com/periodical/volume/86)
+
 2023-05-24, @蠎周刊, [蠎周刊(PyCoder)578](https://weekly.pychina.org/issue/issue-578.html)
 
 2023-05-17, @蠎周刊, [蠎周刊(PyCoder)577](https://weekly.pychina.org/issue/issue-577.html)
@@ -1085,6 +1137,8 @@
 2023-05-10, @蠎周刊, [蠎周刊(PyCoder)576](https://weekly.pychina.org/issue/issue-576.html)
 
 2023-05-03, @蠎周刊, [蠎周刊(PyCoder)575](https://weekly.pychina.org/issue/issue-575.html)
+
+2023-04-28, @HelloGitHub 月刊, [HelloGitHub 第 85 期](https://hellogithub.com/periodical/volume/85)
 
 2023-04-26, @蠎周刊, [蠎周刊(PyCoder)574](https://weekly.pychina.org/issue/issue-574.html)
 
@@ -1096,9 +1150,21 @@
 
 2023-03-29, @蠎周刊, [蠎周刊(PyCoder)570](https://weekly.pychina.org/issue/issue-570.html)
 
+2023-03-28, @HelloGitHub 月刊, [HelloGitHub 第 84 期](https://hellogithub.com/periodical/volume/84)
+
 2023-03-22, @蠎周刊, [蠎周刊 PyCoder 569](https://weekly.pychina.org/issue/issue-569.html)
 
+2023-02-28, @HelloGitHub 月刊, [HelloGitHub 第 83 期](https://hellogithub.com/periodical/volume/83)
+
+2023-01-28, @HelloGitHub 月刊, [HelloGitHub 第 82 期](https://hellogithub.com/periodical/volume/82)
+
 # 2022
+
+2022-12-28, @HelloGitHub 月刊, [HelloGitHub 第 81 期](https://hellogithub.com/periodical/volume/81)
+
+2022-11-28, @HelloGitHub 月刊, [HelloGitHub 第 80 期](https://hellogithub.com/periodical/volume/80)
+
+2022-10-28, @HelloGitHub 月刊, [HelloGitHub 第 79 期](https://hellogithub.com/periodical/volume/79)
 
 2022-10-26, @cnBeta, [十几万的特斯拉要来了 马斯克：成本只有Model 3一半](https://m.cnbeta.com/view/1329009.htm)
 
@@ -1139,3 +1205,171 @@
 2022-10-24, @cnBeta, [“韩版腾讯“一场大火：韩国一夜退回石器时代 沦陷整整4天](https://m.cnbeta.com/view/1329759.htm)
 
 2022-10-24, @cnBeta, [50英寸电视不到1000元可购 彩电为何价格越跌越卖不动？](https://m.cnbeta.com/view/1330059.htm)
+
+2022-09-28, @HelloGitHub 月刊, [HelloGitHub 第 78 期](https://hellogithub.com/periodical/volume/78)
+
+2022-08-29, @HelloGitHub 月刊, [HelloGitHub 第 77 期](https://hellogithub.com/periodical/volume/77)
+
+2022-07-28, @HelloGitHub 月刊, [HelloGitHub 第 76 期](https://hellogithub.com/periodical/volume/76)
+
+2022-06-28, @HelloGitHub 月刊, [HelloGitHub 第 75 期](https://hellogithub.com/periodical/volume/75)
+
+2022-05-28, @HelloGitHub 月刊, [HelloGitHub 第 74 期](https://hellogithub.com/periodical/volume/74)
+
+2022-04-28, @HelloGitHub 月刊, [HelloGitHub 第 73 期](https://hellogithub.com/periodical/volume/73)
+
+2022-03-28, @HelloGitHub 月刊, [HelloGitHub 第 72 期](https://hellogithub.com/periodical/volume/72)
+
+2022-02-28, @HelloGitHub 月刊, [HelloGitHub 第 71 期](https://hellogithub.com/periodical/volume/71)
+
+2022-01-28, @HelloGitHub 月刊, [HelloGitHub 第 70 期](https://hellogithub.com/periodical/volume/70)
+
+# 2021
+
+2021-12-28, @HelloGitHub 月刊, [HelloGitHub 第 69 期](https://hellogithub.com/periodical/volume/69)
+
+2021-11-28, @HelloGitHub 月刊, [HelloGitHub 第 68 期](https://hellogithub.com/periodical/volume/68)
+
+2021-10-28, @HelloGitHub 月刊, [HelloGitHub 第 67 期](https://hellogithub.com/periodical/volume/67)
+
+2021-09-28, @HelloGitHub 月刊, [HelloGitHub 第 66 期](https://hellogithub.com/periodical/volume/66)
+
+2021-08-28, @HelloGitHub 月刊, [HelloGitHub 第 65 期](https://hellogithub.com/periodical/volume/65)
+
+2021-07-28, @HelloGitHub 月刊, [HelloGitHub 第 64 期](https://hellogithub.com/periodical/volume/64)
+
+2021-06-28, @HelloGitHub 月刊, [HelloGitHub 第 63 期](https://hellogithub.com/periodical/volume/63)
+
+2021-05-28, @HelloGitHub 月刊, [HelloGitHub 第 62 期](https://hellogithub.com/periodical/volume/62)
+
+2021-04-28, @HelloGitHub 月刊, [HelloGitHub 第 61 期](https://hellogithub.com/periodical/volume/61)
+
+2021-03-28, @HelloGitHub 月刊, [HelloGitHub 第 60 期](https://hellogithub.com/periodical/volume/60)
+
+2021-02-28, @HelloGitHub 月刊, [HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59)
+
+2021-01-28, @HelloGitHub 月刊, [HelloGitHub 第 58 期](https://hellogithub.com/periodical/volume/58)
+
+# 2020
+
+2020-12-28, @HelloGitHub 月刊, [HelloGitHub 第 57 期](https://hellogithub.com/periodical/volume/57)
+
+2020-11-28, @HelloGitHub 月刊, [HelloGitHub 第 56 期](https://hellogithub.com/periodical/volume/56)
+
+2020-10-28, @HelloGitHub 月刊, [HelloGitHub 第 55 期](https://hellogithub.com/periodical/volume/55)
+
+2020-09-28, @HelloGitHub 月刊, [HelloGitHub 第 54 期](https://hellogithub.com/periodical/volume/54)
+
+2020-08-28, @HelloGitHub 月刊, [HelloGitHub 第 53 期](https://hellogithub.com/periodical/volume/53)
+
+2020-07-28, @HelloGitHub 月刊, [HelloGitHub 第 52 期](https://hellogithub.com/periodical/volume/52)
+
+2020-06-28, @HelloGitHub 月刊, [HelloGitHub 第 51 期](https://hellogithub.com/periodical/volume/51)
+
+2020-05-28, @HelloGitHub 月刊, [HelloGitHub 第 50 期](https://hellogithub.com/periodical/volume/50)
+
+2020-04-28, @HelloGitHub 月刊, [HelloGitHub 第 49 期](https://hellogithub.com/periodical/volume/49)
+
+2020-03-28, @HelloGitHub 月刊, [HelloGitHub 第 48 期](https://hellogithub.com/periodical/volume/48)
+
+2020-02-28, @HelloGitHub 月刊, [HelloGitHub 第 47 期](https://hellogithub.com/periodical/volume/47)
+
+2020-01-28, @HelloGitHub 月刊, [HelloGitHub 第 46 期](https://hellogithub.com/periodical/volume/46)
+
+# 2019
+
+2019-12-28, @HelloGitHub 月刊, [HelloGitHub 第 45 期](https://hellogithub.com/periodical/volume/45)
+
+2019-11-28, @HelloGitHub 月刊, [HelloGitHub 第 44 期](https://hellogithub.com/periodical/volume/44)
+
+2019-10-28, @HelloGitHub 月刊, [HelloGitHub 第 43 期](https://hellogithub.com/periodical/volume/43)
+
+2019-09-28, @HelloGitHub 月刊, [HelloGitHub 第 42 期](https://hellogithub.com/periodical/volume/42)
+
+2019-08-28, @HelloGitHub 月刊, [HelloGitHub 第 41 期](https://hellogithub.com/periodical/volume/41)
+
+2019-07-28, @HelloGitHub 月刊, [HelloGitHub 第 40 期](https://hellogithub.com/periodical/volume/40)
+
+2019-06-28, @HelloGitHub 月刊, [HelloGitHub 第 39 期](https://hellogithub.com/periodical/volume/39)
+
+2019-05-28, @HelloGitHub 月刊, [HelloGitHub 第 38 期](https://hellogithub.com/periodical/volume/38)
+
+2019-04-28, @HelloGitHub 月刊, [HelloGitHub 第 37 期](https://hellogithub.com/periodical/volume/37)
+
+2019-03-28, @HelloGitHub 月刊, [HelloGitHub 第 36 期](https://hellogithub.com/periodical/volume/36)
+
+2019-02-28, @HelloGitHub 月刊, [HelloGitHub 第 35 期](https://hellogithub.com/periodical/volume/35)
+
+2019-01-28, @HelloGitHub 月刊, [HelloGitHub 第 34 期](https://hellogithub.com/periodical/volume/34)
+
+# 2018
+
+2018-12-28, @HelloGitHub 月刊, [HelloGitHub 第 33 期](https://hellogithub.com/periodical/volume/33)
+
+2018-11-28, @HelloGitHub 月刊, [HelloGitHub 第 32 期](https://hellogithub.com/periodical/volume/32)
+
+2018-10-28, @HelloGitHub 月刊, [HelloGitHub 第 31 期](https://hellogithub.com/periodical/volume/31)
+
+2018-09-28, @HelloGitHub 月刊, [HelloGitHub 第 30 期](https://hellogithub.com/periodical/volume/30)
+
+2018-08-28, @HelloGitHub 月刊, [HelloGitHub 第 29 期](https://hellogithub.com/periodical/volume/29)
+
+2018-07-28, @HelloGitHub 月刊, [HelloGitHub 第 28 期](https://hellogithub.com/periodical/volume/28)
+
+2018-06-28, @HelloGitHub 月刊, [HelloGitHub 第 27 期](https://hellogithub.com/periodical/volume/27)
+
+2018-05-28, @HelloGitHub 月刊, [HelloGitHub 第 26 期](https://hellogithub.com/periodical/volume/26)
+
+2018-04-28, @HelloGitHub 月刊, [HelloGitHub 第 25 期](https://hellogithub.com/periodical/volume/25)
+
+2018-03-28, @HelloGitHub 月刊, [HelloGitHub 第 24 期](https://hellogithub.com/periodical/volume/24)
+
+2018-02-28, @HelloGitHub 月刊, [HelloGitHub 第 23 期](https://hellogithub.com/periodical/volume/23)
+
+2018-01-28, @HelloGitHub 月刊, [HelloGitHub 第 22 期](https://hellogithub.com/periodical/volume/22)
+
+# 2017
+
+2017-12-28, @HelloGitHub 月刊, [HelloGitHub 第 21 期](https://hellogithub.com/periodical/volume/21)
+
+2017-11-28, @HelloGitHub 月刊, [HelloGitHub 第 20 期](https://hellogithub.com/periodical/volume/20)
+
+2017-10-28, @HelloGitHub 月刊, [HelloGitHub 第 19 期](https://hellogithub.com/periodical/volume/19)
+
+2017-09-28, @HelloGitHub 月刊, [HelloGitHub 第 18 期](https://hellogithub.com/periodical/volume/18)
+
+2017-08-28, @HelloGitHub 月刊, [HelloGitHub 第 17 期](https://hellogithub.com/periodical/volume/17)
+
+2017-07-28, @HelloGitHub 月刊, [HelloGitHub 第 16 期](https://hellogithub.com/periodical/volume/16)
+
+2017-06-28, @HelloGitHub 月刊, [HelloGitHub 第 15 期](https://hellogithub.com/periodical/volume/15)
+
+2017-05-28, @HelloGitHub 月刊, [HelloGitHub 第 14 期](https://hellogithub.com/periodical/volume/14)
+
+2017-04-28, @HelloGitHub 月刊, [HelloGitHub 第 13 期](https://hellogithub.com/periodical/volume/13)
+
+2017-03-28, @HelloGitHub 月刊, [HelloGitHub 第 12 期](https://hellogithub.com/periodical/volume/12)
+
+2017-02-28, @HelloGitHub 月刊, [HelloGitHub 第 11 期](https://hellogithub.com/periodical/volume/11)
+
+2017-01-28, @HelloGitHub 月刊, [HelloGitHub 第 10 期](https://hellogithub.com/periodical/volume/10)
+
+# 2016
+
+2016-12-28, @HelloGitHub 月刊, [HelloGitHub 第 09 期](https://hellogithub.com/periodical/volume/9)
+
+2016-11-28, @HelloGitHub 月刊, [HelloGitHub 第 08 期](https://hellogithub.com/periodical/volume/8)
+
+2016-10-28, @HelloGitHub 月刊, [HelloGitHub 第 07 期](https://hellogithub.com/periodical/volume/7)
+
+2016-09-28, @HelloGitHub 月刊, [HelloGitHub 第 06 期](https://hellogithub.com/periodical/volume/6)
+
+2016-08-28, @HelloGitHub 月刊, [HelloGitHub 第 05 期](https://hellogithub.com/periodical/volume/5)
+
+2016-07-28, @HelloGitHub 月刊, [HelloGitHub 第 04 期](https://hellogithub.com/periodical/volume/4)
+
+2016-06-28, @HelloGitHub 月刊, [HelloGitHub 第 03 期](https://hellogithub.com/periodical/volume/3)
+
+2016-05-28, @HelloGitHub 月刊, [HelloGitHub 第 02 期](https://hellogithub.com/periodical/volume/2)
+
+2016-04-28, @HelloGitHub 月刊, [HelloGitHub 第 01 期](https://hellogithub.com/periodical/volume/1)
