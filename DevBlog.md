@@ -1,5 +1,7 @@
 # 2025
 
+2025-02-13, @Zeruns 's Blog, [MacMini将macOS系统迁移安装到外置硬盘的教程（保留数据迁移，无需重新安装软件）](https://blog.zeruns.com/archives/854.html)
+
 2025-02-12, @朽丘博, [关于小柯公开的一些公益,商业项目](https://koxiuqiu.cn/a3p2502131/)
 
 2025-02-10, @Zeruns 's Blog, [DeepSeek私有化部署教程 | 云服务器用Ollama+OpenWebUI部署DeepSeek-R1大语言模型](https://blog.zeruns.com/archives/853.html)
@@ -41,8 +43,6 @@
 2025-01-21, @Zeruns 's Blog, [爱快 IK-X9 吸顶AP 简单开箱评测和拆解，三频WiFi7，BE5000，2.5G网口](https://blog.zeruns.com/archives/846.html)
 
 2025-01-20, @张洪Heo, [咕哩的年度红包封面在这里领取～](https://blog.zhheo.com/p/06wziydu.html)
-
-2025-01-18, @Zeruns 's Blog, [爱快 IK-W35 面板式AP 简单开箱评测和拆解，双频WiFi6 AX3000，2.5G网口](https://blog.zeruns.com/archives/845.html)
 
 2025-01-17, @张洪Heo, [PicList上手：一个可替代PicGo的图片上传到图床的上传工具](https://blog.zhheo.com/p/uutjtnvc.html)
 
