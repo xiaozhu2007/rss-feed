@@ -1,5 +1,9 @@
 # 2025
 
+2025-02-21, @Zeruns 's Blog, [ACASIS TBU405Pro 雷电4/3硬盘盒 + 西数SN7100 1TB固态硬盘 简单开箱测评和拆解](https://blog.zeruns.com/archives/857.html)
+
+2025-02-20, @张洪Heo, [Grok上手：马斯克的AI到底能不能打？真的是地表最强AI吗？](https://blog.zhheo.com/p/yxu5zv79.html)
+
 2025-02-20, @Zeruns 's Blog, [皓量云擎 香港 轻量服务器 性能测评，三网直连，8核16G 40M 仅需70元/月](https://blog.zeruns.com/archives/856.html)
 
 2025-02-20, @HiFeng'Blog, [Ubuntu 操作系统中使用 UFW 配置防火墙](https://www.hicairo.com/post/80.html)
@@ -52,8 +56,6 @@
 
 2025-01-22, @朽丘博, [站长基本教材,从入门到入土,一站传三代](https://koxiuqiu.cn/2025/1y23d1/)
 
-2025-01-22, @Zeruns 's Blog, [腾讯云 广州轻量VPS 性能测评，2核1G 200M不限流量 仅需40元/月，IPv6&amp;v4双栈网络,100G高防](https://blog.zeruns.com/archives/847.html)
-
 2025-01-20, @张洪Heo, [咕哩的年度红包封面在这里领取～](https://blog.zhheo.com/p/06wziydu.html)
 
 2025-01-17, @张洪Heo, [PicList上手：一个可替代PicGo的图片上传到图床的上传工具](https://blog.zhheo.com/p/uutjtnvc.html)
@@ -77,8 +79,6 @@
 2025-01-11, @朽丘博, [修改hexo框架Butterfly主题的文字大小和字体并优化字体加载](https://koxiuqiu.cn/2025/01y11d1/)
 
 2025-01-10, @张洪Heo, [网购生涯回顾：我在2024买到的好物推荐](https://blog.zhheo.com/p/o29mpcwr.html)
-
-2025-01-10, @阮一峰的网络日志, [科技爱好者周刊（第 333 期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html)
 
 2025-01-09, @张洪Heo, [boring.notch上手：Mac上免费开源的灵动刘海，在刘海中显示音乐信息与进度](https://blog.zhheo.com/p/wounqbv0.html)
 
