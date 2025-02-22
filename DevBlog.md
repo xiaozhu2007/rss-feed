@@ -1,5 +1,7 @@
 # 2025
 
+2025-02-21, @张洪Heo, [如何静态化Docker容器的IP地址？构建网络实现容器固定IP](https://blog.zhheo.com/p/515226cq.html)
+
 2025-02-21, @HiFeng'Blog, [在 Ubuntu 22.04 上配置 MySQL 数据库同步（主从复制）](https://www.hicairo.com/post/81.html)
 
 2025-02-21, @张洪Heo, [iStoreOS如何给硬盘分区扩容？Openwrt已经正在使用的分区如何扩容？](https://blog.zhheo.com/p/o898gwi7.html)
@@ -57,8 +59,6 @@
 2025-01-24, @阮一峰的网络日志, [科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)
 
 2025-01-22, @朽丘博, [漂泊异乡终归巢：游子踏上归途，重逢温馨家园](https://koxiuqiu.cn/2025/1y23d2/)
-
-2025-01-23, @Zeruns 's Blog, [UCloud 香港轻量服务器 性能测评，1核1G 30兆，仅需34元/月](https://blog.zeruns.com/archives/848.html)
 
 2025-01-22, @朽丘博, [站长基本教材,从入门到入土,一站传三代](https://koxiuqiu.cn/2025/1y23d1/)
 
