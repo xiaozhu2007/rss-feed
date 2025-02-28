@@ -1,5 +1,7 @@
 # 2025
 
+2025-02-24, @张洪Heo, [Hexo上传服务器建议使用rsync来替代git上传，repo文件夹越来越大解决方法](https://blog.zhheo.com/p/mc663kbo.html)
+
 2025-02-22, @Zeruns 's Blog, [极速建站！用1Panel面板一键部署Halo博客的保姆级教程 | 企业官网/个人博客搭建教程](https://blog.zeruns.com/archives/858.html)
 
 2025-02-21, @张洪Heo, [如何静态化Docker容器的IP地址？构建网络实现容器固定IP](https://blog.zhheo.com/p/515226cq.html)
@@ -73,8 +75,6 @@
 2025-01-16, @张洪Heo, [如何在不同操作系统上安装和使用 FFmpeg？macOS、Windows、Ubuntu、CentOS安装ffmpeg教程](https://blog.zhheo.com/p/fkbe6qm2.html)
 
 2025-01-16, @张洪Heo, [如何使用ffmpeg处理ProRes视频进行视频旋转？ProRes视频旋转教程](https://blog.zhheo.com/p/eyvb3cmq.html)
-
-2025-01-16, @阮一峰的网络日志, [AI 搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html)
 
 2025-01-15, @张洪Heo, [AfterEffect导出的颜色偏灰偏暗解决方法，渲染的视频播放时颜色不正确](https://blog.zhheo.com/p/qxweb24k.html)
 
