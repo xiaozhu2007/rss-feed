@@ -1,5 +1,7 @@
 # 2025
 
+2025-03-03, @张洪Heo, [如何获取视频的LUFS（响度单位）？通过视频文件测量视频音量响度水平](https://blog.zhheo.com/p/drl0mi4l.html)
+
 2025-03-03, @阮一峰的网络日志, [Trae 国内版出来了，真的好用吗？](http://www.ruanyifeng.com/blog/2025/03/trae.html)
 
 2025-03-02, @Zeruns 's Blog, [晒机房-我的家庭网络机房/机柜 | 家庭网络方案分享 | 分享机房照片赢大奖](https://blog.zeruns.com/archives/859.html)
@@ -61,8 +63,6 @@
 2025-02-01, @Zeruns 's Blog, [苹果 Mac Mini M4 迷你主机简单测评和拆解，最强单核性能的小主机](https://blog.zeruns.com/archives/851.html)
 
 2025-01-29, @朽丘博, [新开始【旅游了回来更新】](https://koxiuqiu.cn/2025/1y30d1/)
-
-2025-01-28, @Zeruns 's Blog, [雨云 十堰800G高防 E5-2650Lv3独服，48核32G 30兆 最低348元/月，裸金属物理机](https://blog.zeruns.com/archives/850.html)
 
 2025-01-24, @阮一峰的网络日志, [科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)
 
