@@ -1,5 +1,7 @@
 # 2025
 
+2025-03-09, @Zeruns 's Blog, [多凯斯智能屏显磁吸硬盘盒 简单开箱测评，DSWC1R-3S，Magsafe磁吸硬盘外录ProRes](https://blog.zeruns.com/archives/861.html)
+
 2025-03-07, @朽丘博, [25年2月小结](https://koxiuqiu.cn/8p2503081/)
 
 2025-03-07, @阮一峰的网络日志, [科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
@@ -53,8 +55,6 @@
 2025-02-08, @张洪Heo, [HomeAssistant如何设置自动备份，定期自动备份并自动删除旧备份](https://blog.zhheo.com/p/e57iwlsu.html)
 
 2025-02-07, @阮一峰的网络日志, [科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
-
-2025-02-07, @Zeruns 's Blog, [Linux搭建Minecraft《龙之冒险:新征程2.0》整合包服务器 | 我的世界开服教程](https://blog.zeruns.com/archives/852.html)
 
 2025-02-06, @张洪Heo, [如何在mac上隐藏应用程序在dock栏中的图标](https://blog.zhheo.com/p/3jdfoye6.html)
 
