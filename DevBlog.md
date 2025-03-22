@@ -1,5 +1,7 @@
 # 2025
 
+2025-03-21, @张洪Heo, [HomeAssistant接入和风天气教程，免费的天气集成](https://blog.zhheo.com/p/0pwu8n22.html)
+
 2025-03-21, @张洪Heo, [米家空调伴侣接入HomeAssistant不显示当前温度的解决方法，解决HomeKit空调始终21度问题](https://blog.zhheo.com/p/mdyoa2q5.html)
 
 2025-03-21, @阮一峰的网络日志, [科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html)
