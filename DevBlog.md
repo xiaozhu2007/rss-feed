@@ -1,5 +1,7 @@
 # 2025
 
+2025-03-24, @张洪Heo, [OpenWrt如何开启SSH仅密钥登录，取消密码登录增强安全性](https://blog.zhheo.com/p/1gfrdo65.html)
+
 2025-03-24, @张洪Heo, [iStoreOS统一文件共享无法连接smb怎么办，windows无法挂在smb提示拒绝访问](https://blog.zhheo.com/p/h4p2xflo.html)
 
 2025-03-21, @朽丘博, [25年3月小结](https://koxiuqiu.cn/8p2503221/)
@@ -85,8 +87,6 @@
 2025-01-20, @张洪Heo, [咕哩的年度红包封面在这里领取～](https://blog.zhheo.com/p/06wziydu.html)
 
 2025-01-17, @张洪Heo, [PicList上手：一个可替代PicGo的图片上传到图床的上传工具](https://blog.zhheo.com/p/uutjtnvc.html)
-
-2025-01-16, @张洪Heo, [如何在不同操作系统上安装和使用 FFmpeg？macOS、Windows、Ubuntu、CentOS安装ffmpeg教程](https://blog.zhheo.com/p/fkbe6qm2.html)
 
 2025-01-15, @朽丘博, [社会变迁与个人成长：一种代际观察](https://koxiuqiu.cn/2025/01y15d1/)
 
