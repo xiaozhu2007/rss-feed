@@ -14,27 +14,17 @@
 
 2025-03-14, @阮一峰的网络日志, [科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-341.html)
 
-2025-03-12, @Zeruns 's Blog, [普联的AC100+AP+易展路由组网方案的一些问题](https://blog.zeruns.com/archives/862.html)
-
-2025-03-09, @Zeruns 's Blog, [多凯斯智能屏显磁吸硬盘盒 简单开箱测评，DSWC1R-3S，Magsafe磁吸硬盘外录ProRes](https://blog.zeruns.com/archives/861.html)
-
 2025-03-07, @朽丘博, [25年2月小结](https://koxiuqiu.cn/8p2503081/)
 
 2025-03-07, @阮一峰的网络日志, [科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
-
-2025-03-05, @Zeruns 's Blog, [爱快 IK-Q3000 WiFi6无线路由器 简单开箱评测和拆解](https://blog.zeruns.com/archives/860.html)
 
 2025-03-03, @张洪Heo, [如何获取视频的LUFS（响度单位）？通过视频文件测量视频音量响度水平](https://blog.zhheo.com/p/drl0mi4l.html)
 
 2025-03-03, @阮一峰的网络日志, [Trae 国内版出来了，真的好用吗？](http://www.ruanyifeng.com/blog/2025/03/trae.html)
 
-2025-03-02, @Zeruns 's Blog, [晒机房-我的家庭网络机房/机柜 | 家庭网络方案分享 | 分享机房照片赢大奖](https://blog.zeruns.com/archives/859.html)
-
 2025-02-28, @阮一峰的网络日志, [科技爱好者周刊（第 339 期）：代币是什么](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html)
 
 2025-02-24, @张洪Heo, [Hexo上传服务器建议使用rsync来替代git上传，repo文件夹越来越大解决方法](https://blog.zhheo.com/p/mc663kbo.html)
-
-2025-02-22, @Zeruns 's Blog, [极速建站！用1Panel面板一键部署Halo博客的保姆级教程 | 企业官网/个人博客搭建教程](https://blog.zeruns.com/archives/858.html)
 
 2025-02-21, @张洪Heo, [如何静态化Docker容器的IP地址？构建网络实现容器固定IP](https://blog.zhheo.com/p/515226cq.html)
 
@@ -44,11 +34,7 @@
 
 2025-02-21, @阮一峰的网络日志, [科技爱好者周刊（第 338 期）：重新思考 6G](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html)
 
-2025-02-21, @Zeruns 's Blog, [ACASIS TBU405Pro 雷电4/3硬盘盒 + 西数SN7100 1TB固态硬盘 简单开箱测评和拆解](https://blog.zeruns.com/archives/857.html)
-
 2025-02-20, @张洪Heo, [Grok上手：马斯克的AI到底能不能打？真的是地表最强AI吗？](https://blog.zhheo.com/p/yxu5zv79.html)
-
-2025-02-20, @Zeruns 's Blog, [皓量云擎 香港 轻量服务器 性能测评，三网直连，8核16G 40M 仅需70元/月](https://blog.zeruns.com/archives/856.html)
 
 2025-02-20, @HiFeng'Blog, [Ubuntu 操作系统中使用 UFW 配置防火墙](https://www.hicairo.com/post/80.html)
 
@@ -58,13 +44,7 @@
 
 2025-02-14, @张洪Heo, [Ice上手：Mac上免费开源的菜单栏管理工具，Bartender的免费平替](https://blog.zhheo.com/p/exfl3ye7.html)
 
-2025-02-14, @Zeruns 's Blog, [皓量云擎 呼和浩特 轻量服务器 性能测评，16核32G 100M 仅需120元/月](https://blog.zeruns.com/archives/855.html)
-
-2025-02-13, @Zeruns 's Blog, [MacMini将macOS系统迁移安装到外置硬盘的教程（保留数据迁移，无需重新安装软件）](https://blog.zeruns.com/archives/854.html)
-
 2025-02-12, @朽丘博, [关于小柯公开的一些公益,商业项目](https://koxiuqiu.cn/a3p2502131/)
-
-2025-02-10, @Zeruns 's Blog, [DeepSeek私有化部署教程 | 云服务器用Ollama+OpenWebUI部署DeepSeek-R1大语言模型](https://blog.zeruns.com/archives/853.html)
 
 2025-02-08, @张洪Heo, [HomeAssistant如何设置自动备份，定期自动备份并自动删除旧备份](https://blog.zhheo.com/p/e57iwlsu.html)
 
@@ -195,7 +175,3 @@
 2024-01-15, @朽丘博, [论如何快速了解建站](https://koxiuqiu.cn/2024/01/15/2/)
 
 2024-01-08, @朽丘博, [Hello World](https://koxiuqiu.cn/2024/01/09/1/)
-
-# 2020
-
-2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2025/2/4更新](https://blog.zeruns.com/archives/383.html)
