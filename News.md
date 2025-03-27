@@ -1,12 +1,16 @@
 # 2025
 
-2025-03-27, @CN@Flipboard, [Brother-in-law of top Dem senator played key role in recruiting Chinese firms to deep blue city](https://www.foxnews.com/politics/brother-in-law-top-dem-senator-played-key-role-recruiting-chinese-firms-deep-blue-city?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-03-27, @CN@Flipboard, [Who’s winning the global race for critical minerals?](https://www.aljazeera.com/program/counting-the-cost/2025/3/27/whos-winning-the-global-race-for-critical-minerals?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-03-27, @博客园, [一文速通Python并行计算：04 Python多线程编程-多线程同步（上）—基于条件变量、事件和屏障 - FreakStudio](https://www.cnblogs.com/FreakEmbedded/p/18797179)
 
+2025-03-27, @CN@Flipboard, [Bold, geometric minimalism rules at Toteme’s new store by Herzog & de Meuron in China](https://www.wallpaper.com/architecture/toteme-store-herzog-and-de-meuron-china?utm_source=flipboard&utm_content=topic%2Fchina)
+
 2025-03-27, @CN@Flipboard, [Deciphering The Future: Chief Advisor Dr. Yunus’s Historic Visit To China – OpEd](https://www.eurasiareview.com/27032025-deciphering-the-future-chief-advisor-dr-yunuss-historic-visit-to-china-oped/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-03-27, @CN@Flipboard, [Ecological disruptions are a risk to national security](https://phys.org/news/2025-03-ecological-disruptions-national.html?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-03-27, @CN@Flipboard, [The Chinese government is cracking down on predatory law enforcement](https://www.economist.com/china/2025/03/27/the-chinese-government-is-cracking-down-on-predatory-law-enforcement?utm_source=flipboard&utm_content=TheEconomist/magazine/China)
 
 2025-03-27, @CN@Flipboard, [Estate agents in China are trying everything to sell flats](https://www.economist.com/china/2025/03/27/estate-agents-in-china-are-trying-everything-to-sell-flats?utm_source=flipboard&utm_content=TheEconomist/magazine/China)
 
@@ -19,8 +23,6 @@
 2025-03-27, @IT之家, [《宇宙机器人》游戏开发者：为了让所有人都能享受，剧情经历 23 次迭代](https://www.ithome.com/0/841/319.htm)
 
 2025-03-27, @博客园, [互联网不景气了那就玩玩嵌入式吧，用纯.NET开发并制作一个智能桌面机器人（四）：结合BotSharp智能体框架开发语音交互 - 绿荫阿广](https://www.cnblogs.com/GreenShade/p/18771608)
-
-2025-03-27, @CN@Flipboard, [The Insider's Guide to Shanghai](https://www.wmagazine.com/life/shanghai-travel-guide?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-03-27, @IT之家, [任天堂发布“Nintendo Today”官方资讯 App](https://www.ithome.com/0/841/318.htm)
 
@@ -49,6 +51,8 @@
 2025-03-27, @IT之家, [与任天堂直面会同日，加拿大百思买定于 4 月 2 日开放 Switch 2 预购](https://www.ithome.com/0/841/309.htm)
 
 2025-03-27, @CN@Flipboard, [Woman uses slingshot to land stones perfectly inside two bottles from 10m away](https://flipboard.com/video/swns/2579b4e226)
+
+2025-03-27, @CN@Flipboard, [I went deep into NIU's electric moped factory in China. Here's what I saw](https://electrek.co/2025/03/27/i-went-deep-into-nius-electric-moped-factory-in-china-heres-what-i-saw/?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-03-27, @IT之家, [《勇者斗恶龙 1+2 HD-2D 重制版》游戏画面公开，2025 年内发售](https://www.ithome.com/0/841/308.htm)
 
@@ -200,8 +204,6 @@
 
 2025-03-27, @IT之家, [我国科研团队发现自然界新矿物“菱硼硅镧矿”](https://www.ithome.com/0/841/268.htm)
 
-2025-03-27, @CN@Flipboard, [Will Buxton sends ominous message to Yuki Tsunoda after ‘laughable’ Liam Lawson Red Bull exit](https://www.f1oversteer.com/news/will-buxton-sends-ominous-message-to-yuki-tsunoda-after-laughable-liam-lawson-red-bull-exit/?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-03-27, @CGTV-China, [Construction of China's High Energy Photon Source enters final stage](https://news.cgtn.com/news/2025-03-27/Construction-of-China-s-High-Energy-Photon-Source-enters-final-stage-1C5n7VyVERi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-03-27, @36氪, [2月美妆品牌TOP15，成分党进阶、百元彩妆美学｜世研消费指数品牌榜](https://36kr.com/p/3224379665759624?f=rss)
@@ -242,7 +244,7 @@
 
 2025-03-27, @博客园, [MySQL 的 JSON 查询 - Milton](https://www.cnblogs.com/milton/p/18795659)
 
-2025-03-27, @CN@Flipboard, [Experts warned USAID's gutting would give China room to replace the US. Now, it's happening.](https://www.businessinsider.com/china-replace-usaid-shutdown-humanitarian-aid-funding-development-assistance-2025-3?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-03-27, @CN@Flipboard, [Donald Trump Issues Ultimatum To Canada And EU](https://www.newsweek.com/donald-trump-issues-ultimatum-canada-eu-tariffs-auto-imports-2051238?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships)
 
 2025-03-27, @CGTV-World, [Ministry of Commerce: China has sued the U.S. over additional tariffs](https://news.cgtn.com/news/2025-03-27/Ministry-of-Commerce-China-has-sued-the-U-S-over-additional-tariffs-1C5ePTiYTKw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
@@ -268,6 +270,8 @@
 
 2025-03-27, @CGTV-World, [40-year-old LeBron James beats buzzer to end Lakers' losing streak](https://news.cgtn.com/news/2025-03-27/40-year-old-LeBron-James-beats-buzzer-to-end-Lakers-losing-streak-1C56ewScUso/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
+2025-03-27, @CN@Flipboard, [Liam Lawson was quicker than Max Verstappen in key area at the Chinese Grand Prix before he ‘destroyed’ his lap](https://www.f1oversteer.com/news/liam-lawson-was-quicker-than-max-verstappen-in-key-area-at-the-chinese-grand-prix-before-he-destroyed-his-lap/?utm_source=flipboard&utm_content=topic/chinesegrandprix)
+
 2025-03-27, @CGTV-World, [Devils end three-game losing streak with 5-3 win over the Blackhawks](https://news.cgtn.com/news/2025-03-27/Devils-end-three-game-losing-streak-with-5-3-win-over-the-Blackhawks-1C54YLyP2zm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2025-03-27, @CGTV-World, [Jiang Xinyu, Wu Fang-Hsien advance to Miami Open semifinals](https://news.cgtn.com/news/2025-03-27/Jiang-Xinyu-Wu-Fang-Hsien-advance-to-Miami-Open-semifinals-1C54yVsewjS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
@@ -287,8 +291,6 @@
 2025-03-27, @CGTV-World, [Wildcard Alexandra Eala stuns Iga Swiatek to reach Miami Open semis](https://news.cgtn.com/news/2025-03-27/Wildcard-Alexandra-Eala-stuns-Iga-Swiatek-to-reach-Miami-Open-semis-1C4Mg5VBB2E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2025-03-27, @CGTV-World, [Israel in political storm as Gaza war resumes](https://news.cgtn.com/news/2025-03-27/Israel-in-political-storm-as-Gaza-war-resumes-1C56efCVXtm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-03-27, @CN@Flipboard, [SpaceX China Investment? Report Claims a 'Secret Backdoor' Despite Being a Defense Contractor](https://www.techtimes.com/articles/309794/20250327/spacex-china-investment-report-claims-secret-backdoor-despite-being-defense-contractor.htm?utm_source=flipboard&utm_content=topic/china)
 
 2025-03-27, @CGTV-China, [Global submissions for the 2nd edition of Golden Panda Awards open](https://news.cgtn.com/news/2025-03-27/Global-submissions-for-the-2nd-edition-of-Golden-Panda-Awards-open-1C55aqEOvsc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
@@ -329,8 +331,6 @@
 2025-03-27, @博客园, [基于.NetCore开发 StarBlog 番外篇 (3) StarBlog Publisher，跨平台一键发布，DeepSeek加持的文章创作神器 - 程序设计实验室](https://www.cnblogs.com/deali/p/18795507)
 
 2025-03-27, @CGTV-China, [Through the Fog](https://news.cgtn.com/news/2025-03-27/Through-the-Fog-1C4M49lirhm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-03-27, @CN@Flipboard, [Trump Floats Chinese Tariff Cuts in Exchange for TikTok Deal](https://www.nytimes.com/2025/03/26/business/trump-tariffs-tiktok-china.html?utm_source=flipboard&utm_content=newyorktimes/magazine/Business+Day)
 
 2025-03-27, @CGTV-Nature, [More evacuations as wildfires spread in U.S. Carolinas](https://news.cgtn.com/news/2025-03-27/More-evacuations-as-wildfires-spread-in-U-S-Carolinas-1C4M5z3UPtu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
@@ -816,47 +816,7 @@
 
 2024-09-23, @蠎周刊, [上周蠎快讯 2024/38](https://weekly.pychina.org/pyrecap/pyrw-2438.html)
 
-2024-09-18, @开源中国资讯, [Java 23 / JDK 23 正式发布](https://www.oschina.net/news/312381/java-23-released)
-
-2024-09-18, @开源中国资讯, [Linux Kernel 6.11](https://www.oschina.net/news/312376/linux-6-11-released)
-
-2024-09-18, @开源中国资讯, [Linux 基金会宣布成立 OpenSearch 软件基金会](https://www.oschina.net/news/312371/linux-foundation-opensearch-software-foundation)
-
 2024-09-16, @蠎周刊, [上周蠎快讯 2024/37](https://weekly.pychina.org/pyrecap/pyrw-2437.html)
-
-2024-09-15, @开源中国资讯, [凹语言 v0.16.0 中秋特别版本发布](https://www.oschina.net/news/312142/walang-0-16-released)
-
-2024-09-15, @开源中国资讯, [Redmonk：开源软件许可变更及其对企业财务结果的影响](https://www.oschina.net/news/312020/redmonk-software-licensing-changes-financial)
-
-2024-09-14, @开源中国资讯, [开源日报 | “纯血”鸿蒙9月底正式发布；VirtualBox 7.1；OpenAI o1的价值及意义；云计算的底色；丰田的软件危机](https://www.oschina.net/news/311972)
-
-2024-09-14, @开源中国资讯, [可观测性与传统监控的区别和联系](https://my.oschina.net/morflameblog/blog/15316524)
-
-2024-09-14, @开源中国资讯, [字节跳动开放计算最佳实践，亮相 2024 开放计算中国峰会](https://www.oschina.net/news/311920)
-
-2024-09-14, @开源中国资讯, [李飞飞创办的 World Labs 获 2.3 亿美元融资](https://www.oschina.net/news/311905/world-labs-230m-funding)
-
-2024-09-14, @开源中国资讯, [java ORM 神器 mybatis-mp，新框架、新设计、更好用！！！](https://www.oschina.net/news/311901)
-
-2024-09-14, @开源中国资讯, [网信办发布《人工智能生成合成内容标识办法(征求意见稿)》](https://www.oschina.net/news/311893)
-
-2024-09-14, @开源中国资讯, [VirtualBox 7.1 发布](https://www.oschina.net/news/311859/virtualbox-7-1-released)
-
-2024-09-14, @开源中国资讯, [谷歌在搜索结果集成互联网档案馆「Wayback Machine」](https://www.oschina.net/news/311858/google-search-internet-archive-wayback-machine)
-
-2024-09-14, @开源中国资讯, [快手自研 Spark 向量化引擎发布，性能提升200%](https://www.oschina.net/news/311854)
-
-2024-09-13, @开源中国资讯, [开源日报 | OpenAI“草莓”发布；Docker修改订阅计划；中国最大MoE开源大模型；AI编程提高局部生产效率；中东土豪盯上了半导体](https://www.oschina.net/news/311802)
-
-2024-09-13, @开源中国资讯, [全球 6G 标准化工作进入实质阶段](https://www.oschina.net/news/311800)
-
-2024-09-13, @开源中国资讯, [deepin 25 开发计划大揭秘：新增功能与性能优化一览](https://www.oschina.net/news/311797)
-
-2024-09-13, @开源中国资讯, [分布式因果推断在美团履约平台的探索与实践](https://my.oschina.net/meituantech/blog/10946678)
-
-2024-09-13, @开源中国资讯, [Docker 修改其订阅计划](https://www.oschina.net/news/311774/docker-november-2024-updated)
-
-2024-09-13, @开源中国资讯, [Servo 网页引擎助力打造全新浏览器 Verso，支持多视图与多窗口](https://www.oschina.net/news/311754)
 
 2024-09-09, @蠎周刊, [上周蠎快讯 2024/36](https://weekly.pychina.org/pyrecap/pyrw-2436.html)
 
