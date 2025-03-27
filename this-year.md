@@ -4,21 +4,15 @@
 
 2025-03-27, @博客园, [一文速通Python并行计算：04 Python多线程编程-多线程同步（上）—基于条件变量、事件和屏障 - FreakStudio](https://www.cnblogs.com/FreakEmbedded/p/18797179)
 
-2025-03-27, @CN@Flipboard, [Bold, geometric minimalism rules at Toteme’s new store by Herzog & de Meuron in China](https://www.wallpaper.com/architecture/toteme-store-herzog-and-de-meuron-china?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-03-27, @CN@Flipboard, [Flood of Venezuelan Oil Flows to China as US Raises Pressure](https://www.bloomberg.com/news/articles/2025-03-27/flood-of-venezuelan-oil-flows-to-china-as-us-raises-pressure?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2025-03-27, @CN@Flipboard, [Deciphering The Future: Chief Advisor Dr. Yunus’s Historic Visit To China – OpEd](https://www.eurasiareview.com/27032025-deciphering-the-future-chief-advisor-dr-yunuss-historic-visit-to-china-oped/?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-03-27, @CN@Flipboard, [Ecological disruptions are a risk to national security](https://phys.org/news/2025-03-ecological-disruptions-national.html?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-03-27, @CN@Flipboard, [Helmut Marko hints how ‘cautious’ Max Verstappen cost Red Bull in the Chinese Grand Prix](https://www.f1oversteer.com/news/helmut-marko-hints-how-cautious-max-verstappen-cost-red-bull-in-the-chinese-grand-prix/?utm_source=flipboard&utm_content=topic/chinesegrandprix)
 
 2025-03-27, @CN@Flipboard, [The Chinese government is cracking down on predatory law enforcement](https://www.economist.com/china/2025/03/27/the-chinese-government-is-cracking-down-on-predatory-law-enforcement?utm_source=flipboard&utm_content=TheEconomist/magazine/China)
 
 2025-03-27, @CN@Flipboard, [Estate agents in China are trying everything to sell flats](https://www.economist.com/china/2025/03/27/estate-agents-in-china-are-trying-everything-to-sell-flats?utm_source=flipboard&utm_content=TheEconomist/magazine/China)
 
-2025-03-27, @博客园, [开发app步骤总结 - 七分之一月](https://www.cnblogs.com/zyh-828/p/18797124)
-
 2025-03-27, @IT之家, [中国首个高速动车组空气动力学智能化仿真大模型问世](https://www.ithome.com/0/841/320.htm)
-
-2025-03-27, @CN@Flipboard, [Goober Pilot Forgets Passport, Forces Plane Bound For China To Turn Around Mid-Flight](https://www.jalopnik.com/1819472/pilot-forgets-passport-flight-turns-around/?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-03-27, @IT之家, [《宇宙机器人》游戏开发者：为了让所有人都能享受，剧情经历 23 次迭代](https://www.ithome.com/0/841/319.htm)
 
@@ -51,8 +45,6 @@
 2025-03-27, @IT之家, [与任天堂直面会同日，加拿大百思买定于 4 月 2 日开放 Switch 2 预购](https://www.ithome.com/0/841/309.htm)
 
 2025-03-27, @CN@Flipboard, [Woman uses slingshot to land stones perfectly inside two bottles from 10m away](https://flipboard.com/video/swns/2579b4e226)
-
-2025-03-27, @CN@Flipboard, [I went deep into NIU's electric moped factory in China. Here's what I saw](https://electrek.co/2025/03/27/i-went-deep-into-nius-electric-moped-factory-in-china-heres-what-i-saw/?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-03-27, @IT之家, [《勇者斗恶龙 1+2 HD-2D 重制版》游戏画面公开，2025 年内发售](https://www.ithome.com/0/841/308.htm)
 
@@ -188,8 +180,6 @@
 
 2025-03-27, @博客园, [码场趣谈 #1：索引 - 科韵小栈](https://www.cnblogs.com/geeklab/p/18796667)
 
-2025-03-27, @CN@Flipboard, [Iran Oil-Filled Tankers Build Up Off Malaysia as Sanctions Mount](https://www.bloomberg.com/news/articles/2025-03-27/iran-oil-filled-tankers-build-up-off-malaysia-as-sanctions-mount?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-03-27, @CGTV-China, [Spokesperson: PLA military drill around Taiwan legitimate, necessary](https://news.cgtn.com/news/2025-03-27/Spokesperson-PLA-military-drill-around-Taiwan-legitimate-necessary-1C5gJAUEJu8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-03-27, @IT之家, [一汽奔腾悦意 03 纯电 SUV 上市，限时售价 8.79 万-11.29 万元](https://www.ithome.com/0/841/271.htm)
@@ -230,6 +220,8 @@
 
 2025-03-27, @36氪, [LynxAI：让AI带来的认知平权突破产品创新瓶颈](https://36kr.com/p/3224342818192521?f=rss)
 
+2025-03-27, @CN@Flipboard, [American robot firms, including Tesla and Boston Dynamics, warn that without a national strategy ‘the U.S. will not only lose the robotics race but also the AI race’](https://fortune.com/2025/03/27/association-advanced-automation-tesla-boston-dynamics-national-strategy/?utm_source=flipboard&utm_content=topic/automotive)
+
 2025-03-27, @CN@Flipboard, [EU and China contemplate rapprochement amid growing US protectionism](https://www.semafor.com/article/03/27/2025/eu-and-china-contemplate-rapprochement-amid-growing-us-protectionism?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-03-27, @CGTV-China, [Wall Street banks turn bullish on China's A-Share market amid AI push](https://news.cgtn.com/news/2025-03-27/Wall-Street-banks-turn-bullish-on-China-s-A-Share-market-amid-AI-push-1C59pf9wKS4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
@@ -240,9 +232,13 @@
 
 2025-03-27, @少数派, [从通勤到远方，我的乐道电车生活启程记](https://sspai.com/post/97231)
 
+2025-03-27, @CN@Flipboard, [The Best Photographer You’ve Never Heard Of: An Introduction to Tseng Kwong Chi](https://www.openculture.com/2025/03/the-best-photographer-youve-never-heard-of-an-introduction-to-tseng-kwong-chi.html?utm_source=flipboard&utm_content=OpenCulture/magazine/Open+Culture)
+
 2025-03-27, @CN@Flipboard, [U.S. tech companies dominate as the most valuable brands in the world. Here are the top 10](https://qz.com/top-10-most-valuable-brands-world-tech-apple-nvidia-1851771957?utm_source=flipboard&utm_content=user/quartz)
 
 2025-03-27, @博客园, [MySQL 的 JSON 查询 - Milton](https://www.cnblogs.com/milton/p/18795659)
+
+2025-03-27, @CN@Flipboard, [Experts warned USAID's gutting would give China room to replace the US. Now, it's happening.](https://www.businessinsider.com/china-replace-usaid-shutdown-humanitarian-aid-funding-development-assistance-2025-3?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-03-27, @CN@Flipboard, [Donald Trump Issues Ultimatum To Canada And EU](https://www.newsweek.com/donald-trump-issues-ultimatum-canada-eu-tariffs-auto-imports-2051238?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships)
 
@@ -269,8 +265,6 @@
 2025-03-27, @CGTV-China, [Spring plowing in Xizang](https://news.cgtn.com/news/2025-03-27/Spring-plowing-in-Xizang-1C5anGJul2g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-03-27, @CGTV-World, [40-year-old LeBron James beats buzzer to end Lakers' losing streak](https://news.cgtn.com/news/2025-03-27/40-year-old-LeBron-James-beats-buzzer-to-end-Lakers-losing-streak-1C56ewScUso/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-03-27, @CN@Flipboard, [Liam Lawson was quicker than Max Verstappen in key area at the Chinese Grand Prix before he ‘destroyed’ his lap](https://www.f1oversteer.com/news/liam-lawson-was-quicker-than-max-verstappen-in-key-area-at-the-chinese-grand-prix-before-he-destroyed-his-lap/?utm_source=flipboard&utm_content=topic/chinesegrandprix)
 
 2025-03-27, @CGTV-World, [Devils end three-game losing streak with 5-3 win over the Blackhawks](https://news.cgtn.com/news/2025-03-27/Devils-end-three-game-losing-streak-with-5-3-win-over-the-Blackhawks-1C54YLyP2zm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
@@ -331,6 +325,10 @@
 2025-03-27, @博客园, [基于.NetCore开发 StarBlog 番外篇 (3) StarBlog Publisher，跨平台一键发布，DeepSeek加持的文章创作神器 - 程序设计实验室](https://www.cnblogs.com/deali/p/18795507)
 
 2025-03-27, @CGTV-China, [Through the Fog](https://news.cgtn.com/news/2025-03-27/Through-the-Fog-1C4M49lirhm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-03-27, @CN@Flipboard, [Trump Floats Chinese Tariff Cuts in Exchange for TikTok Deal](https://www.nytimes.com/2025/03/26/business/trump-tariffs-tiktok-china.html?utm_source=flipboard&utm_content=newyorktimes/magazine/Business+Day)
+
+2025-03-27, @博客园, [Vite CVE-2025-30208 安全漏洞 - 日升_rs](https://www.cnblogs.com/risheng/p/18795361)
 
 2025-03-27, @CGTV-Nature, [More evacuations as wildfires spread in U.S. Carolinas](https://news.cgtn.com/news/2025-03-27/More-evacuations-as-wildfires-spread-in-U-S-Carolinas-1C4M5z3UPtu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
@@ -398,6 +396,8 @@
 2025-03-26, @This Week in Rust, [This Week in Rust 592](https://this-week-in-rust.org/blog/2025/03/26/this-week-in-rust-592/)
 
 2025-03-26, @少数派, [对话应用开发者与 Apple 首席运营官：手腕上的健康新生态](https://sspai.com/post/97751)
+
+2025-03-26, @CN@Flipboard, [L.A.-China flight diverted, delayed for hours after pilot forgets passport](https://www.latimes.com/california/story/2025-03-25/pilot-forgets-passport-delays-flight-3-plus-hours?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-03-26, @少数派, [派早报：WWDC25 将于 6 月 10 日举行、Google 推出 Gemini 2.5 更新等](https://sspai.com/post/97776)
 
@@ -940,9 +940,49 @@
 
 2024-09-20, @朽丘博, [24年9月小结](https://koxiuqiu.cn/2024/9y20d1/)
 
+2024-09-18, @开源中国资讯, [Java 23 / JDK 23 正式发布](https://www.oschina.net/news/312381/java-23-released)
+
+2024-09-18, @开源中国资讯, [Linux Kernel 6.11](https://www.oschina.net/news/312376/linux-6-11-released)
+
+2024-09-18, @开源中国资讯, [Linux 基金会宣布成立 OpenSearch 软件基金会](https://www.oschina.net/news/312371/linux-foundation-opensearch-software-foundation)
+
 2024-09-17, @朽丘博, [性价比及便宜VPS|云服务器推荐](https://koxiuqiu.cn/2024/9y17d1/)
 
 2024-09-16, @蠎周刊, [上周蠎快讯 2024/37](https://weekly.pychina.org/pyrecap/pyrw-2437.html)
+
+2024-09-15, @开源中国资讯, [凹语言 v0.16.0 中秋特别版本发布](https://www.oschina.net/news/312142/walang-0-16-released)
+
+2024-09-15, @开源中国资讯, [Redmonk：开源软件许可变更及其对企业财务结果的影响](https://www.oschina.net/news/312020/redmonk-software-licensing-changes-financial)
+
+2024-09-14, @开源中国资讯, [开源日报 | “纯血”鸿蒙9月底正式发布；VirtualBox 7.1；OpenAI o1的价值及意义；云计算的底色；丰田的软件危机](https://www.oschina.net/news/311972)
+
+2024-09-14, @开源中国资讯, [可观测性与传统监控的区别和联系](https://my.oschina.net/morflameblog/blog/15316524)
+
+2024-09-14, @开源中国资讯, [字节跳动开放计算最佳实践，亮相 2024 开放计算中国峰会](https://www.oschina.net/news/311920)
+
+2024-09-14, @开源中国资讯, [李飞飞创办的 World Labs 获 2.3 亿美元融资](https://www.oschina.net/news/311905/world-labs-230m-funding)
+
+2024-09-14, @开源中国资讯, [java ORM 神器 mybatis-mp，新框架、新设计、更好用！！！](https://www.oschina.net/news/311901)
+
+2024-09-14, @开源中国资讯, [网信办发布《人工智能生成合成内容标识办法(征求意见稿)》](https://www.oschina.net/news/311893)
+
+2024-09-14, @开源中国资讯, [VirtualBox 7.1 发布](https://www.oschina.net/news/311859/virtualbox-7-1-released)
+
+2024-09-14, @开源中国资讯, [谷歌在搜索结果集成互联网档案馆「Wayback Machine」](https://www.oschina.net/news/311858/google-search-internet-archive-wayback-machine)
+
+2024-09-14, @开源中国资讯, [快手自研 Spark 向量化引擎发布，性能提升200%](https://www.oschina.net/news/311854)
+
+2024-09-13, @开源中国资讯, [开源日报 | OpenAI“草莓”发布；Docker修改订阅计划；中国最大MoE开源大模型；AI编程提高局部生产效率；中东土豪盯上了半导体](https://www.oschina.net/news/311802)
+
+2024-09-13, @开源中国资讯, [全球 6G 标准化工作进入实质阶段](https://www.oschina.net/news/311800)
+
+2024-09-13, @开源中国资讯, [deepin 25 开发计划大揭秘：新增功能与性能优化一览](https://www.oschina.net/news/311797)
+
+2024-09-13, @开源中国资讯, [分布式因果推断在美团履约平台的探索与实践](https://my.oschina.net/meituantech/blog/10946678)
+
+2024-09-13, @开源中国资讯, [Docker 修改其订阅计划](https://www.oschina.net/news/311774/docker-november-2024-updated)
+
+2024-09-13, @开源中国资讯, [Servo 网页引擎助力打造全新浏览器 Verso，支持多视图与多窗口](https://www.oschina.net/news/311754)
 
 2024-09-10, @朽丘博, [最近欣赏的一些影视作品](https://koxiuqiu.cn/2024/9y10d1/)
 
