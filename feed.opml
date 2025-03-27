@@ -4,12 +4,8 @@
     <title>RSS Feed</title>
   </head>
   <body>
-    <outline text="ShaBi" title="傻逼和乐子">
-      <outline text="axhuoga1" title="axhuoga1" type="rss" xmlUrl="https://github.com/axhuoga1.atom" htmlUrl="https://github.com/axhuoga1.atom"/>
-      <outline text="axhuoga2" title="axhuoga2" type="rss" xmlUrl="https://github.com/axhuoga2.atom" htmlUrl="https://github.com/axhuoga2.atom"/>
-    </outline>
-    <outline text="DevBlog" title="DevBlog">
-      <outline text="liuzhen932 的小窝" title="liuzhen932 的小窝" type="rss" xmlUrl="https://blog.liuzhen932.top/feed" htmlUrl="https://blog.liuzhen932.top/feed.xml"/>
+    <outline text="Blog" title="Blog">
+      <outline text="liuzhen932 的小窝" title="liuzhen932 的小窝" type="rss" xmlUrl="https://blog.liuzhen932.top/rss.xml" htmlUrl="https://blog.liuzhen932.top/rss.xml"/>
       <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://feeds.feedburner.com/ruanyifeng"/>
       <outline text="HiFeng'Blog" title="HiFeng'Blog" type="rss" xmlUrl="https://rsshub.app/hicairo" htmlUrl="https://rsshub.app/hicairo"/>
       <outline text="朽丘博" title="朽丘博" type="rss" xmlUrl="https://koxiuqiu.cn/rss.xml" htmlUrl="https://koxiuqiu.cn/rss.xml"/>
