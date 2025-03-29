@@ -23,6 +23,7 @@ jobs:
           cargo run --release ./feed.opml ./build/
           pip install -r requirements.txt
           python3 ./scripts/md2html.py "https://xiaozhu2007.github.io/rss-feed"
+          cargo clean
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
