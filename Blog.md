@@ -1,5 +1,7 @@
 # 2025
 
+2025-04-13, @Zeruns 's Blog, [Flarum论坛网站搭建教程 | 零基础搭建论坛社区网站 | Flarum主题和插件安装教程](https://blog.zeruns.com/archives/866.html)
+
 2025-04-12, @朽丘博, [关于QiuDunCDN近期状态](https://koxiuqiu.cn/10p2504131/)
 
 2025-04-11, @朽丘博, [关于HEXO的构建和配置](https://koxiuqiu.cn/10p2504121/)
@@ -91,8 +93,6 @@
 2025-01-22, @朽丘博, [漂泊异乡终归巢：游子踏上归途，重逢温馨家园](https://koxiuqiu.cn/2025/1y23d2/)
 
 2025-01-22, @朽丘博, [站长基本教材,从入门到入土,一站传三代](https://koxiuqiu.cn/2025/1y23d1/)
-
-2025-01-20, @张洪Heo, [咕哩的年度红包封面在这里领取～](https://blog.zhheo.com/p/06wziydu.html)
 
 2025-01-15, @朽丘博, [社会变迁与个人成长：一种代际观察](https://koxiuqiu.cn/2025/01y15d1/)
 
