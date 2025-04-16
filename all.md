@@ -1,5 +1,152 @@
 # 2025
 
+2025-04-16, @CN@Flipboard, [How China Took Over the World’s Rare Earths Industry](https://www.nytimes.com/2025/04/16/business/china-rare-earths-us.html?utm_source=flipboard&utm_content=newyorktimes/magazine/Business+Day)
+
+2025-04-16, @CN@Flipboard, ['The West as we knew it no longer exists,' von der Leyen says amid Trump tensions](https://www.euronews.com/my-europe/2025/04/16/the-west-as-we-knew-it-no-longer-exists-von-der-leyen-says-amid-trump-tensions?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-04-16, @IT之家, [苹果 visionOS 2.4.1 正式版发布，错误修复和安全更新](https://www.ithome.com/0/845/826.htm)
+
+2025-04-16, @IT之家, [苹果 macOS 15.4.1 正式版发布，包含重要漏洞修复和安全更新](https://www.ithome.com/0/845/825.htm)
+
+2025-04-16, @IT之家, [苹果 iOS 18.4.1 正式版发布，修复无线 CarPlay 车载无法连接问题](https://www.ithome.com/0/845/824.htm)
+
+2025-04-16, @IT之家, [OpenAI 最强推理模型、能够“思考”图片，o3 和 o4-mini 正式发布](https://www.ithome.com/0/845/827.htm)
+
+2025-04-16, @IT之家, [索泰将推单风扇版 RTX 5060 显卡，单 8-pin 电源接口](https://www.ithome.com/0/845/823.htm)
+
+2025-04-16, @CN@Flipboard, [Donald To Farmers Reeling From Tariffs: 'I These Patriots To Just Hold On'](https://crooksandliars.com/2025/04/donald-farmers-reeling-tariffs-i-these?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-04-16, @博客园, [MCP数据脱敏应用开发 - 肖祥](https://www.cnblogs.com/xiao987334176/p/18829295)
+
+2025-04-16, @IT之家, [微软承认 Win11 24H2 四月更新引发蓝屏故障，企业托管用户需管理员手动部署修复](https://www.ithome.com/0/845/822.htm)
+
+2025-04-16, @IT之家, [【IT之家图赏】真我GT7实拍：1.3mm 超窄边框，配 7200mAh 泰坦电池](https://www.ithome.com/0/845/821.htm)
+
+2025-04-16, @博客园, [Sentinel源码—3.ProcessorSlot的执行过程 - 东阳马生架构](https://www.cnblogs.com/mjunz/p/18829907)
+
+2025-04-16, @CN@Flipboard, [The Palestinian Authority Continues to Cozy Up to China, Urges End to US Role in World Affairs](https://www.algemeiner.com/2025/04/16/the-palestinian-authority-continues-to-cozy-up-to-china-urges-end-to-us-role-in-world-affairs/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-04-16, @IT之家, [史上最快存储速度！复旦大学亚纳秒级闪存技术登 Nature，未来电脑有望不区分内外存](https://www.ithome.com/0/845/820.htm)
+
+2025-04-16, @CN@Flipboard, [China to open world's tallest bridge - reducing travel time from two hours to one minute](https://www.itv.com/news/2025-04-16/worlds-new-tallest-bridge-to-reduce-travel-time-from-two-hours-to-one-minute?utm_source=flipboard&utm_content=topic/china)
+
+2025-04-16, @IT之家, [奇瑞 X3 Plus 方盒子纯电 SUV 入网工信部，可选装储物背包](https://www.ithome.com/0/845/818.htm)
+
+2025-04-16, @IT之家, [红魔电竞平板新品官宣，号称“不负期待”](https://www.ithome.com/0/845/817.htm)
+
+2025-04-16, @IT之家, [影史经典惊悚片《惊变 28 天》续作《惊变 28 年》发布新先导预告，6 月 20 日北美上映](https://www.ithome.com/0/845/816.htm)
+
+2025-04-16, @IT之家, [科学家发现迄今最远、最古老的银河系“孪生星系”，以中国神话“烛龙”命名](https://www.ithome.com/0/845/815.htm)
+
+2025-04-16, @IT之家, [OpenAI 预告凌晨直播，满血版 o3 推理模型有望登场](https://www.ithome.com/0/845/814.htm)
+
+2025-04-16, @IT之家, [大国重器刷新纪录：中国出口海外最大直径盾构机在河南郑州下线](https://www.ithome.com/0/845/812.htm)
+
+2025-04-16, @IT之家, [极氪 007GT 纯电猎装车开启全国交付，女性车主占四成](https://www.ithome.com/0/845/811.htm)
+
+2025-04-16, @IT之家, [消息称上汽集团国际、自主板块合并办公，研发总院逐步整合](https://www.ithome.com/0/845/810.htm)
+
+2025-04-16, @IT之家, [中国航天科技集团：固体动力人工智能大模型平台完成升级并上线运行](https://www.ithome.com/0/845/809.htm)
+
+2025-04-16, @IT之家, [我国科学家目标 5 年内实现痛风患者“一针治疗”，纳米机器人“吃”掉尿酸结晶](https://www.ithome.com/0/845/808.htm)
+
+2025-04-16, @IT之家, [阿维塔 06“智美豪华运动轿车”发运：华为智驾 + 鸿蒙座舱，4 月 19 日上市](https://www.ithome.com/0/845/807.htm)
+
+2025-04-16, @IT之家, [【IT之家开箱】索泰 GeForce RTX 5080 16GB 天启 OC 显卡图赏：黑白搭配机甲风格](https://www.ithome.com/0/845/806.htm)
+
+2025-04-16, @CN@Flipboard, [Reaction to another Trump farmer bailout: ‘No f—cking way in hell!’](https://www.nj.com/politics/2025/04/reaction-to-another-trump-farmer-bailout-no-fcking-way-in-hell.html?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-04-16, @IT之家, [【IT 之家图赏】索泰 GEFORCE RTX 5060 Ti 8GB 月白 OC 显卡图赏：国风设计，典雅和科技感结合](https://www.ithome.com/0/845/805.htm)
+
+2025-04-16, @IT之家, [微软 XGP 四月新增游戏公布，含《海绵宝宝：派大星游戏》《光与影：33 号远征队》等](https://www.ithome.com/0/845/803.htm)
+
+2025-04-16, @CN@Flipboard, [China’s container bookings to plunge up to 60% as US tariffs wipe out trade: report](https://www.scmp.com/economy/china-economy/article/3306766/chinas-container-bookings-plunge-60-us-tariffs-wipe-out-trade-report?utm_source=rss_feed)
+
+2025-04-16, @CN@Flipboard, [Trump’s Bad Poker Hand](https://www.theatlantic.com/podcasts/archive/2025/04/david-frum-show-trumps-bad-poker-hand/682477/?utm_medium=offsite&utm_source=flipboard&utm_campaign=all)
+
+2025-04-16, @Apple 新闻, [Apple surpasses 60 percent reduction in global greenhouse gas emissions
+](https://www.apple.com/newsroom/2025/04/apple-surpasses-60-percent-reduction-in-global-greenhouse-gas-emissions/)
+
+2025-04-16, @IT之家, [鸿蒙智行问界 M8、享界 S9 汽车均搭载全新星闪车钥匙技术](https://www.ithome.com/0/845/802.htm)
+
+2025-04-16, @CN@Flipboard, [India plans surprise U.S. trade move as Trump tariffs escalate with China](https://www.thestreet.com/crypto/policy/india-u-s-tariff-negotiations-no-taxes-on-u-s-ethane-and-lpg-imports-reportedly?utm_source=flipboard&utm_content=topic/china)
+
+2025-04-16, @IT之家, [影石新品发布会定档 4 月 22 日，有望发布新款运动相机](https://www.ithome.com/0/845/801.htm)
+
+2025-04-16, @CGTV-World, [Ukraine extends martial law, general mobilization for 90 more days](https://news.cgtn.com/news/2025-04-16/Ukraine-extends-martial-law-general-mobilization-for-90-more-days-1CCM7MQbNLO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-16, @CGTV-World, [China: U.S. has weaponized tariffs to irrational level](https://news.cgtn.com/news/2025-04-16/China-U-S-has-weaponized-tariffs-to-irrational-level-1CCL59GUyWI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-16, @CGTV-China, [China: U.S. has weaponized tariffs to irrational level](https://news.cgtn.com/news/2025-04-16/China-U-S-has-weaponized-tariffs-to-irrational-level-1CCL59GUyWI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-16, @CN@Flipboard, [Nvidia says it will record $5.5 billion charge tied to H20 processors exported to China](https://www.cnbc.com/2025/04/15/nvidia-says-it-will-record-5point5-billion-quarterly-charge-tied-to-h20-processors-exported-to-china.html?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-04-16, @博客园, [.NET周刊【3月第5期 2025-03-30】 - InCerry](https://www.cnblogs.com/InCerry/p/-/dotnet_week_25_3_5)
+
+2025-04-16, @IT之家, [【IT之家评测室】影驰 GeForce RTX 5060 Ti 圣刃 MAX 显卡评测：16GB 显存 + DLSS 4，2K 光追帧率越级挑战](https://www.ithome.com/0/845/798.htm)
+
+2025-04-16, @IT之家, [英伟达确认 RTX 5060 显卡国内售价 2499 元起，将于 5 月上市](https://www.ithome.com/0/845/797.htm)
+
+2025-04-16, @IT之家, [比亚迪海狮 06 汽车证件照公布：插混 / 纯电双版本，可选四驱](https://www.ithome.com/0/845/796.htm)
+
+2025-04-16, @IT之家, [岚图汽车发布全球首个 L3 级智能架构“天元智架”，首款车型年内亮相](https://www.ithome.com/0/845/795.htm)
+
+2025-04-16, @IT之家, [苹果启动 2025 地球日促销活动：免费回收指定设备可享配件九折优惠](https://www.ithome.com/0/845/794.htm)
+
+2025-04-16, @IT之家, [【IT之家评测室】七彩虹 iGame GeForce RTX 5060 Ti Ultra W OC 16GB 显卡评测：游戏性能提升 20%，大显存 + DLSS 4 立大功](https://www.ithome.com/0/845/792.htm)
+
+2025-04-16, @IT之家, [3199 元起，英伟达 RTX 5060 Ti 显卡今日发售](https://www.ithome.com/0/845/790.htm)
+
+2025-04-16, @IT之家, [上汽奥迪新 AUDI 品牌首款车型定名 E5 Sportback，将亮相 2025 上海车展](https://www.ithome.com/0/845/789.htm)
+
+2025-04-16, @CN@Flipboard, [Nvidia stock dives after chipmaker discloses $5.5 billion hit from 'surprise' China chip controls](https://finance.yahoo.com/news/nvidia-stock-dives-as-chipmaker-sees-55-billion-hit-from-surprise-china-chip-controls-130319576.html?utm_source=flipboard&utm_content=YahooFinance/magazine/yFinance)
+
+2025-04-16, @CGTV-Nature, [Trump exempts 70 coal plants from federal mercury pollution rule](https://news.cgtn.com/news/2025-04-16/Trump-exempts-70-coal-plants-from-federal-mercury-pollution-rule-1CCJjAUPz3i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-16, @CGTV-World, [Trump exempts 70 coal plants from federal mercury pollution rule](https://news.cgtn.com/news/2025-04-16/Trump-exempts-70-coal-plants-from-federal-mercury-pollution-rule-1CCJjAUPz3i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-16, @IT之家, [【IT之家评测室】技嘉 AORUS GEFORCE RTX 5060 Ti ELITE 16G 显卡评测：大显存 + DLSS 4 加持，游戏性能提升明显](https://www.ithome.com/0/845/788.htm)
+
+2025-04-16, @CGTV-Nature, [Australian researchers make eco-friendly solar cell breakthrough](https://news.cgtn.com/news/2025-04-16/Australian-researchers-make-eco-friendly-solar-cell-breakthrough-1CCGlTYoqOs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-16, @36氪, [抖音集团发起外贸优品专项扶持计划](https://36kr.com/newsflashes/3252819527626247?f=rss)
+
+2025-04-16, @IT之家, [神舟二十号船箭组合体转运至发射区，近日择机发射](https://www.ithome.com/0/845/787.htm)
+
+2025-04-16, @36氪, [热门中概股美股盘前集体走弱，蔚来跌超4%](https://36kr.com/newsflashes/3252814940220928?f=rss)
+
+2025-04-16, @36氪, [全国空港口岸居首，浦东机场口岸今年出入境已突破1000万人次](https://36kr.com/newsflashes/3252808516136453?f=rss)
+
+2025-04-16, @IT之家, [Apple Intelligence 功能延期惹争议，苹果悄悄调整 iPhone 16 营销标语](https://www.ithome.com/0/845/786.htm)
+
+2025-04-16, @博客园, [Java程序员的Go入门笔记 - Cuzzz](https://www.cnblogs.com/cuzzz/p/18829638)
+
+2025-04-16, @IT之家, [长安马自达 EZ-60 增程 SUV 汽车入网工信部](https://www.ithome.com/0/845/783.htm)
+
+2025-04-16, @36氪, [美股大型科技股盘前普跌，英伟达跌近7](https://36kr.com/newsflashes/3252811032522249?f=rss)
+
+2025-04-16, @IT之家, [一加 13T 手机行业首发《大型开放世界手游》原生级 120 帧 + 1.5K 画质满血同开](https://www.ithome.com/0/845/782.htm)
+
+2025-04-16, @36氪, [沪市已披露年报公司2024财年分红1.45万亿元](https://36kr.com/newsflashes/3252808151951874?f=rss)
+
+2025-04-16, @36氪, [何立峰：着力推进外贸高质量发展，共同努力建设开放型世界经济](https://36kr.com/newsflashes/3252796165238280?f=rss)
+
+2025-04-16, @博客园, [智能简历解析器实战教程：基于Spacy+Flask构建自动化人才筛选系统 - TechSynapse](https://www.cnblogs.com/TS86/p/18829630)
+
+2025-04-16, @CN@Flipboard, [Opinion | Trump is pushing Europe and China into each other’s arms](https://www.washingtonpost.com/opinions/2025/04/16/trump-europe-china-trade/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-04-16, @36氪, [美国晶圆厂订单猛增，台积电拟涨价30%](https://36kr.com/newsflashes/3252794045524480?f=rss)
+
+2025-04-16, @IT之家, [零跑车主“罚站”，App 出现服务故障无法解锁汽车](https://www.ithome.com/0/845/781.htm)
+
+2025-04-16, @36氪, [商务部新闻发言人就美对华关税税率情况答记者问](https://36kr.com/newsflashes/3252795259907593?f=rss)
+
+2025-04-16, @CN@Flipboard, [Newsom says California to sue over Trump tariffs](https://www.axios.com/2025/04/16/california-sue-trump-tariffs-newsom-china?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-04-16, @36氪, [研究：通胀放缓料将支持欧洲央行4月降息](https://36kr.com/newsflashes/3252750343481602?f=rss)
+
+2025-04-16, @博客园, [ESP32S3播放音频文件 - 沁拒离](https://www.cnblogs.com/tianwuyvlianshui/p/18829598)
+
 2025-04-16, @36氪, [沪市股票ETF规模已突破2万亿元](https://36kr.com/newsflashes/3252791826050563?f=rss)
 
 2025-04-16, @36氪, [深圳开展金融支持民营经济创新发展专项行动](https://36kr.com/newsflashes/3252789460789762?f=rss)
@@ -14,7 +161,9 @@
 
 2025-04-16, @36氪, [宁波方正：筹划购买骏鹏通信60%股权，预计构成重大资产重组](https://36kr.com/newsflashes/3252765270894849?f=rss)
 
-2025-04-16, @CN@Flipboard, [Furious Trump snapped over Musk scheduling top secret meeting behind his back: report](https://www.rawstory.com/trump-musk-china-2671781291/?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-04-16, @CN@Flipboard, [Trump says he's joining tariff talks with Japan as US seeks deals amid trade wars](https://apnews.com/article/trump-trade-tariffs-japan-negotiations-bessent-lutnick-9134808d0e4aaf30bc60b28d7adc9b32?utm_source=flipboard&utm_content=AssociatedPress/magazine/Politics)
+
+2025-04-16, @CN@Flipboard, [America’s $19 Trillion Consumer Economy in One Chart](https://www.visualcapitalist.com/americas-19-trillion-consumer-economy-in-one-chart/?utm_source=flipboard&utm_content=other)
 
 2025-04-16, @IT之家, [大疆发布首款大型行业无人机探照灯及喊话器禅思 S1 及 V1，适用于公共安全、应急救援、巡检等作业场景](https://www.ithome.com/0/845/778.htm)
 
@@ -26,13 +175,11 @@
 
 2025-04-16, @IT之家, [微信首个 AI 助手上线：可与“元宝”在聊天框对话，还能添加好友](https://www.ithome.com/0/845/775.htm)
 
-2025-04-16, @博客园, [二叉树实战篇2 - carpell](https://www.cnblogs.com/carpell/p/18829500)
-
 2025-04-16, @IT之家, [唯卓仕 AF 35mm F1.2 LAB FE 镜头发布，5499 元](https://www.ithome.com/0/845/774.htm)
 
 2025-04-16, @36氪, [九联科技：拟收购能通科技51%股份 预计构成重大资产重组](https://36kr.com/newsflashes/3252726731710984?f=rss)
 
-2025-04-16, @CN@Flipboard, [Australia’s PM Says He Trusts Donald Trump in Second Debate](https://www.bloomberg.com/news/articles/2025-04-16/australia-s-pm-says-he-trusts-donald-trump-in-second-debate?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-04-16, @CGTV-World, [Israeli defense minister says no humanitarian aid will enter Gaza](https://news.cgtn.com/news/2025-04-16/Israeli-defense-minister-says-no-humanitarian-aid-will-enter-Gaza-1CCC970m3Di/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2025-04-16, @36氪, [芯朋微：一季度净利润4107.29万元，同比增长72.54%](https://36kr.com/newsflashes/3252751709006082?f=rss)
 
@@ -40,31 +187,29 @@
 
 2025-04-16, @IT之家, [比亚迪方程豹钛 3 车型上市：续航 501km、多彩潮改，13.38 万元起](https://www.ithome.com/0/845/773.htm)
 
-2025-04-16, @36氪, [国民技术：拟发行H股并在香港联交所主板挂牌上市](https://36kr.com/newsflashes/3252748784642312?f=rss)
+2025-04-16, @CGTV-China, [China's 5.4% Q1 growth beats forecasts, analysts see resilient demand](https://news.cgtn.com/news/2025-04-16/China-s-5-4-Q1-growth-beats-forecasts-analysts-see-resilient-demand-1CCDAL9zBHG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-16, @CGTV-China, [President Xi's visit marks milestone in China-Malaysia ties](https://news.cgtn.com/news/2025-04-16/President-Xi-s-visit-marks-milestone-in-China-Malaysia-ties-1CCqiaXVfYk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @IT之家, [全新岚图 FREE 汽车外观公布：搭载华为乾崑智驾、鸿蒙座舱，4 月 24 日亮相上海车展](https://www.ithome.com/0/845/771.htm)
 
-2025-04-16, @36氪, [vivo申请紫定行等商标](https://36kr.com/newsflashes/3252719986860292?f=rss)
+2025-04-16, @CN@Flipboard, [7 Grocery Items That Could Disappear First Due to Tariffs](https://www.eatthis.com/grocery-items-disappear-due-to-tariffs/?utm_source=flipboard&utm_content=user/EatThisNotThat)
 
-2025-04-16, @36氪, [*ST鹏博：公司股票可能存在因股价低于1元而终止上市的风险](https://36kr.com/newsflashes/3252717741105667?f=rss)
-
-2025-04-16, @36氪, [一季度中柬跨境人民币业务收付金额同比增长45%](https://36kr.com/newsflashes/3252715026292998?f=rss)
-
-2025-04-16, @36氪, [4月超半数民营银行要降息，3年、5年期存款利率是调降重点](https://36kr.com/newsflashes/3252742362982912?f=rss)
+2025-04-16, @CN@Flipboard, [Hong Kong halts US-bound package shipments in response to Trump's tariff hikes](https://komonews.com/news/nation-world/hong-kong-halts-us-bound-package-shipments-in-response-to-trumps-tariff-hikes-retaliatory-measures-goods-imports-exports-duty-free-de-minimis-postal-office-china-trade-war?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-04-16, @IT之家, [蔚来乐道 L90 亮相工信部：5145mm 车身 + 3110mm 轴距，可选双电机版本](https://www.ithome.com/0/845/770.htm)
 
 2025-04-16, @IT之家, [工信部组织主要汽车生产企业开会：充分开展组合驾驶辅助测试验证，不得进行夸大和虚假宣传](https://www.ithome.com/0/845/767.htm)
 
-2025-04-16, @36氪, [杭州银行副行长：一季度按揭贷款部分客群违约现象逐步增多，今年重点关注中小微企业信贷风险](https://36kr.com/newsflashes/3252709082210562?f=rss)
-
-2025-04-16, @36氪, [华为开发者大会HDC2025定档 6月20-22日举行](https://36kr.com/newsflashes/3252729288548865?f=rss)
-
-2025-04-16, @36氪, [中信博：拟投资不超过20.22亿元建设零碳总部基地项目](https://36kr.com/newsflashes/3252708172784133?f=rss)
+2025-04-16, @CGTV-China, [China prepares to launch Shenzhou-20 crewed spaceship](https://news.cgtn.com/news/2025-04-16/China-prepares-to-launch-Shenzhou-20-crewed-spaceship-1CCC3c3gRag/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @IT之家, [高德红绿灯 AI 领航全国上线，宣称“更智能、更实时、超视距”](https://www.ithome.com/0/845/766.htm)
 
 2025-04-16, @IT之家, [雷鸟鹤 6 Ultra 电视 2025 款开售：55~98 英寸国补价 2799.2~8999 元](https://www.ithome.com/0/845/765.htm)
+
+2025-04-16, @CGTV-World, [Xi, Malaysian PM attend cooperation documents exchange ceremony](https://news.cgtn.com/news/2025-04-16/Xi-Malaysian-PM-attend-cooperation-documents-exchange-ceremony-1CCAe4cvwgo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-16, @CGTV-China, [Xi, Malaysian PM attend cooperation documents exchange ceremony](https://news.cgtn.com/news/2025-04-16/Xi-Malaysian-PM-attend-cooperation-documents-exchange-ceremony-1CCAe4cvwgo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @IT之家, [长城汽车二代哈弗枭龙 MAX 上市：第二代 Hi4 四驱插混，13.18 万元起](https://www.ithome.com/0/845/764.htm)
 
@@ -72,143 +217,129 @@
 
 2025-04-16, @博客园, [大模型流式调用规范（SSE） - 书晨007](https://www.cnblogs.com/shuchen007/p/18829409)
 
-2025-04-16, @CN@Flipboard, [Chinese factories are flooding TikTok with luxury goods. Not so fast, experts say](https://www.cnn.com/2025/04/16/business/chinese-manufacturers-tiktok-trade-war?cid=external-feeds_iluminar_flipboard)
-
 2025-04-16, @36氪, [氪星晚报｜阿里AI旗舰应用夸克登上中国台湾省苹果应用商店榜首；京东推出新品成长“百千亿”计划；中国与越南签署产供链合作谅解备忘录](https://36kr.com/p/3252701704167680?f=rss)
 
 2025-04-16, @IT之家, [售价 24.98 万元起，鸿蒙智行问界新 M7 牧野青新配色上市](https://www.ithome.com/0/845/760.htm)
 
+2025-04-16, @CN@Flipboard, [Trump wants to make a deal with China. Here’s how he’s trying to make that happen.](https://www.politico.com/news/2025/04/16/trump-china-trade-strategy-00291979?utm_source=flipboard&utm_content=topic%2Fchina)
+
 2025-04-16, @IT之家, [长城汽车魏建军：魏牌全新高山发布会不许讲“1000 万内最好”这种话](https://www.ithome.com/0/845/759.htm)
+
+2025-04-16, @CN@Flipboard, [Hong Kong Post Suspends All Package Shipments To The U.S.—Blames Tariffs](https://www.forbes.com/sites/siladityaray/2025/04/16/hong-kong-post-suspends-all-package-shipments-to-the-us-blames-tariffs/?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-04-16, @IT之家, [腾讯《王者荣耀》手游官宣联动电影《哪吒之魔童闹海》，将推皮肤、语音包](https://www.ithome.com/0/845/758.htm)
 
-2025-04-16, @CN@Flipboard, [Ives: China is almost a zero for Nvidia—this is a blockade](https://www.cnbc.com/video/2025/04/16/ives-china-is-almost-a-zero-for-nvidiathis-is-a-blockade.html?__source=flipboard)
+2025-04-16, @CGTV-China, [Chinese defense ministry slams U.S. for smearing China as cyber threat](https://news.cgtn.com/news/2025-04-16/Chinese-defense-ministry-slams-U-S-for-smearing-China-as-cyber-threat-1CCyuP3sl0Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @IT之家, [华为开发者大会 HDC 2025 定档 6 月 20 日~22 日，早鸟票明日开售](https://www.ithome.com/0/845/756.htm)
 
-2025-04-16, @IT之家, [鸿蒙智行新品发布会汇总：问界 M8、享界 S9 增程版上市，尚界品牌亮相](https://www.ithome.com/0/845/755.htm)
-
-2025-04-16, @IT之家, [比亚迪 2025 款非智驾版海豚一口价 7.98 万元、海狮 07EV 车型 14.98 万元](https://www.ithome.com/0/845/754.htm)
-
-2025-04-16, @IT之家, [微星 MPG A1000GS / A1250GS 电源上市：双原生 12V-2×6 接口，三重金牌认证](https://www.ithome.com/0/845/753.htm)
-
-2025-04-16, @IT之家, [位于通州马驹桥的小米汽车工厂二期规划验收合格](https://www.ithome.com/0/845/751.htm)
-
-2025-04-16, @IT之家, [鸿蒙智行尊界 S800 将首次实车公开亮相 2025 上海车展](https://www.ithome.com/0/845/749.htm)
-
-2025-04-16, @IT之家, [滴滴青桔宣布推出首款符合新国标的共享电单车：整车质量 54.89kg](https://www.ithome.com/0/845/746.htm)
-
-2025-04-16, @IT之家, [首发价 999 元，雷神 27 英寸 QHD 240Hz 显示器 ZQ27F240L 发布](https://www.ithome.com/0/845/741.htm)
-
-2025-04-16, @IT之家, [戴盟机器人发布全球首款多维高分辨率高频率视触觉传感器](https://www.ithome.com/0/845/740.htm)
-
-2025-04-16, @IT之家, [中科宇航力箭二号计划 4 月底转入全箭总装阶段、今年 9 月首飞，发射我国轻舟货运飞船的初样试飞船](https://www.ithome.com/0/845/739.htm)
-
-2025-04-16, @CN@Flipboard, ['The West as we knew it no longer exists,' von der Leyen says amid Trump tensions](https://www.euronews.com/my-europe/2025/04/16/the-west-as-we-knew-it-no-longer-exists-von-der-leyen-says-amid-trump-tensions?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-04-16, @CGTV-China, [5th CMG Chinese language video festival held at UN office in Geneva](https://news.cgtn.com/news/2025-04-16/5th-CMG-Chinese-language-video-festival-held-at-UN-office-in-Geneva-1CCtvrZPZF6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @CN@Flipboard, [US: Trump says China withdrawn from Boeing deal](https://flipboard.com/video/stringershub/7396db4f91)
 
-2025-04-16, @IT之家, [Nature 头条：上海交大开发“盲人 AI 导航眼镜”，探测环境并进行语音和震动提示](https://www.ithome.com/0/845/737.htm)
-
-2025-04-16, @IT之家, [TrendForce：预计 2025 年 QD-OLED 在 OLED 显示器出货占比将从 68% 升至 73%](https://www.ithome.com/0/845/735.htm)
-
 2025-04-16, @博客园, [Cursor入门教程-JetBrains过度向 - LemonDus](https://www.cnblogs.com/lemondu/p/18829218)
-
-2025-04-16, @IT之家, [深度操作系统 deepin 23.1 版本上线：内核更新，AI 默认引擎切换至 DeepSeek](https://www.ithome.com/0/845/734.htm)
-
-2025-04-16, @CN@Flipboard, [Donald Trump Raises Tariffs On China Up To 245%; Move Triggers Memes Online](https://in.mashable.com/culture/92789/donald-trump-raises-tariffs-on-china-up-to-245-move-triggers-memes-online?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-04-16, @IT之家, [铭瑄推出 GeForce RTX 50 世代 iCraft 电竞之心系列显卡，5070 首发](https://www.ithome.com/0/845/733.htm)
-
-2025-04-16, @IT之家, [鸿蒙智行问界 M8 汽车上市 1 小时大定突破 2 万台](https://www.ithome.com/0/845/731.htm)
 
 2025-04-16, @少数派, [知识的春季大扫除：走出笔记囤积的困境](https://sspai.com/post/98422)
 
-2025-04-16, @IT之家, [上汽大众首款增程式概念车将亮相 2025 上海车展，定位全尺寸 SUV](https://www.ithome.com/0/845/730.htm)
-
 2025-04-16, @36氪, [理想汽车CTO谈OS开源：我们看到了智能汽车的4个问题｜36氪专访](https://36kr.com/p/3252608841457920?f=rss)
 
-2025-04-16, @IT之家, [比亚迪宣布进入捷克、斯洛伐克市场，推出海狮 07EV、宋 PLUS DM-i 等车型](https://www.ithome.com/0/845/729.htm)
+2025-04-16, @CGTV-China, [Xi Jinping's visit to Malaysia drives trade, economic cooperation](https://news.cgtn.com/news/2025-04-16/Xi-Jinping-s-visit-to-Malaysia-drives-trade-economic-cooperation-1CC3TBNJ1vO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-04-16, @IT之家, [淘宝天猫即将上线“店铺真实体验分”，重点考核商品质量、物流速度、服务保障](https://www.ithome.com/0/845/728.htm)
+2025-04-16, @CGTV-China, [Roaring Pride, Shared Legacy: A lion dance music video with AI music](https://news.cgtn.com/news/2025-04-16/Roaring-Pride-Shared-Legacy-A-lion-dance-music-video-with-AI-music-1CCpex1jT4k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-04-16, @IT之家, [谷歌在英国面临 50 亿英镑反垄断诉讼，被指滥用搜索广告市场支配地位，涉及数十万家机构和公司](https://www.ithome.com/0/845/724.htm)
-
-2025-04-16, @IT之家, [消息称联想拯救者新平板搭载 8.8 英寸 3K 165Hz LCD 华星屏，电池容量超 7000mAh](https://www.ithome.com/0/845/723.htm)
-
-2025-04-16, @IT之家, [全球首台“玲龙一号”小型堆主泵成功吊装就位](https://www.ithome.com/0/845/721.htm)
-
-2025-04-16, @IT之家, [荣耀平板 GT 亮相：IMAX ENHANCED 认证，4 月 23 日发布](https://www.ithome.com/0/845/716.htm)
+2025-04-16, @CGTV-China, [Graphics: China's economic growth beats expectations in Q1](https://news.cgtn.com/news/2025-04-16/Graphics-China-s-economic-growth-beats-expectations-in-Q1-1CCr3dpOMYo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @CN@Flipboard, [Trump dashed Musk's secret Pentagon briefing on China](https://www.axios.com/2025/04/16/trump-block-elon-musk-pentagon-briefing-china?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2025-04-16, @IT之家, [34.85%，隆基再次刷新晶硅-钙钛矿叠层电池效率世界纪录](https://www.ithome.com/0/845/715.htm)
+2025-04-16, @CGTV-World, [China and ASEAN strengthen economic ties as Malaysia leads integration](https://news.cgtn.com/news/2025-04-16/China-and-ASEAN-strengthen-economic-ties-as-Malaysia-leads-integration-1CCr5m88TwA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-16, @IT之家, [RGB 型号配无限镜灯效顶盖，Sharkoon 旋刚推出首批三款风冷散热器](https://www.ithome.com/0/845/714.htm)
+2025-04-16, @CGTV-China, [China and ASEAN strengthen economic ties as Malaysia leads integration](https://news.cgtn.com/news/2025-04-16/China-and-ASEAN-strengthen-economic-ties-as-Malaysia-leads-integration-1CCr5m88TwA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-04-16, @IT之家, [最低 5.5 折：国铁沈阳局 120 余车次票价将实行浮动折扣，区分周中、周末多个档次](https://www.ithome.com/0/845/713.htm)
+2025-04-16, @CGTV-World, [Xi Jinping says China-Malaysia ties ushering in new golden era](https://news.cgtn.com/news/2025-04-16/Xi-Jinping-holds-talks-with-Malaysian-Prime-Minister-Anwar-Ibrahim-1CClWyVKsb6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-16, @IT之家, [我国成功拯救发射失利的两颗探月卫星，细节首次公开](https://www.ithome.com/0/845/709.htm)
+2025-04-16, @CGTV-China, [Xi Jinping says China-Malaysia ties ushering in new golden era](https://news.cgtn.com/news/2025-04-16/Xi-Jinping-holds-talks-with-Malaysian-Prime-Minister-Anwar-Ibrahim-1CClWyVKsb6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-16, @CGTV-China, [China urges dialogue, not threats, to resolve tariff dispute with U.S.](https://news.cgtn.com/news/2025-04-16/China-urges-dialogue-not-threats-to-resolve-tariff-dispute-with-U-S--1CCrf2JExd6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @36氪, [对话中海基金：港股的估值容忍度不比外部市场低｜36氪专访](https://36kr.com/p/3252553764020740?f=rss)
 
-2025-04-16, @IT之家, [宁芝将推 L99 静电容矮轴三模键盘：有线模式支持 8KHz 回报率](https://www.ithome.com/0/845/701.htm)
-
-2025-04-16, @IT之家, [ONE MORE THING：上汽 × 华为合作鸿蒙智行“尚界”品牌亮相，首款车型争取今年秋天上市](https://www.ithome.com/0/845/698.htm)
-
-2025-04-16, @IT之家, [“家庭智慧旗舰 SUV”鸿蒙智行问界 M8 汽车上市 8 分钟大定突破 8000 台](https://www.ithome.com/0/845/696.htm)
-
 2025-04-16, @博客园, [Chat to MySQL 最佳实践：MCP Server 服务调用 - 小白跃升坊](https://www.cnblogs.com/xiaobaiysf/p/18828900)
-
-2025-04-16, @CN@Flipboard, [Trump's tariffs are backfiring around the world. And who benefits? China. | Opinion](https://www.usatoday.com/story/opinion/columnist/2025/04/16/vietnam-tariff-negotiations-trump-trade-war-china/82985720007/?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-04-16, @少数派, [每天有多少玩家教任天堂做产品？|「世界主宰」的掌机之路 · 叁](https://sspai.com/post/69478)
 
-2025-04-16, @IT之家, [红魔氘锋能量胶囊 5000mAh 随身电源发布，首发价 129 元](https://www.ithome.com/0/845/693.htm)
-
 2025-04-16, @博客园, [Traefik，想说爱你不容易：一场动态反向代理的心累之旅 - 程序设计实验室](https://www.cnblogs.com/deali/p/18828815)
-
-2025-04-16, @IT之家, [英国科技部宣布向量子技术领域投资 1.21 亿英镑](https://www.ithome.com/0/845/690.htm)
-
-2025-04-16, @IT之家, [红魔 10 Air 游戏手机发布：骁龙 8 Gen 3、悟空全面屏，国补价 2999 元起](https://www.ithome.com/0/845/689.htm)
-
-2025-04-16, @IT之家, [红魔氘锋能量卡 5 千 / 1 万毫安发布：15W 无线磁吸 Qi2 认证，首发价 229 元起](https://www.ithome.com/0/845/688.htm)
 
 2025-04-16, @博客园, [使用CAMEL创建第一个Agent Society - mingupupup](https://www.cnblogs.com/mingupupu/p/18828821)
 
 2025-04-16, @36氪, [一苇资本×北航投资｜商业航天产业发展与创新论坛圆满举办](https://36kr.com/p/3252379902206467?f=rss)
 
+2025-04-16, @CGTV-China, [Flavors across borders reveal the tastes of Cambodia and China](https://news.cgtn.com/news/2025-04-16/Flavors-across-borders-reveal-the-tastes-of-Cambodia-and-China-1CCluqNc7zW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
 2025-04-16, @36氪, [中国电动车安全逆袭：吉利EX5获欧美澳五星碰撞评级｜海外日报](https://36kr.com/p/3252449089560838?f=rss)
+
+2025-04-16, @CGTV-World, [China, Vietnam hold 9th border defense friendship exchange](https://news.cgtn.com/news/2025-04-16/China-Vietnam-hold-9th-border-defense-friendship-exchange-1CCeyASo8ak/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-16, @CGTV-China, [China, Vietnam hold 9th border defense friendship exchange](https://news.cgtn.com/news/2025-04-16/China-Vietnam-hold-9th-border-defense-friendship-exchange-1CCeyASo8ak/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-16, @CGTV-China, [Experience Nanyang culture in Hainan's Wennan Old Street](https://news.cgtn.com/news/2025-04-16/Experience-Nanyang-culture-in-Hainan-s-Wennan-Old-Street-1CCixUo7wdi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @36氪, [最前线｜上汽集团唯一全球品牌MG全面焕新，加速狂飙，年轻化新车即将亮相上海车展](https://36kr.com/p/3251061575721219?f=rss)
 
-2025-04-16, @CN@Flipboard, [China top Porsche seller, with 340 cars sold in 2 years, harassed by sex-related rumours](https://www.scmp.com/news/people-culture/trending-china/article/3306185/china-top-porsche-seller-340-cars-sold-2-years-harassed-sex-related-rumours?utm_source=rss_feed)
+2025-04-16, @CGTV-China, [Ancient fossils a testament of marine community with shared future](https://news.cgtn.com/news/2025-04-16/Ancient-fossils-a-testament-of-marine-community-with-shared-future-1CC6C3qf2gg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-04-16, @CN@Flipboard, [China Now Faces Up To 245% Tariffs On Certain Imports, Says White House: Here's What You Should Know](https://www.benzinga.com/markets/25/04/44831287/trump-administration-imposes-up-to-245-tariff-on-chinese-imports-amid-intensifying-trade-battle?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-04-16, @CGTV-China, [Lion dance: A bond of China-Malaysia culture and innovation](https://news.cgtn.com/news/2025-04-16/Lion-dance-A-bond-of-China-Malaysia-culture-and-innovation-1CCfph3ejdK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-04-16, @CN@Flipboard, [In Trade War With the US, China Holds a Lot More Cards Than Trump May Think − In Fact, It Might Have a Winning hand](https://www.counterpunch.org/2025/04/16/in-trade-war-with-the-us-china-holds-a-lot-more-cards-than-trump-may-think-%E2%88%92-in-fact-it-might-have-a-winning-hand/?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-04-16, @CGTV-China, [Your movie ticket stub unlocks Beijing deals and fun!](https://news.cgtn.com/news/2025-04-16/Your-movie-ticket-stub-unlocks-Beijing-deals-and-fun--1CCf5acLt8k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-16, @CGTV-World, [California farmers near ruin as Trump tariffs hit hard](https://news.cgtn.com/news/2025-04-16/California-farmers-near-ruin-as-Trump-tariffs-hit-hard-1CCebOC2rw4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-16, @CN@Flipboard, [In Trade War With the US, China Holds a Lot More Cards Than Trump May Think − In Fact, It Might Have a Winning hand](https://www.counterpunch.org/2025/04/16/in-trade-war-with-the-us-china-holds-a-lot-more-cards-than-trump-may-think-%E2%88%92-in-fact-it-might-have-a-winning-hand/?utm_source=flipboard&utm_content=topic/finance)
 
 2025-04-16, @不死鸟, [2025 年 4 月 每日分享](https://iui.su/196/)
 
 2025-04-16, @博客园, [MCP应用docker部署，docker-compose部署 - 肖祥](https://www.cnblogs.com/xiao987334176/p/18827297)
 
+2025-04-16, @CN@Flipboard, [Nvidia drags Wall Street down as United Airlines says it's impossible to predict this year's economy](https://apnews.com/article/stocks-markets-rates-tariffs-aeb0ed831602ab06235065aace6df5ec?utm_source=flipboard&utm_content=topic%2Fchina)
+
 2025-04-16, @博客园, [大模型微调实战：通过 LoRA 微调修改模型自我认知 - 探索云原生](https://www.cnblogs.com/KubeExplorer/p/18828441)
+
+2025-04-16, @CGTV-China, [Malaysian official: The Chinese market presents vast opportunities](https://news.cgtn.com/news/2025-04-16/Malaysian-official-The-Chinese-market-presents-vast-opportunities-1CBZw1Vnr2w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-16, @CGTV-World, [Xi calls for ushering in new 'Golden 50 Years' for China-Malaysia ties](https://news.cgtn.com/news/2025-04-16/Xi-Jinping-meets-Malaysia-s-king-1CC3ClMdP68/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-16, @CGTV-China, [Xi calls for ushering in new 'Golden 50 Years' for China-Malaysia ties](https://news.cgtn.com/news/2025-04-16/Xi-Jinping-meets-Malaysia-s-king-1CC3ClMdP68/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @36氪, [签订千吨级生物酶法再生PTA订单，「源天生物」完成近亿元pre-A+轮融资 | 36氪首发](https://36kr.com/p/3252220468109832?f=rss)
 
+2025-04-16, @CGTV-World, [Full text of President Xi Jinping's signed article in Malaysian media](https://news.cgtn.com/news/2025-04-16/Full-text-of-President-Xi-Jinping-s-signed-article-in-Malaysian-media-1CBPBgVF4ha/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-16, @CGTV-China, [Full text of President Xi Jinping's signed article in Malaysian media](https://news.cgtn.com/news/2025-04-16/Full-text-of-President-Xi-Jinping-s-signed-article-in-Malaysian-media-1CBPBgVF4ha/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
 2025-04-16, @少数派, [黑白胶片、AI 把脉、墨水屏仪表盘，这些应用和项目有点意思](https://sspai.com/post/98236)
+
+2025-04-16, @CGTV-China, [Entrepreneurs: A key driving force behind regional prosperity](https://news.cgtn.com/news/2025-04-16/Entrepreneurs-A-key-driving-force-behind-regional-prosperity-1CBYFxEykdW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @博客园, [QT 的信号-槽机制 - 永不停转](https://www.cnblogs.com/ITnoteforlsy/p/18828249)
 
 2025-04-16, @博客园, [重生之我是操作系统(八)----文件管理(上) - 叫我安不理](https://www.cnblogs.com/lmy5215006/p/18824802)
 
-2025-04-16, @CN@Flipboard, [Beijing Defiant as Trump Presses China to Make Tariff Offer](https://www.bloomberg.com/news/videos/2025-04-16/beijing-defiant-as-trump-presses-china-to-make-tariff-offer?utm_source=flipboard&utm_content=bloomberg/magazine/Profiles)
+2025-04-16, @CGTV-World, [Netanyahu visits northern Gaza, vows to intensify military operations](https://news.cgtn.com/news/2025-04-16/Netanyahu-visits-northern-Gaza-vows-to-intensify-military-operations-1CBXZdsXZJu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-16, @CGTV-China, [Chinese shipbuilder delivers 24,000-TEU LNG dual-fuel container ship](https://news.cgtn.com/news/2025-04-16/Chinese-shipbuilder-delivers-24-000-TEU-LNG-dual-fuel-container-ship-1CBW0B06sKY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-16, @CGTV-World, [Xi Jinping attends welcome ceremony hosted by Malaysia's king](https://news.cgtn.com/news/2025-04-16/Xi-Jinping-attends-welcome-ceremony-hosted-by-Malaysia-s-king-1CC0aqGnAyc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-16, @CGTV-China, [Xi Jinping attends welcome ceremony hosted by Malaysia's king](https://news.cgtn.com/news/2025-04-16/Xi-Jinping-attends-welcome-ceremony-hosted-by-Malaysia-s-king-1CC0aqGnAyc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @CN@Flipboard, [Xi arrives in Malaysia with a message: China’s a better partner than Trump](https://www.aljazeera.com/news/2025/4/16/xi-arrives-in-malaysia-with-a-message-chinas-a-better-partner-than-trump?utm_source=flipboard&utm_content=user/AlJazeera)
+
+2025-04-16, @CGTV-China, [China's GDP expands 5.4% in Q1](https://news.cgtn.com/news/2025-04-16/China-s-GDP-expands-5-4-in-Q1-1CBYBeB8vWE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-16, @36氪, [前阿里机器人高管创业、获数千万种子轮融资，聚焦L4级具身智能技术应用｜硬氪首发](https://36kr.com/p/3250862394761478?f=rss)
 
 2025-04-16, @36氪, [美国人疯抢中国货，阿里昔日手下败将迎来泼天流量｜焦点分析](https://36kr.com/p/3251490091573766?f=rss)
+
+2025-04-16, @CGTV-World, [South Korean police raid presidential office: Yonhap](https://news.cgtn.com/news/2025-04-16/news-1CBWRYeA264/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2025-04-16, @博客园, [Web前端入门第 35 问：CSS 细说 flex 弹性盒子布局（多图） - 前端路引](https://www.cnblogs.com/linx/p/18827996)
 
@@ -220,305 +351,197 @@
 
 2025-04-16, @少数派, [派早报：2025 款小鹏 X9 发布、RTX 5060 系列显卡发布等](https://sspai.com/post/98435)
 
-2025-04-15, @CN@Flipboard, [Shark Tank's Kevin O'Leary has blunt message on China, tariffs](https://www.thestreet.com/retirement/shark-tanks-kevin-oleary-has-blunt-message-on-china-tariffs?utm_source=flipboard&utm_content=TheStreet/magazine/Personal+Finance)
+2025-04-15, @CN@Flipboard, [Nvidia shares plunge amid $5.5bn hit over export rules to China](https://www.bbc.com/news/articles/cm2xzn6jmzpo?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2025-04-15, @CN@Flipboard, [Nvidia expects $5.5bn hit as US tightens chip export rules to China](https://www.bbc.com/news/articles/cm2xzn6jmzpo?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-04-15, @CGTV-World, [Harvard resists Trump's demands, faces federal funding cuts](https://newsus.cgtn.com/news/2025-04-16/Harvard-resists-Trump-s-demands-faces-federal-funding-cuts-1CBzSF99mMw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-15, @CN@Flipboard, [China discovered the world’s largest gold deposit, alarming markets](https://www.thebrighterside.news/discoveries/china-discovered-the-worlds-largest-gold-deposit-alarming-markets)
+2025-04-15, @CGTV-World, [Remittances from U.S. to Mexico benefitting both countries](https://newsus.cgtn.com/news/2025-04-16/Remittances-from-U-S-to-Mexico-benefitting-both-countries-1CBznLRTAXK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2025-04-15, @Apple 新闻, [Meet four emerging filmmakers bending cultural and creative lines with iPhone 16 Pro Max
 ](https://www.apple.com/newsroom/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/)
 
-2025-04-15, @CN@Flipboard, [Trump Presses China to Make Tariff Offer to Calm Trade War](https://finance.yahoo.com/news/trump-presses-china-tariff-offer-182344161.html?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-04-15, @CN@Flipboard, [Boeing shares fall on report that China has halted its deliveries as part of trade war](https://www.cnn.com/2025/04/15/business/boeing-china-deliveries/index.html)
 
-2025-04-15, @CN@Flipboard, [China cracks down on Boeing jet orders as Trump trade war escalates](https://www.axios.com/2025/04/15/china-boeing-orders-trump-tariffs?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-04-15, @CGTV-World, [President Xi's state visit makes headlines all over Malaysia](https://news.cgtn.com/news/2025-04-16/President-Xi-s-state-visit-makes-headlines-all-over-Malaysia-1CB7SlEawtG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-15, @CN@Flipboard, [‘The Trump administration can’t ignore Boeing,’ BofA says after China reportedly halts imports from the U.S. aircraft manufacturer](https://fortune.com/2025/04/15/china-boeing-delivery-halt-trump-tariffs-bank-of-america/?utm_source=flipboard&utm_content=topic%2Fchina)
+2025-04-15, @CGTV-China, [President Xi's state visit makes headlines all over Malaysia](https://news.cgtn.com/news/2025-04-16/President-Xi-s-state-visit-makes-headlines-all-over-Malaysia-1CB7SlEawtG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-04-15, @CN@Flipboard, [Chinese official warns US that Trump's 'extremely shameless' tariff war will backfire](https://flipboard.com/video/newyorkpost/eedf4b8915)
+2025-04-15, @CGTV-World, [China, Vietnam reaffirm commitment to advancing bilateral friendship](https://news.cgtn.com/news/2025-04-16/China-Vietnam-reaffirm-commitment-to-advancing-bilateral-friendship-1CBabIjuNEc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-15, @CGTV-China, [Chinese experts propose $14T consumer push, Hainan as global trade hub](https://news.cgtn.com/news/2025-04-15/Chinese-experts-propose-14T-consumer-push-Hainan-as-global-trade-hub-1CBbemONiVi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-15, @CGTV-China, ['The Classic Quotes by Xi Jinping' starts airing in Malaysia](https://news.cgtn.com/news/2025-04-15/-The-Classic-Quotes-by-Xi-Jinping-starts-airing-in-Malaysia-1CB6z7VFSco/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-15, @博客园, [LLM中的Top-K/Top-p/温度都是怎么发挥作用的？ - xiaoxi666](https://www.cnblogs.com/xiaoxi666/p/18827733)
+
+2025-04-15, @CGTV-World, [U.S. tariff war drives allies to reassess ties with Washington](https://news.cgtn.com/news/2025-04-15/U-S-tariff-war-drives-allies-to-reassess-ties-with-Washington-1CB9WHqhkcg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2025-04-15, @博客园, [二叉树实战篇1 - carpell](https://www.cnblogs.com/carpell/p/18827655)
 
 2025-04-15, @博客园, [dify MCP工具调用 - 肖祥](https://www.cnblogs.com/xiao987334176/p/18827261)
 
-2025-04-15, @博客园, [理解tomcat中的BIO、NIO、AIO、ARP - isyues](https://www.cnblogs.com/isyues/p/18826926)
-
-2025-04-15, @博客园, [Sentinel源码—2.Context和处理链的初始化 - 东阳马生架构](https://www.cnblogs.com/mjunz/p/18827616)
-
-2025-04-15, @CGTV-World, [Noboa wins re-election as president of Ecuador](https://newsus.cgtn.com/news/2025-04-15/Noboa-wins-re-election-as-president-of-Ecuador-1CA0S5nH2RG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-World, [IMF weighs in on tariff-led trade tensions](https://newsus.cgtn.com/news/2025-04-15/IMF-weighs-in-on-tariff-led-trade-tensions-1CA0TtfV5EQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-World, [Nobel prize-winning Peruvian novelist Llosa leaves lasting legacy](https://newsus.cgtn.com/news/2025-04-15/Nobel-prize-winning-Peruvian-novelist-Llosa-leaves-lasting-legacy-1CA0VoUYOn6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @博客园, [.NET周刊【3月第4期 2025-03-23】 - InCerry](https://www.cnblogs.com/InCerry/p/-/dotnet_week_25_3_4)
-
-2025-04-15, @博客园, [pytorch 实战教程之 Feature Pyramid Networks (FPN) 特征金字塔网络实现代码 - aircraft](https://www.cnblogs.com/DOMLX/p/18827580)
-
-2025-04-15, @博客园, [通过一个DEMO理解MCP（模型上下文协议）的生命周期 - CareySon](https://www.cnblogs.com/CareySon/p/18827525/mcp_lifecycle_via_demo)
-
-2025-04-15, @CGTV-China, [President Xi vows to pursue mutual success with Malaysia and ASEAN](https://news.cgtn.com/news/2025-04-15/President-Xi-vows-to-pursue-mutual-success-with-Malaysia-and-ASEAN-1CASBYf6pKU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CN@Flipboard, [Xi Jinping goes on charm offensive as Asia reels from tariff whiplash](https://www.nbcnews.com/news/world/xi-jinping-goes-charm-offensive-asia-reels-tariff-whiplash-rcna201268?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-04-15, @CN@Flipboard, [Boeing shares fall on report that China has halted its deliveries as part of trade war](https://www.cnn.com/2025/04/15/business/boeing-china-deliveries/index.html)
-
-2025-04-15, @CGTV-China, [Xi's article on building a leading country in culture to be published](https://news.cgtn.com/news/2025-04-15/Xi-s-article-on-building-a-leading-country-in-culture-to-be-published-1CARYqxXbTa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Xi delivers written speech upon arrival in Malaysia](https://news.cgtn.com/news/2025-04-15/Xi-delivers-written-speech-upon-arrival-in-Malaysia-1CAUTpagbOU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Xi delivers written speech upon arrival in Malaysia](https://news.cgtn.com/news/2025-04-15/Xi-delivers-written-speech-upon-arrival-in-Malaysia-1CAUTpagbOU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
 2025-04-15, @CN@Flipboard, [China halts Boeing jet orders](https://www.foxbusiness.com/markets/china-halts-boeing-jet-orders?utm_source=flipboard&utm_content=topic/business)
-
-2025-04-15, @CGTV-World, [Xi Jinping arrives in Malaysia's Kuala Lumpur for state visit](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-arrives-in-Malaysia-s-Kuala-Lumpur-for-state-visit-1CALQVgSqFW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Xi Jinping arrives in Malaysia's Kuala Lumpur for state visit](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-arrives-in-Malaysia-s-Kuala-Lumpur-for-state-visit-1CALQVgSqFW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Xi calls for deeper China-Malaysia ties in signed article](https://news.cgtn.com/news/2025-04-15/Xi-calls-for-deeper-China-Malaysia-ties-in-signed-article-1CAP7YrAGBi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Xi calls for deeper China-Malaysia ties in signed article](https://news.cgtn.com/news/2025-04-15/Xi-calls-for-deeper-China-Malaysia-ties-in-signed-article-1CAP7YrAGBi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CN@Flipboard, [Boeing Slumps In Premarket As China Reportedly Halts Jet Deliveries](https://www.forbes.com/sites/siladityaray/2025/04/15/boeing-slumps-in-premarket-as-china-reportedly-moves-to-halt-jet-deliveries/?utm_source=flipboard&utm_content=user/forbes)
-
-2025-04-15, @CGTV-World, [Xi Jinping wraps up state visit to Vietnam](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-wraps-up-state-visit-to-Vietnam-1CAJvKwyaic/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Xi Jinping wraps up state visit to Vietnam](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-wraps-up-state-visit-to-Vietnam-1CAJvKwyaic/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Malaysian, Vietnamese students in China share stories about sports](https://news.cgtn.com/news/2025-04-15/Malaysian-Vietnamese-students-in-China-share-stories-about-sports-1CAK4ifrKzS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Malaysian, Vietnamese students in China share stories about sports](https://news.cgtn.com/news/2025-04-15/Malaysian-Vietnamese-students-in-China-share-stories-about-sports-1CAK4ifrKzS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Malaysian shuttlers talk about befriending Chinese players off court](https://news.cgtn.com/news/2025-04-15/Malaysian-shuttlers-talk-about-befriending-Chinese-players-off-court-1CAJzNMogDK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Malaysian shuttlers talk about befriending Chinese players off court](https://news.cgtn.com/news/2025-04-15/Malaysian-shuttlers-talk-about-befriending-Chinese-players-off-court-1CAJzNMogDK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Milano Cortina 2026 unveils 'Essential' Winter Olympic torch](https://news.cgtn.com/news/2025-04-15/Milano-Cortina-2026-unveils-Essential-Winter-Olympic-torch-1CAi8bDfrhu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Shanxi begin CBA Playoffs with 42-point win over Guangdong](https://news.cgtn.com/news/2025-04-15/Shanxi-begin-CBA-Playoffs-with-42-point-win-over-Guangdong-1CAgOhVfVVm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [China's roster for basketball Women's Asia Cup training camp released](https://news.cgtn.com/news/2025-04-15/China-s-roster-for-basketball-Women-s-Asia-Cup-training-camp-released-1CAhw0LBIxa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [China's roster for basketball Women's Asia Cup training camp released](https://news.cgtn.com/news/2025-04-15/China-s-roster-for-basketball-Women-s-Asia-Cup-training-camp-released-1CAhw0LBIxa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Badminton Asia boss: Sport promotes friendship between China, Malaysia](https://news.cgtn.com/news/2025-04-15/Badminton-Asia-boss-Sport-promotes-friendship-between-China-Malaysia-1CAJPGhwxfa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Badminton Asia boss: Sport promotes friendship between China, Malaysia](https://news.cgtn.com/news/2025-04-15/Badminton-Asia-boss-Sport-promotes-friendship-between-China-Malaysia-1CAJPGhwxfa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-15, @CN@Flipboard, [Why China Laughs at the Idea of Americans Taking Their Manufacturing Jobs](https://time.com/7277920/china-manufacturing-us-trump-factory-workers-ai-videos-social-media/?utm_source=flipboard&utm_content=user/time)
 
 2025-04-15, @少数派, [社区速递 088 | 你没见过的社区文章、一周最热评、派友最近访问的网站](https://sspai.com/post/98425)
 
-2025-04-15, @CGTV-China, [Lung cancer tops global cancer death rates for a decade](https://news.cgtn.com/news/2025-04-15/Lung-cancer-tops-global-cancer-death-rates-for-a-decade-1CAL9NyR6bC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-China, [Annual Water Splashing Festival held in Xishuangbanna](https://news.cgtn.com/news/2025-04-15/Annual-Water-Splashing-Festival-held-in-Xishuangbanna-1CANSi14Os0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-China, [Confucianism and Islam: Converging values in a diverse world](https://news.cgtn.com/news/2025-04-15/Confucianism-and-Islam-Converging-values-in-a-diverse-world-1CAKJAXpIEU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
 2025-04-15, @CN@Flipboard, [China reportedly tells its airlines not to take any more Boeing planes](https://www.marketwatch.com/story/the-latest-tariff-fallout-china-reportedly-tells-its-airlines-not-to-take-any-more-boeing-planes-79150dfd?mod=home_lead)
-
-2025-04-15, @CGTV-China, [A glimpse of Beijing's new 'culture-meets-economy' hotspot](https://news.cgtn.com/news/2025-04-15/A-glimpse-of-Beijing-s-new-culture-meets-economy-hotspot-1CAyMWQWxDq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-China, [Japanese architect in China explores human-architecture connection](https://news.cgtn.com/news/2025-04-15/Japanese-architect-in-China-explores-human-architecture-connection-1CAxIKsDgac/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Xi Jinping bids farewell to Vietnam's To Lam](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-bids-farewell-to-Vietnam-s-To-Lam-1CAITvomidy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Xi Jinping bids farewell to Vietnam's To Lam](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-bids-farewell-to-Vietnam-s-To-Lam-1CAITvomidy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [LVMH China president highlights Hainan Expo's role in open markets](https://news.cgtn.com/news/2025-04-15/LVMH-China-president-highlights-Hainan-Expo-s-role-in-open-markets-1CAKpxMjzOg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [LVMH China president highlights Hainan Expo's role in open markets](https://news.cgtn.com/news/2025-04-15/LVMH-China-president-highlights-Hainan-Expo-s-role-in-open-markets-1CAKpxMjzOg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [DFS aims to offer dual benefits for international and Chinese brands](https://news.cgtn.com/news/2025-04-15/DFS-aims-to-offer-dual-benefits-for-international-and-Chinese-brands--1CAJbEdzZyo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [DFS aims to offer dual benefits for international and Chinese brands](https://news.cgtn.com/news/2025-04-15/DFS-aims-to-offer-dual-benefits-for-international-and-Chinese-brands--1CAJbEdzZyo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-15, @张洪Heo, [PS邀请函多名字怎么处理？批量制作证书、邀请函、奖状图片](https://blog.zhheo.com/p/r1zzawal.html)
 
-2025-04-15, @CGTV-China, [How one flower keeps tradition alive in China](https://news.cgtn.com/news/2025-04-15/How-one-flower-keeps-tradition-alive-in-China-1CAsLAidbWg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
 2025-04-15, @少数派, [知己所需，知彼极限：小米 SU7 Ultra 提车一月体验](https://sspai.com/post/98319)
-
-2025-04-15, @CN@Flipboard, [Xi makes a case for free trade, presenting China as a source of 'stability and certainty'](https://apnews.com/article/china-malaysia-xi-jinping-southeast-asia-tour-559757744cd48ca28a5171fe5071f9cc?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-04-15, @张洪Heo, [宝塔面板与Bitwarden插件不兼容，登录提示：验证码长度错误 解决方法](https://blog.zhheo.com/p/vxif2ahq.html)
 
-2025-04-15, @CGTV-China, [Xi calls on China, Vietnam to oppose power politics, unilateralism](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-meets-Vietnam-s-Luong-Cuong-1CAxWW8o9uo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Xi, To Lam witness launching ceremony of railway cooperation mechanism](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-attends-launch-of-China-Vietnam-railway-cooperation-mechanism-1CAtMdXYQEg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Xi, To Lam witness launching ceremony of railway cooperation mechanism](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-attends-launch-of-China-Vietnam-railway-cooperation-mechanism-1CAtMdXYQEg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Xi Jinping delivers speech at China-Vietnam people friendship festival](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-delivers-speech-at-China-Vietnam-people-friendship-festival-1CArusJ5hjW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Xi Jinping delivers speech at China-Vietnam people friendship festival](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-delivers-speech-at-China-Vietnam-people-friendship-festival-1CArusJ5hjW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Xi Jinping lays wreath at Ho Chi Minh Mausoleum in Hanoi](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-lays-wreath-at-Ho-Chi-Minh-Mausoleum-in-Hanoi-1CAsNDr5tf2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Xi Jinping lays wreath at Ho Chi Minh Mausoleum in Hanoi](https://news.cgtn.com/news/2025-04-15/Xi-Jinping-lays-wreath-at-Ho-Chi-Minh-Mausoleum-in-Hanoi-1CAsNDr5tf2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-Nature, [Chinese ports get smarter with automation push](https://news.cgtn.com/news/2025-04-15/Chinese-ports-get-smarter-with-automation-push-1CAobhsVXIk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-04-15, @CGTV-China, [Chinese ports get smarter with automation push](https://news.cgtn.com/news/2025-04-15/Chinese-ports-get-smarter-with-automation-push-1CAobhsVXIk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-Nature, [Environmental Knowledge Day: Promoting global green cooperation](https://news.cgtn.com/news/2025-04-15/Environmental-Knowledge-Day-Promoting-global-green-cooperation-1CAmHhcgOhW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-04-15, @CGTV-World, [Environmental Knowledge Day: Promoting global green cooperation](https://news.cgtn.com/news/2025-04-15/Environmental-Knowledge-Day-Promoting-global-green-cooperation-1CAmHhcgOhW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [Environmental Knowledge Day: Promoting global green cooperation](https://news.cgtn.com/news/2025-04-15/Environmental-Knowledge-Day-Promoting-global-green-cooperation-1CAmHhcgOhW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [China-Laos port sees 24% surge in ASEAN passenger trips](https://news.cgtn.com/news/2025-04-15/China-Laos-port-sees-24-surge-in-ASEAN-passenger-trips-1CAlAfV4d44/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [China-Laos port sees 24% surge in ASEAN passenger trips](https://news.cgtn.com/news/2025-04-15/China-Laos-port-sees-24-surge-in-ASEAN-passenger-trips-1CAlAfV4d44/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
 2025-04-15, @张洪Heo, [Photoshop换电脑如何迁移工作区，将习惯的布局拷贝到其他电脑上](https://blog.zhheo.com/p/r1wqptre.html)
-
-2025-04-15, @CGTV-China, [The unique path of Chinese modernization](https://news.cgtn.com/news/2025-04-15/The-unique-path-of-Chinese-modernization-1CAnjMLd292/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-15, @少数派, [财报里的英伟达变形记：游戏业务真的「可有可无」了吗？](https://sspai.com/post/98269)
 
-2025-04-15, @CGTV-China, [China-ASEAN synergy: anchoring global stability](https://news.cgtn.com/news/2025-04-15/China-ASEAN-synergy-anchoring-global-stability-1CAmsgmaVgI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [China sees 15.3% increase in entry-exit trips in Q1 of 2025](https://news.cgtn.com/news/2025-04-15/China-sees-15-3-increase-in-entry-exit-trips-in-Q1-of-2025-1CAn4lp2tH2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [China sees 15.3% increase in entry-exit trips in Q1 of 2025](https://news.cgtn.com/news/2025-04-15/China-sees-15-3-increase-in-entry-exit-trips-in-Q1-of-2025-1CAn4lp2tH2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-15, @CGTV-World, [Algeria expels 12 French diplomats in escalation with France](https://news.cgtn.com/news/2025-04-15/Algeria-expels-12-French-diplomats-in-escalation-with-France-1CAfGWMZ1CM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
 2025-04-15, @不死鸟, [GitHub打不开解决方案](https://iui.su/3415/)
-
-2025-04-15, @CN@Flipboard, [Hong Kong suspends postal service to the US after Trump’s tariff hikes](https://www.cnn.com/2025/04/15/business/hong-kong-suspends-postal-service-to-us-intl-hnk/index.html)
-
-2025-04-15, @CGTV-World, ['Significant gaps' remain as Hamas reviews Israel's ceasefire proposal](https://news.cgtn.com/news/2025-04-15/-Significant-gaps-remain-as-Hamas-reviews-Israel-s-ceasefire-proposal-1CAe6ZauRzy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-15, @CGTV-China, [China seeks arrest of 3 U.S. citizens over Winter Games cyberattacks](https://news.cgtn.com/news/2025-04-15/China-names-U-S-secret-agents-involved-in-Harbin-2025-cyberattacks-1CAgLi2gwKY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-15, @书格, [植物名实图考](https://www.shuge.org/view/zhi_wu_ming_shi_tu_kao/)
 
 2025-04-15, @少数派, [派早报：SSL/TLS 证书有效期将缩短，GPT-4.1 发布等](https://sspai.com/post/98412)
 
-2025-04-14, @CGTV-World, [75 years on, China-Vietnam cooperation brings stability to the world](https://news.cgtn.com/news/2025-04-14/75-years-on-China-Vietnam-cooperation-brings-stability-to-the-world-1Czw2zn5nLq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2025-04-14, @CGTV-World, [China to impose reciprocal visa limits on U.S. personnel over Xizang](https://news.cgtn.com/news/2025-04-14/China-to-impose-reciprocal-visa-limits-on-U-S-personnel-over-Xizang-1CzrsO3kiAM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-14, @CGTV-China, [75 years on, China-Vietnam cooperation brings stability to the world](https://news.cgtn.com/news/2025-04-14/75-years-on-China-Vietnam-cooperation-brings-stability-to-the-world-1Czw2zn5nLq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+2025-04-14, @CGTV-China, [China to impose reciprocal visa limits on U.S. personnel over Xizang](https://news.cgtn.com/news/2025-04-14/China-to-impose-reciprocal-visa-limits-on-U-S-personnel-over-Xizang-1CzrsO3kiAM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-04-14, @CGTV-World, [The fifth CICPE highlights China's growing allure for global brands](https://news.cgtn.com/news/2025-04-14/The-fifth-CICPE-highlights-China-s-growing-allure-for-global-brands-1CzxvNPtvTa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2025-04-14, @CGTV-China, [China commercial court strengthens its cross-border dispute status](https://news.cgtn.com/news/2025-04-14/China-commercial-court-strengthens-its-cross-border-dispute-status-1CzpgCaA3ba/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-04-14, @CGTV-China, [The fifth CICPE highlights China's growing allure for global brands](https://news.cgtn.com/news/2025-04-14/The-fifth-CICPE-highlights-China-s-growing-allure-for-global-brands-1CzxvNPtvTa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+2025-04-14, @CGTV-World, [Graphics: China's foreign trade grows in Q1 on strong ties with ASEAN](https://news.cgtn.com/news/2025-04-14/Graphics-China-s-foreign-trade-grows-in-Q1-on-strong-ties-with-ASEAN-1Cz8OdJY31C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-14, @CGTV-World, [Blue Origin launches an all-female celebrity crew](https://news.cgtn.com/news/2025-04-14/Blue-Origin-launches-an-all-female-celebrity-crew--1CzwIGhdo0U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-14, @CGTV-China, [China unveils world's first field test network for 6G communication](https://news.cgtn.com/news/2025-04-14/China-unveils-world-s-first-field-test-network-for-6G-communication-1Czr9yo5XqM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-14, @CGTV-World, ['The Classic Quotes by Xi Jinping' starts airing in Vietnam](https://news.cgtn.com/news/2025-04-14/-The-Classic-Quotes-by-Xi-Jinping-starts-airing-in-Vietnam--1CzqvlfNle0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-14, @CGTV-China, ['The Classic Quotes by Xi Jinping' starts airing in Vietnam](https://news.cgtn.com/news/2025-04-14/-The-Classic-Quotes-by-Xi-Jinping-starts-airing-in-Vietnam--1CzqvlfNle0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-14, @CGTV-World, [Macao SAR Chief Executive Sam Hou Fai delivers 1st policy address](https://news.cgtn.com/news/2025-04-14/Macao-SAR-Chief-Executive-Sam-Hou-Fai-delivers-1st-policy-address-1Czr0nxFH0I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-14, @CGTV-China, [Macao SAR Chief Executive Sam Hou Fai delivers 1st policy address](https://news.cgtn.com/news/2025-04-14/Macao-SAR-Chief-Executive-Sam-Hou-Fai-delivers-1st-policy-address-1Czr0nxFH0I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-14, @CGTV-World, [Xi Jinping urges China, Vietnam to jointly march toward modernization](https://news.cgtn.com/news/2025-04-14/Xi-Jinping-meets-Vietnam-s-National-Assembly-Chairman-Tran-Thanh-Man-1CzoqdMN5Dy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-14, @CGTV-China, [Xi Jinping urges China, Vietnam to jointly march toward modernization](https://news.cgtn.com/news/2025-04-14/Xi-Jinping-meets-Vietnam-s-National-Assembly-Chairman-Tran-Thanh-Man-1CzoqdMN5Dy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+2025-04-14, @CGTV-China, [Graphics: China's foreign trade grows in Q1 on strong ties with ASEAN](https://news.cgtn.com/news/2025-04-14/Graphics-China-s-foreign-trade-grows-in-Q1-on-strong-ties-with-ASEAN-1Cz8OdJY31C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-14, @Apple 新闻, [Get active with Apple Watch
 ](https://www.apple.com/newsroom/2025/04/get-active-with-apple-watch/)
 
+2025-04-14, @CGTV-Nature, [Hainan Expo mascots pay tribute to the island's rainforest protection](https://news.cgtn.com/news/2025-04-14/Hainan-Expo-mascots-pay-tribute-to-the-island-s-rainforest-protection-1CzoZSXrY2Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-14, @CGTV-China, [Hainan Expo mascots pay tribute to the island's rainforest protection](https://news.cgtn.com/news/2025-04-14/Hainan-Expo-mascots-pay-tribute-to-the-island-s-rainforest-protection-1CzoZSXrY2Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-World, [Xi calls on China, Vietnam to safeguard stability of supply chains](https://news.cgtn.com/news/2025-04-14/Xi-Jinping-holds-talks-with-Vietnam-s-To-Lam-1Cze0yCKLMQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
 2025-04-14, @少数派, [派评 | 近期值得关注的 App](https://sspai.com/post/98389)
+
+2025-04-14, @CGTV-Nature, [From Malaysia to China: A journey of cultural discovery](https://news.cgtn.com/news/2025-04-14/From-Malaysia-to-China-A-journey-of-cultural-discovery-1Czajg2B1Hq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-14, @CGTV-World, [From Malaysia to China: A journey of cultural discovery](https://news.cgtn.com/news/2025-04-14/From-Malaysia-to-China-A-journey-of-cultural-discovery-1Czajg2B1Hq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-China, [From Malaysia to China: A journey of cultural discovery](https://news.cgtn.com/news/2025-04-14/From-Malaysia-to-China-A-journey-of-cultural-discovery-1Czajg2B1Hq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-World, [Xi Jinping attends welcome ceremony held by Vietnam's To Lam](https://news.cgtn.com/news/2025-04-14/Xi-Jinping-attends-welcome-ceremony-held-by-Vietnam-s-To-Lam-1Cz8HRMIHra/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-China, [Xi Jinping attends welcome ceremony held by Vietnam's To Lam](https://news.cgtn.com/news/2025-04-14/Xi-Jinping-attends-welcome-ceremony-held-by-Vietnam-s-To-Lam-1Cz8HRMIHra/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-World, [China urges U.S. to end maximum pressure with 'reciprocal tariffs'](https://news.cgtn.com/news/2025-04-14/China-urges-U-S-to-end-maximum-pressure-on-reciprocal-tariffs--1Cz6c8Pxcnm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-China, [China urges U.S. to end maximum pressure with 'reciprocal tariffs'](https://news.cgtn.com/news/2025-04-14/China-urges-U-S-to-end-maximum-pressure-on-reciprocal-tariffs--1Cz6c8Pxcnm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-14, @少数派, [虚拟音声浮沉二十载（下）：前路探索](https://sspai.com/prime/story/virtual-voice-a-brief-history-2)
 
+2025-04-14, @CGTV-China, [China: A remarkable metamorphosis](https://news.cgtn.com/news/2025-04-14/China-A-remarkable-metamorphosis--1CyR28evPr2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-China, ['The sky won't fall' for China's exports: customs official](https://news.cgtn.com/news/2025-04-14/-The-sky-won-t-fall-for-China-s-exports-customs-official-1Cz00KbJTIQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-Nature, [China, Vietnam deepen high-quality cooperation in technology](https://news.cgtn.com/news/2025-04-14/China-Vietnam-deepen-high-quality-cooperation-in-technology-1CyXyrikyys/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-14, @CGTV-World, [China, Vietnam deepen high-quality cooperation in technology](https://news.cgtn.com/news/2025-04-14/China-Vietnam-deepen-high-quality-cooperation-in-technology-1CyXyrikyys/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-China, [China, Vietnam deepen high-quality cooperation in technology](https://news.cgtn.com/news/2025-04-14/China-Vietnam-deepen-high-quality-cooperation-in-technology-1CyXyrikyys/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-World, [Liverpool beat West Ham as Salah sets league goal involvements record](https://news.cgtn.com/news/2025-04-14/Liverpool-beat-West-Ham-as-Salah-sets-league-goal-involvements-record-1CyLdHZQqxa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-World, [Ten-man Real Madrid overcome lowly Alaves 1-0 after Mbappe sees red](https://news.cgtn.com/news/2025-04-14/Ten-man-Real-Madrid-overcome-lowly-Alaves-1-0-after-Mbappe-sees-red-1CyKE61SLaU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-World, [Carlos Alcaraz comes from behind to claim maiden title at Monte-Carlo](https://news.cgtn.com/news/2025-04-14/Carlos-Alcaraz-comes-from-behind-to-claim-maiden-title-at-Monte-Carlo-1CyK3cDDRgk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-World, [Lights, Lens and Legacy: Swiss cinema shines at the 15th BJIFF](https://news.cgtn.com/news/2025-04-14/Lights-Lens-and-Legacy-Swiss-cinema-shines-at-the-15th-BJIFF-1CyVLjOIba8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-World, [Xi says looking forward to in-depth exchanges with Vietnamese leaders](https://news.cgtn.com/news/2025-04-14/Xi-says-looking-forward-to-in-depth-exchanges-with-Vietnamese-leaders-1CyToXZf7nq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-China, [Xi says looking forward to in-depth exchanges with Vietnamese leaders](https://news.cgtn.com/news/2025-04-14/Xi-says-looking-forward-to-in-depth-exchanges-with-Vietnamese-leaders-1CyToXZf7nq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-World, [Rory's time! McIlroy wins Masters to complete career Grand Slam](https://news.cgtn.com/news/2025-04-14/Rory-s-time-McIlroy-wins-Masters-to-complete-career-Grand-Slam-1CyCKdtgf3q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-World, [Guo Muye of China adds another gold at Artistic Swimming World Cup](https://news.cgtn.com/news/2025-04-14/Guo-Muye-of-China-adds-another-gold-at-Artistic-Swimming-World-Cup-1CyJqtt5MPu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-World, [Chen Yufei wins maiden Badminton Asia Championships title in Ningbo](https://news.cgtn.com/news/2025-04-14/Chen-Yufei-wins-maiden-Badminton-Asia-Championships-title-in-Ningbo-1CyGG3dinWU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-China, [Chen Yufei wins maiden Badminton Asia Championships title in Ningbo](https://news.cgtn.com/news/2025-04-14/Chen-Yufei-wins-maiden-Badminton-Asia-Championships-title-in-Ningbo-1CyGG3dinWU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-World, [To Lam: Xi's visit will contribute to new era of Vietnam-China ties](https://news.cgtn.com/news/2025-04-14/To-Lam-Xi-s-visit-will-contribute-to-new-era-of-Vietnam-China-ties-1CyQJSoqEPm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-China, [To Lam: Xi's visit will contribute to new era of Vietnam-China ties](https://news.cgtn.com/news/2025-04-14/To-Lam-Xi-s-visit-will-contribute-to-new-era-of-Vietnam-China-ties-1CyQJSoqEPm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-China, [Liaoning begins CBA title defense by edging past Xinjiang in overtime](https://news.cgtn.com/news/2025-04-14/Liaoning-begins-CBA-title-defense-by-edging-past-Xinjiang-in-overtime-1CyBLTg1fe8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-China, [Full text of President Xi's signed article in Vietnamese newspaper](https://news.cgtn.com/news/2025-04-14/Full-text-of-President-Xi-s-signed-article-in-Vietnamese-newspaper-1CyOgPi5TPO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-World, [Trump's abuse of tariffs unsettles 'staunch allies, die-hard fans'](https://news.cgtn.com/news/2025-04-14/Trump-s-abuse-of-tariffs-unsettles-staunch-allies-die-hard-fans--1CyHfV5mx8c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
 2025-04-14, @不死鸟, [布丁扫描](https://iui.su/3617/)
+
+2025-04-14, @CGTV-World, [President Xi Jinping arrives in Vietnam's Hanoi for state visit](https://news.cgtn.com/news/2025-04-14/Xi-Jinping-arrives-in-Vietnam-s-Hanoi-for-state-visit-1CyNfJoENj2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-China, [President Xi Jinping arrives in Vietnam's Hanoi for state visit](https://news.cgtn.com/news/2025-04-14/Xi-Jinping-arrives-in-Vietnam-s-Hanoi-for-state-visit-1CyNfJoENj2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-China, [Step into CICPE: A look inside the venue](https://news.cgtn.com/news/2025-04-14/Step-into-CICPE-A-look-inside-the-venue-1CyM6Ifx6VO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-China, [China expands instant tax refund for foreign tourists](https://news.cgtn.com/news/2025-04-14/China-expands-instant-tax-refund-for-foreign-tourists-1CyMhIxxPqw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-China, [Xi Jinping to arrive in Vietnam's Hanoi for state visit](https://news.cgtn.com/news/2025-04-14/Xi-Jinping-to-arrive-in-Vietnam-s-Hanoi-for-state-visit-1CyODKJzkhq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-14, @蠎周刊, [上周蠎快讯 2025/15](https://weekly.pychina.org/pyrecap/pyrw-2515.html)
 
+2025-04-14, @CGTV-China, [Shaolin Kung Fu: Fists fly, blades dance](https://news.cgtn.com/news/2025-04-14/Shaolin-Kung-Fu-Fists-fly-blades-dance-1C4RfO6lWi4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+
+2025-04-14, @CGTV-World, [Over 250 ex-Mossad members urge end to Gaza war, return of hostages](https://news.cgtn.com/news/2025-04-14/Over-250-ex-Mossad-members-urge-end-to-Gaza-war-return-of-hostages-1CyDyaGNDQQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-14, @CGTV-Nature, [Sci-tech helps protect south China biological treasure trove](https://news.cgtn.com/news/2025-04-14/Sci-tech-helps-protect-south-China-biological-treasure-trove-1CyFdGQUwLu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-14, @CGTV-World, [Xi: China, Vietnam to deepen building of community with shared future](https://news.cgtn.com/news/2025-04-14/Xi-China-Vietnam-to-deepen-building-of-community-with-shared-future-1CyumgCWbVS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
 2025-04-14, @潮流周刊, [第218期 - 勾狗可爱](https://weekly.tw93.fun/posts/218-%E5%8B%BE%E7%8B%97%E5%8F%AF%E7%88%B1/)
 
-2025-04-13, @CGTV-World, [Farmer who voted for Trump begs him to end trade war](https://news.cgtn.com/news/2025-04-13/Farmer-who-voted-for-Trump-begs-him-to-end-trade-war-1Cxudaqy6OY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2025-04-13, @CGTV-World, [Trump admin threatens tariffs for buyers of Venezuelan oil](https://newsus.cgtn.com/news/2025-04-14/Trump-administration-slaps-tariffs-on-Venezuelan-oil-1CyiV5oG15S/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-13, @CGTV-World, [China, Indonesia mark 75 years with stronger trade, cultural ties](https://news.cgtn.com/news/2025-04-13/China-Indonesia-mark-75-years-with-stronger-trade-cultural-ties-1Cxo5nZAM5W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2025-04-13, @CGTV-World, [Ecuadoreans head to the polls in tight election](https://newsus.cgtn.com/news/2025-04-14/Ecuadoreans-head-to-the-polls-in-tight-election-1Cy9qH5rKec/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-13, @CGTV-China, [China, Indonesia mark 75 years with stronger trade, cultural ties](https://news.cgtn.com/news/2025-04-13/China-Indonesia-mark-75-years-with-stronger-trade-cultural-ties-1Cxo5nZAM5W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+2025-04-13, @CGTV-World, [Survivor recounts horror during roof collapse at DR nightclub](https://newsus.cgtn.com/news/2025-04-14/Survivor-recounts-horror-during-roof-collapse-at-DR-nightclub-1Cy29ocWPVS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-13, @CGTV-World, [China's Hainan Expo 2025 shows why opening-up trumps protectionism](https://news.cgtn.com/news/2025-04-13/China-s-Hainan-Expo-2025-shows-why-opening-up-trumps-protectionism-1CxAEV5LcGI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2025-04-13, @CGTV-World, [U.S. dollar's confidence crisis deepens as capital shifts east](https://news.cgtn.com/news/2025-04-13/U-S-dollar-s-confidence-crisis-deepens-as-capital-shifts-east-1CxS7ogD4e4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-13, @CGTV-China, [China's Hainan Expo 2025 shows why opening-up trumps protectionism](https://news.cgtn.com/news/2025-04-13/China-s-Hainan-Expo-2025-shows-why-opening-up-trumps-protectionism-1CxAEV5LcGI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-13, @CGTV-China, [The Chinese woman who fell in love with flamenco](https://newseu.cgtn.com/news/2025-04-13/The-Chinese-woman-who-fell-in-love-with-flamenco-1CxE5ToVVdu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+2025-04-13, @CGTV-World, [CMG launches broadcasting of premium TV and film programs in Cambodia](https://news.cgtn.com/news/2025-04-13/CMG-launches-broadcasting-of-premium-TV-and-film-programs-in-Cambodia-1CxNkFN92Ao/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
 2025-04-13, @Zeruns 's Blog, [Flarum论坛网站搭建教程 | 零基础搭建论坛社区网站 | Flarum主题和插件安装教程](https://blog.zeruns.com/archives/866.html)
 
-2025-04-13, @CGTV-World, [China pavilion opens at Osaka Expo 2025](https://news.cgtn.com/news/2025-04-13/China-pavilion-opens-at-Osaka-Expo-2025-1CxyOXasio8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-13, @CGTV-China, [China pavilion opens at Osaka Expo 2025](https://news.cgtn.com/news/2025-04-13/China-pavilion-opens-at-Osaka-Expo-2025-1CxyOXasio8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-13, @CGTV-China, [A tour through nature and history at Beijing's Mentougou](https://news.cgtn.com/news/2025-04-13/A-tour-through-nature-and-history-at-Beijing-s-Mentougou-1Cxvt32Gb7O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-13, @CGTV-China, [15th BJIFF showcases diversity and shared prosperity of world culture](https://news.cgtn.com/news/2025-04-13/15th-BIFF-showcases-diversity-and-shared-prosperity-of-world-culture-1CxsajNqmqY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-13, @CGTV-China, [Echoes along the Grand Canal](https://news.cgtn.com/news/2025-04-13/Echoes-along-the-Grand-Canal-1CxizgR6WpG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-13, @CGTV-China, [China Weekly News Quiz: April 7-13, 2025](https://news.cgtn.com/news/2025-04-13/China-Weekly-News-Quiz-April-7-13-2025-1Cx9GHSQuK4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+2025-04-13, @CGTV-China, [Vietnam: A popular destination for Chinese tourists](https://news.cgtn.com/news/2025-04-13/Vietnam-A-popular-destination-for-Chinese-tourists-1CxybZgKEsE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
 2025-04-13, @不死鸟, [免费的磁力资源下载神器](https://iui.su/2014/)
 
-2025-04-13, @CGTV-China, [Xi Jinping's quotes on China's economy](https://news.cgtn.com/news/2025-04-13/Xi-Jinping-s-quotes-on-China-s-economy-1CxdvAl65kQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-13, @CGTV-China, [Expert: Chinese exporters' shift to domestic market a proactive move](https://news.cgtn.com/news/2025-04-13/Expert-Chinese-exporters-shift-to-domestic-market-a-proactive-move--1Cx5ZC3vd2o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-13, @CGTV-China, [Foreign institutions reinforce confidence in Chinese market](https://news.cgtn.com/news/2025-04-13/Foreign-institutions-reinforce-confidence-in-Chinese-market-1CxaryElHKo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-13, @CGTV-World, [Magnitude-5.8 quake hits Afghanistan-Tajikistan border region: CENC](https://news.cgtn.com/news/2025-04-13/news-1CxbE8gp4SA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-13, @CGTV-World, [Chinese, Indonesian presidents mark 75 years of diplomatic ties](https://news.cgtn.com/news/2025-04-13/Chinese-Indonesian-presidents-mark-75-years-of-diplomatic-ties-1Cx6dRz7Xjy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-13, @CGTV-China, [Chinese, Indonesian presidents mark 75 years of diplomatic ties](https://news.cgtn.com/news/2025-04-13/Chinese-Indonesian-presidents-mark-75-years-of-diplomatic-ties-1Cx6dRz7Xjy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-04-13, @CGTV-World, [Hamas engages in ceasefire talks as Israel expands Gaza strikes](https://news.cgtn.com/news/2025-04-13/Hamas-engages-in-ceasefire-talks-as-Israel-expands-Gaza-strikes-1Cx01FS8la0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-13, @CGTV-World, [Iran says talks with U.S. 'constructive,' more set for April 19](https://news.cgtn.com/news/2025-04-13/Iran-says-talks-with-U-S-constructive-more-set-for-April-19-1CwVKv0my5i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-13, @CGTV-World, [China and Cambodia deepen bilateral ties across multiple fronts](https://news.cgtn.com/news/2025-04-13/China-and-Cambodia-deepen-bilateral-ties-across-multiple-fronts-1CoPczYRR96/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-12, @CGTV-World, [World Expo opens in Osaka, Japan](https://news.cgtn.com/news/2025-04-13/news-1CwRDcO3qxi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-12, @CGTV-World, [Venezuelan artist exhibits immigrant stories in New Jersey](https://newsus.cgtn.com/news/2025-04-13/Venezuelan-artist-exhibits-immigrant-stories-in-New-Jersey-1CwD0fXBU0U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
 2025-04-12, @朽丘博, [关于QiuDunCDN近期状态](https://koxiuqiu.cn/10p2504131/)
 
-2025-04-12, @CGTV-Nature, [Severe winds wreak havoc across N China, disrupting travel and tourism](https://news.cgtn.com/news/2025-04-12/Severe-winds-wreak-havoc-across-N-China-disrupting-travel-and-tourism-1CweH3tus9y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-04-12, @CGTV-World, [China's silver screen pivot: Why U.S. tariff policy is to blame](https://news.cgtn.com/news/2025-04-12/China-s-silver-screen-pivot-Why-U-S-tariff-policy-is-to-blame-1Cw1kkpIbni/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-12, @CGTV-World, [China, Malaysia strengthen cultural ties through TV program exchange](https://news.cgtn.com/news/2025-04-12/China-Malaysia-strengthen-cultural-ties-through-TV-program-exchange-1CwcbFLWUQ8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2025-04-12, @CGTV-World, [Why Trump's trade war can't lure Apple to make iPhones in America](https://news.cgtn.com/news/2025-04-12/Why-Trump-s-trade-war-can-t-lure-Apple-to-make-iPhones-in-America-1Cw4k7fCw2A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-12, @CGTV-World, [US exempts smartphones, computers from "reciprocal tariffs"](https://news.cgtn.com/news/2025-04-12/news-1Cw8YqoMYhO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2025-04-12, @CGTV-World, [Beijing welcomes the world at 2025 Masters Cup Ballroom Dance Open](https://news.cgtn.com/news/2025-04-12/Beijing-welcomes-the-world-at-2025-Masters-Cup-Ballroom-Dance-Open-1CvSICWDnlC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-12, @CGTV-China, [China-Laos Railway carries 487,000 cross-border passengers in 2 years](https://news.cgtn.com/news/2025-04-12/China-Laos-Railway-carries-487-000-cross-border-passengers-in-2-years-1CvKbvKPkZ2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
+2025-04-12, @CGTV-World, [Japan holds opening ceremony for Osaka Expo ahead of full public start](https://news.cgtn.com/news/2025-04-12/Opening-ceremony-of-World-Expo-2025-held-in-Japan-s-Osaka-Saturday-1CvSGas48SI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-12, @CGTV-World, [Lao Airlines completes maiden commercial flight of China's C909](https://news.cgtn.com/news/2025-04-12/Lao-Airlines-operates-maiden-flight-of-China-s-homegrown-C909-1CvwU9N2BMI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2025-04-12, @CGTV-World, [Daggers and magic: UEFA Champions League quarterfinal breakdown](https://news.cgtn.com/news/2025-04-12/Daggers-and-magic-UEFA-Champions-League-quarterfinal-breakdown-1CvBIbvuCze/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-04-11, @CGTV-World, [Ukraine is ready to buy additional air defence systems, Zelenskyy says](https://newsaf.cgtn.com/news/2025-04-12/Ukraine-is-ready-to-buy-additional-air-defence-systems-Zelenskyy-says-1CuG8JD8xVu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+2025-04-12, @CGTV-World, [Polls open in Gabon's presidential election](https://news.cgtn.com/news/2025-04-12/news-1CvGq1FTwmQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
+
+2025-04-12, @CGTV-Nature, [New study reveals accelerated warming trend on Qinghai-Xizang Plateau](https://news.cgtn.com/news/2025-04-12/New-study-reveals-accelerated-warming-trend-on-Qinghai-Xizang-Plateau-1CvD0LlD5XG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-12, @CGTV-Nature, [Two Chinese parks added to list of UNESCO Global Geoparks](https://news.cgtn.com/news/2025-04-12/Two-Chinese-parks-added-to-list-of-UNESCO-Global-Geoparks-1CvjAVeF0cw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-12, @CGTV-Nature, [China issues multiple alerts for extreme weather](https://news.cgtn.com/news/2025-04-12/China-issues-multiple-alerts-for-extreme-weather-1CvhCrJ0REc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-04-11, @朽丘博, [关于HEXO的构建和配置](https://koxiuqiu.cn/10p2504121/)
-
-2025-04-11, @CGTV-World, [Premier Li: U.S. tariffs undermine international trade, global economy](https://news.cgtn.com/news/2025-04-11/Premier-Li-U-S-tariffs-undermine-international-trade-global-economy-1CuwnYweFDq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-11, @CGTV-World, [U.S. cannot act recklessly, says Chinese Foreign Minister Wang Yi](https://news.cgtn.com/news/2025-04-11/U-S-cannot-act-recklessly-says-Chinese-Foreign-Minister-Wang-Yi-1CuyppuIpy0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-11, @CGTV-World, [Xi's Southeast Asia trip to inject new impetus into regional growth](https://news.cgtn.com/news/2025-04-11/President-Xi-to-visit-Southeast-Asia-in-first-foreign-trip-this-year-1Cury5TVLpK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-11, @CGTV-World, [Xi's first overseas visits this year are of significance: spokesperson](https://news.cgtn.com/news/2025-04-11/Xi-s-first-overseas-visits-this-year-are-of-significance-spokesperson-1CusQCFjNlK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-11, @CGTV-World, [Putin meets with U.S. special envoy for Ukraine talks](https://news.cgtn.com/news/2025-04-11/news-1CuzzDK9ZJK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-11, @CGTV-World, [Fifth China International Consumer Products Expo to kick off in Hainan](https://news.cgtn.com/news/2025-04-11/Fifth-China-International-Consumer-Products-Expo-to-kick-off-in-Hainan-1Cu4xuB7g4M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-04-11, @CGTV-Nature, [Plant leaves can absorb, accumulate airborne microplastics](https://news.cgtn.com/news/2025-04-11/Plant-leaves-can-absorb-accumulate-airborne-microplastics-1CtEyuaY6qs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-04-11, @CGTV-Nature, [China braces for rare strong winds](https://news.cgtn.com/news/2025-04-11/China-braces-for-rare-strong-winds-1CtCmdqcEz6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-04-11, @CGTV-Nature, [Assignment Asia: Golden Threads](https://news.cgtn.com/news/2025-04-11/Assignment-Asia-Golden-Threads-1CsSWU8cTao/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-04-11, @阮一峰的网络日志, [科技爱好者周刊（第 344 期）：制造业正在"零工化"](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html)
 
@@ -530,16 +553,22 @@
 
 2025-04-10, @不死鸟, [iOS免费影视app](https://iui.su/3090/)
 
-2025-04-09, @CGTV-Nature, [Trump signs executive orders to revive U.S. coal industry](https://news.cgtn.com/news/2025-04-09/Trump-signs-executive-orders-to-revive-U-S-coal-industry-1CqSXCH4XLy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-04-09, @CGTV-Nature, [China's Antarctic station goes green with scaled new energy system](https://news.cgtn.com/news/2025-04-09/China-s-Antarctic-station-goes-green-with-scaled-new-energy-system-1CqOzPM2bLy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
 2025-04-09, @This Week in Rust, [This Week in Rust 594](https://this-week-in-rust.org/blog/2025/04/09/this-week-in-rust-594/)
 
 2025-04-08, @Apple 新闻, [WHAT THE CLASH? joins Apple Arcade in May, among five new games
 ](https://www.apple.com/newsroom/2025/04/what-the-clash-joins-apple-arcade-in-may-among-five-new-games/)
 
+2025-04-08, @CGTV-Nature, [Heatwave hits Indian capital, other parts](https://news.cgtn.com/news/2025-04-08/Heatwave-hits-Indian-capital-other-parts-1CpovjFSx0Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-08, @CGTV-Nature, [New energy storage to push batteries for electric aviation, grid power](https://news.cgtn.com/news/2025-04-08/New-energy-storage-to-push-batteries-for-electric-aviation-grid-power-1CpqiMweQpi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-08, @CGTV-Nature, [Arctic sea ice hits record low for March](https://news.cgtn.com/news/2025-04-08/Arctic-sea-ice-hits-record-low-for-March-1Cpnp9eCw0M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2025-04-08, @Zeruns 's Blog, [莱卡云 加拿大500G高防VPS 性能测评，2核4G 200M 仅需77元/月，大带宽不限流量，IPv6&amp;v4双栈网络](https://blog.zeruns.com/archives/865.html)
+
+2025-04-08, @CGTV-Nature, [Ecological protection, innovation drivers behind China's peony capital](https://news.cgtn.com/news/2025-04-08/Ecological-protection-innovation-drivers-behind-China-s-peony-capital-1Cpem9LdJzG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-08, @CGTV-Nature, [Scientists engineer wolves to resemble dire wolves](https://news.cgtn.com/news/2025-04-08/Scientists-engineer-wolves-to-resemble-dire-wolves-1CoHU2NXKfK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-04-07, @蠎周刊, [上周蠎快讯 2025/14](https://weekly.pychina.org/pyrecap/pyrw-2514.html)
 
@@ -547,27 +576,27 @@
 
 2025-04-04, @书格, [克拉普的中国摄影集](https://www.shuge.org/view/clapp_photographs_of_china/)
 
+2025-04-04, @CGTV-Nature, [Life takes flight: Sand martins' breeding season safeguarded](https://news.cgtn.com/news/2025-04-04/Life-takes-flight-Sand-martins-breeding-season-safeguarded-1CixA3GTR1C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-04, @CGTV-Nature, [Conservation success: spotted seals flourish in China's wetland](https://news.cgtn.com/news/2025-04-04/Conservation-success-spotted-seals-flourish-in-China-s-wetland-1CixQIVmw7K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2025-04-04, @Zeruns 's Blog, [雨云 广州150G高防VPS 性能测评，4核8G 200兆 仅需120元/月，不限流量大带宽云服务器](https://blog.zeruns.com/archives/864.html)
+
+2025-04-04, @CGTV-Nature, [Migratory birds flock to NE China's wetland reserve](https://news.cgtn.com/news/2025-04-04/Migratory-birds-flock-to-NE-China-s-wetland-reserve-1ChWa0tlE40/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-04, @CGTV-Nature, [China's Tomb-sweeping Day blends tech, eco-tributes](https://news.cgtn.com/news/2025-04-04/China-s-Tomb-sweeping-Day-blends-tech-eco-tributes-1CigWgfKPa8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-04-04, @CGTV-Nature, [Chinese scientists reveal how tomatoes beat heat, stabilize yields](https://news.cgtn.com/news/2025-04-04/Chinese-scientists-reveal-how-tomatoes-beat-heat-stabilize-yields-1ChUy323ZbW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-04-03, @Awesome Rust Weekly, [💻 Issue 458 - Xee: A Modern XPath and XSLT Engine in Rust](https://rust.libhunt.com/newsletter/458)
 
 2025-04-03, @不死鸟, [网页在线工具汇总](https://iui.su/1492/)
 
-2025-04-03, @CGTV-Nature, [Tornadoes, heavy rains rip across central, southern U.S.](https://news.cgtn.com/news/2025-04-03/Tornadoes-heavy-rains-rip-across-central-southern-U-S--1CgQQYyWTiU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-04-03, @CGTV-Nature, [Why Trump's tariff tantrums will fail: Lessons from primate politics](https://news.cgtn.com/news/2025-04-03/Why-Trump-s-tariff-tantrums-will-fail-Lessons-from-primate-politics-1CgNTsuF52o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-04-03, @CGTV-Nature, [Foreign Ministry: China to keep boosting development with green energy](https://news.cgtn.com/news/2025-04-03/Foreign-Ministry-China-to-keep-boosting-development-with-green-energy-1Cgo32wAKOc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-04-03, @CGTV-Nature, [China's top political advisor urges oversight on Yangtze conservation](https://news.cgtn.com/news/2025-04-03/China-s-top-political-advisor-urges-oversight-on-Yangtze-conservation-1Cgl54n9sCQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-04-02, @CGTV-Nature, [Rare sighting: Asian openbill storks emerge in Guizhou](https://news.cgtn.com/news/2025-04-02/Rare-sighting-Asian-openbill-storks-emerge-in-Guizhou-1CeQmNl3IFa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-04-02, @This Week in Rust, [This Week in Rust 593](https://this-week-in-rust.org/blog/2025/04/02/this-week-in-rust-593/)
 
-2025-04-01, @CGTV-Nature, [Tiaozini Wetlands: The symbiotic code of a migratory bird paradise](https://news.cgtn.com/news/2025-04-01/Tiaozini-Wetlands-The-symbiotic-code-of-a-migratory-bird-paradise-1CdlQBiIgpi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-04-01, @CGTV-Nature, [Robotic fish revolutionize aquaculture with AI precision](https://news.cgtn.com/news/2025-04-01/Robotic-fish-revolutionize-aquaculture-with-AI-precision-1Cdd05AZgs0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-04-01, @CGTV-Nature, [Protecting the balance under their wings](https://news.cgtn.com/news/2025-04-01/Protecting-the-balance-under-their-wings-1CcWbXlfHqg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-04-01, @CGTV-Nature, [Heron flock in Chengdu draws attention with unique feeding behavior](https://news.cgtn.com/news/2025-04-01/Heron-flock-in-Chengdu-draws-attention-with-unique-feeding-behavior-1CdY145XYS4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-31, @Apple 新闻, [Apple Intelligence features expand to new languages and regions today
 ](https://www.apple.com/newsroom/2025/03/apple-intelligence-features-expand-to-new-languages-and-regions-today/)
@@ -579,25 +608,21 @@
 
 2025-03-31, @蠎周刊, [上周蠎快讯 2025/13](https://weekly.pychina.org/pyrecap/pyrw-2513.html)
 
+2025-03-31, @CGTV-Nature, [Rain, ice cut power across Great Lakes as Tennessee braces for storms](https://news.cgtn.com/news/2025-03-31/Rain-ice-cut-power-across-Great-Lakes-as-Tennessee-braces-for-storms-1CbtmjnBnNu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2025-03-31, @潮流周刊, [第216期 - 吃个炒饭](https://weekly.tw93.fun/posts/216-%E5%90%83%E4%B8%AA%E7%82%92%E9%A5%AD/)
 
-2025-03-30, @CGTV-Nature, [Regional aid mobilized following devastating quake in Myanmar](https://news.cgtn.com/news/2025-03-30/Regional-aid-mobilized-following-devastating-quake-in-Myanmar-1CagJezgpfa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-30, @CGTV-Nature, [Another Chinese rescue team leaves for earthquake-hit Myanmar](https://news.cgtn.com/news/2025-03-30/Another-Chinese-rescue-team-leaves-for-earthquake-hit-Myanmar-1CaCBba7iE0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-30, @书伴, [亚马逊为两款 2024 新 Kindle 设备新增双击机身翻页功能](https://bookfere.com/post/1151.html)
 
-2025-03-30, @CGTV-Nature, [Experts explain the cause of Myanmar earthquake](https://news.cgtn.com/news/2025-03-30/Experts-explain-the-cause-of-Myanmar-earthquake-1C9Un7vvvc4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-30, @CGTV-Nature, [What do we know about the Myanmar earthquake so far?](https://news.cgtn.com/news/2025-03-30/What-do-we-know-about-the-Myanmar-earthquake-so-far--1C9Nr8fDOqQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-29, @CGTV-Nature, [Aftershocks rattle Myanmar following magnitude-7.7 earthquake](https://news.cgtn.com/news/2025-03-29/Aftershocks-rattle-Myanmar-following-magnitude-7-7-earthquake-1C8igfMU9Ik/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-29, @HiFeng'Blog, [将 HiDNS 免费域名托管到 gcore.com](https://www.hicairo.com/post/82.html)
 
-2025-03-28, @CGTV-Nature, [Xizang always prioritizes eco-environmental conservation: White paper](https://news.cgtn.com/news/2025-03-28/Xizang-always-prioritizes-eco-environmental-conservation-White-paper-1C6X855f4Gc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-29, @CGTV-Nature, [10 killed and over 100 still missing in Bangkok after deadly quake](https://news.cgtn.com/news/2025-03-29/news-1C83bBeAAxi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-28, @张洪Heo, [GPT4o新版图片生成上手：丸辣！你是要毁了设计圈吗！](https://blog.zhheo.com/p/1arrbgly.html)
-
-2025-03-28, @CGTV-Nature, [Shanghai takes action against 'walking smoke'](https://news.cgtn.com/news/2025-03-28/Shanghai-takes-action-against-walking-smoke--1C6O9o7tQ5O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-28, @CGTV-Nature, [China, Africa team up for a greener future](https://news.cgtn.com/news/2025-03-28/China-Africa-team-up-for-a-greener-future-1C6vMlpU3v2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-28, @阮一峰的网络日志, [科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html)
 
@@ -607,16 +632,16 @@
 
 2025-03-27, @书格, [新刊大字校正释文三注故事](https://www.shuge.org/view/shi_wen_san_zhu/)
 
+2025-03-27, @CGTV-Nature, [Neptune's auroras captured in great detail by NASA's Webb telescope](https://news.cgtn.com/news/2025-03-27/Neptune-s-auroras-captured-in-great-detail-by-NASA-s-Webb-telescope-1C4Rx2oyLug/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-27, @CGTV-Nature, [More evacuations as wildfires spread in U.S. Carolinas](https://news.cgtn.com/news/2025-03-27/More-evacuations-as-wildfires-spread-in-U-S-Carolinas-1C4M5z3UPtu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-27, @CGTV-Nature, [China fast-tracks modern ecological, environmental monitoring system](https://news.cgtn.com/news/2025-03-27/China-fast-tracks-modern-ecological-environmental-monitoring-system-1C4HtZES9Og/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2025-03-27, @Zeruns 's Blog, [Ultra7-265K 和 技嘉Z890M-AORUS-ELITE-WIFI7主板 简单开箱测评](https://blog.zeruns.com/archives/863.html)
 
 2025-03-26, @Apple 新闻, [How the mind-splitting world of Severance comes together on Mac
 ](https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/)
-
-2025-03-26, @CGTV-Nature, [China harnesses AI to revolutionize smart breeding, crop development](https://news.cgtn.com/news/2025-03-26/China-harnesses-AI-to-revolutionize-smart-breeding-crop-development-1C3vHGing6A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-26, @CGTV-Nature, [Shanghai records earliest annual 30-degree-Celsius day since 1933](https://news.cgtn.com/news/2025-03-26/Shanghai-records-earliest-annual-30-degree-Celsius-day-since-1933-1C3uKsYguu4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-26, @CGTV-Nature, [Early warning system alerts people before quake in N China](https://news.cgtn.com/news/2025-03-26/Early-warning-system-alerts-people-before-quake-in-N-China-1C3dliyIbsc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-26, @This Week in Rust, [This Week in Rust 592](https://this-week-in-rust.org/blog/2025/03/26/this-week-in-rust-592/)
 
@@ -627,10 +652,10 @@
 
 2025-03-25, @张洪Heo, [秒哒上手：免服务器纯自然语言编写支持前后端的网页项目，自然语言开发成了吗？](https://blog.zhheo.com/p/mysdpwxd.html)
 
+2025-03-25, @CGTV-Nature, [NASA's Curiosity rover finds largest organic molecules on Mars](https://news.cgtn.com/news/2025-03-25/NASA-s-Curiosity-rover-finds-largest-organic-molecules-on-Mars-1C1nCJjQ5Ow/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2025-03-24, @Apple 新闻, [Lossless audio and ultra-low latency audio come to AirPods Max
 ](https://www.apple.com/newsroom/2025/03/lossless-audio-and-ultra-low-latency-audio-come-to-airpods-max/)
-
-2025-03-24, @CGTV-Nature, [China Water Week: Strengthening water security with development](https://news.cgtn.com/news/2025-03-24/China-Water-Week-Strengthening-water-security-with-development-1BZYHa7Xz5C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-24, @蠎周刊, [上周蠎快讯 2025/12](https://weekly.pychina.org/pyrecap/pyrw-2512.html)
 
@@ -638,43 +663,49 @@
 
 2025-03-24, @张洪Heo, [iStoreOS统一文件共享无法连接smb怎么办，windows无法挂在smb提示拒绝访问](https://blog.zhheo.com/p/h4p2xflo.html)
 
-2025-03-24, @CGTV-Nature, [Boao forum's venue island a pioneer in low-carbon development](https://news.cgtn.com/news/2025-03-24/Boao-forum-s-venue-island-a-pioneer-in-low-carbon-development-1BZKw6hmTTO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
 2025-03-24, @潮流周刊, [第215期 - 浙大红屋](https://weekly.tw93.fun/posts/215-%E6%B5%99%E5%A4%A7%E7%BA%A2%E5%B1%8B/)
 
 2025-03-23, @书格, [四气含和图册](https://www.shuge.org/view/si_qi_han_he/)
 
-2025-03-22, @CGTV-Nature, [World Water Day: The urgency of glacier preservation for our future](https://news.cgtn.com/news/2025-03-22/World-Water-Day-The-urgency-of-Glacier-Preservation-for-our-future-1BWM30cbM8E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-23, @CGTV-Nature, [World Meteorological Day: China pledges to close the early warning gap](https://news.cgtn.com/news/2025-03-23/World-Meteorological-Day-China-pledges-to-close-the-early-warning-gap-1BYR29msTfy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2025-03-21, @CGTV-Nature, [China's forest food production surpasses 200 million tonnes](https://news.cgtn.com/news/2025-03-22/China-s-forest-food-production-surpasses-200-million-tonnes-1BVJX2qWx2M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-22, @CGTV-Nature, [Protecting natural resources on World Water Day](https://newsus.cgtn.com/news/2025-03-23/Protecting-natural-resources-on-World-Water-Day-1BXGZb80TRK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-21, @朽丘博, [25年3月小结](https://koxiuqiu.cn/8p2503221/)
 
+2025-03-21, @CGTV-Nature, [Earth's 'cold storage': Glacier conservation and global action](https://news.cgtn.com/news/2025-03-21/Earth-s-cold-storage-Glacier-conservation-and-global-action-1BVAd2WG7II/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-21, @CGTV-Nature, [Forests and foods](https://news.cgtn.com/news/2025-03-21/Forests-and-foods-1BVwRv11l6g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-21, @CGTV-Nature, [Forests: Guardians of food and water](https://news.cgtn.com/news/2025-03-21/Forests-Guardians-of-food-and-water-1BVlUh88O3u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2025-03-21, @张洪Heo, [HomeAssistant接入和风天气教程，免费的天气集成](https://blog.zhheo.com/p/0pwu8n22.html)
+
+2025-03-21, @CGTV-Nature, [Hanfu enthusiasts bring elegance to golden rapeseed flower fields](https://news.cgtn.com/news/2025-03-21/Hanfu-enthusiasts-bring-elegance-to-golden-rapeseed-flower-fields-1BVaGcfA6NW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-21, @CGTV-Nature, [China's green development: A model for global sustainability](https://news.cgtn.com/news/2025-03-21/China-s-green-development-A-model-for-global-sustainability-1BV6QEKSebK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-21, @张洪Heo, [米家空调伴侣接入HomeAssistant不显示当前温度的解决方法，解决HomeKit空调始终21度问题](https://blog.zhheo.com/p/mdyoa2q5.html)
 
 2025-03-21, @阮一峰的网络日志, [科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html)
 
+2025-03-20, @CGTV-Nature, [Mexico bans planting GMO corn seeds to protect native species](https://newsus.cgtn.com/news/2025-03-21/Mexico-bans-planting-GMO-corn-seeds-to-protect-native-species-1BUCyiiubja/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
 2025-03-20, @Awesome Rust Weekly, [💻 Issue 456 - Asahi Lina Pausing Work On Apple GPU Linux Driver Development](https://rust.libhunt.com/newsletter/456)
-
-2025-03-20, @CGTV-Nature, [Researchers unveil camouflage in alpine plant](https://news.cgtn.com/news/2025-03-20/Researchers-unveil-camouflage-in-alpine-plant-1BTMcS0D280/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-20, @CGTV-Nature, [E China city hosts annual International Cherry Blossom Festival](https://news.cgtn.com/news/2025-03-20/E-China-city-hosts-annual-International-Cherry-Blossom-Festival-1BTB9waO6l2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-19, @This Week in Rust, [This Week in Rust 591](https://this-week-in-rust.org/blog/2025/03/19/this-week-in-rust-591/)
 
-2025-03-18, @CGTV-Nature, [Bougainvillea bursts from rooftops in Shenzhen Hakka village](https://news.cgtn.com/news/2025-03-18/Bougainvillea-bursts-from-rooftops-in-Shenzhen-Hakka-village-1BQ4J0euuT6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-18, @CGTV-Nature, [What to know about the deadly storm system that socked U.S.](https://news.cgtn.com/news/2025-03-18/What-to-know-about-the-deadly-storm-system-that-socked-U-S--1BPOhqoJDaw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-17, @CGTV-Nature, [Chinese scientists develop AI tool to predict liver cancer recurrence](https://news.cgtn.com/news/2025-03-17/Chinese-scientists-develop-AI-tool-to-predict-liver-cancer-recurrence-1BOlQxZj21y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-17, @蠎周刊, [上周蠎快讯 2025/11](https://weekly.pychina.org/pyrecap/pyrw-2511.html)
 
-2025-03-17, @CGTV-Nature, [At least 37 dead as tornadoes, wildfires and dust storms hit U.S.](https://news.cgtn.com/news/2025-03-17/At-least-37-dead-as-tornadoes-wildfires-and-dust-storms-hit-U-S--1BOc0hY9Wfu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
 2025-03-17, @潮流周刊, [第214期 - 人生夕阳](https://weekly.tw93.fun/posts/214-%E4%BA%BA%E7%94%9F%E5%A4%95%E9%98%B3/)
 
-2025-03-15, @CGTV-Nature, [China enacts 1st regulation on ancient and famous tree protection](https://news.cgtn.com/news/2025-03-15/China-enacts-1st-regulation-on-ancient-and-famous-tree-protection-1BLbpCTAhXy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-16, @CGTV-Nature, [Midwest states in U.S. recover from deadly storms](https://newsus.cgtn.com/news/2025-03-17/-Midwest-states-in-U-S-recover-from-deadly-storms-1BNKtAfks6c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-15, @CGTV-Nature, [Intelligent machines boost China's 'green Great Wall' building efforts](https://news.cgtn.com/news/2025-03-15/Intelligent-machines-boost-China-s-green-Great-Wall-building-efforts-1BLrEKoNpWo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-15, @CGTV-Nature, [Dark fur helped early mammals evade predators: study](https://news.cgtn.com/news/2025-03-15/Dark-fur-helped-early-mammals-evade-predators-study-1BKNjn7EGRO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-14, @书伴, [OpenStax：免费的高质量教材](https://bookfere.com/post/1149.html)
 
@@ -682,19 +713,13 @@
 
 2025-03-13, @Awesome Rust Weekly, [💻 Issue 455 - Rust is the New C](https://rust.libhunt.com/newsletter/455)
 
-2025-03-13, @CGTV-Nature, [Study reveals the microbial adaptation mechanism of plateau animals](https://news.cgtn.com/news/2025-03-13/Study-reveals-the-microbial-adaptation-mechanism-of-plateau-animals-1BIgpgJitGw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
 2025-03-13, @书格, [新刻江湖历览杜骗新书](https://www.shuge.org/view/du_pian_xin_shu/)
 
-2025-03-13, @CGTV-Nature, [Chinese researchers find new fungal species on Qinghai-Xizang Plateau](https://news.cgtn.com/news/2025-03-13/Chinese-researchers-find-new-fungal-species-on-Qinghai-Xizang-Plateau-1BHudin5vy0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-13, @CGTV-Nature, [Endangered seabird guardians boost wildlife conservation in E China](https://news.cgtn.com/news/2025-03-13/Endangered-seabird-guardians-boost-wildlife-conservation-in-E-China-1BI4yBL4gW4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2025-03-12, @CGTV-Nature, [New Leptobrachella species found in central China](https://news.cgtn.com/news/2025-03-12/New-Leptobrachella-species-found-in-central-China-1BGvQBN0BDa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-13, @CGTV-Nature, [A great gray owl forages and swoops across a snowy plain in Hulunbuir](https://news.cgtn.com/news/2025-03-13/A-great-gray-owl-forages-and-swoops-across-a-snowy-plain-in-Hulunbuir-1BHQJy8mkAE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
-2025-03-12, @CGTV-Nature, [Tree-Planting Day cultivates hope for a greener future](https://news.cgtn.com/news/2025-03-12/Tree-Planting-Day-cultivates-hope-for-a-greener-future-1BGfkaNHwQM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-12, @CGTV-Nature, [China's forest coverage surpasses 25%, leading global green expansion](https://news.cgtn.com/news/2025-03-12/China-s-forest-coverage-surpasses-25-leading-global-green-expansion-1BG1WF1rEY0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-12, @CGTV-Nature, [3,046-kilometer Green Belt Growing Wider](https://news.cgtn.com/news/2025-03-12/3-046-kilometer-Green-Belt-Growing-Wider-1BEZDtxuKQM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-12, @CGTV-Nature, [Experts hail China's efforts in tackling climate change](https://news.cgtn.com/news/2025-03-12/Experts-hail-China-s-efforts-in-tackling-climate-change-1BFZPahbi12/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-11, @Apple 新闻, [Apple unveils immersive concert experience with Metallica for Apple Vision Pro
 ](https://www.apple.com/newsroom/2025/03/apple-unveils-immersive-concert-experience-with-metallica-for-apple-vision-pro/)
@@ -704,17 +729,23 @@
 2025-03-11, @Apple 新闻, [Apple Arcade launches new Katamari and Space Invaders games in April
 ](https://www.apple.com/newsroom/2025/03/apple-arcade-launches-new-katamari-and-space-invaders-games-in-april/)
 
-2025-03-11, @CGTV-Nature, [NPC deputies, CPPCC members advocate for ecological protection](https://news.cgtn.com/news/2025-03-11/NPC-deputies-CPPCC-members-advocate-for-ecological-protection-1BEoqIXdNtK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+2025-03-11, @CGTV-Nature, [China's anti-desertification work makes significant progress: official](https://news.cgtn.com/news/2025-03-11/China-s-anti-desertification-work-makes-significant-progress-official-1BEGzZADbfa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-11, @CGTV-Nature, [Study finds greenhouse gas could positively impact ozone recovery](https://news.cgtn.com/news/2025-03-11/Study-finds-greenhouse-gas-could-positively-impact-ozone-recovery-1BEGJ3wr9cI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-11, @CGTV-Nature, [Admire the dance of the red-crowned cranes in Qiqihar](https://news.cgtn.com/news/2025-03-11/Admire-the-dance-of-the-red-crowned-cranes-in-Qiqihar-1BEG3Is0a0o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-11, @CGTV-Nature, [U.S. pulls out of climate fund as other nations step up](https://news.cgtn.com/news/2025-03-11/U-S-pulls-out-of-climate-fund-as-other-nations-step-up-1BEtcGZiREY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-11, @CGTV-Nature, [Chinese biologists develop nanomaterial to boost plant photosynthesis](https://news.cgtn.com/news/2025-03-11/Chinese-biologists-develop-nanomaterial-to-boost-plant-photosynthesis-1BEuY5HbWzC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
+
+2025-03-10, @CGTV-Nature, [Rural revitalization composes symphony of ecology in E China's Wuyuan](https://news.cgtn.com/news/2025-03-10/Rural-revitalization-composes-symphony-of-ecology-in-E-China-s-Wuyuan-1BCTxGSDbig/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-10, @蠎周刊, [上周蠎快讯 2025/10](https://weekly.pychina.org/pyrecap/pyrw-2510.html)
-
-2025-03-10, @CGTV-Nature, [CPPCC member highlights ecological harmony in China's Sanjiangyuan](https://news.cgtn.com/news/2025-03-10/CPPCC-member-highlights-ecological-harmony-in-China-s-Sanjiangyuan-1BCyoezHbrO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-10, @潮流周刊, [第213期 - 良渚草屋](https://weekly.tw93.fun/posts/213-%E8%89%AF%E6%B8%9A%E8%8D%89%E5%B1%8B/)
 
 2025-03-09, @Zeruns 's Blog, [多凯斯智能屏显磁吸硬盘盒 简单开箱测评，DSWC1R-3S，Magsafe磁吸硬盘外录ProRes](https://blog.zeruns.com/archives/861.html)
-
-2025-03-08, @CGTV-Nature, [China unveils groundbreaking insights into Earth's deepest ecosystem](https://news.cgtn.com/news/2025-03-08/China-unveils-groundbreaking-insights-into-Earth-s-deepest-ecosystem-1BzxPXUMaJi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-07, @书格, [贤后事迹手卷](https://www.shuge.org/view/xian_hou_shi_ji_shou_juan/)
 
@@ -725,14 +756,6 @@
 2025-03-07, @阮一峰的网络日志, [科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
 
 2025-03-06, @Awesome Rust Weekly, [💻 Issue 454 - Take a break: Rust match has fallthrough](https://rust.libhunt.com/newsletter/454)
-
-2025-03-06, @CGTV-Nature, [China blooms in nature's vibrant awakening](https://news.cgtn.com/news/2025-03-06/China-blooms-in-nature-s-vibrant-awakening-1Bwf4fL7WQE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-06, @CGTV-Nature, [China to accelerate green transition in all socioeconomic sectors](https://news.cgtn.com/news/2025-03-06/China-to-accelerate-green-transition-in-all-socioeconomic-sectors-1Bw5hqFYoI8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-06, @CGTV-Nature, [Powerful U.S. storms bring blizzards, tornado threats](https://news.cgtn.com/news/2025-03-06/Powerful-U-S-storms-bring-blizzards-tornado-threats-1BvRX5N5CJW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-06, @CGTV-Nature, [China's green development contributes to global climate action](https://news.cgtn.com/news/2025-03-06/China-s-green-development-contributes-to-global-climate-action-1BvQh88rvMY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-05, @Zeruns 's Blog, [爱快 IK-Q3000 WiFi6无线路由器 简单开箱评测和拆解](https://blog.zeruns.com/archives/860.html)
 
@@ -745,14 +768,8 @@
 2025-03-05, @Apple 新闻, [Apple reveals M3 Ultra, taking Apple silicon to a new extreme
 ](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
 
-2025-03-05, @CGTV-Nature, [China continues to prioritize eco-protection, pursue green development](https://news.cgtn.com/news/2025-03-05/China-continues-to-strengthen-environmental-protection-1Buhc4kBGCc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
-2025-03-05, @CGTV-Nature, [NPC deputy: Lucid waters and lush mountains boost rural revitalization](https://news.cgtn.com/news/2025-03-05/NPC-deputy-Lucid-waters-and-lush-mountains-boost-rural-revitalization-1BueLRDp4mk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
-
 2025-03-04, @Apple 新闻, [Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard
 ](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/)
-
-2025-03-04, @CGTV-Nature, [Unveiling the mystery and splendor of Qianlong Cave](https://news.cgtn.com/news/2025-03-04/Unveiling-the-mystery-and-splendor-of-Qianlong-Cave-1BsLiJW8ynC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
 2025-03-03, @Apple 新闻, [“Friday Night Baseball” returns to Apple TV+ on March 28
 ](https://www.apple.com/newsroom/2025/03/friday-night-baseball-returns-to-apple-tv-plus-on-march-28/)
@@ -794,9 +811,6 @@
 
 2025-02-21, @Apple 新闻, [Apple Intelligence comes to Apple Vision Pro in April
 ](https://www.apple.com/newsroom/2025/02/apple-intelligence-comes-to-apple-vision-pro-in-april/)
-
-2025-02-21, @Apple 新闻, [Apple Intelligence expands to more languages and regions in April
-](https://www.apple.com/newsroom/2025/02/apple-intelligence-expands-to-more-languages-and-regions-in-april/)
 
 2025-02-21, @张洪Heo, [如何静态化Docker容器的IP地址？构建网络实现容器固定IP](https://blog.zhheo.com/p/515226cq.html)
 
