@@ -1,5 +1,7 @@
 # 2025
 
+2025-04-18, @阮一峰的网络日志, [科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html)
+
 2025-04-15, @张洪Heo, [PS邀请函多名字怎么处理？批量制作证书、邀请函、奖状图片](https://blog.zhheo.com/p/r1zzawal.html)
 
 2025-04-15, @张洪Heo, [宝塔面板与Bitwarden插件不兼容，登录提示：验证码长度错误 解决方法](https://blog.zhheo.com/p/vxif2ahq.html)
@@ -47,8 +49,6 @@
 2025-03-09, @Zeruns 's Blog, [多凯斯智能屏显磁吸硬盘盒 简单开箱测评，DSWC1R-3S，Magsafe磁吸硬盘外录ProRes](https://blog.zeruns.com/archives/861.html)
 
 2025-03-07, @朽丘博, [25年2月小结](https://koxiuqiu.cn/8p2503081/)
-
-2025-03-07, @阮一峰的网络日志, [科技爱好者周刊（第 340 期）：技术炒作三十年](http://www.ruanyifeng.com/blog/2025/03/weekly-issue-340.html)
 
 2025-03-05, @Zeruns 's Blog, [爱快 IK-Q3000 WiFi6无线路由器 简单开箱评测和拆解](https://blog.zeruns.com/archives/860.html)
 
