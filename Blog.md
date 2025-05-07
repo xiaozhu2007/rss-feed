@@ -1,5 +1,7 @@
 # 2025
 
+2025-05-06, @Zeruns 's Blog, [雨云 RCA云应用(基于K8s) 搭建PHP网站的教程，高可用性，无需服务器（Serverless）](https://blog.zeruns.com/archives/869.html)
+
 2025-05-03, @liuzhen932 的小窝, [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/)
 
 2025-05-01, @阮一峰的网络日志, [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html)
@@ -117,8 +119,6 @@
 2025-02-08, @张洪Heo, [HomeAssistant如何设置自动备份，定期自动备份并自动删除旧备份](https://blog.zhheo.com/p/e57iwlsu.html)
 
 2025-02-06, @张洪Heo, [如何在mac上隐藏应用程序在dock栏中的图标](https://blog.zhheo.com/p/3jdfoye6.html)
-
-2025-02-06, @张洪Heo, [如何自定义ollama模型存储位置？Mac、Windows修改模型存储位置教程](https://blog.zhheo.com/p/xs4q95m6.html)
 
 2025-02-06, @liuzhen932 的小窝, [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/)
 
