@@ -1,5 +1,13 @@
 # 2025
 
+2025-05-12, @liuzhen932 的小窝, [在 Debian 12 上安装 step-ca 配置 PKI 和证书颁发机构教程](https://blog.liuzhen932.top/posts/hello-step-ca/)
+
+2025-05-12, @张洪Heo, [新版Mac系统安装旧版惠普打印机驱动教程，macos15安装惠普打印机驱动](https://blog.zhheo.com/p/61bv20jr.html)
+
+2025-05-12, @张洪Heo, [Zerotier自建planet，Mac和istoreos自组网教程，实现远程访问家庭内网服务](https://blog.zhheo.com/p/tdfr8ttf.html)
+
+2025-05-11, @Zeruns 's Blog, [雨云 RTX3080显卡云服务器评测，12核24G内存 10G显存 200兆 仅需751元/月](https://blog.zeruns.com/archives/872.html)
+
 2025-05-09, @阮一峰的网络日志, [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html)
 
 2025-05-07, @张洪Heo, [Mac新版微信4.0版本以上如何备份聊天记录到移动硬盘](https://blog.zhheo.com/p/4s1pxddq.html)
@@ -112,13 +120,7 @@
 
 2025-02-14, @张洪Heo, [如何给文本添加隐藏信息？洪绘文本盲水印给文字添加一些隐藏内容](https://blog.zhheo.com/p/d3go8ajr.html)
 
-2025-02-14, @张洪Heo, [Ice上手：Mac上免费开源的菜单栏管理工具，Bartender的免费平替](https://blog.zhheo.com/p/exfl3ye7.html)
-
 2025-02-12, @朽丘博, [关于小柯公开的一些公益,商业项目](https://koxiuqiu.cn/a3p2502131/)
-
-2025-02-08, @张洪Heo, [HomeAssistant如何设置自动备份，定期自动备份并自动删除旧备份](https://blog.zhheo.com/p/e57iwlsu.html)
-
-2025-02-06, @张洪Heo, [如何在mac上隐藏应用程序在dock栏中的图标](https://blog.zhheo.com/p/3jdfoye6.html)
 
 2025-02-06, @liuzhen932 的小窝, [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/)
 
