@@ -1,5 +1,7 @@
 # 2025
 
+2025-05-23, @张洪Heo, [iPhone如何查看自己电话卡的上网优先级QCI？SIM卡的QCI查看教程](https://blog.zhheo.com/p/gti1x15f.html)
+
 2025-05-23, @阮一峰的网络日志, [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html)
 
 2025-05-17, @liuzhen932 的小窝, [为博客集成 Twtxt：快速接入去中心化社交，兼容 Yarn 社交平台](https://blog.liuzhen932.top/posts/hello-twtxt/)
@@ -117,8 +119,6 @@
 2025-02-20, @张洪Heo, [Grok上手：马斯克的AI到底能不能打？真的是地表最强AI吗？](https://blog.zhheo.com/p/yxu5zv79.html)
 
 2025-02-20, @HiFeng'Blog, [Ubuntu 操作系统中使用 UFW 配置防火墙](https://www.hicairo.com/post/80.html)
-
-2025-02-18, @张洪Heo, [Trae上手：字节的AI代码工具IDE，可以代替Cursor了吗?](https://blog.zhheo.com/p/nmqfcnhb.html)
 
 2025-02-14, @liuzhen932 的小窝, [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/)
 
