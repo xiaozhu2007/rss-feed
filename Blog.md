@@ -1,5 +1,7 @@
 # 2025
 
+2025-06-02, @Zeruns 's Blog, [雨云 云应用(基于K8s) 一键搭建我的世界基岩版(BDS)服务器的教程，Minecraft免费一键开服，Serverless](https://blog.zeruns.com/archives/875.html)
+
 2025-05-30, @阮一峰的网络日志, [科技爱好者周刊（第 350 期）：Java 三十周年](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html)
 
 2025-05-29, @张洪Heo, [HomeAssistant如何自定义侧边栏标题，修改标题文本教程](https://blog.zhheo.com/p/9qmu0d5e.html)
@@ -117,8 +119,6 @@
 2025-02-21, @张洪Heo, [如何静态化Docker容器的IP地址？构建网络实现容器固定IP](https://blog.zhheo.com/p/515226cq.html)
 
 2025-02-21, @HiFeng'Blog, [在 Ubuntu 22.04 上配置 MySQL 数据库同步（主从复制）](https://www.hicairo.com/post/81.html)
-
-2025-02-21, @张洪Heo, [iStoreOS如何给硬盘分区扩容？Openwrt已经正在使用的分区如何扩容？](https://blog.zhheo.com/p/o898gwi7.html)
 
 2025-02-20, @HiFeng'Blog, [Ubuntu 操作系统中使用 UFW 配置防火墙](https://www.hicairo.com/post/80.html)
 
