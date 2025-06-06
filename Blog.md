@@ -1,5 +1,7 @@
 # 2025
 
+2025-06-05, @Zeruns 's Blog, [Ucloud新加坡跨境轻量Pro云服务器评测，双ISP属性IP，1核2G 5兆 仅需57元/月](https://blog.zeruns.com/archives/876.html)
+
 2025-06-04, @张洪Heo, [TaoSync上手：基于Alist的文件同步系统，文件备份神器](https://blog.zhheo.com/p/vir49ipr.html)
 
 2025-06-02, @Zeruns 's Blog, [雨云 云应用(基于K8s) 一键搭建我的世界基岩版(BDS)服务器的教程，Minecraft免费一键开服，Serverless](https://blog.zeruns.com/archives/875.html)
@@ -51,8 +53,6 @@
 2025-04-28, @liuzhen932 的小窝, [XMSL 免费递归 DNS 服务现已上线！](https://blog.liuzhen932.top/posts/public-dns-service/)
 
 2025-04-25, @朽丘博, [四月自我笔记](https://koxiuqiu.cn/12p2504261/)
-
-2025-04-25, @阮一峰的网络日志, [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html)
 
 2025-04-24, @Zeruns 's Blog, [莱卡云 美国ISP家宽VPS 性能测评，2核2G 100M 仅需56元/月，三网直连](https://blog.zeruns.com/archives/867.html)
 
