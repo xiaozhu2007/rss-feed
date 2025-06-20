@@ -1,5 +1,7 @@
 # 2025
 
+2025-06-19, @张洪Heo, [easytier上手：去中心化的组网工具，异地组网软件](https://blog.zhheo.com/p/5h3t3qo7.html)
+
 2025-06-17, @Zeruns 's Blog, [我的世界【Better MC】整合包开服联机教程，BMC4汉化版下载地址 | Minecraft开服教程](https://blog.zeruns.com/archives/878.html)
 
 2025-06-13, @张洪Heo, [远程挂载Macbook中电脑的文件，使用Alist配合SFTP在家访问公司电脑文件](https://blog.zhheo.com/p/1mo3yfwz.html)
@@ -53,8 +55,6 @@
 2025-05-12, @张洪Heo, [Zerotier自建planet，Mac和istoreos自组网教程，实现远程访问家庭内网服务](https://blog.zhheo.com/p/tdfr8ttf.html)
 
 2025-05-11, @Zeruns 's Blog, [雨云 RTX3080显卡云服务器评测，12核24G内存 10G显存 200兆 仅需751元/月](https://blog.zeruns.com/archives/872.html)
-
-2025-05-09, @阮一峰的网络日志, [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html)
 
 2025-05-07, @张洪Heo, [Mac新版微信4.0版本以上如何备份聊天记录到移动硬盘](https://blog.zhheo.com/p/4s1pxddq.html)
 
