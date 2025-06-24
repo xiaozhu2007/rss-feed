@@ -1,5 +1,7 @@
 # 2025
 
+2025-06-24, @Zeruns 's Blog, [给电动车加装库仑计，记录一下安装过程](https://blog.zeruns.com/archives/879.html)
+
 2025-06-20, @阮一峰的网络日志, [科技爱好者周刊（第 353 期）：苹果的"液态玻璃"是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html)
 
 2025-06-19, @张洪Heo, [easytier上手：去中心化的组网工具，异地组网软件](https://blog.zhheo.com/p/5h3t3qo7.html)
@@ -43,8 +45,6 @@
 2025-05-23, @阮一峰的网络日志, [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html)
 
 2025-05-17, @liuzhen932 的小窝, [为博客集成 Twtxt：快速接入去中心化社交，兼容 Yarn 社交平台](https://blog.liuzhen932.top/posts/hello-twtxt/)
-
-2025-05-16, @阮一峰的网络日志, [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html)
 
 2025-05-13, @Zeruns 's Blog, [自建了一个小型光伏发电站，3块太阳能板日发电量4度](https://blog.zeruns.com/archives/873.html)
 
