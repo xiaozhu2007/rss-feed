@@ -1,5 +1,7 @@
 # 2025
 
+2025-06-26, @张洪Heo, [Taiwindcss项目如何混淆类名，React项目压缩类名教程](https://blog.zhheo.com/p/80d8tz4l.html)
+
 2025-06-24, @阮一峰的网络日志, [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)
 
 2025-06-24, @Zeruns 's Blog, [给电动车加装库仑计，记录一下安装过程](https://blog.zeruns.com/archives/879.html)
@@ -43,8 +45,6 @@
 2025-05-23, @张洪Heo, [Mac如何将喜欢的视频作为屏幕保护程序？自定义Mac视频屏保，最新系统教程](https://blog.zhheo.com/p/pkrapvvx.html)
 
 2025-05-23, @张洪Heo, [iPhone如何查看自己电话卡的上网优先级QCI？SIM卡的QCI查看教程](https://blog.zhheo.com/p/gti1x15f.html)
-
-2025-05-23, @阮一峰的网络日志, [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html)
 
 2025-05-17, @liuzhen932 的小窝, [为博客集成 Twtxt：快速接入去中心化社交，兼容 Yarn 社交平台](https://blog.liuzhen932.top/posts/hello-twtxt/)
 
