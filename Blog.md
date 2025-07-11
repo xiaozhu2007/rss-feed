@@ -1,5 +1,7 @@
 # 2025
 
+2025-07-11, @阮一峰的网络日志, [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html)
+
 2025-07-11, @Zeruns 's Blog, [我的世界【RLCraft】整合包开服联机教程，MC用Win系统或雨云RCA搭建服务器的教程](https://blog.zeruns.com/archives/885.html)
 
 2025-07-08, @liuzhen932 的小窝, [DE-CIX 误将 MANRS 邮件当支持工单，引发邮件列表大混乱](https://blog.liuzhen932.top/posts/de-cix-manrs-email-mixup/)
