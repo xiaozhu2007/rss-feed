@@ -348,7 +348,7 @@
 
 2020-06-11, @liuzhen932 的小窝, [PowerShell 远程执行任务的方法步骤](https://blog.liuzhen932.top/posts/legacy-13093016/)
 
-2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2025/2/4更新](https://blog.zeruns.com/archives/383.html)
+2020-03-29, @Zeruns 's Blog, [高性价比 和 便宜的 VPS/云服务器 推荐 2025/7/20更新](https://blog.zeruns.com/archives/383.html)
 
 # 2019
 
