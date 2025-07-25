@@ -1,5 +1,7 @@
 # 2025
 
+2025-07-24, @阮一峰的网络日志, [扣子空间网页设计，是在挑战 V0 吗？](http://www.ruanyifeng.com/blog/2025/07/coze-space-web-design.html)
+
 2025-07-22, @阮一峰的网络日志, [《唐纵日记》摘录](http://www.ruanyifeng.com/blog/2025/07/tangzong-diary.html)
 
 2025-07-22, @Zeruns 's Blog, [跨境电商独立站搭建教程，WordPress外贸建站指南，网站搭建教程](https://blog.zeruns.com/archives/889.html)
@@ -41,8 +43,6 @@
 2025-06-30, @Zeruns 's Blog, [AMD-R9-9950X 和 微星B850M-MORTAR-WIFI主板 简单开箱测评](https://blog.zeruns.com/archives/881.html)
 
 2025-06-28, @Zeruns 's Blog, [雨云 重庆100G高防VPS，2核4G 50兆 仅需24.5元/月](https://blog.zeruns.com/archives/880.html)
-
-2025-06-27, @阮一峰的网络日志, [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)
 
 2025-06-26, @张洪Heo, [Taiwindcss项目如何混淆类名，React项目压缩类名教程](https://blog.zhheo.com/p/80d8tz4l.html)
 
