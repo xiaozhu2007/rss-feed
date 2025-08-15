@@ -1,5 +1,7 @@
 # 2025
 
+2025-08-12, @liuzhen932 的小窝, [各厂商 DNS 的域名速查表及其介绍评测](https://blog.liuzhen932.top/posts/dns-hosting-provider-list/)
+
 2025-08-12, @liuzhen932 的小窝, [新开了一个 Minecraft 服务器，欢迎来玩](https://blog.liuzhen932.top/posts/nebula-forest-minecraft-server/)
 
 2025-08-08, @阮一峰的网络日志, [科技爱好者周刊（第 360 期）：Dan Wang 的新书](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-360.html)
@@ -31,8 +33,6 @@
 2025-07-22, @Zeruns 's Blog, [跨境电商独立站搭建教程，WordPress外贸建站指南，网站搭建教程](https://blog.zeruns.com/archives/889.html)
 
 2025-07-18, @张洪Heo, [如何自搭建STUN服务器？使用Docker快速搭建STUN服务器方法](https://blog.zhheo.com/p/v4jy226i.html)
-
-2025-07-18, @阮一峰的网络日志, [科技爱好者周刊（第 357 期）：稳定币的博弈](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html)
 
 2025-07-16, @Zeruns 's Blog, [莱卡云 宁波大带宽VPS评测，2核4G 100兆 仅需50元/月](https://blog.zeruns.com/archives/888.html)
 
