@@ -1,5 +1,7 @@
 # 2025
 
+2025-08-15, @阮一峰的网络日志, [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html)
+
 2025-08-12, @liuzhen932 的小窝, [各厂商 DNS 的域名速查表及其介绍评测](https://blog.liuzhen932.top/posts/dns-hosting-provider-list/)
 
 2025-08-12, @liuzhen932 的小窝, [新开了一个 Minecraft 服务器，欢迎来玩](https://blog.liuzhen932.top/posts/nebula-forest-minecraft-server/)
@@ -59,8 +61,6 @@
 2025-07-03, @Zeruns 's Blog, [雨云 湖北襄阳200G高防VPS，2核4G 50兆 仅需32元/月](https://blog.zeruns.com/archives/883.html)
 
 2025-07-02, @Zeruns 's Blog, [ZGRL-80 摄影灯拆解分析，电路设计分析](https://blog.zeruns.com/archives/882.html)
-
-2025-06-30, @Zeruns 's Blog, [AMD-R9-9950X 和 微星B850M-MORTAR-WIFI主板 简单开箱测评](https://blog.zeruns.com/archives/881.html)
 
 2025-06-26, @张洪Heo, [Taiwindcss项目如何混淆类名，React项目压缩类名教程](https://blog.zhheo.com/p/80d8tz4l.html)
 
