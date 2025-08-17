@@ -1,18 +1,180 @@
 # 2025
 
-2025-08-17, @36氪, [余承东：华为几亿存量用户会陆续开放升级鸿蒙5.0，升级之后会更流畅](https://36kr.com/newsflashes/3425631785668225?f=rss)
+2025-08-17, @36氪, [法拉第未来启动美股首个C10 Treasury计划并发布C10指数](https://36kr.com/newsflashes/3426454477885060?f=rss)
+
+2025-08-17, @IT之家, [法拉第未来启动双飞轮 & 双桥梁生态战略：EAI EV 汽车资产搬上区块链、开展数字货币业务](https://www.ithome.com/0/875/963.htm)
+
+2025-08-17, @IT之家, [纯电续航最高 150 公里，奇瑞风云 X3L 紧凑型 SUV 将于 9 月 9 日上市](https://www.ithome.com/0/875/962.htm)
+
+2025-08-17, @V2EX, [[MacBook] 如果有最香，我敢说 M 系列 MBP 监管机是最香的](https://www.v2ex.com/t/1152968#reply5)
+
+2025-08-17, @36氪, [全球首台500千伏植物油变压器成功投运](https://36kr.com/newsflashes/3426453452672393?f=rss)
+
+2025-08-17, @V2EX, [[程序员] 最近准备升级一波家里的机房，大哥们帮忙参悟参悟](https://www.v2ex.com/t/1152967#reply5)
+
+2025-08-17, @IT之家, [卢伟冰超前预热小米最新一代数字系列：产品定位和定义变化非常大，很快跟大家见面](https://www.ithome.com/0/875/959.htm)
+
+2025-08-17, @36氪, [出行优惠叠加消费权益，金融助燃暑期经济](https://36kr.com/newsflashes/3426378212904321?f=rss)
+
+2025-08-17, @V2EX, [[随想] 垂死病中惊坐起， claude code one more time](https://www.v2ex.com/t/1152966#reply1)
+
+2025-08-17, @36氪, [外媒：扎克伯格去年安保费1.9亿元，超多家硅谷科技巨头CEO安保费总和](https://36kr.com/newsflashes/3426501144661376?f=rss)
+
+2025-08-17, @36氪, [我国数据企业数量超40万家，长三角数据产业规模占全国22%](https://36kr.com/newsflashes/3426339216477577?f=rss)
+
+2025-08-17, @IT之家, [神舟二十号航天员乘组第 3 次出舱任务全回顾放送，指令长陈冬刷新中国航天员舱外执行任务次数纪录](https://www.ithome.com/0/875/958.htm)
+
+2025-08-17, @IT之家, [稳得住的快：鸿蒙智行智界新 S7 轿车支持 3.3s 零百加速、0.203Cd 低风阻](https://www.ithome.com/0/875/955.htm)
+
+2025-08-17, @36氪, [美关税影响哥斯达黎加咖啡出口，当地企业开拓其他海外市场](https://36kr.com/newsflashes/3426344229342599?f=rss)
+
+2025-08-17, @CN@Flipboard, [China’s Biotech Is Cheaper and Faster](https://www.nytimes.com/2025/08/17/opinion/china-biotech.html?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-08-17, @V2EX, [[程序员] 赛博拼好饭， Kiro 出付费策略了，想跑路，现在还有别的“免费试吃”吗](https://www.v2ex.com/t/1152964#reply0)
+
+2025-08-17, @IT之家, [世界最大直径水下盾构隧道在济南贯通，通车后 5 分钟可穿越黄河](https://www.ithome.com/0/875/954.htm)
+
+2025-08-17, @IT之家, [新一代智己 LS6 汽车八大配置版本公布，预售价 20.99 万元起](https://www.ithome.com/0/875/953.htm)
+
+2025-08-17, @36氪, [本周机构调研集中度有所提升，4家公司接受百家以上机构调研](https://36kr.com/newsflashes/3426294030618244?f=rss)
+
+2025-08-17, @V2EX, [[问与答] 国庆节你们打算去哪里玩？](https://www.v2ex.com/t/1152962#reply7)
+
+2025-08-17, @V2EX, [[生活] [记录]-2025-08-17 在看《Le Mans》](https://www.v2ex.com/t/1152961#reply0)
+
+2025-08-17, @CN@Flipboard, [How The Peninsula Hong Kong aims to stay competitive amid Shenzhen rivalry](https://www.scmp.com/business/china-business/article/3322049/how-peninsula-hong-kong-trying-stay-competitive-against-shenzhen-rivals?utm_source=rss_feed)
+
+2025-08-17, @IT之家, [预售 7.38 万元起，上汽名爵全新 MG4 纯电紧凑型车 8 月 29 日上市](https://www.ithome.com/0/875/952.htm)
+
+2025-08-17, @36氪, [报道：日本将遏制外国专业技能劳动者签证滥用现象](https://36kr.com/newsflashes/3426293372194437?f=rss)
+
+2025-08-17, @IT之家, [上海烛龙新作《古剑》首支预告发布：含实机与过场动画、单机买断制上线 PC 及主机平台](https://www.ithome.com/0/875/950.htm)
+
+2025-08-17, @V2EX, [[Visual Studio Code] vscode 的撤回功能是不是不太可靠？](https://www.v2ex.com/t/1152959#reply2)
+
+2025-08-17, @V2EX, [[编辑器] 首场 Trae Meetup， 国产 AI IDE 有着不一样的思路](https://www.v2ex.com/t/1152958#reply0)
+
+2025-08-17, @CN@Flipboard, [IN PIC: UConn champ Azzi Fudd gives fans a peek at her wholesome flight essentials on IG](https://www.sportskeeda.com/college-basketball/news-in-pic-uconn-champ-azzi-fudd-gives-fans-peek-wholesome-flight-essentials-on-ig?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-08-17, @CN@Flipboard, [New Chinese see-through brain technique offers clearest look inside its workings](https://www.scmp.com/news/china/science/article/3322115/new-chinese-see-through-brain-technique-offers-clearest-view-its-inner-workings?utm_source=rss_feed)
+
+2025-08-17, @36氪, [光伏企业：强化全球布局，提升出海能力](https://36kr.com/newsflashes/3426298584321669?f=rss)
+
+2025-08-17, @IT之家, [没有自主系统 = 被卡脖子：上海交通大学教授夏虞斌指出国际形势倒逼中国做出自己的操作系统](https://www.ithome.com/0/875/947.htm)
+
+2025-08-17, @V2EX, [[问与答] Windows server 服务器核心板怎么安装经典款 ui](https://www.v2ex.com/t/1152956#reply5)
+
+2025-08-17, @IT之家, [岚图汽车卢放倡议用户充电至 80% 时主动结束、驶离车位，能大大提升高速服务区充电整体效率](https://www.ithome.com/0/875/946.htm)
+
+2025-08-17, @36氪, [交通大模型创新与产业联盟在京成立](https://36kr.com/newsflashes/3426298051480963?f=rss)
+
+2025-08-17, @IT之家, [央视提醒：告诉孩子，不要把智能手表借给陌生人](https://www.ithome.com/0/875/945.htm)
+
+2025-08-17, @V2EX, [[分享创造] 一个在命令行使用 AI/Agent 的小工具（例如 code-review，文档 QA）](https://www.v2ex.com/t/1152955#reply2)
+
+2025-08-17, @CN@Flipboard, [6 Chinese Zodiac Signs Attract Luck & Abundance On August 18, 2025](https://www.yourtango.com/2025389274/chinese-zodiac-signs-luck-abundance-august-18-2025?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-08-17, @36氪, [Qwen3 Coder强势崛起，OpenRouter市场份额破20%](https://36kr.com/newsflashes/3426376072547715?f=rss)
+
+2025-08-17, @IT之家, [宇树科技 100 米障碍赛再摘金牌，G1 人形机器人夺冠成绩 33.71 秒](https://www.ithome.com/0/875/944.htm)
+
+2025-08-17, @V2EX, [[Windows] Windows 11 Pro 文件消失](https://www.v2ex.com/t/1152954#reply6)
+
+2025-08-17, @V2EX, [[Apple] mac 上有好用的录像软件吗？](https://www.v2ex.com/t/1152953#reply7)
+
+2025-08-17, @36氪, [ChatGPT负责人：GPT-5 仍有“幻觉”问题，建议用户核对答案](https://36kr.com/newsflashes/3426297129995648?f=rss)
+
+2025-08-17, @IT之家, [躲不过：微软 Copilot“入侵”Win11 开始菜单](https://www.ithome.com/0/875/942.htm)
+
+2025-08-17, @V2EX, [[问与答] AI 创业公司还得看米国和法国，东大只是打 AI 工的多](https://www.v2ex.com/t/1152951#reply14)
+
+2025-08-17, @V2EX, [[OpenAI] 用了 Cursor 的一周免费的 GPT5 之后 感觉回不去 claude 了](https://www.v2ex.com/t/1152950#reply7)
+
+2025-08-17, @36氪, [横店已变竖店，1部微短剧1周能拍完](https://36kr.com/newsflashes/3426340582674051?f=rss)
+
+2025-08-17, @IT之家, [600 天拉锯战要停？瑞典工会对特斯拉态度软化](https://www.ithome.com/0/875/941.htm)
+
+2025-08-17, @IT之家, [福特烈马新能源车型将于 8 月 29 日亮相成都车展：车长超 5 米，提供增程 / 纯电动力](https://www.ithome.com/0/875/940.htm)
+
+2025-08-17, @36氪, [今年前7月，海口海关签发各类出口原产地证书8610份](https://36kr.com/newsflashes/3426347969629833?f=rss)
+
+2025-08-17, @V2EX, [[分享发现] 分享一些资源网站](https://www.v2ex.com/t/1152949#reply25)
+
+2025-08-17, @36氪, [苹果关闭美国底特律郊区零售店，员工有机会转岗至新店](https://36kr.com/newsflashes/3426292355583365?f=rss)
+
+2025-08-17, @V2EX, [[OpenAI] 和网上的人一起组队订阅 ChatGPT Team 团队版，安全吗？](https://www.v2ex.com/t/1152948#reply2)
+
+2025-08-17, @36氪, [智元机器人全系列产品8月18日上线智元商城和京东商城](https://36kr.com/newsflashes/3426342007344516?f=rss)
+
+2025-08-17, @V2EX, [[Windows] 共享文件夹映射出来的网络驱动器，为啥进不去？有没有大佬知道](https://www.v2ex.com/t/1152947#reply9)
+
+2025-08-17, @V2EX, [[iDev] ios app 绕过 iap 支付获取拉新奖励会被审核打回吗？](https://www.v2ex.com/t/1152946#reply5)
+
+2025-08-17, @36氪, [余承东：通过鸿蒙框架让更多中国应用出海](https://36kr.com/newsflashes/3426337587515013?f=rss)
+
+2025-08-17, @V2EX, [[分享创造] 收集了一些纯音乐](https://www.v2ex.com/t/1152945#reply4)
+
+2025-08-17, @V2EX, [[汽车] 改速电瓶车无头盔无视红绿灯真 TM 牛 B](https://www.v2ex.com/t/1152944#reply21)
+
+2025-08-17, @36氪, [业内人士：储能项目延期终止潮涌，表明行业面临调整与重塑](https://36kr.com/newsflashes/3426282286403208?f=rss)
+
+2025-08-17, @V2EX, [[分享发现] 域名查询的标签功能开放申请了❤️❤️这功能有点意思](https://www.v2ex.com/t/1152943#reply3)
+
+2025-08-17, @IT之家, [乘客吐槽高铁邻座 400 斤男子致拥挤，国铁 12306 回应“旅客可联系工作人员协商换座”](https://www.ithome.com/0/875/938.htm)
+
+2025-08-17, @V2EX, [[问与答] 为什么很多作者发布谷歌浏览器插件地址要用 www.crxsoso.com 而不用谷歌官方浏览器插件地址](https://www.v2ex.com/t/1152941#reply3)
+
+2025-08-17, @IT之家, [一特斯拉 Model 3 行驶 41 万公里后，电池健康度仍达 90% 左右](https://www.ithome.com/0/875/937.htm)
+
+2025-08-17, @IT之家, [华为 HiCar 熄屏显示上线，鸿蒙 HarmonyOS 5.1.0.128 及以上版本支持](https://www.ithome.com/0/875/936.htm)
+
+2025-08-17, @V2EX, [[Android] 国产安卓如何禁止微信自动加入电池优化白名单？](https://www.v2ex.com/t/1152940#reply8)
+
+2025-08-17, @IT之家, [4999 元水月雨天空之城 Laputa 旗舰平面头戴式耳机预售：FDT 全面驱动技术、“无遮挡”全开放设计](https://www.ithome.com/0/875/935.htm)
+
+2025-08-17, @36氪, [七月份外汇市场运行平稳，结售汇延续顺差态势](https://36kr.com/newsflashes/3426209464339841?f=rss)
+
+2025-08-17, @博客园, [记一次OOM - 肥宅快乐码](https://www.cnblogs.com/fatmanhappycode/p/19041969)
+
+2025-08-17, @V2EX, [[问与答] 现在还有没有稳定的接码平台，只接国内三大运营商的？](https://www.v2ex.com/t/1152939#reply1)
+
+2025-08-17, @V2EX, [[加密货币] OK 交易所真是有点坑啊](https://www.v2ex.com/t/1152938#reply1)
+
+2025-08-17, @CN@Flipboard, [Stephen Curry Makes Personal Announcement as Decade-Long Battle With Michael Jordan Brand Continues](https://www.essentiallysports.com/nba-active-basketball-news-stephen-curry-makes-personal-announcement-as-decade-long-battle-with-michael-jordan-brand-continues/?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-08-17, @36氪, [数据显示：基金产业链已逐渐走出了此前的低迷期](https://36kr.com/newsflashes/3426207608163975?f=rss)
+
+2025-08-17, @IT之家, [「领克 900 号」卫星官宣择机发射，构建“天地一体化大出行生态圈”](https://www.ithome.com/0/875/933.htm)
+
+2025-08-17, @IT之家, [FSD 要挑战“地狱级难度”？特斯拉在印度招聘自动驾驶车辆操作员](https://www.ithome.com/0/875/932.htm)
+
+2025-08-17, @V2EX, [[推广] 有考虑从 ClaudeCode Max 转 ChatGPT 5 Pro 吗， 本人实测， ChatGPT 5 Pro 更强](https://www.v2ex.com/t/1152936#reply1)
+
+2025-08-17, @CN@Flipboard, [Inside BYD's plan to rule the waves](https://www.businessinsider.com/see-byds-fleet-car-carrying-cargo-ships-tesla-2025-8?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-08-17, @CN@Flipboard, [Meet Pabepabe’s Logan Chan, the Hong Kong-based designer behind Robert Wun’s Body Sculpture bags](https://www.tatlerasia.com/style/fashion/pabepabe-logan-chan-robert-wun-autumn-winter-2025-paris-couture-week?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-08-17, @IT之家, [我国长征十号系列火箭一子级试验箭后续还将执行飞行任务](https://www.ithome.com/0/875/931.htm)
+
+2025-08-17, @V2EX, [[Local LLM] 转贴一个视频：绝大多数的视频都没能讲出 gpt-oss 系列模型的真正意义](https://www.v2ex.com/t/1152934#reply0)
+
+2025-08-17, @IT之家, [中国铁路 12306 为京沪、京广部分高铁车次上线早餐轻食套餐：首批提供 32 元轻脂果蔬套餐、38 元虾仁鸡肉轻食套餐](https://www.ithome.com/0/875/930.htm)
+
+2025-08-17, @IT之家, [《无主之地 4》任天堂 Switch 2 版确认无分屏功能，但支持跨平台游玩](https://www.ithome.com/0/875/929.htm)
+
+2025-08-17, @IT之家, [ChatGPT 负责人坦言：GPT-5 仍有“幻觉”问题，建议用户核对答案](https://www.ithome.com/0/875/928.htm)
+
+2025-08-17, @CN@Flipboard, [Steph Curry 'Counting Down the Hours' Ahead of Exciting Offseason Move](https://athlonsports.com/nba/golden-state-warriors/steph-curry-counting-down-hours-exciting-offseason-move-warriors-china?utm_source=flipboard&utm_content=topic%2Fchina)
+
+2025-08-17, @IT之家, [运动品牌迪卡侬涉足数码领域，推出 199 元便携式蓝牙音箱 PS100 采用电池易更换设计](https://www.ithome.com/0/875/926.htm)
+
+2025-08-17, @IT之家, [HUAWEI SOUND 无麦 K 歌 2.0 上线，鸿蒙智行新款智界 R7、新 S7 汽车首发](https://www.ithome.com/0/875/925.htm)
 
 2025-08-17, @IT之家, [苹果关闭美国底特律郊区零售店，员工有机会转岗至新店](https://www.ithome.com/0/875/924.htm)
 
 2025-08-17, @IT之家, [余承东谈鸿蒙折叠电脑：希望出货量更多之后成本降低，大家能以更优惠的价格买到](https://www.ithome.com/0/875/923.htm)
 
-2025-08-17, @36氪, [7月民航运输规模创历史新高，全行业完成运输总周转量148亿吨公里](https://36kr.com/newsflashes/3425633378815620?f=rss)
-
 2025-08-17, @IT之家, [TCL 华星 Oxide 技术实现中尺寸平板产品量产落地，联想小新平板 11 & 小米 REDMI Pad 2 首发搭载](https://www.ithome.com/0/875/922.htm)
-
-2025-08-17, @36氪, [康佳集团正式成为华润集团旗下业务单元](https://36kr.com/newsflashes/3425632490688131?f=rss)
-
-2025-08-17, @CN@Flipboard, [The Zeekr X EV offers a premium driving experience without the high cost – but too many little problems undermine its appeal](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-zeekr-x-ev-offers-a-premium-driving-experience-without-the-high-cost-but-too-many-little-problems-undermine-its-appeal?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-08-17, @IT之家, [西安绿色家电消费补贴再加力：消费者至高可获单件产品成交价格 15% 补贴，最高可补 2000 元](https://www.ithome.com/0/875/921.htm)
 
@@ -20,19 +182,19 @@
 
 2025-08-17, @IT之家, [新能源汽车利用 V2G 技术变身城市“充电宝”，湖南车网互动服务平台正式上线运行](https://www.ithome.com/0/875/918.htm)
 
-2025-08-17, @V2EX, [[分享发现] 分享一个最近发现的不错的字体网站](https://www.v2ex.com/t/1152930#reply0)
+2025-08-17, @V2EX, [[分享发现] 分享一个最近发现的不错的字体网站](https://www.v2ex.com/t/1152930#reply4)
 
 2025-08-17, @IT之家, [微软 Win11 文件资源管理器新功能曝光：鼠标悬停显示快捷按钮](https://www.ithome.com/0/875/917.htm)
 
-2025-08-17, @V2EX, [[问与答] 腾讯大王卡又开始背刺福利二选一了吗](https://www.v2ex.com/t/1152928#reply6)
+2025-08-17, @V2EX, [[问与答] 腾讯大王卡又开始背刺福利二选一了吗](https://www.v2ex.com/t/1152928#reply11)
 
 2025-08-17, @IT之家, [96 张照片拼接，NASA 毅力号拍摄到火星表面最清晰全景图](https://www.ithome.com/0/875/916.htm)
 
-2025-08-17, @V2EX, [[酷工作] [义乌] 招 PHP 全栈， 15-20K。项目资金到位，不缺钱，缺人](https://www.v2ex.com/t/1152927#reply0)
+2025-08-17, @V2EX, [[酷工作] [义乌] 招 PHP 全栈， 15-20K。项目资金到位，不缺钱，缺人](https://www.v2ex.com/t/1152927#reply4)
 
 2025-08-17, @IT之家, [动物权益组织呼吁任天堂移除奶牛的鼻环，称其为“残忍的工具”](https://www.ithome.com/0/875/915.htm)
 
-2025-08-17, @CN@Flipboard, [China’s $11 Trillion Stock Market Is a Headache for Both Xi and Trump](https://www.bloomberg.com/news/articles/2025-08-17/china-s-11-trillion-stock-market-is-a-headache-for-both-xi-and-trump?utm_source=flipboard&utm_content=bloomberg/magazine/Bloomberg)
+2025-08-17, @CN@Flipboard, [China’s $11 Trillion Stock Market Is a Headache for Both Xi and Trump](https://www.bloomberg.com/news/articles/2025-08-17/china-s-11-trillion-stock-market-is-a-headache-for-both-xi-and-trump?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-08-16, @IT之家, [科技昨夜今晨 0817：央视曝光机场拦截充电宝回流市场；全新小鹏 P7 鹏翼门实车首次线下亮相；沈海高速出现“严禁使用辅助驾驶”路牌...](https://www.ithome.com/0/875/914.htm)
 
@@ -52,19 +214,15 @@
 
 2025-08-16, @CN@Flipboard, [Artist breaks her own rule when she saw ex-boyfriend after 22 years at her silent art performance](https://scoop.upworthy.com/her-ex-showed-up-at-her-silent-art-performance-they-hadnt-spoken-in-22-years-and-time-stood-still-ex1?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2025-08-16, @CN@Flipboard, [Beyond chow mein: Can a new wave of restaurants help China win hearts?](https://www.bbc.com/news/articles/cy4dk1z02w7o?amp&utm_source=flipboard&utm_content=topic%2Fchina)
+2025-08-16, @CN@Flipboard, [Beyond chow mein: Can a new wave of restaurants help China win hearts?](https://www.bbc.com/news/articles/cy4dk1z02w7o?at_medium=RSS&at_campaign=rss)
 
-2025-08-16, @CN@Flipboard, [EU-China trade: deficits, disputes and de-risking](https://www.youtube.com/watch?v=BNbb4Or26H0)
+2025-08-16, @CN@Flipboard, [Iran, China are increasing military cooperation and missile production, Israeli media warns](https://nypost.com/2025/08/16/world-news/iran-china-are-increasing-military-cooperation-and-missile-production-israeli-media-warns/?utm_source=flipboard&utm_campaign=nypost&utm_medium=social)
 
-2025-08-16, @CN@Flipboard, [Former pro-democracy Hong Kong lawmaker granted asylum in Australia](https://us.afpnews.com/article/?former-prodemocracy-hong-kong-lawmaker-granted-asylum-in-australia%2C69Q73WJ&utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-08-16, @V2EX, [[程序员] go 写的 fzf 如何做到用比 rust 重写版快几倍](https://www.v2ex.com/t/1152926#reply4)
+2025-08-16, @V2EX, [[程序员] go 写的 fzf 如何做到用比 rust 重写版快几倍](https://www.v2ex.com/t/1152926#reply7)
 
 2025-08-16, @CN@Flipboard, [World leader who took swipe at Trump over tariffs appears to cozy up to China](https://www.foxnews.com/world/world-leader-who-took-swipe-trump-over-tariffs-appears-cozy-up-china?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-08-16, @V2EX, [[分享创造] showcase - 展示自己的 GitHub 项目，使用 GitHub Actions 自动更新并部署到 Pages](https://www.v2ex.com/t/1152925#reply0)
-
-2025-08-16, @CN@Flipboard, [Trump reveals Xi told him China will not invade Taiwan while he’s US president](https://nypost.com/2025/08/16/us-news/trump-says-xi-told-him-china-will-not-invade-taiwan-while-hes-us-president/?utm_source=flipboard&utm_campaign=nypost&utm_medium=social)
 
 2025-08-16, @V2EX, [[分享发现] 正在使用 lobe-chat 的朋友注意了！ lobe-chat 正在泄漏你的隐私！](https://www.v2ex.com/t/1152924#reply0)
 
@@ -72,23 +230,23 @@
 
 2025-08-16, @CN@Flipboard, [EV Sales Are Booming, Just Not in the US](https://www.pcmag.com/news/ev-sales-are-booming-just-not-in-the-us?utm_source=flipboard&utm_content=PCMag/magazine/PCMag's+Top+Stories)
 
-2025-08-16, @V2EX, [[京东] 问下大家京东 PC 端网页版可以正常访问么?](https://www.v2ex.com/t/1152922#reply0)
+2025-08-16, @V2EX, [[京东] 问下大家京东 PC 端网页版可以正常访问么?](https://www.v2ex.com/t/1152922#reply2)
 
 2025-08-16, @CN@Flipboard, [Trump warned by top Senate Democrats to rethink advanced AI chip sales to China](https://www.cnbc.com/2025/08/16/senate-democrats-letter-trump-advanced-ai-chip-sales-china.html?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-08-16, @V2EX, [[Notion] notion offline 模式已经出来了？](https://www.v2ex.com/t/1152921#reply1)
 
-2025-08-16, @V2EX, [[互联网] 已经有域名想免费建个博客](https://www.v2ex.com/t/1152920#reply13)
+2025-08-16, @V2EX, [[互联网] 已经有域名想免费建个博客](https://www.v2ex.com/t/1152920#reply22)
 
-2025-08-16, @V2EX, [[iPad] 选官翻 iPad pro m1 12.9 还是全新 iPad pro m4 11](https://www.v2ex.com/t/1152919#reply6)
+2025-08-16, @V2EX, [[iPad] 选官翻 iPad pro m1 12.9 还是全新 iPad pro m4 11](https://www.v2ex.com/t/1152919#reply16)
 
 2025-08-16, @V2EX, [[酷工作] 招聘在线课堂全栈开发（react + 云部署）](https://www.v2ex.com/t/1152917#reply0)
 
 2025-08-16, @IT之家, [吉隆坡警方查获 700 余块“希捷”假冒硬盘：矿盘清零翻新后在电商平台低价售卖](https://www.ithome.com/0/875/906.htm)
 
-2025-08-16, @V2EX, [[音乐] 求一个 80， 90 后网吧神曲歌单](https://www.v2ex.com/t/1152916#reply2)
+2025-08-16, @V2EX, [[音乐] 求一个 80， 90 后网吧神曲歌单](https://www.v2ex.com/t/1152916#reply3)
 
-2025-08-16, @V2EX, [[程序员] 程序员应该怎么跟别人吵架？](https://www.v2ex.com/t/1152915#reply10)
+2025-08-16, @V2EX, [[程序员] 程序员应该怎么跟别人吵架？](https://www.v2ex.com/t/1152915#reply16)
 
 2025-08-16, @V2EX, [[OpenWrt] 求助： OpenWRT + AdGuard Home + OpenClash 配置 DNS 抗污染和去广告](https://www.v2ex.com/t/1152914#reply1)
 
@@ -98,15 +256,15 @@
 
 2025-08-16, @IT之家, [前英特尔工程师向微软泄露商业机密，被判两年缓刑并罚款 3.4 万美元](https://www.ithome.com/0/875/905.htm)
 
-2025-08-16, @V2EX, [[Linux] 如何制作 Linux live cd](https://www.v2ex.com/t/1152913#reply11)
+2025-08-16, @V2EX, [[Linux] 如何制作 Linux live cd](https://www.v2ex.com/t/1152913#reply15)
 
 2025-08-16, @V2EX, [[分享创造] [开源自荐] 轻量级的 HTML 组件模板引擎](https://www.v2ex.com/t/1152911#reply0)
 
-2025-08-16, @V2EX, [[硬件] 有木有人用过重力星球的鼠标，它这个脚贴是什么情况，怎么这么差🤣](https://www.v2ex.com/t/1152910#reply0)
+2025-08-16, @V2EX, [[硬件] 有木有人用过重力星球的鼠标，它这个脚贴是什么情况，怎么这么差🤣](https://www.v2ex.com/t/1152910#reply1)
 
 2025-08-16, @IT之家, [奇瑞汽车：iCAR 03 系列升级更名为风云 X3 系列，未来深耕方盒子赛道](https://www.ithome.com/0/875/904.htm)
 
-2025-08-16, @V2EX, [[问与答] “德州问题”](https://www.v2ex.com/t/1152909#reply6)
+2025-08-16, @V2EX, [[问与答] “德州问题”](https://www.v2ex.com/t/1152909#reply9)
 
 2025-08-16, @IT之家, [央视曝光机场拦截充电宝回流市场，在二手平台上大肆售卖](https://www.ithome.com/0/875/903.htm)
 
@@ -116,71 +274,37 @@
 
 2025-08-16, @V2EX, [[问与答] 为什么 vaultwarden 要在 data 中存储私钥？](https://www.v2ex.com/t/1152906#reply7)
 
-2025-08-16, @V2EX, [[OpenWrt] 求教大佬们 N1 的 openwrt 的 clash 有时刷不出部分小红书 app 的图片](https://www.v2ex.com/t/1152905#reply11)
+2025-08-16, @V2EX, [[OpenWrt] 求教大佬们 N1 的 openwrt 的 clash 有时刷不出部分小红书 app 的图片](https://www.v2ex.com/t/1152905#reply14)
 
 2025-08-16, @V2EX, [[VPS] 各位安卓账号多的，你们都用什么 vps？](https://www.v2ex.com/t/1152904#reply0)
 
 2025-08-16, @IT之家, [国产武侠游戏《影之刃零》将亮相 2025 科隆游戏展，面向海外玩家提供试玩版](https://www.ithome.com/0/875/902.htm)
 
-2025-08-16, @V2EX, [[程序员] 有没有懂航旅纵横的](https://www.v2ex.com/t/1152903#reply1)
-
-2025-08-16, @V2EX, [[全球工单系统] 咪咕体育的蛋疼 HDR...有没有在这上班的..](https://www.v2ex.com/t/1152902#reply1)
-
 2025-08-16, @IT之家, [余承东：华为几亿存量用户将陆续开放升级鸿蒙 5.0，微信共享位置很快上线](https://www.ithome.com/0/875/901.htm)
 
 2025-08-16, @IT之家, [华为余承东：未来全中国甚至全世界的终端都能跑鸿蒙，实现三分天下必有其一](https://www.ithome.com/0/875/900.htm)
-
-2025-08-16, @V2EX, [[Solana] solana 功能求解](https://www.v2ex.com/t/1152901#reply17)
 
 2025-08-16, @博客园, [一种FreeSWITCH流量镜像WebSocket音频推流方案 - Mike_Zhang](https://www.cnblogs.com/MikeZhang/p/19042729/fsTee2ws20250816)
 
 2025-08-16, @IT之家, [2025 第一堂 HarmonyOS 公开课举办：200 多名青年学子沉浸式体验鸿蒙之旅](https://www.ithome.com/0/875/898.htm)
 
-2025-08-16, @V2EX, [[问与答] 二本应届生个人开发者产品求助：识图翻译类 App 优化与疑问](https://www.v2ex.com/t/1152899#reply1)
-
 2025-08-16, @IT之家, [华为余承东：鸿蒙应用预计到 9 月底就能跟苹果 iOS 安卓功能完备度拉齐](https://www.ithome.com/0/875/897.htm)
-
-2025-08-16, @V2EX, [[汽车] 被追尾后，对方认为修车费用太高，不肯支付怎么办？](https://www.v2ex.com/t/1152898#reply14)
 
 2025-08-16, @IT之家, [华为余承东：鸿蒙 5.0 已度过生死线，其实我“遥遥领先”这种话讲得非常少](https://www.ithome.com/0/875/896.htm)
 
 2025-08-16, @IT之家, [华为余承东：鸿蒙系统每年投入超过 1 万多人，研发费用达到几百亿](https://www.ithome.com/0/875/895.htm)
 
-2025-08-16, @V2EX, [[分享发现] colemak vs norman 布局体验分享](https://www.v2ex.com/t/1152896#reply1)
-
 2025-08-16, @IT之家, [中国探月工程首任总指挥栾恩杰获评“感动中国 2024 年度人物”](https://www.ithome.com/0/875/894.htm)
-
-2025-08-16, @V2EX, [[酷工作] 上海招兼职 Flutter 工程师](https://www.v2ex.com/t/1152895#reply5)
 
 2025-08-16, @博客园, [Coze工作流实战：一键生成历史人物一镜到底爆款短视频 - 楠木大叔](https://www.cnblogs.com/lucky_hu/p/19042674)
 
 2025-08-16, @CGTV-World, [European leaders 'ready' to push for Zelenskyy-Trump-Putin meet](https://news.cgtn.com/news/2025-08-16/European-leaders-ready-to-push-for-Zelenskyy-Trump-Putin-meet-1FTf782D3RS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
 
-2025-08-16, @IT之家, [索尼 PS4 独占游戏《最后的守护者》被曝将改编为电影，项目仍处早期阶段](https://www.ithome.com/0/875/893.htm)
-
-2025-08-16, @IT之家, [华为余承东、上汽总裁贾健旭亲测鸿蒙智行尚界 H5，下月上市](https://www.ithome.com/0/875/892.htm)
-
 2025-08-16, @CGTV-World, [U.S. 50% tariff threatens handicrafts in Indian-administered Kashmir](https://news.cgtn.com/news/2025-08-16/U-S-50-tariff-threatens-handicrafts-in-Indian-administered-Kashmir-1FT6rwlbwRO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)
-
-2025-08-16, @V2EX, [[微信] 关于微信 PC 4 版本的备份](https://www.v2ex.com/t/1152894#reply0)
-
-2025-08-16, @V2EX, [[音乐] 寻找一个以前听过的音乐](https://www.v2ex.com/t/1152893#reply3)
 
 2025-08-16, @CGTV-China, [Echoes across Xizang](https://news.cgtn.com/news/2025-08-16/Echoes-across-Xizang--1FSsC41Yu2s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-08-16, @IT之家, [福特烈马 1966 复古 SUV 预售：经典撞色设计、可拆卸车顶，38.66 万元起](https://www.ithome.com/0/875/890.htm)
-
-2025-08-16, @IT之家, [英特尔酷睿 Ultra 7 254V 首个 PassMark 跑分出炉，预计将用于掌机或迷你 PC 等设备](https://www.ithome.com/0/875/889.htm)
-
-2025-08-16, @V2EX, [[职场话题] 老哥们，现在广州 3 年后端开发什么行情啊](https://www.v2ex.com/t/1152891#reply1)
-
-2025-08-16, @IT之家, [《F1：狂飙飞车》成为影史全球总票房最高的体育电影](https://www.ithome.com/0/875/888.htm)
-
 2025-08-16, @CGTV-China, [China deplores Japanese politicians paying respects to Yasukuni Shrine](https://news.cgtn.com/news/2025-08-16/China-deplores-Japanese-politicians-paying-respects-to-Yasukuni-Shrine-1FT9DaRGe7m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-08-16, @IT之家, [《鸣潮》2.6 版本 8 月 28 日上线：新增英伟达 DLSS 4 多帧生成功能](https://www.ithome.com/0/875/887.htm)
-
-2025-08-16, @V2EX, [[问与答] 请问 KE 改键中，如何禁用某个键？翻遍了官方手册没找到。我是外接的全尺寸键盘。](https://www.v2ex.com/t/1152890#reply1)
 
 2025-08-16, @CGTV-Nature, [SCO biodiversity cooperation and China's contribution](https://news.cgtn.com/news/2025-08-16/SCO-biodiversity-cooperation-and-China-s-contribution-1FT8asnICqc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
@@ -188,63 +312,19 @@
 
 2025-08-16, @CGTV-China, [SCO biodiversity cooperation and China's contribution](https://news.cgtn.com/news/2025-08-16/SCO-biodiversity-cooperation-and-China-s-contribution-1FT8asnICqc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-08-16, @V2EX, [[分享创造] DualPiP v1.1.0: 支持 Chrome 内置 AI 翻译，增强双语画中画体验](https://www.v2ex.com/t/1152889#reply0)
-
-2025-08-16, @IT之家, [数据“中毒”AI 还能靠谱吗？央视起底 AI 数据污染乱象](https://www.ithome.com/0/875/886.htm)
-
 2025-08-16, @CGTV-China, [Upholding Shanghai Spirit: SCO's 'friends circle' continues to expand](https://news.cgtn.com/news/2025-08-16/Upholding-Shanghai-Spirit-SCO-s-friends-circle-continues-to-expand-1FSRgi9tbos/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-08-16, @V2EX, [[随想] 你们可以找一个比较大的数，让大模型判断一下是不是质数](https://www.v2ex.com/t/1152888#reply13)
-
-2025-08-16, @CN@Flipboard, [Exclusive | Accused Minnesota maniac Vance Boelter rants to The Post about Tim Walz, calls governor ‘traitor to the American people’](https://nypost.com/2025/08/16/us-news/accused-minnesota-maniac-vance-boelter-rants-to-the-post-about-tim-walz-calls-governor-traitor-to-the-american-people/?utm_source=flipboard&utm_campaign=nypost&utm_medium=social)
-
-2025-08-16, @IT之家, [大眼橙 C3 系列投影 8 月 28 日发布，TCL 华星独供 LCD 屏](https://www.ithome.com/0/875/885.htm)
-
-2025-08-16, @IT之家, [奇瑞风云 X3 系列“方盒子”SUV 发布：纯电版 8.99 万起，增程版成都车展亮相](https://www.ithome.com/0/875/884.htm)
 
 2025-08-16, @CN@Flipboard, [This $2,000 Chinese pickup truck golf cart is lovably strange](https://electrek.co/2025/08/16/this-2000-chinese-pickup-truck-golf-cart-is-lovably-strange/?utm_source=flipboard&utm_content=topic%2Fchina)
 
-2025-08-16, @CN@Flipboard, [Body of Chinese climber killed during K2 summit descent retrieved by rescue team](https://www.newsday.com/news/nation/pakistan-rescuers-retrieve-body-chinese-climber-a79539?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-08-16, @V2EX, [[Solana] Ledger 的 Solana 目前无法 signMessage，绑定逻辑是否可以增加一种：交易 + Memo 来替代](https://www.v2ex.com/t/1152886#reply4)
-
 2025-08-16, @CN@Flipboard, [Trump Says Xi Jinping Made Promise on Taiwan Invasion](https://www.newsweek.com/trump-says-xi-jinping-made-promise-taiwan-invasion-2114437?utm_source=Flipboard&utm_medium=App&utm_campaign=Partnerships)
-
-2025-08-16, @CN@Flipboard, [Skip The Restaurant And Make Our Orange Chicken Recipe At Home](https://www.aol.com/skip-restaurant-orange-chicken-recipe-113200353.html?utm_source=flipboard&utm_content=AOLcom/magazine/Food)
-
-2025-08-16, @CN@Flipboard, [Trump vows to do 'everything' to 'save' Jimmy Lai ahead of trial verdict](https://www.catholicnewsagency.com/news/265999/trump-vows-to-do-everything-to-save-jimmy-lai-amid-trial-delays?utm_source=flipboard&utm_content=topic%2Fchina)
 
 2025-08-16, @CGTV-China, [From hidden gem to viral sensation: the allure of Xizang's Gurula Co](https://news.cgtn.com/news/2025-08-16/From-hidden-gem-to-viral-sensation-the-allure-of-Xizang-s-Gurula-Co-1FSUmrNqfTi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-08-16, @V2EX, [[Solana] 教程：如何让空投能砸中你呢？](https://www.v2ex.com/t/1152885#reply2)
-
-2025-08-16, @V2EX, [[前端开发] 现在如果手搓一个学校政务官网，支持低版本 IE 的话，现在推荐什么技术栈？](https://www.v2ex.com/t/1152884#reply5)
-
 2025-08-16, @CN@Flipboard, [Trump vs. the U.S. Economy](https://www.nytimes.com/2025/08/16/opinion/ezra-klein-podcast-natasha-sarin.html?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-08-16, @IT之家, [小米 YU7 第二次 OTA 推送更新：澎湃 OS 1.9.7 新增主副驾零重力座椅进入和退出时的语音播报](https://www.ithome.com/0/875/881.htm)
 
 2025-08-16, @CN@Flipboard, [Trump’s unprecedented, potentially unconstitutional deal with Nvidia and AMD, explained: Alexander Hamilton would approve](https://fortune.com/2025/08/16/is-trump-deal-amd-nvidia-china-chips-constitutional/?utm_source=flipboard&utm_content=other)
 
-2025-08-16, @IT之家, [国产电影新片头亮相：中央广播电视总台电影台标发布，背景音乐含《歌唱祖国》和传统编钟等元素](https://www.ithome.com/0/875/880.htm)
-
-2025-08-16, @V2EX, [[Claude] 有 cluade-pro，在国内如何使用 claude code](https://www.v2ex.com/t/1152878#reply4)
-
 2025-08-16, @36氪, [首届机器人运动会，是比谁摔得更有观众缘](https://36kr.com/p/3425361226239369?f=rss)
-
-2025-08-16, @IT之家, [明年 4 月起，日本将强制回收智能手机等锂电池设备](https://www.ithome.com/0/875/872.htm)
-
-2025-08-16, @V2EX, [[问与答] 一种门窗报警器， 24 小时未打开门即亮灯提醒。](https://www.v2ex.com/t/1152877#reply9)
-
-2025-08-16, @IT之家, [贾跃亭：法拉第未来“FF 双飞轮 & 双桥梁战略发布会”8 月 17 日举行，构建双向赋能系统改善现金流实现股东股民利益最大化](https://www.ithome.com/0/875/870.htm)
-
-2025-08-16, @V2EX, [[问与答] github repo 上的 Open with xxx 以前好像看到过 Idea,但是现在没了](https://www.v2ex.com/t/1152876#reply4)
-
-2025-08-16, @36氪, [日本将强制回收锂电池设备](https://36kr.com/newsflashes/3425351175032194?f=rss)
-
-2025-08-16, @IT之家, [0.95 米，星动纪元星动 L7 获首届世界人形机器人运动会跳高冠军](https://www.ithome.com/0/875/869.htm)
-
-2025-08-16, @IT之家, [酷比魔方 iWork GT Ultra 二合一 PC 平板本月发布：13 英寸 2K LCD、15000 毫安时电池](https://www.ithome.com/0/875/868.htm)
 
 2025-08-16, @CGTV-Nature, [How China's 'two mountains' concept shapes global green development](https://news.cgtn.com/news/2025-08-16/How-China-s-two-mountains-concept-shapes-global-green-development-1FSGt4l2H9C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Nature)
 
@@ -258,107 +338,33 @@
 
 2025-08-16, @CGTV-China, [China speeds up green transition with clean energy gains](https://news.cgtn.com/news/2025-08-16/China-speeds-up-green-transition-with-clean-energy-gains-1FSVCHJMzUQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-08-16, @IT之家, [上月小米空调线上销量首度超越格力排行全国第二：卢伟冰回应“将持续努力”、王化感叹“新时代来了”](https://www.ithome.com/0/875/867.htm)
-
-2025-08-16, @V2EX, [[分享发现] Nano-Banana.ai ： Google 好像新出了一个新的 AI 图片编辑模型 Nano-Banana（暂定），真的有点东西！](https://www.v2ex.com/t/1152875#reply0)
-
-2025-08-16, @IT之家, [打破波音数十年纪录，空客 A320 即将超越 737 成为史上最畅销商用客机](https://www.ithome.com/0/875/866.htm)
-
-2025-08-16, @IT之家, [小米汽车工厂 9 月参观报名开启：全月场次扩容至 82 场，可体验小米食堂](https://www.ithome.com/0/875/865.htm)
-
-2025-08-16, @V2EX, [[V2EX] 「是否允许搜索引擎索引我的主题」功能是否按计划工作？](https://www.v2ex.com/t/1152874#reply0)
-
-2025-08-16, @36氪, [上海与南通合资成立新公司](https://36kr.com/newsflashes/3425319528713604?f=rss)
-
 2025-08-16, @CN@Flipboard, [Bitcoin Mining Gets A Major Power Boost. Here’s What Comes Next](https://www.forbes.com/sites/beccabratcher/2025/08/16/bitcoin-mining-gets-a-major-power-boost-heres-what-comes-next/?utm_source=flipboard&utm_content=user/forbes)
 
 2025-08-16, @博客园, [【渲染流水线】[几何阶段]-[归一化NDC]以UnityURP为例 - SmalBox](https://www.cnblogs.com/SmalBox/p/19042368)
 
 2025-08-16, @CGTV-China, [Carving history: Shanghai exhibition of wartime woodcut art](https://news.cgtn.com/news/2025-08-16/Carving-history-Shanghai-exhibition-of-wartime-woodcut-art-1FSZJT3aZSU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-08-16, @IT之家, [荣耀 MagicOS 八月升级一览：支持 AI 自动接听、鸿蒙 NEXT 换机克隆等](https://www.ithome.com/0/875/864.htm)
-
 2025-08-16, @博客园, [Nginx反向代理Kafka集群 - 花酒锄作田](https://www.cnblogs.com/XY-Heruo/p/19042361)
-
-2025-08-16, @IT之家, [穿越 2500 年的赛博礼乐：人形机器人首次用编钟弹奏老祖宗的 BGM](https://www.ithome.com/0/875/863.htm)
-
-2025-08-16, @IT之家, [2K 500Hz QD-OLED：4999 元 AOC 26.5 英寸显示器“Q27G4KD”首销](https://www.ithome.com/0/875/861.htm)
-
-2025-08-16, @36氪, [小米空调7月线上销量超越格力，王化回应：没想到新时代这么快就来了](https://36kr.com/newsflashes/3425304983162504?f=rss)
 
 2025-08-16, @CGTV-China, [Digital economy opens new chapter in SCO cooperation](https://news.cgtn.com/news/2025-08-16/Digital-economy-opens-new-chapter-in-SCO-cooperation-1FSSLr76wk8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-08-16, @36氪, [海底捞同店同款麻辣烫，美团便宜售罄，闪购价高可买？官方暂无回应](https://36kr.com/newsflashes/3425301922385289?f=rss)
-
-2025-08-16, @IT之家, [水月雨太空漫游 2 Ultra TWS 蓝牙耳机首销：13mm 环形单面磁平板单元，199 元](https://www.ithome.com/0/875/860.htm)
-
-2025-08-16, @V2EX, [[职场话题] 劳烦各位大佬指点一下简历](https://www.v2ex.com/t/1152871#reply3)
-
-2025-08-16, @V2EX, [[iPhone] Gboard 的中文九宫格怎么在拼音面板输入问号？](https://www.v2ex.com/t/1152870#reply0)
-
 2025-08-16, @博客园, [【CRAIC】工业缺陷检测实训平台 模型训练指导手册 V1.4 - SCRC](https://www.cnblogs.com/SCRC/p/19042271)
-
-2025-08-16, @IT之家, [梦工场动画电影《坏蛋联盟 2》今日上映，首部豆瓣 7.4 分](https://www.ithome.com/0/875/859.htm)
-
-2025-08-16, @IT之家, [水月雨破晓 2 Hi-Fi 解码耳放首销：双 CS43198 芯片，299 元](https://www.ithome.com/0/875/858.htm)
 
 2025-08-16, @CN@Flipboard, [In China’s tough economy, secondhand luxury is very much in fashion](https://www.washingtonpost.com/world/2025/08/16/china-secondhand-luxury-boom/?utm_source=flipboard&utm_content=WashPost/magazine/World)
 
-2025-08-16, @IT之家, [史上最大 AI 基建：OpenAI 将豪掷数万亿美元，打造“AI 宇宙工厂”](https://www.ithome.com/0/875/857.htm)
-
-2025-08-16, @IT之家, [无伪装谍照曝光：特斯拉 Model Y L 门店展车已发运](https://www.ithome.com/0/875/856.htm)
-
-2025-08-16, @36氪, [纽伯格・伯曼焦点基金增持Fair Isaac，清仓台积电](https://36kr.com/newsflashes/3425275791609481?f=rss)
-
 2025-08-16, @CN@Flipboard, [China: 42 robots compete in 1,500m race at 2025 World Humanoid Robot Games](https://flipboard.com/video/stringershub/7d68e4fc2c)
-
-2025-08-16, @IT之家, [智己高管谈新一代 LS6：以纯电定义增程，考虑油车用户换车](https://www.ithome.com/0/875/854.htm)
-
-2025-08-16, @IT之家, [太空农场再升级：中国空间站启动新一轮植物栽培，后续还将开展更多研究与技术试验](https://www.ithome.com/0/875/853.htm)
 
 2025-08-16, @小众软件, [约时间助理 – 时间管理大师！为多人集体活动找到共同空闲时间[微信小程序]](https://www.appinn.com/yueshijian-assistant/)
 
-2025-08-16, @V2EX, [[Solana] 20250816 - Dev Coin 界面更新，加入 holders 数量展示及更多数据工具链接](https://www.v2ex.com/t/1152869#reply14)
-
-2025-08-16, @IT之家, [5299 元起希未推出 AideaBook R14 笔记本：980 克重量、锐龙 7 260 处理器](https://www.ithome.com/0/875/852.htm)
-
-2025-08-16, @IT之家, [宾利迄今最复杂涂装：Ombre 蓝色渐变涂装首秀欧陆 GT Speed，耗时 56 小时打磨](https://www.ithome.com/0/875/851.htm)
-
-2025-08-16, @V2EX, [[分享发现] 又管不住手上班盯盘炒股，于是写了个炒股插件](https://www.v2ex.com/t/1152868#reply2)
-
-2025-08-16, @36氪, [2025海南自贸港企业全球化大会举行](https://36kr.com/newsflashes/3425252442541442?f=rss)
-
-2025-08-16, @V2EX, [[广州] [广州] 便宜的停车场地库推荐](https://www.v2ex.com/t/1152866#reply1)
-
-2025-08-16, @V2EX, [[Solana] Quaily 现在支持用 $V2EX 代币做内容订阅支付](https://www.v2ex.com/t/1152865#reply15)
-
-2025-08-16, @36氪, [银轮股份：公司自制电子水泵应用于新能源汽车等领域](https://36kr.com/newsflashes/3425238862794119?f=rss)
-
-2025-08-16, @36氪, [美联储官员Daly称今年降息两次是较为合理的预测](https://36kr.com/newsflashes/3425236715326848?f=rss)
-
 2025-08-16, @CGTV-China, [Life on Plateau: An overview of Xizang](https://news.cgtn.com/news/2025-08-16/Life-on-Plateau-An-overview-of-Xizang--1FPZjgTTur6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-08-16, @36氪, [电影《南京照相馆》观影人次破7000万](https://36kr.com/newsflashes/3425189125049732?f=rss)
-
 2025-08-16, @CGTV-China, [Tibetan tales revived through children's picture books](https://news.cgtn.com/news/2025-08-16/Tibetan-tales-revived-through-children-s-picture-books-1FSSch0FAAw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-08-16, @36氪, [星动L7获得首届世界人形机器人运动会原地跳高项目第一名](https://36kr.com/newsflashes/3425170559487369?f=rss)
-
-2025-08-16, @36氪, [蔚来川西环线换电路线将于2025年9月正式贯通](https://36kr.com/newsflashes/3425159687704192?f=rss)
 
 2025-08-16, @博客园, [Ubunutu终端配置 - Miaops](https://www.cnblogs.com/timothy020/p/19042169)
 
 2025-08-16, @CGTV-China, [Directors' T-shirt coincidence!](https://news.cgtn.com/news/2025-08-16/Directors-T-shirt-coincidence--1FSQcMXjg3K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-08-16, @36氪, [北大提出首个复数大模型，2比特量化，推理仅加法，可手机部署](https://36kr.com/newsflashes/3425144919969153?f=rss)
-
-2025-08-16, @CN@Flipboard, [3 Chinese Zodiac Signs Attract Abundance All Week, Starting On August 18](https://www.yourtango.com/2025389072/chinese-zodiac-signs-abundance-august-18-24-2025?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-08-16, @少数派, [下个假日遥遥无期，和划水学教授水獭复习如何科学摸鱼](https://sspai.com/post/101860)
-
-2025-08-16, @36氪, [华为与上汽合作首款车型尚界H5将于9月上市](https://36kr.com/newsflashes/3425121478954630?f=rss)
-
-2025-08-16, @36氪, [上海临港首批无人驾驶智能网联出租车正式开放运营](https://36kr.com/newsflashes/3425106722704769?f=rss)
 
 2025-08-16, @CGTV-China, [Mu Us Desert transformed: Locals fight desertification](https://news.cgtn.com/news/2025-08-16/Mu-Us-Desert-transformed-Locals-fight-desertification-1FSMId6aOs0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
@@ -367,12 +373,6 @@
 2025-08-16, @博客园, [一步一步学习使用LiveBindings（15）TListView进阶使用（3），创建自定义的列表项打造天气预报程序 - lincats](https://www.cnblogs.com/lincats/p/19042098)
 
 2025-08-16, @CGTV-China, [“Xizang Dance Time” challenge accepted! Potala Palace style!](https://news.cgtn.com/news/2025-08-16/-Xizang-Dance-Time-challenge-accepted-Potala-Palace-style--1FSAnY5ndOo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
-
-2025-08-16, @36氪, [前7个月云南对湄公河五国进出口值超659亿元](https://36kr.com/newsflashes/3425081948393095?f=rss)
-
-2025-08-16, @CN@Flipboard, [Bangkok nightclub raided, 328 detained in Huai Khwang operation](https://thethaiger.com/news/bangkok/bangkok-nightclub-raided-328-arrested-in-huai-khwang-operation?utm_source=flipboard&utm_content=topic%2Fchina)
-
-2025-08-16, @36氪, [人形机器人运动会场景赛首枚金牌诞生，来自北京](https://36kr.com/newsflashes/3425109624704647?f=rss)
 
 2025-08-16, @36氪, [估值超亿元的割草机器人公司众筹交付遇困，中小玩家动荡潮刚开始](https://36kr.com/p/3424932486631047?f=rss)
 
@@ -456,8 +456,6 @@
 
 2025-08-15, @CGTV-China, [FMs' meeting calls for upgraded Lancang-Mekong cooperation](https://news.cgtn.com/news/2025-08-15/FMs-meeting-calls-for-upgraded-Lancang-Mekong-cooperation-1FRCYVCvGKI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)
 
-2025-08-15, @CN@Flipboard, [China appears to be building 'leverage' to use against foreign entities](https://www.foxbusiness.com/economy/china-appears-building-leverage-use-against-foreign-entities?utm_source=flipboard&utm_content=topic%2Fchina)
-
 2025-08-15, @博客园, [JWT 这点小秘密，你们肯定知道！ - 码甲哥不卷](https://www.cnblogs.com/JulianHuang/p/19040265)
 
 2025-08-15, @36氪, [36氪晚报｜快手高级副总裁盖坤兼任可灵AI技术部负责人；360官宣“All in Agent”战略；清华团队在量子计算领域取得重要突破](https://36kr.com/p/3423997230779782?f=rss)
@@ -483,8 +481,6 @@
 2025-08-15, @36氪, [鼎捷数智叶子祯论道AI：“1-2-3”架构指引AI冲破思维限制成为数智分身](https://36kr.com/p/3423781582737028?f=rss)
 
 2025-08-15, @博客园, [Prometheus 监控 Kubernetes Cluster 最新极简教程 - IT运维监控](https://www.cnblogs.com/ulricqin/p/19039753)
-
-2025-08-15, @博客园, [扣子Coze实战：零基础搭建数据分析智能体，1分钟完成复盘，流量翻10倍 - AI架构师汤师爷](https://www.cnblogs.com/tangshiye/p/19039750)
 
 2025-08-15, @少数派, [游戏杂谈：聊聊游戏地图的美学张力](https://sspai.com/post/101806)
 
@@ -1022,8 +1018,6 @@
 
 2025-03-31, @蠎周刊, [上周蠎快讯 2025/13](https://weekly.pychina.org/pyrecap/pyrw-2513.html)
 
-2025-03-29, @HiFeng'Blog, [将 HiDNS 免费域名托管到 gcore.com](https://www.hicairo.com/post/82.html)
-
 2025-03-28, @HelloGitHub 月刊, [HelloGitHub 第 108 期](https://hellogithub.com/periodical/volume/108)
 
 2025-03-25, @liuzhen932 的小窝, [在 Debian 12 上安装 Pocket ID 配置单点登录 SSO 教程](https://blog.liuzhen932.top/posts/hello-portal/)
@@ -1051,10 +1045,6 @@
 2025-02-28, @HelloGitHub 月刊, [HelloGitHub 第 107 期](https://hellogithub.com/periodical/volume/107)
 
 2025-02-23, @蠎周刊, [上周蠎快讯 2025/08](https://weekly.pychina.org/pyrecap/pyrw-2508.html)
-
-2025-02-21, @HiFeng'Blog, [在 Ubuntu 22.04 上配置 MySQL 数据库同步（主从复制）](https://www.hicairo.com/post/81.html)
-
-2025-02-20, @HiFeng'Blog, [Ubuntu 操作系统中使用 UFW 配置防火墙](https://www.hicairo.com/post/80.html)
 
 2025-02-17, @蠎周刊, [上周蠎快讯 2025/07](https://weekly.pychina.org/pyrecap/pyrw-2507.html)
 
@@ -1138,8 +1128,6 @@
 
 2024-11-25, @蠎周刊, [上周蠎快讯 2024/47](https://weekly.pychina.org/pyrecap/pyrw-2447.html)
 
-2024-11-22, @HiFeng'Blog, [Debian 12 / Ubuntu 24.04 安装 Docker 以及 Docker Compose 教程](https://www.hicairo.com/post/79.html)
-
 2024-11-18, @蠎周刊, [上周蠎快讯 2024/46](https://weekly.pychina.org/pyrecap/pyrw-2446.html)
 
 2024-11-18, @liuzhen932 的小窝, [从实践中学习：我的云服务器管理策略](https://blog.liuzhen932.top/posts/how2manage-vps/)
@@ -1197,8 +1185,6 @@
 2024-09-07, @liuzhen932 的小窝, [溯源：推荐几个图像溯源平台](https://blog.liuzhen932.top/posts/img-search/)
 
 2024-09-05, @朽丘博, [醍醐灌顶](https://koxiuqiu.cn/2024/9y5d1/)
-
-2024-09-02, @HiFeng'Blog, [IPv4 & IPv6 双栈家庭局域网内将客户端网关指向旁路由的探究](https://www.hicairo.com/post/78.html)
 
 2024-09-02, @蠎周刊, [上周蠎快讯 2024/35](https://weekly.pychina.org/pyrecap/pyrw-2435.html)
 
