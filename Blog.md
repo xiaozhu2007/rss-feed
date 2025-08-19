@@ -244,7 +244,7 @@
 
 2024-06-29, @朽丘博, [MC服务器开服全解-特保姆](https://koxiuqiu.cn/2024/06/29/1719625179507/)
 
-2024-06-13, @liuzhen932 的小窝, [Zgovps 便宜的美国 VPS 年付 $9.9 起](https://blog.liuzhen932.top/posts/zgovps-9.9/)
+2024-06-13, @liuzhen932 的小窝, [Zgovps 便宜的美国 VPS 年付 $9.9 起](https://blog.liuzhen932.top/posts/zgovps-9.9)
 
 2024-06-13, @liuzhen932 的小窝, [用 Koishi 搭建属于你的机器人平台吧~](https://blog.liuzhen932.top/posts/koishi/)
 
@@ -328,7 +328,7 @@
 
 2021-04-22, @liuzhen932 的小窝, [什么是 Mg +ZnSO4==MgSO4+Zn？](https://blog.liuzhen932.top/posts/legacy-13137069/)
 
-2021-01-31, @liuzhen932 的小窝, [如何获取IE？](https://blog.liuzhen932.top/posts/get-ie/)
+2021-01-31, @liuzhen932 的小窝, [如何获取 IE？](https://blog.liuzhen932.top/posts/get-ie/)
 
 # 2020
 
