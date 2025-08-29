@@ -1,5 +1,7 @@
 # 2025
 
+2025-08-29, @阮一峰的网络日志, [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)
+
 2025-08-28, @Zeruns 's Blog, [莱卡云 上海BGP云服务器评测，4核4G 10兆 仅需62.4元/月](https://blog.zeruns.com/archives/894.html)
 
 2025-08-28, @张洪Heo, [免费无限流量的CDN又来了！腾讯云EdgeOne良心到又哭了（抽兑换码）](https://blog.zhheo.com/p/o4nhg19d.html)
@@ -91,8 +93,6 @@
 2025-05-23, @朽丘博, [暂时停更通知](https://koxiuqiu.cn/14p2505241/)
 
 2025-05-23, @张洪Heo, [Mac如何将喜欢的视频作为屏幕保护程序？自定义Mac视频屏保，最新系统教程](https://blog.zhheo.com/p/pkrapvvx.html)
-
-2025-05-23, @张洪Heo, [iPhone如何查看自己电话卡的上网优先级QCI？SIM卡的QCI查看教程](https://blog.zhheo.com/p/gti1x15f.html)
 
 2025-05-17, @liuzhen932 的小窝, [为博客集成 Twtxt：快速接入去中心化社交，兼容 Yarn 社交平台](https://blog.liuzhen932.top/posts/hello-twtxt/)
 
