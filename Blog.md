@@ -6,8 +6,6 @@
 
 2025-09-02, @Zeruns 's Blog, [机械革命Code10AI笔电（Ultra7-255H） 简单开箱评测和拆解](https://blog.zeruns.com/archives/895.html)
 
-2025-09-01, @liuzhen932 的小窝, [六周年，致我们共同走过的时光](https://blog.liuzhen932.top/posts/six-years-with-this-blog/)
-
 2025-09-01, @张洪Heo, [Nano Banana上手：全能的AI图片生成与AI图片修改模型](https://blog.zhheo.com/p/yzge5thp.html)
 
 2025-08-29, @张洪Heo, [给Openwrt软路由更换网络拥塞控制算法为BBR降低延迟水平并减少丢包](https://blog.zhheo.com/p/ihokom38.html)
