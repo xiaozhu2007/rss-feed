@@ -1,5 +1,7 @@
 # 2025
 
+2025-09-03, @Zeruns 's Blog, [金邦（GEIL）DDR5 5600MHz 32GB 笔记本内存条简单开箱评测](https://blog.zeruns.com/archives/896.html)
+
 2025-09-03, @张洪Heo, [Sketch教程：液态玻璃、玻璃效果与渐变模糊、不透明度渐变](https://blog.zhheo.com/p/1nc4t8qs.html)
 
 2025-09-03, @张洪Heo, [洪绘电子章发布！在线给你的PDF快速盖上电子章、骑缝章，你的盖章助手](https://blog.zhheo.com/p/j0xcp072.html)
@@ -57,8 +59,6 @@
 2025-07-26, @朽丘博, [25年7月小结以及停更通知(此CN域名不更新,切换CC域名谢谢)](https://koxiuqiu.cn/19p250727/)
 
 2025-07-26, @liuzhen932 的小窝, [GPG 完全指南：从入门到实践](https://blog.liuzhen932.top/posts/gpg-complete-guide/)
-
-2025-07-25, @阮一峰的网络日志, [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-358.html)
 
 2025-07-22, @Zeruns 's Blog, [跨境电商独立站搭建教程，WordPress外贸建站指南，网站搭建教程](https://blog.zeruns.com/archives/889.html)
 
