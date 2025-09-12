@@ -1,5 +1,7 @@
 # 2025
 
+2025-09-12, @阮一峰的网络日志, [科技爱好者周刊（第 365 期）：流量变现正在崩塌](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html)
+
 2025-09-10, @Zeruns 's Blog, [磁性元件/磁芯材料/磁芯结构 分析对比和选型指南](https://blog.zeruns.com/archives/897.html)
 
 2025-09-05, @阮一峰的网络日志, [科技爱好者周刊（第 364 期）：最难还原的魔方](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html)
@@ -83,8 +85,6 @@
 2025-06-19, @张洪Heo, [easytier上手：去中心化的组网工具，异地组网软件](https://blog.zhheo.com/p/5h3t3qo7.html)
 
 2025-06-13, @张洪Heo, [远程挂载Macbook中电脑的文件，使用Alist配合SFTP在家访问公司电脑文件](https://blog.zhheo.com/p/1mo3yfwz.html)
-
-2025-06-11, @张洪Heo, [面对Alist商业化：如何从Alist解绑阿里云盘？如何避免阿里云盘的数据被第三方应用读取](https://blog.zhheo.com/p/w1hvnzfq.html)
 
 2025-05-28, @liuzhen932 的小窝, [五月小结：聊聊我的 Homelab 和基础设施](https://blog.liuzhen932.top/posts/monthly-summary-202505/)
 
