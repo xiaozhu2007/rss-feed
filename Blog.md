@@ -1,5 +1,7 @@
 # 2025
 
+2025-09-15, @张洪Heo, [让你的Mac巨省电，使用EfficiencyTool自定义程序在性能核心还是节能核心上运行](https://blog.zhheo.com/p/25udchxs.html)
+
 2025-09-14, @liuzhen932 的小窝, [2025 年了，还应该自建 DNS 吗？](https://blog.liuzhen932.top/posts/should-selfhost-dns/)
 
 2025-09-14, @Zeruns 's Blog, [雨云 日本一区VPS，三网直连，1核1G 20兆 仅需18元/月](https://blog.zeruns.com/archives/899.html)
@@ -85,8 +87,6 @@
 2025-07-07, @张洪Heo, [腾讯云EdgeOne免费无限量CDN流量，良心到哭了（抽兑换码）](https://blog.zhheo.com/p/5e50rt80.html)
 
 2025-06-26, @张洪Heo, [Taiwindcss项目如何混淆类名，React项目压缩类名教程](https://blog.zhheo.com/p/80d8tz4l.html)
-
-2025-06-19, @张洪Heo, [easytier上手：去中心化的组网工具，异地组网软件](https://blog.zhheo.com/p/5h3t3qo7.html)
 
 2025-05-28, @liuzhen932 的小窝, [五月小结：聊聊我的 Homelab 和基础设施](https://blog.liuzhen932.top/posts/monthly-summary-202505/)
 
