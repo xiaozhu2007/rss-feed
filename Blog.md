@@ -1,5 +1,7 @@
 # 2025
 
+2025-09-16, @张洪Heo, [蓝屏报错 clock watchdog timeout 的一次经历，开机1分30秒必定死机](https://blog.zhheo.com/p/7zoumq5l.html)
+
 2025-09-15, @张洪Heo, [让你的Mac巨省电，使用EfficiencyTool自定义程序在性能核心还是节能核心上运行](https://blog.zhheo.com/p/25udchxs.html)
 
 2025-09-14, @liuzhen932 的小窝, [2025 年了，还应该自建 DNS 吗？](https://blog.liuzhen932.top/posts/should-selfhost-dns/)
@@ -85,8 +87,6 @@
 2025-07-08, @张洪Heo, [腾讯云EdgeOne免费版配置攻略，如何给我的网站免费CDN加速](https://blog.zhheo.com/p/8i0ny2ar.html)
 
 2025-07-07, @张洪Heo, [腾讯云EdgeOne免费无限量CDN流量，良心到哭了（抽兑换码）](https://blog.zhheo.com/p/5e50rt80.html)
-
-2025-06-26, @张洪Heo, [Taiwindcss项目如何混淆类名，React项目压缩类名教程](https://blog.zhheo.com/p/80d8tz4l.html)
 
 2025-05-28, @liuzhen932 的小窝, [五月小结：聊聊我的 Homelab 和基础设施](https://blog.liuzhen932.top/posts/monthly-summary-202505/)
 
