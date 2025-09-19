@@ -112,6 +112,8 @@
 
 2025-03-31, @liuzhen932 的小窝, [二〇二五第一季度小结](https://blog.liuzhen932.top/posts/quarterly-202501/)
 
+2025-03-29, @HiFeng'Blog, [将 HiDNS 免费域名托管到 gcore.com](https://www.hicairo.com/post/82.html)
+
 2025-03-25, @liuzhen932 的小窝, [在 Debian 12 上安装 Pocket ID 配置单点登录 SSO 教程](https://blog.liuzhen932.top/posts/hello-portal/)
 
 2025-03-19, @liuzhen932 的小窝, [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/)
@@ -121,6 +123,10 @@
 2025-03-18, @liuzhen932 的小窝, [域名：换域名吗？为什么不？](https://blog.liuzhen932.top/posts/why-not-change-domain/)
 
 2025-03-08, @liuzhen932 的小窝, [【技术】如何获得一个长长的域名](https://blog.liuzhen932.top/posts/looong-domain/)
+
+2025-02-21, @HiFeng'Blog, [在 Ubuntu 22.04 上配置 MySQL 数据库同步（主从复制）](https://www.hicairo.com/post/81.html)
+
+2025-02-20, @HiFeng'Blog, [Ubuntu 操作系统中使用 UFW 配置防火墙](https://www.hicairo.com/post/80.html)
 
 2025-02-14, @liuzhen932 的小窝, [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/)
 
@@ -148,6 +154,8 @@
 
 2024-11-25, @liuzhen932 的小窝, [[译] 在 JavaScriptCore 中对变量、对象和函数进行格式化打印](https://blog.liuzhen932.top/posts/pretty-printing-javascriptcore/)
 
+2024-11-22, @HiFeng'Blog, [Debian 12 / Ubuntu 24.04 安装 Docker 以及 Docker Compose 教程](https://www.hicairo.com/post/79.html)
+
 2024-11-18, @liuzhen932 的小窝, [从实践中学习：我的云服务器管理策略](https://blog.liuzhen932.top/posts/how2manage-vps/)
 
 2024-11-14, @liuzhen932 的小窝, [写一个 JavaScript 脚本实现网页简繁体转换](https://blog.liuzhen932.top/posts/s2t-js/)
@@ -170,6 +178,8 @@
 
 2024-09-07, @liuzhen932 的小窝, [溯源：推荐几个图像溯源平台](https://blog.liuzhen932.top/posts/img-search/)
 
+2024-09-02, @HiFeng'Blog, [IPv4 & IPv6 双栈家庭局域网内将客户端网关指向旁路由的探究](https://www.hicairo.com/post/78.html)
+
 2024-08-21, @liuzhen932 的小窝, [雨云宿迁游戏云 9950X-VPS 快速测评](https://blog.liuzhen932.top/posts/rainyun-9950x/)
 
 2024-08-15, @liuzhen932 的小窝, [记一次服务器 oversized chunk 的应急响应和事故分析](https://blog.liuzhen932.top/posts/oversized-chunk/)
@@ -179,6 +189,10 @@
 2024-08-14, @liuzhen932 的小窝, [加速你的 Vercel 网站：Vercel IP 优选](https://blog.liuzhen932.top/posts/vercel-speedup/)
 
 2024-08-13, @liuzhen932 的小窝, [查看 Git 历史，但是动画](https://blog.liuzhen932.top/posts/githistory/)
+
+2024-07-27, @HiFeng'Blog, [在 Armbian 操作系统上使用 dae(大鹅) 搭建透明代理](https://www.hicairo.com/post/77.html)
+
+2024-07-16, @HiFeng'Blog, [玩客云盒子（OneCloud）刷 Armbian 系统](https://www.hicairo.com/post/76.html)
 
 2024-07-06, @liuzhen932 的小窝, [8 个可用于 JavaScript 的小技巧](https://blog.liuzhen932.top/posts/js-tips-2024/)
 
@@ -202,11 +216,17 @@
 
 2024-05-11, @liuzhen932 的小窝, [Hey！我的 API 上线了~](https://blog.liuzhen932.top/posts/common-api/)
 
+2024-05-03, @HiFeng'Blog, [斐讯 N1 盒子刷 Armbian 系统](https://www.hicairo.com/post/75.html)
+
 2024-05-02, @liuzhen932 的小窝, [【杂谈】我有特别的 shebang 使用方法](https://blog.liuzhen932.top/posts/shebang/)
 
 2024-04-30, @liuzhen932 的小窝, [为什么定位会出现“甘肃省兰州市榆中县小康营乡潘家庄”？](https://blog.liuzhen932.top/posts/wtf-locate/)
 
 2024-04-28, @liuzhen932 的小窝, [关于 CloudFlare Workers 的奇技淫巧（修改版）](https://blog.liuzhen932.top/posts/cfw-advanced/)
+
+2024-04-26, @HiFeng'Blog, [Juicity 协议手动安装教程](https://www.hicairo.com/post/74.html)
+
+2024-04-06, @HiFeng'Blog, [使用 CloudFlare 源服务器证书时提示 issuer certificate not found 问题](https://www.hicairo.com/post/73.html)
 
 2024-02-28, @liuzhen932 的小窝, [Minecraft 服务器联机教程](https://blog.liuzhen932.top/posts/mcs-2/)
 
