@@ -1,5 +1,7 @@
 # 2025
 
+2025-09-19, @阮一峰的网络日志, [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)
+
 2025-09-18, @张洪Heo, [AE、PR导出的视频发灰发亮怎么办？使用QucikTime播放颜色不对解决方法](https://blog.zhheo.com/p/x9z1ci7b.html)
 
 2025-09-17, @张洪Heo, [AE如何给曲线添加波浪动态效果，动态的波浪线制作](https://blog.zhheo.com/p/419mi3zm.html)
@@ -85,8 +87,6 @@
 2025-07-11, @liuzhen932 的小窝, [在 Debian 12 上使用 Docker 安装 Icecast 配置流媒体服务器](https://blog.liuzhen932.top/posts/use-docker-deploy-icecast/)
 
 2025-07-08, @liuzhen932 的小窝, [DE-CIX 误将 MANRS 邮件当支持工单，引发邮件列表大混乱](https://blog.liuzhen932.top/posts/de-cix-manrs-email-mixup/)
-
-2025-07-08, @张洪Heo, [腾讯云EdgeOne免费版配置攻略，如何给我的网站免费CDN加速](https://blog.zhheo.com/p/8i0ny2ar.html)
 
 2025-05-28, @liuzhen932 的小窝, [五月小结：聊聊我的 Homelab 和基础设施](https://blog.liuzhen932.top/posts/monthly-summary-202505/)
 
