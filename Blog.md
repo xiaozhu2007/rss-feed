@@ -1,5 +1,7 @@
 # 2025
 
+2025-09-19, @张洪Heo, [在 Mac 的 Drawthings 中使用 Qwen Image Edit 打造个人IP形象衍生图](https://blog.zhheo.com/p/0zfcxubz.html)
+
 2025-09-19, @阮一峰的网络日志, [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)
 
 2025-09-18, @张洪Heo, [AE、PR导出的视频发灰发亮怎么办？使用QucikTime播放颜色不对解决方法](https://blog.zhheo.com/p/x9z1ci7b.html)
@@ -75,8 +77,6 @@
 2025-07-28, @张洪Heo, [iOS26的设计规范模板下载：更大的按钮和圆角，全新设计的组件](https://blog.zhheo.com/p/y8h40kvi.html)
 
 2025-07-26, @liuzhen932 的小窝, [GPG 完全指南：从入门到实践](https://blog.liuzhen932.top/posts/gpg-complete-guide/)
-
-2025-07-22, @Zeruns 's Blog, [跨境电商独立站搭建教程，WordPress外贸建站指南，网站搭建教程](https://blog.zeruns.com/archives/889.html)
 
 2025-07-18, @张洪Heo, [如何自搭建STUN服务器？使用Docker快速搭建STUN服务器方法](https://blog.zhheo.com/p/v4jy226i.html)
 
